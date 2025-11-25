@@ -11,32 +11,6 @@ body {
     //   color: black;
     //  }
 
-    .content {
-    max-width: 900px;
-    margin: auto;
-    font-size: 18px;
-    line-height: 1.5;
-    margin-top: 90px;
-    position: relative;}
-
-
-.sidebar-container {
-    padding-right: 20px;
-    width: 80%;
-    overflow-y: auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    height: 87%;}
-    
-.sidebar {
-    position: fixed;
-    top: 30px;
-    right: 17px;
-    height: 100%;
-    min-width: 25px;
-    display: flex;
-    z-index: 3;
-    max-width: 350px;}
+   
 
 }
