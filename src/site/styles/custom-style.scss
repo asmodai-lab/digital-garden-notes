@@ -17,7 +17,7 @@ body {
     font-size: 18px;
     line-height: 1.5;
     margin-top: 90px;
-    position: relative;
+    position: relative;}
 
 
 .sidebar-container {
@@ -27,7 +27,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    height: 87%;
+    height: 87%;}
     
 .sidebar {
     position: fixed;
@@ -37,6 +37,6 @@ body {
     min-width: 25px;
     display: flex;
     z-index: 3;
-    max-width: 350px;
+    max-width: 350px;}
 
 }
