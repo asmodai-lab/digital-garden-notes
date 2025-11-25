@@ -20,6 +20,14 @@ body {
     position: relative;
 
 
+.sidebar-container {
+    padding-right: 20px;
+    width: 80%;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 87%;
     
 .sidebar {
     position: fixed;
