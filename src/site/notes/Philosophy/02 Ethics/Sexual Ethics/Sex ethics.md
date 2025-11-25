@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"permalink":"/philosophy/02-ethics/sexual-ethics/sex-ethics/","tags":["homepage"]}
+---
+
+## Spec on sexual ethics
+
+• whether or not religious beliefs and practices concerning sex and relationships have a
+continuing role in the area of sexual ethics
+• whether choices in the area of sexual behaviour should be entirely private and
+personal, or whether they should be subject to societal norms and legislation
+• whether normative theories are useful in what they might say about sexual ethic
+
+[[Philosophy/02 Ethics/Sexual Ethics/Sex ethics contextual texts\|Which philosophers do you look at for this?]]
+1. [[Philosophy/02 Ethics/Sexual Ethics/Sex ethics contextual texts#Augustine concupiscence and the shadow of lust\|Augustine]]
+2. [[Philosophy/02 Ethics/Sexual Ethics/Sex ethics contextual texts#Kant sex, objectification, and the moral law\|Kant]]
+3. [[Philosophy/02 Ethics/Sexual Ethics/Sex ethics contextual texts#Song of songs\|The song of Solomon]]
+
+
+## Other materials
+
+[The right to sex](https://www.d-zona.cz/sites/default/files/Amia-Srinivasan-The-Right-to-Sex_-Feminism-in-the-Twenty-First-Century-2021-Bloomsbury-Publishing-libgen.li_.pdf) by Amia Srinivasan
+- A [PDF](https://andrewmbailey.com/money/readings/srinivasan.pdf) of the first ten pages

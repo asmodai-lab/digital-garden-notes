@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/politics/the-news/","tags":["resources"]}
+---
+
+
+| Date       | Story                                                                                                                                                                                       | Subject       | Usage                                | News article                                                                                                               |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| 2025-11-19 | Shabana Mahmood announces new immigration plans which are significantly harsher. Immigrants will need to stay in the UK for 20 years before being allowed to apply for permanent residency. | UK Politics   | Government trying to win back votes? | [Key points of the plan - BBC](https://www.bbc.co.uk/news/articles/c3eplk4047do)                                           |
+| 2025-11-20 | Ministry of Justice announces that criminal's ability to a jury trial will be limited in order to get through the backlog.                                                                  | UK government | Courts                               | [News article](https://www.theguardian.com/law/2025/nov/20/why-government-curtail-jury-trials-england-wales-brian-leveson) |
+|            | Trump negotiated a secret peace deal on behalf of Ukraine, but it's really shit for Ukraine                                                                                                 | War           | Foreign policy                       | [Secret plan](https://www.axios.com/2025/11/19/ukraine-peace-plan-trump-russia-witkoff)                                    |
