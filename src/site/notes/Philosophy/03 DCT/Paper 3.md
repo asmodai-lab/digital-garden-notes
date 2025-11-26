@@ -7,3 +7,5 @@
 [[Philosophy/03 DCT/02 Liberation theology/Liberation theology\|Liberation theology]]
 
 [[Philosophy/03 DCT/03 Augustine/Augustine and human nature\|Augustine and human nature]]
+
+[[Philosophy/03 DCT/Christian Moral Principles/Christian Moral Principles\|Christian Moral Principles]]
