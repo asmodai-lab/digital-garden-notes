@@ -1,0 +1,1016 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Song of solomon.excalidraw</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/autoloader/prism-autoloader.min.js" integrity="sha512-sv0slik/5O0JIPdLBCR2A3XDg/1U3WuDEheZfI/DI5n8Yqc3h5kjrnr46FGBNiUAJF7rE4LHKwQ/SoSLRKAxEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script async src="https://cdn.jsdelivr.net/npm/lucide@0.115.0/dist/umd/lucide.min.js"></script>
+<script>window.addEventListener("load",(()=>{document.querySelectorAll(".callout").forEach((e=>{const t=getComputedStyle(e).getPropertyValue("--callout-icon"),l=t&&t.trim().replace(/^lucide-/,"");if(l){const t=e.querySelector(".callout-title");if(t){const e=document.createElement("div"),c=document.createElement("i");e.appendChild(c),c.setAttribute("icon-name",l),e.setAttribute("class","callout-icon"),t.insertBefore(e,t.firstChild)}}})),lucide.createIcons(),Array.from(document.querySelectorAll(".callout.is-collapsible")).forEach((e=>{e.querySelector(".callout-title").addEventListener("click",(t=>{e.classList.contains("is-collapsed")?e.classList.remove("is-collapsed"):e.classList.add("is-collapsed")}))}))}))</script>
+<script async src="https://fastly.jsdelivr.net/npm/force-graph@1.43.0/dist/force-graph.min.js"></script>
+<script async src="https://fastly.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js"></script>
+<script src="https://fastly.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js" async></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-okaidia.min.css" integrity="sha512-mIs9kKbaw6JZFfSuo+MovjU+Ntggfoj8RwAmJbVXQ5mkAX5LlgETQEweFPI18humSPHymTb5iikEOKWF7I8ncQ==" crossorigin="anonymous" referrerpolicy="no-referrer" async>
+<script src="https://fastly.jsdelivr.net/npm/whatwg-fetch@3.6.2/dist/fetch.umd.min.js" crossorigin="anonymous" referrerpolicy="no-referrer" async></script>
+<link href="/styles/digital-garden-base.css" rel="stylesheet">
+<link href="/styles/obsidian-base.css" rel="stylesheet">
+<link href="&#92;styles&#92;_theme.b7d1ddf0.css" rel="stylesheet">
+<link href="/styles/custom-style.css" rel="stylesheet">
+<style>body.css-settings-manager{--embed-padding:10;--embed-border-radius:5}</style>
+<style></style>
+</head>
+<body class="theme-dark markdown-preview-view markdown-rendered markdown-preview-section css-settings-manager theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app styled-scrollbars show-inline-title show-ribbon show-view-header is-maximized css-settings-manager callout-style-customize is-focused">
+<div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;" x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;" x-data="{isDesktop: true, showFilesMobile: false}">
+<div x-show.important="!isDesktop" style="display:none">
+<nav class="navbar">
+<div class="navbar-inner">
+<span style="font-size:1.5rem;margin-right:10px" @click="showFilesMobile=!showFilesMobile"><i icon-name="menu"></i></span>
+<a href="/" style="text-decoration:none">
+<h1 style="margin:15px!important">Digital Garden</h1>
+</a>
+</div>
+<div class="search-button align-icon" onclick="toggleSearch()">
+<span class="search-icon">
+<i icon-name="search"></i>
+</span>
+<span class="search-text">
+<span>Search</span>
+<span style="font-size:.6rem;padding:2px 2px 0 6px;text-align:center;transform:translateY(4px)" class="search-keys">
+CTRL + K
+</span>
+</span>
+</div>
+</nav>
+</div>
+<div x-show="showFilesMobile && !isDesktop" @click="showFilesMobile = false" style="display:none" class="fullpage-overlay"></div>
+<nav class="filetree-sidebar" x-show.important="isDesktop || showFilesMobile" style="display:none">
+<a href="/" style="text-decoration:none">
+<h1 style="text-align:center">Digital Garden</h1>
+</a>
+<div style="display:flex;justify-content:center">
+<div class="search-button align-icon" onclick="toggleSearch()">
+<span class="search-icon">
+<i icon-name="search"></i>
+</span>
+<span class="search-text">
+<span>Search</span>
+<span style="font-size:.6rem;padding:2px 2px 0 6px;text-align:center;transform:translateY(4px)" class="search-keys">
+CTRL + K
+</span>
+</span>
+</div>
+</div>
+<div class="folder" x-data="{isOpen: true}">
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Bear hunt&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Bear hunt</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/bear-hunt/basic-obsidian-tutorial/">Basic obsidian tutorial </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Essay plans&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Essay plans</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Essay plans/Philosophy Essay Plans&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Philosophy Essay Plans</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/philosophy-essay-plans/god-as-timeless/">God as timeless </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/philosophy-essay-plans/is-nml-helpful-at-decision-making/">Is NML helpful at decision making </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/philosophy-essay-plans/kingdom-of-god-essay-plan/">Kingdom of God essay plan </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/philosophy-essay-plans/liberation-and-marx-speech/">Liberation and Marx- speech </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Essay plans/Politics Essay Plans&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Politics Essay Plans</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Essay plans/Politics Essay Plans/Older essay plans&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Older essay plans</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/older-essay-plans/differences-between-uk-and-us-cabinet/">Differences between UK and US Cabinet </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/older-essay-plans/living-constitution-v-originalism/">Living constitution v originalism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/older-essay-plans/should-16-year-olds-have-voting-rights-debate/">Should 16 year-olds have voting rights- debate </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/checks-and-balances-on-the-sc/">Checks and balances on the SC </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/compulsory-voting-debate/">Compulsory voting- debate </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/do-opinion-polls-affect-voting-behaviour/">Do opinion polls affect voting behaviour </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/do-parties-help-or-hurt-democracy/">Do parties help or hurt democracy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/political-v-judicial/">Political v Judicial </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/primaries-pros-and-cons/">Primaries pros and cons </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/significance-of-parties-in-congress/">Significance of parties in congress </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Excalidraw&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Excalidraw</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Excalidraw/Philosophy&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Philosophy</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/does-christianity-tackle-social-issues-better-than-marxism-excalidraw/">Does Christianity tackle social issues better than Marxism.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/has-christian-theology-engaged-in-marxist-theology-enough-excalidraw/">Has christian theology engaged in Marxist theology enough.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/should-christianity-engage-with-atheist-ideologies-excalidraw/">Should Christianity engage with atheist ideologies.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/song-of-solomon-excalidraw/">Song of solomon.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/theonomous-ethics-excalidraw/">Theonomous ethics.excalidraw </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Excalidraw/Politics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Politics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/politics/should-the-state-fund-political-parties/">Should the state fund political parties </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/augustine-and-human-nature-summary-excalidraw/">Augustine and human nature -- summary.excalidraw </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Images&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Images</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/images/natural-law-essays/">Natural law essays </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Organisation&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Organisation</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/organisation/resources/">Resources </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;PDFs and articles&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">PDFs and articles</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/pd-fs-and-articles/correcting-caricatures-women-in-the-bible/">Correcting Caricatures - Women in the Bible </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/pd-fs-and-articles/criminalisation-and-consent-r-v-brown/">Criminalisation &amp; Consent -- R. V. Brown </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/pd-fs-and-articles/she-s-not-a-whore-translation-bias-in-ezekiel-16/">She’s Not a Whore - Translation Bias in Ezekiel 16 </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Philosophy</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/01 Philosophy&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">01 Philosophy</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/01 Philosophy/Mind-body-soul&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Mind-body-soul</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/mind-body-soul/dualism/">Dualism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/mind-body-soul/mind-body-and-soul/">Mind, body and soul </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/01 Philosophy/Nature and attributes of God&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Nature and attributes of God</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/anselm-s-theories/">Anselm&#39;s theories </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/introduction/">Introduction </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/nature-and-attributes-of-god/">Nature and attributes of God </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/omnipotence/">Omnipotence </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/omniscience/">Omniscience </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/01 Philosophy/Religious Language&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Religious Language</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/religious-language/101/">101 </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/religious-language/analogy/">Analogy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/religious-language/language-home/">Language Home </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/paper-1/">Paper 1 </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/philosophy-questions/">Philosophy questions </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">02 Ethics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics/Ethical systems&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Ethical systems</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics/Ethical systems/Natural Moral Law&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Natural Moral Law</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethical-systems/natural-moral-law/natural-moral-law/">Natural Moral Law </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics/Ethical systems/Situation ethics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Situation ethics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethical-systems/situation-ethics/situation-ethics/">Situation ethics </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethical-systems/kantian-ethics/">Kantian ethics </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethical-systems/utilitarianism/">Utilitarianism </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics/Sexual Ethics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Sexual Ethics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/sexual-ethics/bdsm-and-homosexuality/">BDSM and homosexuality </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/sexual-ethics/sex-ethics-contextual-texts/">Sex ethics contextual texts </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/sexual-ethics/sex-ethics/">Sex ethics </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/business-ethics-excalidraw/">Business ethics.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethics-questions/">Ethics questions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/paper-2/">Paper 2 </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">03 DCT</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT/01 Gender and Society&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">01 Gender and Society</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/feminism/">Feminism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/gender-and-society-home/">Gender and society home </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/mary-daly/">Mary Daly </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/rosemary-radford-reuther/">Rosemary Radford Reuther </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/simone-de-beauvoir/">Simone De Beauvoir </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT/02 Liberation theology&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">02 Liberation theology</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/02-liberation-theology/general-notes/">General notes </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/02-liberation-theology/kingdom-theology/">Kingdom Theology </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/02-liberation-theology/liberation-philosophers/">Liberation philosophers </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/02-liberation-theology/liberation-theology/">Liberation theology </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT/03 Augustine&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">03 Augustine</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/03-augustine/augustine-and-human-nature/">Augustine and human nature </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT/Christian Moral Principles&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Christian Moral Principles</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/christian-moral-principles/christian-moral-principles/">Christian Moral Principles </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/christian-moral-principles/key-terms-cmp/">Key terms CMP </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/paper-3/">Paper 3 </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/04 Essays Home&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">04 Essays Home</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/04-essays-home/development-of-christian-thought-essay-questions/">Development of Christian thought essay questions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/04-essays-home/ethics-essay-questions/">Ethics essay questions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/04-essays-home/philosophy-of-religion/">Philosophy of religion </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/terms-dictionary/">Terms dictionary </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Politics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">01 - UK politics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics/Democracy&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Democracy</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/democracy/democracy/">Democracy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/democracy/pressure-groups-lobbyists-and-think-tanks/">Pressure groups, Lobbyists and think tanks </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/democracy/the-franchise/">The Franchise </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/democracy/turnout-stats-sheet/">Turnout Stats sheet </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics/Parties&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Parties</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/general-info/">General Info </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/labour/">Labour </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/minor-parties/">Minor parties </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/party-funding/">Party funding </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/political-parties-home/">Political parties home </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/the-conservatives/">The conservatives </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/the-lib-dems/">The lib-dems </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics/Voting Behaviour&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Voting Behaviour</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-behaviour/non-social-factors/">Non-social factors </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-behaviour/social-factors/">Social factors </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-behaviour/the-media-and-voting-behaviour/">The media and voting behaviour </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-behaviour/voting-behaviour/">Voting Behaviour </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics/Voting systems&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Voting systems</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-systems/referendums/">Referendums </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-systems/voting-systems/">Voting systems </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/uk-government/">UK government </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/uk-politics-home/">UK politics home </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">02 - USA</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/Constitution and federalism&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Constitution and federalism</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/constitution-and-federalism/constitution-and-federalism/">Constitution and federalism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/constitution-and-federalism/federalism/">Federalism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/constitution-and-federalism/the-constitution/">The constitution </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/Democracy and participation&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Democracy and participation</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/Democracy and participation/Presidential process&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Presidential process</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/democracy-and-participation/">Democracy and participation </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/electoral-college/">Electoral College </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/invisible-primaries/">Invisible Primaries </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/party-conventions/">Party Conventions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/tv-debates/">TV debates </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/what-are-primaries-and-caucuses/">What are primaries and caucuses </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/does-campaign-financing-require-reform/">Does campaign financing require reform </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/how-can-pressure-groups-enhance-and-degrade-democracy/">How can pressure groups enhance and degrade democracy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/interest-groups-in-the-usa/">Interest groups in the USA </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/The presidency&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">The presidency</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/exop/">EXOP </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/formal-powers/">Formal powers </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/how-does-the-president-relate-to-congress/">How does the president relate to congress </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/the-presidency/">The presidency </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/vice-president-and-cabinet/">Vice-president and cabinet </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/what-factors-affect-the-amount-of-power-that-the-president-has/">What factors affect the amount of power that the president has </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/The supreme court&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">The supreme court</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/civil-rights-and-civil-liberties/">Civil rights and civil liberties </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/history-of-usa-immigration/">History of USA immigration </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/how-does-the-us-supreme-court-protect-rights/">How does the US supreme court protect rights </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/interpretations-and-debates-of-the-sc/">Interpretations and debates of the SC </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/judicial-ideologies/">Judicial ideologies </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/the-supreme-court/">The Supreme Court </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/what-else-is-there-to-learn-about-the-sc/">What else is there to learn about the SC </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/comparative-notes/uk-and-us-legislatures/">UK and US legislatures </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/usa-homepage/">USA homepage </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/03 - Ideologies&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">03 - Ideologies</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/03 - Ideologies/Liberalism&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Liberalism</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/liberalism/liberalism/">Liberalism </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/03 - Ideologies/Socialism&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Socialism</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/socialism/democratic-socialism/">Democratic Socialism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/socialism/marxism-definitions/">Marxism definitions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/socialism/revolutionary-socialism/">Revolutionary Socialism </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/ideologies-homepage/">Ideologies Homepage </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/socialism/">Socialism </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/politics-essay-questions/">Politics essay questions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/the-news/">The news </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans-home/">Essay plans home </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/">Home </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/topic-tracker/">Topic tracker </a>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="search-container" id="globalsearch" onclick="toggleSearch()">
+<div class="search-box">
+<input type="search" id="term" placeholder="Start typing...">
+<div id="search-results"></div>
+<footer class="search-box-footer">
+<div class="navigation-hint">
+<span>Enter to select</span>
+</div>
+<div class="navigation-hint align-icon">
+<i icon-name="arrow-up" aria-hidden="true"></i>
+<i icon-name="arrow-down" aria-hidden="true"></i>
+<span>to navigate</span>
+</div>
+<div class="navigation-hint">
+<span>ESC to close</span>
+</div>
+</footer>
+</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2025-11-26T21:51:17.518Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2025-11-26T21:51:17.518Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2025-11-26T21:51:17.518Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
+<main class="content cm-s-obsidian">
+<header>
+<h1 data-note-icon="">Song of solomon.excalidraw</h1>
+<div class="header-meta">
+<div class="header-tags">
+<a class="tag" onclick="toggleTagSearch(this)">
+#excalidraw
+</a>
+</div>
+<div class="timestamps"></div></div>
+</header>
+<style>.container{font-family:sans-serif;text-align:center}.button-wrapper button{z-index:1;height:40px;width:100px;margin:10px;padding:5px}.excalidraw .App-menu_top .buttonList{display:flex}.excalidraw-wrapper{height:800px;margin:50px;position:relative}:root[dir=ltr] .excalidraw .layer-ui__wrapper .zen-mode-transition.App-menu_bottom--transition-left{transform:none}</style><script src="https://cdn.jsdelivr.net/npm/react@17/umd/react.production.min.js"></script><script src="https://cdn.jsdelivr.net/npm/react-dom@17/umd/react-dom.production.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@excalidraw/excalidraw@0/dist/excalidraw.production.min.js"></script><div id="Song_of_solomonexcalidraw.md"></div><script>!function(){const e={type:"excalidraw",version:2,source:"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.17.0",elements:[{id:"ad1lUX72",type:"text",x:-342.8610297309026,y:-76.21737331814234,width:800.5878228081597,height:1350,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"a0",roundness:null,seed:1881726185,version:161,versionNonce:181335047,isDeleted:!1,boundElements:[{id:"4AyJ5rIAyQ7BRW2fgdEFv",type:"arrow"},{id:"2Xkf-xFUhWpstVaMaH48-",type:"arrow"},{id:"s-7CvfYbhjhzSEkyn9eAy",type:"arrow"}],updated:1763543740843,link:null,locked:!1,text:"The song of songs, which is Solomon's.\n\nLet thou kiss me with the kisses of thou mouth: for thy love is better than\nwine. Because of the savour of thy good ointments thy name is as ointment\npoured forth, therefore do I love thee.\n\nDraw me, we will run after thee: the king hath brought me into his chambers: we\nwill be glad and rejoice in thee, we will remember thy love more than wine: the\nupright love thee.\n\nThy cheeks are comely with rows of jewels, thy neck with chains of gold.\n\nWe will make thee borders of gold with studs of silver.\n\nMy beloved is unto me as a cluster of camphire in the vineyards.\n\nBehold, thou art fair, my love; behold, thou art fair; thou hast doves' eyes.\n\nBehold, thou art fair, my beloved, yea, pleasant: our bed is green.\n\nThe beams of our house are cedar, and our rafters of fir.\n\nI am the rose of Sharon, and the lily of the valleys.\n\nAs the lily among thorns, so is my love among the rushes.\n\nAs the apple tree among the trees of the wood, so is my beloved among the\ncedar. I sat down under his shadow with great delight, and his fruit was sweet\nto my taste.\n\nHe brought me to the banqueting house, and his banner over me was love.\n\nStay me with flagons, comfort me with apples: for I am bursting of love.\n\nFor, lo, the winter is past, the rain is over and gone; \n\nThe flowers appear on the earth; the time of the singing of birds is come, and\nthe voice of the turtle dove is heard in our land;\n\nSet me as a seal upon thine heart, as a seal upon thine arm: for love is eternal;\nthe coals thereof are coals of fire, which hath an everlasting flame.\n\nMany waters cannot quench love, neither can the floods drown it: if a man would\ngive all the substance of his house for love, he would utterly be content.\n\nLet us get up early to the vineyards; let us see if the vine flourish, whether the\ntender grape appear, and the pomegranates bud forth: there will I give thee my\nloves.\n\nThe mandrakes give a smell, and at our gates are all manner of pleasant fruits,\nnew and old, which I have laid up for thee, O my beloved.\n\nMake haste, my beloved, and be thou like to a roe or to a young hart upon the\nmountain of spices.",rawText:"The song of songs, which is Solomon's.\n\nLet thou kiss me with the kisses of thou mouth: for thy love is better than wine. Because of the savour of thy good ointments thy name is as ointment poured forth, therefore do I love thee.\n\nDraw me, we will run after thee: the king hath brought me into his chambers: we will be glad and rejoice in thee, we will remember thy love more than wine: the upright love thee.\n\nThy cheeks are comely with rows of jewels, thy neck with chains of gold.\n\nWe will make thee borders of gold with studs of silver.\n\nMy beloved is unto me as a cluster of camphire in the vineyards.\n\nBehold, thou art fair, my love; behold, thou art fair; thou hast doves' eyes.\n\nBehold, thou art fair, my beloved, yea, pleasant: our bed is green.\n\nThe beams of our house are cedar, and our rafters of fir.\n\nI am the rose of Sharon, and the lily of the valleys.\n\nAs the lily among thorns, so is my love among the rushes.\n\nAs the apple tree among the trees of the wood, so is my beloved among the cedar. I sat down under his shadow with great delight, and his fruit was sweet to my taste.\n\nHe brought me to the banqueting house, and his banner over me was love.\n\nStay me with flagons, comfort me with apples: for I am bursting of love.\n\nFor, lo, the winter is past, the rain is over and gone; \n\nThe flowers appear on the earth; the time of the singing of birds is come, and the voice of the turtle dove is heard in our land;\n\nSet me as a seal upon thine heart, as a seal upon thine arm: for love is eternal; the coals thereof are coals of fire, which hath an everlasting flame.\n\nMany waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, he would utterly be content.\n\nLet us get up early to the vineyards; let us see if the vine flourish, whether the tender grape appear, and the pomegranates bud forth: there will I give thee my loves.\n\nThe mandrakes give a smell, and at our gates are all manner of pleasant fruits, new and old, which I have laid up for thee, O my beloved.\n\nMake haste, my beloved, and be thou like to a roe or to a young hart upon the mountain of spices.",fontSize:20,fontFamily:5,textAlign:"left",verticalAlign:"top",containerId:null,originalText:"The song of songs, which is Solomon's.\n\nLet thou kiss me with the kisses of thou mouth: for thy love is better than wine. Because of the savour of thy good ointments thy name is as ointment poured forth, therefore do I love thee.\n\nDraw me, we will run after thee: the king hath brought me into his chambers: we will be glad and rejoice in thee, we will remember thy love more than wine: the upright love thee.\n\nThy cheeks are comely with rows of jewels, thy neck with chains of gold.\n\nWe will make thee borders of gold with studs of silver.\n\nMy beloved is unto me as a cluster of camphire in the vineyards.\n\nBehold, thou art fair, my love; behold, thou art fair; thou hast doves' eyes.\n\nBehold, thou art fair, my beloved, yea, pleasant: our bed is green.\n\nThe beams of our house are cedar, and our rafters of fir.\n\nI am the rose of Sharon, and the lily of the valleys.\n\nAs the lily among thorns, so is my love among the rushes.\n\nAs the apple tree among the trees of the wood, so is my beloved among the cedar. I sat down under his shadow with great delight, and his fruit was sweet to my taste.\n\nHe brought me to the banqueting house, and his banner over me was love.\n\nStay me with flagons, comfort me with apples: for I am bursting of love.\n\nFor, lo, the winter is past, the rain is over and gone; \n\nThe flowers appear on the earth; the time of the singing of birds is come, and the voice of the turtle dove is heard in our land;\n\nSet me as a seal upon thine heart, as a seal upon thine arm: for love is eternal; the coals thereof are coals of fire, which hath an everlasting flame.\n\nMany waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, he would utterly be content.\n\nLet us get up early to the vineyards; let us see if the vine flourish, whether the tender grape appear, and the pomegranates bud forth: there will I give thee my loves.\n\nThe mandrakes give a smell, and at our gates are all manner of pleasant fruits, new and old, which I have laid up for thee, O my beloved.\n\nMake haste, my beloved, and be thou like to a roe or to a young hart upon the mountain of spices.",autoResize:!1,lineHeight:1.25},{id:"eFbdSyBt",type:"text",x:491.27870636701994,y:653.1829956945486,width:227.19986979166674,height:75,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"a1",roundness:null,seed:311117639,version:118,versionNonce:828030569,isDeleted:!1,boundElements:[{id:"bWOUWpAXbWua4kpzZ_ZxX",type:"arrow"},{id:"zneQGMPqROEdE9ijjtWu8",type:"arrow"}],updated:1763543970806,link:null,locked:!1,text:"This is just a\nmetaphor for sucking\ndick",rawText:"This is just a metaphor for sucking dick",fontSize:20,fontFamily:5,textAlign:"left",verticalAlign:"top",containerId:null,originalText:"This is just a metaphor for sucking dick",autoResize:!1,lineHeight:1.25},{id:"bWOUWpAXbWua4kpzZ_ZxX",type:"arrow",x:477.4118443878535,y:669.5977049470603,width:43.12394205729191,height:29.82427258956534,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"a2",roundness:{type:2},seed:212786087,version:109,versionNonce:1781074249,isDeleted:!1,boundElements:null,updated:1763543970807,link:null,locked:!1,points:[[0,0],[-43.12394205729191,-29.82427258956534]],lastCommittedPoint:[-83.19995117187511,-45.86665852864587],startBinding:{elementId:"eFbdSyBt",focus:-.5778656832826219,gap:13.866861979166515},endBinding:null,startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"Fqldjih_Pq5z6B5ZuERHY",type:"line",x:240.3322816708394,y:621.4623158210366,width:194.66668023003479,height:.8888753255207575,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"a3",roundness:{type:2},seed:1767593513,version:64,versionNonce:1416852009,isDeleted:!1,boundElements:null,updated:1763543289231,link:null,locked:!1,points:[[0,0],[194.66668023003479,-.8888753255207575]],lastCommittedPoint:null,startBinding:null,endBinding:null,startArrowhead:null,endArrowhead:null,polygon:!1},{id:"cLEXMtvO_L3prtljtLUc-",type:"line",x:-341.001065225862,y:649.9067670471652,width:120.88887532552076,height:3.5555352105035354,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"a4",roundness:{type:2},seed:2033462279,version:25,versionNonce:786908777,isDeleted:!1,boundElements:null,updated:1763543295163,link:null,locked:!1,points:[[0,0],[120.88887532552076,-3.5555352105035354]],lastCommittedPoint:null,startBinding:null,endBinding:null,startArrowhead:null,endArrowhead:null,polygon:!1},{id:"6nY-J0P-3mwghtOhM9fa8",type:"line",x:-348.11220346370925,y:795.6845922967314,width:517.3333062065972,height:0,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"a5",roundness:{type:2},seed:649429033,version:77,versionNonce:86097319,isDeleted:!1,boundElements:null,updated:1763543310362,link:null,locked:!1,points:[[0,0],[517.3333062065972,0]],lastCommittedPoint:null,startBinding:null,endBinding:null,startArrowhead:null,endArrowhead:null,polygon:!1},{id:"Ahr55ntc",type:"text",x:-590.956624850428,y:565.5290204651341,width:192.1778157552084,height:125,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"a6",roundness:null,seed:513286953,version:396,versionNonce:833148935,isDeleted:!1,boundElements:[{id:"4AyJ5rIAyQ7BRW2fgdEFv",type:"arrow"}],updated:1763544085637,link:null,locked:!1,text:"This is just a very\nsubtle breeding\nkink. Spring? New\nlife? Yeah they are\nfucking.",rawText:"This is just a very subtle breeding kink. Spring? New life? Yeah they are fucking.",fontSize:20,fontFamily:5,textAlign:"left",verticalAlign:"top",containerId:null,originalText:"This is just a very subtle breeding kink. Spring? New life? Yeah they are fucking.",autoResize:!1,lineHeight:1.25},{id:"4AyJ5rIAyQ7BRW2fgdEFv",type:"arrow",x:-470.0201633438459,y:702.9734784729466,width:105.01908455461574,height:79.34877250636373,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"a7",roundness:{type:2},seed:738484329,version:373,versionNonce:917390759,isDeleted:!1,boundElements:null,updated:1763544090592,link:null,locked:!1,points:[[0,0],[105.01908455461574,79.34877250636373]],lastCommittedPoint:null,startBinding:{elementId:"Ahr55ntc",focus:.17819328352074926,gap:12.4444580078125},endBinding:{elementId:"ad1lUX72",focus:-.5143147886738082,gap:22.140049058327577},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"8RNrSrYc",type:"text",x:441.47522310034117,y:392.12896504908747,width:173.33333333333337,height:75,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"a9",roundness:null,seed:1617761673,version:67,versionNonce:782346375,isDeleted:!1,boundElements:[{id:"4Dr009Kr1kjioiA3eRSKO",type:"arrow"}],updated:1763544110941,link:null,locked:!1,text:"Could flowers =\nvagina? who\nknows",rawText:"Could flowers = vagina? who knows",fontSize:20,fontFamily:5,textAlign:"left",verticalAlign:"top",containerId:null,originalText:"Could flowers = vagina? who knows",autoResize:!1,lineHeight:1.25},{id:"4Dr009Kr1kjioiA3eRSKO",type:"arrow",x:426.3641391159661,y:451.9239221891863,width:246.47629510788664,height:36.205060298517196,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aA",roundness:{type:2},seed:851538249,version:52,versionNonce:948693673,isDeleted:!1,boundElements:null,updated:1763543966948,link:null,locked:!1,points:[[0,0],[-246.47629510788664,36.205060298517196]],lastCommittedPoint:null,startBinding:{elementId:"8RNrSrYc",focus:-.14622102457080366,gap:15.111083984375},endBinding:null,startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"u9mbS51j",type:"text",x:463.1896715750447,y:165.5893604987711,width:133.71425083705344,height:100,angle:0,strokeColor:"#f08c00",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aB",roundness:null,seed:236778793,version:92,versionNonce:2098282345,isDeleted:!1,boundElements:[{id:"zqJcgdApLKB2-T2B4CLXk",type:"arrow"},{id:"iDvj50235WTaP4C0wQqEM",type:"arrow"},{id:"gpDUpCabEmck5UUEaFbu1",type:"arrow"}],updated:1763543965059,link:null,locked:!1,text:"Sex because\nyou love your\npartner...\nwow",rawText:"Sex because you love your partner... wow",fontSize:20,fontFamily:5,textAlign:"left",verticalAlign:"top",containerId:null,originalText:"Sex because you love your partner... wow",autoResize:!1,lineHeight:1.25},{id:"zqJcgdApLKB2-T2B4CLXk",type:"arrow",x:454.04677955495526,y:209.82088917563857,width:253.71459960937523,height:23.19692940069956,angle:0,strokeColor:"#f08c00",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aC",roundness:{type:2},seed:1797895,version:78,versionNonce:1567058505,isDeleted:!1,boundElements:null,updated:1763543965060,link:null,locked:!1,points:[[0,0],[-253.71459960937523,23.19692940069956]],lastCommittedPoint:null,startBinding:{elementId:"u9mbS51j",focus:.2266348822766586,gap:9.142892020089448},endBinding:null,startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"iDvj50235WTaP4C0wQqEM",type:"arrow",x:448.3324938406697,y:245.66221917942377,width:161.14318847656295,height:33.06992870774022,angle:0,strokeColor:"#f08c00",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aD",roundness:{type:2},seed:403851783,version:69,versionNonce:1802844457,isDeleted:!1,boundElements:null,updated:1763543965061,link:null,locked:!1,points:[[0,0],[-161.14318847656295,33.06992870774022]],lastCommittedPoint:null,startBinding:{elementId:"u9mbS51j",focus:-.20877728323498432,gap:14.857177734375},endBinding:null,startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"gpDUpCabEmck5UUEaFbu1",type:"arrow",x:518.46423608979,y:149.58929946361485,width:118.85716029575883,height:173.7143380301339,angle:0,strokeColor:"#f08c00",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aE",roundness:{type:2},seed:311911783,version:196,versionNonce:1487285257,isDeleted:!1,boundElements:null,updated:1763543965063,link:null,locked:!1,points:[[0,0],[31.506022817843473,-173.7143380301339],[-87.35113747791536,-166.857190813337]],lastCommittedPoint:[-126.85712541852672,-159.9999782017299],startBinding:{elementId:"u9mbS51j",focus:-.3102092732928842,gap:16.00006103515625},endBinding:null,startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"XvlUw3YNgyJA7ycQ0Egwm",type:"line",x:138.6178767926782,y:-1.2678957093761767,width:266.28574916294644,height:3.428584507533486,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aF",roundness:{type:2},seed:856376519,version:73,versionNonce:1044534855,isDeleted:!1,boundElements:null,updated:1763543522294,link:null,locked:!1,points:[[0,0],[266.28574916294644,-3.428584507533486]],lastCommittedPoint:null,startBinding:null,endBinding:null,startArrowhead:null,endArrowhead:null,polygon:!1},{id:"Z9LXLunc8GmHpM2U4yhBe",type:"line",x:-344.8106859165852,y:20.446385645255504,width:42.285723005022305,height:1.142861502511181,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aG",roundness:{type:2},seed:2009315465,version:13,versionNonce:677535559,isDeleted:!1,boundElements:null,updated:1763543526068,link:null,locked:!1,points:[[0,0],[42.285723005022305,1.142861502511181]],lastCommittedPoint:null,startBinding:null,endBinding:null,startArrowhead:null,endArrowhead:null,polygon:!1},{id:"meK3Hv13NXZ5jkp8Dc8VA",type:"line",x:-342.5249629115629,y:94.7321217292399,width:300.5715506417411,height:0,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aI",roundness:{type:2},seed:1900444553,version:51,versionNonce:468209575,isDeleted:!1,boundElements:null,updated:1763543541384,link:null,locked:!1,points:[[0,0],[300.5715506417411,0]],lastCommittedPoint:null,startBinding:null,endBinding:null,startArrowhead:null,endArrowhead:null,polygon:!1},{id:"R1HUPtDB",type:"text",x:-587.096661781541,y:-28.782191014900746,width:177.60003662109375,height:100,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aJ",roundness:null,seed:991555881,version:178,versionNonce:1777768455,isDeleted:!1,boundElements:[{id:"2Xkf-xFUhWpstVaMaH48-",type:"arrow"}],updated:1763544062376,link:null,locked:!1,text:"having a game\nwith sex/roleplay\n-- chasing after\nsomeone",rawText:"having a game with sex/roleplay -- chasing after someone",fontSize:20,fontFamily:5,textAlign:"left",verticalAlign:"top",containerId:null,originalText:"having a game with sex/roleplay -- chasing after someone",autoResize:!1,lineHeight:1.25},{id:"2Xkf-xFUhWpstVaMaH48-",type:"arrow",x:-402.6394997419204,y:19.6376427906133,width:48.685965401785666,height:13.901786332353495,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aL",roundness:{type:2},seed:562971945,version:156,versionNonce:1804861223,isDeleted:!1,boundElements:null,updated:1763544062377,link:null,locked:!1,points:[[0,0],[48.685965401785666,13.901786332353495]],lastCommittedPoint:null,startBinding:{elementId:"R1HUPtDB",focus:-.37543912635760374,gap:6.857125418526778},endBinding:{elementId:"ad1lUX72",focus:.547387654210348,gap:11.09250460923215},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"PSLmIaSqdNPa1ug3viJJA",type:"line",x:-315.36533392325015,y:296.8833865930956,width:82.82355813419116,height:0,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aM",roundness:{type:2},seed:398122919,version:33,versionNonce:797925449,isDeleted:!1,boundElements:null,updated:1763543588282,link:null,locked:!1,points:[[0,0],[82.82355813419116,0]],lastCommittedPoint:null,startBinding:null,endBinding:null,startArrowhead:null,endArrowhead:null,polygon:!1},{id:"XHmwGd2Xhk_OcThFBcw_r",type:"line",x:113.81119410983808,y:748.6480924754486,width:251.29416073069854,height:.9411980124081083,angle:0,strokeColor:"#f08c00",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aN",roundness:{type:2},seed:1653748711,version:44,versionNonce:1914338217,isDeleted:!1,boundElements:null,updated:1763543634928,link:null,locked:!1,points:[[0,0],[251.29416073069854,.9411980124081083]],lastCommittedPoint:null,startBinding:null,endBinding:null,startArrowhead:null,endArrowhead:null,polygon:!1},{id:"aN-Rkx1ids7MaaMAUFBnT",type:"line",x:127.92884116866162,y:695.0010264713126,width:245.64704446231622,height:3.7647202435662166,angle:0,strokeColor:"#f08c00",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aP",roundness:{type:2},seed:880661767,version:33,versionNonce:903679271,isDeleted:!1,boundElements:null,updated:1763543632947,link:null,locked:!1,points:[[0,0],[245.64704446231622,3.7647202435662166]],lastCommittedPoint:null,startBinding:null,endBinding:null,startArrowhead:null,endArrowhead:null,polygon:!1},{id:"VE9FtbhP",type:"text",x:489.9322037441609,y:513.6588479983608,width:238.93318684895834,height:50,angle:0,strokeColor:"#e03131",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aQ",roundness:null,seed:1869756233,version:181,versionNonce:1140826855,isDeleted:!1,boundElements:[{id:"zneQGMPqROEdE9ijjtWu8",type:"arrow"},{id:"W_vG4IJZSOKbrvcjYkYX9",type:"arrow"}],updated:1763544104805,link:null,locked:!1,text:"It's blatantly from the\nwomen's perspective",rawText:"It's blatantly from the women's perspective",fontSize:20,fontFamily:5,textAlign:"left",verticalAlign:"top",containerId:null,originalText:"It's blatantly from the women's perspective",autoResize:!1,lineHeight:1.25},{id:"zneQGMPqROEdE9ijjtWu8",type:"arrow",x:582.8067989491215,y:572.3255146650274,width:11.71182371353268,height:73.90472702752993,angle:0,strokeColor:"#e03131",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aR",roundness:{type:2},seed:212780487,version:144,versionNonce:2046340615,isDeleted:!1,boundElements:null,updated:1763544104806,link:null,locked:!1,points:[[0,0],[11.71182371353268,73.90472702752993]],lastCommittedPoint:null,startBinding:{elementId:"VE9FtbhP",focus:.25723023889379154,gap:8.666666666666629},endBinding:{elementId:"eFbdSyBt",focus:-.02972119071350801,gap:6.952754001991252},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"W_vG4IJZSOKbrvcjYkYX9",type:"arrow",x:579.2568954979349,y:500.858880550444,width:15.466273716517662,height:58.209760393415195,angle:0,strokeColor:"#e03131",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aS",roundness:{type:2},seed:953503111,version:343,versionNonce:601103529,isDeleted:!1,boundElements:null,updated:1763544120296,link:null,locked:!1,points:[[0,0],[3.170378930749621,-18.5142996651785],[-12.295894785768041,-58.209760393415195]],lastCommittedPoint:[-85.333251953125,-29.86669921875],startBinding:{elementId:"VE9FtbhP",focus:-.29588253866162495,gap:12.7999674479168},endBinding:null,startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"xfyClhUB5TiHKlPwlSGLf",type:"line",x:-296.9710939287324,y:847.1382153620827,width:289.6841591282894,height:.8421245374177033,angle:0,strokeColor:"#e03131",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aT",roundness:{type:2},seed:1225408263,version:29,versionNonce:1291279657,isDeleted:!1,boundElements:null,updated:1763543709677,link:null,locked:!1,points:[[0,0],[289.6841591282894,-.8421245374177033]],lastCommittedPoint:null,startBinding:null,endBinding:null,startArrowhead:null,endArrowhead:null,polygon:!1},{id:"IYgGByM6ThpijlBnIVdvx",type:"line",x:-338.23423254920885,y:993.6645440010632,width:312.42107190583886,height:4.210526315789366,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aV",roundness:{type:2},seed:19412327,version:40,versionNonce:1920375783,isDeleted:!1,boundElements:null,updated:1763543728275,link:null,locked:!1,points:[[0,0],[312.42107190583886,4.210526315789366]],lastCommittedPoint:null,startBinding:null,endBinding:null,startArrowhead:null,endArrowhead:null,polygon:!1},{id:"yFLDwcLI",type:"text",x:-531.6658667494557,y:930.6750934459644,width:64.33696546052624,height:25,angle:0,strokeColor:"#c2255c",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aW",roundness:null,seed:1420824103,version:89,versionNonce:1066588649,isDeleted:!1,boundElements:[{id:"s-7CvfYbhjhzSEkyn9eAy",type:"arrow"}],updated:1763544000460,link:null,locked:!1,text:"horny",rawText:"horny",fontSize:20,fontFamily:5,textAlign:"left",verticalAlign:"top",containerId:null,originalText:"horny",autoResize:!1,lineHeight:1.25},{id:"s-7CvfYbhjhzSEkyn9eAy",type:"arrow",x:-453.5191342254925,y:963.7490079596848,width:93.39020980745124,height:19.145205013558325,angle:0,strokeColor:"#e03131",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aX",roundness:{type:2},seed:1565180743,version:156,versionNonce:1104262345,isDeleted:!1,boundElements:null,updated:1763544000462,link:null,locked:!1,points:[[0,0],[93.39020980745124,19.145205013558325]],lastCommittedPoint:null,startBinding:{elementId:"yFLDwcLI",focus:.5761061783368554,gap:16},endBinding:{elementId:"ad1lUX72",focus:-.6148812603782516,gap:17.267894687138664},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"HIRvAG7b-6c8L_-hoi5EM",type:"line",x:-291.9184109517583,y:1151.1382025125758,width:207.99997430098682,height:3.36840177837189,angle:0,strokeColor:"#e03131",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aY",roundness:{type:2},seed:1404417897,version:47,versionNonce:1076859783,isDeleted:!1,boundElements:null,updated:1763543880980,link:null,locked:!1,points:[[0,0],[207.99997430098682,-3.36840177837189]],lastCommittedPoint:null,startBinding:null,endBinding:null,startArrowhead:null,endArrowhead:null,polygon:!1},{id:"kkxkRE6T",type:"text",x:-627.2447177465776,y:1137.7488046404542,width:244.2105905633224,height:75,angle:0,strokeColor:"#e03131",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aZ",roundness:null,seed:479139657,version:125,versionNonce:2079141127,isDeleted:!1,boundElements:[{id:"3yh_9WJ3TdeA0mdt84aMO",type:"arrow"}],updated:1763544003036,link:null,locked:!1,text:"mandrakes= 'sweet smell'.\nThey are also known as\n'love apples'",rawText:"mandrakes= 'sweet smell'. They are also known as 'love apples'",fontSize:20,fontFamily:5,textAlign:"left",verticalAlign:"top",containerId:null,originalText:"mandrakes= 'sweet smell'. They are also known as 'love apples'",autoResize:!1,lineHeight:1.25},{id:"3yh_9WJ3TdeA0mdt84aMO",type:"arrow",x:-379.5722953033276,y:1136.2656006167485,width:192.07488558512176,height:21.052631578947512,angle:0,strokeColor:"#e03131",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aa",roundness:{type:2},seed:652730473,version:118,versionNonce:200274983,isDeleted:!1,boundElements:null,updated:1763544003037,link:null,locked:!1,points:[[0,0],[153.33799208183228,-5.337873021936048],[192.07488558512176,15.714758557011464]],lastCommittedPoint:[227.36842105263156,14.3157958984375],startBinding:{elementId:"kkxkRE6T",focus:-.829007912541916,gap:3.7689491787864884},endBinding:null,startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"K7Cc2sGC5-GGB-sI0JJZi",type:"line",x:-54.44481668777786,y:1099.769826433217,width:242.52634148848682,height:.842092413651244,angle:0,strokeColor:"#e03131",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"ab",roundness:{type:2},seed:991544361,version:52,versionNonce:1436720585,isDeleted:!1,boundElements:null,updated:1763543945006,link:null,locked:!1,points:[[0,0],[242.52634148848682,-.842092413651244]],lastCommittedPoint:[242.52634148848682,-.842092413651244],startBinding:null,endBinding:null,startArrowhead:null,endArrowhead:null,polygon:!1},{id:"h5KOqibk",type:"text",x:472.41715216469765,y:1108.7910421286035,width:172.79996744791663,height:50,angle:0,strokeColor:"#e03131",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"ac",roundness:null,seed:1274474887,version:44,versionNonce:949383271,isDeleted:!1,boundElements:[{id:"3osha3fOo977fkHcCtbth",type:"arrow"}],updated:1763544044863,link:null,locked:!1,text:"symbol of\nfertility",rawText:"symbol of fertility",fontSize:20,fontFamily:5,textAlign:"left",verticalAlign:"top",containerId:null,originalText:"symbol of fertility",autoResize:!1,lineHeight:1.25},{id:"3osha3fOo977fkHcCtbth",type:"arrow",x:461.750485498031,y:1126.9243429098535,width:403.199951171875,height:22.400065104166742,angle:0,strokeColor:"#e03131",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"ad",roundness:{type:2},seed:1745067975,version:84,versionNonce:683553095,isDeleted:!1,boundElements:null,updated:1763544044863,link:null,locked:!1,points:[[0,0],[-356.2666829427083,0],[-403.199951171875,-22.400065104166742]],lastCommittedPoint:[-403.199951171875,-22.400065104166742],startBinding:{elementId:"h5KOqibk",focus:.2746679687499952,gap:10.666666666666629},endBinding:null,startArrowhead:null,endArrowhead:"arrow",elbowed:!1}],appState:{theme:"light",viewBackgroundColor:"#ffffff",currentItemStrokeColor:"#e03131",currentItemBackgroundColor:"transparent",currentItemFillStyle:"solid",currentItemStrokeWidth:2,currentItemStrokeStyle:"solid",currentItemRoughness:1,currentItemOpacity:100,currentItemFontFamily:5,currentItemFontSize:20,currentItemTextAlign:"left",currentItemStartArrowhead:null,currentItemEndArrowhead:"arrow",currentItemArrowType:"round",currentItemFrameRole:null,scrollX:949.5828071451983,scrollY:206.7839700784279,zoom:{value:1},currentItemRoundness:"round",gridSize:20,gridStep:5,gridModeEnabled:!1,gridColor:{Bold:"rgba(217, 217, 217, 0.5)",Regular:"rgba(230, 230, 230, 0.5)"},currentStrokeOptions:null,frameRendering:{enabled:!0,clip:!0,name:!0,outline:!0,markerName:!0,markerEnabled:!0},objectsSnapModeEnabled:!1,activeTool:{type:"selection",customType:null,locked:!1,fromSelection:!1,lastActiveTool:null},disableContextMenu:!1},files:{},scrollToContent:!0};App=()=>{const t=React.useRef(null),n=React.useRef(null),[o,l]=React.useState({width:void 0,height:void 0});return React.useEffect((()=>{l({width:n.current.getBoundingClientRect().width,height:n.current.getBoundingClientRect().height});const e=()=>{l({width:n.current.getBoundingClientRect().width,height:n.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)}),[n]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:n},React.createElement(ExcalidrawLib.Excalidraw,{ref:t,width:o.width,height:o.height,initialData:e,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("Song_of_solomonexcalidraw.md"),ReactDOM.render(React.createElement(App),excalidrawWrapper)}()</script>
+</main>
+<aside>
+<div class="sidebar">
+<div class="sidebar-container">
+<script>async function fetchGraphData(){const e=await fetch("/graph.json").then((e=>e.json()));return{graphData:e,fullGraphData:filterFullGraphData(e)}}function getNextLevelNeighbours(e,t){const n=Object.values(e).map((e=>e.neighbors)).flat();return Object.keys(t).reduce(((r,l)=>(-1!=n.indexOf(l)?t[l].hide||(e[l]=t[l]):r[l]=t[l],r)),{})}function filterLocalGraphData(e,t){if(null==e)return null;let n=JSON.parse(JSON.stringify(e.nodes)),r=JSON.parse(JSON.stringify(e.links)),l=n[decodeURI(window.location.pathname)]||Object.values(n).find((e=>e.home));if(delete n[l.url],!l.home){delete n[Object.values(n).find((e=>e.home)).url]}l.current=!0;let i={};i[l.url]=l;for(let e=0;e<t;e++)n=getNextLevelNeighbours(i,n);nodes=Object.values(i),l.home||(nodes=nodes.filter((e=>!e.home)));let o=nodes.map((e=>e.id));return{nodes:nodes,links:r.filter((function(e){return o.indexOf(e.target)>-1&&o.indexOf(e.source)>-1}))}}function getCssVar(e){return getComputedStyle(document.body).getPropertyValue(e)}function htmlDecode(e){return(new DOMParser).parseFromString(e,"text/html").documentElement.textContent}function renderGraph(e,t,n,r){if(null==e)return;const l=document.getElementById(t);width=l.offsetWidth,height=l.offsetHeight;const i=new Set;let o=null;const a=getCssVar("--graph-main"),s=getCssVar("--graph-muted");let u=ForceGraph()(l).graphData(e).nodeId("id").nodeLabel("title").linkSource("source").linkTarget("target").d3AlphaDecay(.1).width(width).height(height).linkDirectionalArrowLength(2).linkDirectionalArrowRelPos(.5).autoPauseRedraw(!1).linkColor((e=>null==o||e.source.id==o.id||e.target.id==o.id?a:s)).nodeCanvasObject(((e,t)=>{const n=e.neighbors&&e.neighbors.length||2,r=Math.min(7,Math.max(n/2,2));t.beginPath(),t.arc(e.x,e.y,r,0,2*Math.PI,!1),null==o||e==o||i.has(e.url)?t.fillStyle=a:t.fillStyle=s,t.fill(),e.current&&(t.beginPath(),t.arc(e.x,e.y,r+1,0,2*Math.PI,!1),t.lineWidth=.5,t.strokeStyle=a,t.stroke());const l=htmlDecode(e.title);t.font="3.5px Sans-Serif",t.textAlign="center",t.textBaseline="top",t.fillText(l,e.x,e.y+r+2)})).onNodeClick((e=>{window.location=e.url})).onNodeHover((e=>{i.clear(),e&&(i.add(e),e.neighbors.forEach((e=>i.add(e)))),o=e||null}));return(r||null!=n&&e.nodes.length>4)&&setTimeout((()=>{u.zoomToFit(5,75)}),n||200),u}function renderLocalGraph(e,t,n){window.graph&&window.graph._destructor();return renderGraph(filterLocalGraphData(e,t),"link-graph",null,n)}function filterFullGraphData(e){if(null==e)return null;e=JSON.parse(JSON.stringify(e));const t=Object.values(e.nodes).filter((e=>e.hide)).map((e=>e.id));return{links:JSON.parse(JSON.stringify(e.links)).filter((e=>-1==t.indexOf(e.source)&&-1==t.indexOf(e.target))),nodes:[...Object.values(e.nodes).filter((e=>!e.hide))]}}function openFullGraph(e){return lucide.createIcons({attrs:{class:["svg-icon"]}}),renderGraph(e,"full-graph-container",200,!1)}function closefullGraph(e){return e&&e._destructor(),null}</script>
+<div x-init="{graphData, fullGraphData} = await fetchGraphData();" x-data="{ graphData: null, depth: 1, graph: null, fullGraph: null, showFullGraph: false, fullScreen: false, fullGraphData: null}" id="graph-component" x-bind:class="fullScreen ? 'graph graph-fs' : 'graph'" v-scope>
+<div class="graph-title-container">
+<div class="graph-title">Connected Pages</div>
+<div id="graph-controls">
+<div class="depth-control">
+<label for="graph-depth">Depth</label>
+<div class="slider">
+<input x-model.number="depth" name="graph-depth" list="depthmarkers" type="range" step="1" min="1" max="3" id="graph-depth">
+<datalist id="depthmarkers">
+<option value="1" label="1"></option>
+<option value="2" label="2"></option>
+<option value="3" label="3"></option>
+</datalist>
+</div>
+<span id="depth-display" x-text="depth"></span>
+</div>
+<div class="ctrl-right">
+<span id="global-graph-btn" x-on:click="showFullGraph = true; setTimeout(() => {fullGraph = openFullGraph(fullGraphData)}, 100)"><i icon-name="globe" aria-hidden="true"></i></span>
+<span id="graph-fs-btn" x-on:click="fullScreen = !fullScreen"><i icon-name="expand" aria-hidden="true"></i></span>
+</div>
+</div>
+</div>
+<div x-effect="window.graph = renderLocalGraph(graphData, depth, fullScreen)" id="link-graph"></div>
+<div x-show="showFullGraph" id="full-graph" class="show" style="display:none">
+<span id="full-graph-close" x-on:click="fullGraph = closefullGraph(fullGraph); showFullGraph = false;"><i icon-name="x" aria-hidden="true"></i></span><div id="full-graph-container"></div>
+</div>
+</div>
+<div class="backlinks">
+<div class="backlink-title" style="margin:4px 0!important">Pages mentioning this page</div>
+<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/philosophy/02-ethics/sexual-ethics/sex-ethics-contextual-texts/" data-note-icon="" class="backlink">Sex ethics contextual texts</a>
+</div></div>
+</div>
+</div>
+</div>
+</aside>
+<script>window.location.hash&&document.getElementById(window.location.hash.slice(1)).classList.add("referred"),window.addEventListener("hashchange",(e=>{const t=e.oldURL.split("#");t[1]&&document.getElementById(t[1]).classList.remove("referred");const n=e.newURL.split("#");n[1]&&document.getElementById(n[1]).classList.add("referred")}),!1);const url_parts=window.location.href.split("#"),url=url_parts[0],referrence=url_parts[1];document.querySelectorAll(".cm-s-obsidian > *[id]").forEach((function(e){e.ondblclick=function(e){const t=url+"#"+e.target.id;navigator.clipboard.writeText(t)}}))</script>
+<script src="https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js"></script>
+<script defer="defer">TIMESTAMP_FORMAT="MMM dd, yyyy h:mm a",document.querySelectorAll(".human-date").forEach((function(e){date=e.getAttribute("data-date")||e.innerText,parsed_date=luxon.DateTime.fromISO(date),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromSQL(date)),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromHTML(date)),e.innerHTML=parsed_date.toFormat(TIMESTAMP_FORMAT)}))</script>
+<script>lucide.createIcons({attrs:{class:["svg-icon"]}})</script>
+</body>
+</html>
