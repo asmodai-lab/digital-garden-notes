@@ -40,6 +40,7 @@ He believed that humans are psychological hedonists:
 
 J.S. Mill was a liberal politician and social philosopher. He posited that all knowledge is based on experiences, and desires/beliefs are products of psychological laws. 
 - for him, ethics was based on the desire of humans to be happy.
+- He also came up with the harm principle. This comes from his liberal ideas: it is that as long as one isn't doing harm,
 
 
 ## Act utilitarianism
