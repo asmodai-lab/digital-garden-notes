@@ -35,6 +35,8 @@ All of the articles on that website are very much worth a read to get a more in-
 - [Jesus the Liberator](http://www.philosopherkings.co.uk/Jesustheliberator.html)
 	- [Person of Christ](http://www.philosopherkings.co.uk/Thepersonofchrist.html)
 
+[The prisoner's dilemma](https://www.investopedia.com/terms/p/prisoners-dilemma.asp) — good for understanding Kant's 'legislating member' principle.
+
 [Descartes and the mind-body-soul problem](https://www.laphamsquarterly.org/states-mind/ghost-and-princess)
 
 ## Articles (aka opinion pieces)

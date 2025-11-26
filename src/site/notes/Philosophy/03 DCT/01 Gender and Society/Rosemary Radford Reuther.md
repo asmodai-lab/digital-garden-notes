@@ -8,7 +8,7 @@
 >Many of the notes in this topic are mostly unfinished as of 26.11.2025. They will be finished eventually, but they aren't right now.
 
 **Revolutionary [[Philosophy/03 DCT/01 Gender and Society/Feminism\|Feminist]] theology**
-- wants to totally revolutionize Christian theology; it advocates worship of Goddess and woman centred culture among other things. A male centered God is problematic and Christianity is irredeemable. 
+- wants to totally revolutionize Christian theology; it advocates worship of Goddess and woman centred culture among other things. A male centred God is problematic and Christianity is irredeemable. 
 **Reformist feminist theology**
 - advocates modest changes in the current church structure, usually believes in the more traditional aspects of Christian theology but oppose gender bias and unequal power
 

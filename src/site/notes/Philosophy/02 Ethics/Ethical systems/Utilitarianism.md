@@ -76,6 +76,21 @@ It uses various variables:
 |                                                                                                                       | only thinks of the outcome                                                                      |
 |                                                                                                                       | pleasure can be bad                                                                             |
 
+#### The utility monster critique
+
+This is directly copied from [this web article](https://thecougarstar.com/1819/opinion/the-utility-monster-a-critique-on-utilitarianism/) by Jiajia Huang on the utility monster critique.
+
+> The Utility Monster theory is a hypothetical situation involving a hypothetical being called the Utility Monster and some cookies. From consuming each cookie, the Utility Monster produces much more “happiness” than the average person, thus being able to provide more happiness to the populace than the average person. So, following the tenets of utilitarianism, one would give the Utility Monster more cookies than the rest of the humans to produce the greatest output of happiness. 
+> 
+> However, the amount of cookies —a metaphor for human resources in this problem— is limited, which means that if the Utility Monster were to receive more cookies, cookies would have to be taken away from everyone else; thus reducing the happiness output of others. 
+> 
+> This is obviously unfair as there is an imbalance between the cookies being doled out to the Utility Monster and any other person. Despite this act of unfairness, giving more cookies to the Utility Monster would still produce the greatest amount of utility for the populace and net happiness would be maximized. Still, others would lack resources —or in this case, cookies— and would have to suffer in exchange for greater net happiness. In order to increase net happiness, more people would have to suffer.
+> 
+> This is a drawback of utilitarianism. This philosophy of maximized happiness and utility will always be subject to those “utility monsters.” This raises the question, is net happiness and utility representative of true happiness and utility? You could say that a group’s utility is directly correlated to the utility of the least happiest person in said group.
+> 
+> But what is happiness and how can it be measured? _Can_ it even be measured in the first place? Happiness varies from person to person and there is no concrete way to quantify the amount of happiness in an individual or a group. 
+> 
+> This is why utilitarianism does not work as either a concept or a method of action. Utilitarianism centers around the maximization of happiness, something that can’t be properly measured and has no concrete unit. Furthermore, utilitarianism even goes so far as to contradict its own philosophy as seen with the example of the Utility Monster.
 
 ## Rule utilitarianism
 
