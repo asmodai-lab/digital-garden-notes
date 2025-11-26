@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/organisation/resources/","tags":["resources","homepage"]}
 ---
 
-# Politics resources
-[Politics spec ](https://qualifications.pearson.com/content/dam/pdf/A%20Level/Politics/2017/Specification%20and%20sample%20assessments/A-level-Politics-Specification.pdf)
-
-[[Politics/The news\|The news]]
-
 # Philosophy resources
 [Philosophy spec](https://www.ocr.org.uk/Images/242913-specification-accredited-a-level-gce-religious-studies-h573.pdf)
 
@@ -16,7 +11,16 @@
 
 A [list of PDFs](https://andrewmbailey.com/money/readings/) of unorganised readings
 
-## Notes
+|                                                                                                             | Type               | Paper | Topic           | Rating | Summary notes |
+| ----------------------------------------------------------------------------------------------------------- | ------------------ | ----- | --------------- | ------ | ------------- |
+| [The elements of morality](https://home.csulb.edu/~cwallis/382/readings/160/EM.pdf)/ [[Reviews/EM\|Internal PDF]]   | Book               | 2     | Ethical systems | 8.2    |               |
+| [Descartes and the mind-body-soul problem](https://www.laphamsquarterly.org/states-mind/ghost-and-princess) | Article            | 1     | mind-body-soul  | 6      |               |
+| - [Magical thinking and dualism](https://andrewmbailey.com/MagicalThinking.pdf)                             | Barticle           | 1     | mind-body-soul  |        |               |
+| [Plato.stanford.eu](https://plato.stanford.edu/new.html)                                                    | Website/collection |       |                 |        |               |
+|                                                                                                             |                    |       |                 |        |               |
+|                                                                                                             |                    |       |                 |        |               |
+
+## Link dump yard
 
 [Summary notes](https://whsat.sharepoint.com/sites/Section_27011/Shared%20Documents/Forms/AllItems.aspx?ct=1736165693424&or=Teams%2DHL&ga=1&id=%2Fsites%2FSection%5F27011%2FShared%20Documents%2FGeneral%2FRevision&viewid=9ebddd88%2D243c%2D42f9%2Dae13%2D94323681edcb)
 
@@ -39,9 +43,9 @@ All of the articles on that website are very much worth a read to get a more in-
 
 [Descartes and the mind-body-soul problem](https://www.laphamsquarterly.org/states-mind/ghost-and-princess)
 
-## Articles (aka opinion pieces)
+### Articles (aka opinion pieces)
 
-Here are my [[Reviews/Reviews\|Reviews]] of all of these (it's easier to just put articles in and then read and review them afterwards)
+Here are my [[Reviews\|Reviews]] of all of these (it's easier to just put articles in and then read and review them afterwards)
 
 Some guy on the internet has quite a few interesting articles, such as (but not limited to)
 [Why the ontological argument doesn't work](https://www.mccaughan.org.uk/g/remarks/ontological.html)
@@ -71,3 +75,21 @@ Some guy on the internet has quite a few interesting articles, such as (but not 
 
 [Books by Hud Hudson](https://philpeople.org/profiles/hud-hudson/publications?order=viewings)
 - [Universalism and four dimensionalism](https://www.jstor.org/stable/pdf/2653813.pdf)
+
+
+### Videos
+
+[Misquoting Jesus — YouTube podcast (playlist)](https://www.youtube.com/watch?v=uObu6PCipG0&list=PLmutpnyeVQcrRNOzPWdEothXcCVo2Npfv) (Bard D. Ehrman)
+
+# Politics
+
+|                                                                                      | Type          | Area       | Topic      | Rating | Summary notes |
+| ------------------------------------------------------------------------------------ | ------------- | ---------- | ---------- | ------ | ------------- |
+| [Negative freedom](https://plato.stanford.edu/entries/liberty-positive-negative/)    | Article/notes | Ideologies | Liberalism |        |               |
+| [Keynesian Economics](https://www.imf.org/external/pubs/ft/fandd/2014/09/basics.htm) | Notes         | Ideologies | Liberalism |        |               |
+
+## Other resources
+[Politics spec ](https://qualifications.pearson.com/content/dam/pdf/A%20Level/Politics/2017/Specification%20and%20sample%20assessments/A-level-Politics-Specification.pdf)
+
+[[Politics/The news\|The news]]
+

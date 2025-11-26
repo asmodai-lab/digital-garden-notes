@@ -5,7 +5,7 @@
 # Resources
 [[Organisation/Resources\|Resources]]
 
-[[Reviews/Reviews\|Reviews]]
+[[Reviews\|Reviews]]
 
 [[Brain joggers\|I have an exam in 10 minutes and I need a QUICK summary — aka Brain Joggers]]
 
