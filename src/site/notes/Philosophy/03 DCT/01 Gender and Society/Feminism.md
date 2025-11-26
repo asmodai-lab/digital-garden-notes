@@ -13,6 +13,14 @@ The self
 
 **[[Philosophy/03 DCT/01 Gender and Society/Simone De Beauvoir\|Simone De Beauvoir]]**
 - 'one is not born a woman, but becomes one'
-- 
-Hermeneutics
+
+## Hermeneutics
 -> the Bible is interpreted in light of whether or not it liberates women and men. If the text does not liberate then "it either must not be true or has been misinterpreted." The Hermeneutics (interpretation) or the Bible and church practices are "detecting" patriarchal and androgynous tendencies. Therefore, one looks at language, depictions of women and men, parables, etc. In light of women's liberation from oppression and to the end of empowering women. 
+
+**The major hermeneutic proposer here is [[Philosophy/03 DCT/01 Gender and Society/Rosemary Radford Reuther\|Rosemary Radford Reuther]].*
+*
+### Articles on hermeneutics
+
+[[PDFs and articles/She’s Not a Whore -  Pejorative Language and Translation Bias in Ezekiel 16 - CBE International\|She’s Not a Whore -  Pejorative Language and Translation Bias in Ezekiel 16 - CBE International]]
+
+[[PDFs and articles/Correcting Caricatures -  Women and Bible Translation - CBE International\|Correcting Caricatures -  Women and Bible Translation - CBE International]]

@@ -15,6 +15,7 @@ personal, or whether they should be subject to societal norms and legislation
 2. [[Philosophy/02 Ethics/Sexual Ethics/Sex ethics contextual texts#Kant sex, objectification, and the moral law\|Kant]]
 3. [[Philosophy/02 Ethics/Sexual Ethics/Sex ethics contextual texts#Song of songs\|The song of Solomon]]
 
+[[Philosophy/02 Ethics/Sexual Ethics/BDSM and homosexuality\|BDSM and homosexuality]]
 
 ## Other materials
 

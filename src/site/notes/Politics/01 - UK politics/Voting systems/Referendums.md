@@ -10,3 +10,5 @@
 ### Statistics
 
 ![Referendums statistics.png](/img/user/Images/Referendums%20statistics.png)
+
+
