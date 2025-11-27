@@ -103,5 +103,23 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 </script>
 
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const embeds = document.querySelectorAll('.internal-embed[data-src$=".excalidraw"]');
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key.toLowerCase() === 'f') {
+      // Toggle fullscreen on all embeds
+      embeds.forEach(embed => embed.classList.toggle('fullscreen'));
+    }
+
+    if (e.key === 'Escape') {
+      // Remove fullscreen from all embeds
+      embeds.forEach(embed => embed.classList.remove('fullscreen'));
+    }
+  });
+});
+</script>
+
   </body>
 </html>
