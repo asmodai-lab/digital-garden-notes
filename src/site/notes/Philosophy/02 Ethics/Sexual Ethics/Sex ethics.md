@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/02-ethics/sexual-ethics/sex-ethics/","tags":["homepage"],"updated":"2025-11-27T10:49:07.541+00:00"}
+{"dg-publish":true,"permalink":"/philosophy/02-ethics/sexual-ethics/sex-ethics/","tags":["homepage"],"updated":"2025-11-27T11:37:46.150+00:00"}
 ---
 
 ## Spec on sexual ethics
@@ -7,7 +7,7 @@
 • whether or not religious beliefs and practices concerning sex and relationships have a
 continuing role in the area of sexual ethics
 • whether choices in the area of sexual behaviour should be entirely private and
-personal, or whether they should be subject to societal norms and legislation
+personal, or whether they should be subject to societal norms and legislation 
 • whether normative theories are useful in what they might say about sexual ethics
 
 ## Notes
