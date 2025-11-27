@@ -92,5 +92,16 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% include imp %}
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll('.internal-embed[data-src$=".excalidraw"]').forEach(embed => {
+    embed.addEventListener('click', () => {
+      embed.classList.toggle('fullscreen');
+    });
+  });
+});
+</script>
+
   </body>
 </html>
