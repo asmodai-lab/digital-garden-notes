@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/the-presidency/vice-president-and-cabinet/"}
+{"dg-publish":true,"permalink":"/politics/02-usa/the-presidency/vice-president-and-cabinet/","updated":"2025-11-18T10:36:10.895+00:00"}
 ---
 
 #lessonminor 

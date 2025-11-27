@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/03-dct/02-liberation-theology/kingdom-theology/"}
+{"dg-publish":true,"permalink":"/philosophy/03-dct/02-liberation-theology/kingdom-theology/","tags":["lessonmajor"],"updated":"2025-11-26T19:56:14.743+00:00"}
 ---
 
-```table-of-contents
-```
-#lessonmajor 
+ - [[Philosophy/03 DCT/02 Liberation theology/Kingdom Theology#Augustine's opinions\|Augustine's opinions]]
+- [[Philosophy/03 DCT/02 Liberation theology/Kingdom Theology#The Kingdom of God\|The Kingdom of God]]
+	- [[Philosophy/03 DCT/02 Liberation theology/Kingdom Theology#The Kingdom of God\|Different views of the Kingdom of God]]
+- [[Philosophy/03 DCT/02 Liberation theology/Kingdom Theology#Mentions of the Kingdom of God in the Bible\|Mentions of the Kingdom of God in the Bible]]
+	- [[Philosophy/03 DCT/02 Liberation theology/Kingdom Theology#Mentions of the Kingdom of God in the Bible\|Boff]]
+
 # Two cities
 
 We have the city of man, and the city of God- <span style="color:rgb(0, 176, 240)">Augustinian</span> concepts. 

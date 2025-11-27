@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/02-ethics/ethical-systems/utilitarianism/","tags":["lessonmajor"]}
+{"dg-publish":true,"permalink":"/philosophy/02-ethics/ethical-systems/utilitarianism/","tags":["lessonmajor"],"updated":"2025-11-26T10:27:31.502+00:00"}
 ---
 
 **Table of contents**

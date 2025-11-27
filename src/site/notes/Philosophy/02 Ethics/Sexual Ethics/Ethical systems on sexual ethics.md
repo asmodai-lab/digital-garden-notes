@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/02-ethics/sexual-ethics/ethical-systems-on-sexual-ethics/","tags":["lessonmajor","summary"],"updated":"2025-11-27T10:44:55.990+00:00"}
+{"dg-publish":true,"permalink":"/philosophy/02-ethics/sexual-ethics/ethical-systems-on-sexual-ethics/","tags":["lessonmajor","summary"],"updated":"2025-11-27T10:45:12.259+00:00"}
 ---
 
 **Table of Contents**

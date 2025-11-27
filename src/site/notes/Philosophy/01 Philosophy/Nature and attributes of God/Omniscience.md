@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/01-philosophy/nature-and-attributes-of-god/omniscience/"}
+{"dg-publish":true,"permalink":"/philosophy/01-philosophy/nature-and-attributes-of-god/omniscience/","updated":"2025-11-18T09:29:14.330+00:00"}
 ---
 
 [[Omniscience LoA.canvas|Omniscience LoA]]

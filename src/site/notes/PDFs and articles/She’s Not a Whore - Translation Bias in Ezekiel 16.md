@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pd-fs-and-articles/she-s-not-a-whore-translation-bias-in-ezekiel-16/","tags":["resources"]}
+{"dg-publish":true,"permalink":"/pd-fs-and-articles/she-s-not-a-whore-translation-bias-in-ezekiel-16/","tags":["resources"],"updated":"2025-11-26T10:10:20.818+00:00"}
 ---
 
 

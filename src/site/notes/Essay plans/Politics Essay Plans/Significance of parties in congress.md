@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essay-plans/politics-essay-plans/significance-of-parties-in-congress/","tags":["debates"]}
+{"dg-publish":true,"permalink":"/essay-plans/politics-essay-plans/significance-of-parties-in-congress/","tags":["debates"],"updated":"2025-11-18T12:56:56.895+00:00"}
 ---
 
 Examine the extent to which political parties are significant in congress.

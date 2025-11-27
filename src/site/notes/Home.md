@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-11-26T13:31:58.231+00:00"}
 ---
 
 # Resources

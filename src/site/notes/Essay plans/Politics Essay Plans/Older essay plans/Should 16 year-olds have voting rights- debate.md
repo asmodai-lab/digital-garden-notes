@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essay-plans/politics-essay-plans/older-essay-plans/should-16-year-olds-have-voting-rights-debate/"}
+{"dg-publish":true,"permalink":"/essay-plans/politics-essay-plans/older-essay-plans/should-16-year-olds-have-voting-rights-debate/","updated":"2025-11-18T10:39:22.175+00:00"}
 ---
 
 [[Politics/01 - UK politics/Democracy/The Franchise\|The Franchise]], [[Politics/01 - UK politics/Democracy/Turnout Stats sheet\|Turnout Stats sheet]]

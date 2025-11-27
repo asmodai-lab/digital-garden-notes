@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essay-plans/philosophy-essay-plans/liberation-and-marx-speech/"}
+{"dg-publish":true,"permalink":"/essay-plans/philosophy-essay-plans/liberation-and-marx-speech/","updated":"2025-11-18T09:33:08.020+00:00"}
 ---
 
 #homework #debates  

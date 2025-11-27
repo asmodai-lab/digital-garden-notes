@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/the-supreme-court/judicial-ideologies/"}
+{"dg-publish":true,"permalink":"/politics/02-usa/the-supreme-court/judicial-ideologies/","updated":"2025-11-18T10:36:27.005+00:00"}
 ---
 
 #table

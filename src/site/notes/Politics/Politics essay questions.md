@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/politics-essay-questions/","tags":["questions"]}
+{"dg-publish":true,"permalink":"/politics/politics-essay-questions/","tags":["questions"],"updated":"2025-11-18T22:24:30.727+00:00"}
 ---
 
 # UK politics

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essay-plans/politics-essay-plans/older-essay-plans/living-constitution-v-originalism/"}
+{"dg-publish":true,"permalink":"/essay-plans/politics-essay-plans/older-essay-plans/living-constitution-v-originalism/","updated":"2025-11-19T10:04:35.772+00:00"}
 ---
 
 #debates 

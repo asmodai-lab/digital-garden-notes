@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organisation/resources/","tags":["resources","homepage"]}
+{"dg-publish":true,"permalink":"/organisation/resources/","tags":["resources","homepage"],"updated":"2025-11-26T12:18:06.609+00:00"}
 ---
 
 # Philosophy resources

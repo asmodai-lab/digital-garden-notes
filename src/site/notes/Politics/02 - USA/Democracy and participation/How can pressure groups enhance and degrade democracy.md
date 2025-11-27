@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/democracy-and-participation/how-can-pressure-groups-enhance-and-degrade-democracy/"}
+{"dg-publish":true,"permalink":"/politics/02-usa/democracy-and-participation/how-can-pressure-groups-enhance-and-degrade-democracy/","updated":"2025-11-18T10:35:29.575+00:00"}
 ---
 
 #table 

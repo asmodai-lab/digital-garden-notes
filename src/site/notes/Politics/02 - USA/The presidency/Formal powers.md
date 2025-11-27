@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/the-presidency/formal-powers/","tags":["lessonmajor","unfinished"]}
+{"dg-publish":true,"permalink":"/politics/02-usa/the-presidency/formal-powers/","tags":["lessonmajor","unfinished"],"updated":"2025-11-23T16:32:55.480+00:00"}
 ---
 
 

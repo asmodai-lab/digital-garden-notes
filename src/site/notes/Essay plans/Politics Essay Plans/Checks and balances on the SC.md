@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essay-plans/politics-essay-plans/checks-and-balances-on-the-sc/"}
+{"dg-publish":true,"permalink":"/essay-plans/politics-essay-plans/checks-and-balances-on-the-sc/","updated":"2025-11-18T10:39:36.390+00:00"}
 ---
 
 #debates 

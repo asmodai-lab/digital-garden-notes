@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/02-ethics/ethical-systems/natural-moral-law/natural-moral-law/"}
+{"dg-publish":true,"permalink":"/philosophy/02-ethics/ethical-systems/natural-moral-law/natural-moral-law/","updated":"2025-11-18T09:30:59.182+00:00"}
 ---
 
 #lessonmajor #unfinished 

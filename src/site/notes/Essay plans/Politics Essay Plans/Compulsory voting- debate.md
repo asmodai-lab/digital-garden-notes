@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essay-plans/politics-essay-plans/compulsory-voting-debate/"}
+{"dg-publish":true,"permalink":"/essay-plans/politics-essay-plans/compulsory-voting-debate/","updated":"2025-11-18T10:39:39.507+00:00"}
 ---
 
 [[Politics/01 - UK politics/Democracy/The Franchise\|The Franchise]]

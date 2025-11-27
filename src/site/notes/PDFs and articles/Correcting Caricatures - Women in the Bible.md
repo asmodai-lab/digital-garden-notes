@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pd-fs-and-articles/correcting-caricatures-women-in-the-bible/","tags":["resources"]}
+{"dg-publish":true,"permalink":"/pd-fs-and-articles/correcting-caricatures-women-in-the-bible/","tags":["resources"],"updated":"2025-11-26T10:08:13.437+00:00"}
 ---
 
 ## Link to the website

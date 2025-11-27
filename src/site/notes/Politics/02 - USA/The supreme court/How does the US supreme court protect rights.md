@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/the-supreme-court/how-does-the-us-supreme-court-protect-rights/"}
+{"dg-publish":true,"permalink":"/politics/02-usa/the-supreme-court/how-does-the-us-supreme-court-protect-rights/","updated":"2025-11-18T10:36:22.929+00:00"}
 ---
 
 #lessonminor #unfinished

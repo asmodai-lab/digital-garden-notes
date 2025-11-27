@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/02-ethics/sexual-ethics/sex-ethics/","tags":["homepage"]}
+{"dg-publish":true,"permalink":"/philosophy/02-ethics/sexual-ethics/sex-ethics/","tags":["homepage"],"updated":"2025-11-27T10:49:07.541+00:00"}
 ---
 
 ## Spec on sexual ethics
@@ -8,7 +8,9 @@
 continuing role in the area of sexual ethics
 • whether choices in the area of sexual behaviour should be entirely private and
 personal, or whether they should be subject to societal norms and legislation
-• whether normative theories are useful in what they might say about sexual ethic
+• whether normative theories are useful in what they might say about sexual ethics
+
+## Notes
 
 [[Philosophy/02 Ethics/Sexual Ethics/Sex ethics contextual texts\|Which philosophers do you look at for this?]]
 1. [[Philosophy/02 Ethics/Sexual Ethics/Sex ethics contextual texts#Augustine concupiscence and the shadow of lust\|Augustine]]
@@ -16,6 +18,8 @@ personal, or whether they should be subject to societal norms and legislation
 3. [[Philosophy/02 Ethics/Sexual Ethics/Sex ethics contextual texts#Song of songs\|The song of Solomon]]
 
 [[Philosophy/02 Ethics/Sexual Ethics/BDSM and homosexuality\|BDSM and homosexuality]]
+
+[[Philosophy/02 Ethics/Sexual Ethics/Ethical systems on sexual ethics\|Ethical systems on sexual ethics]] 
 
 ## Other materials
 

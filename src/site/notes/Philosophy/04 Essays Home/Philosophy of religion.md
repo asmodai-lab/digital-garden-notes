@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/04-essays-home/philosophy-of-religion/","tags":["questions"]}
+{"dg-publish":true,"permalink":"/philosophy/04-essays-home/philosophy-of-religion/","tags":["questions"],"updated":"2025-11-18T22:42:21.195+00:00"}
 ---
 
 ## Aristotle and Plato

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/the-supreme-court/the-supreme-court/"}
+{"dg-publish":true,"permalink":"/politics/02-usa/the-supreme-court/the-supreme-court/","updated":"2025-11-18T10:36:29.450+00:00"}
 ---
 
 [[Politics/02 - USA/The supreme court/Judicial ideologies\|Judicial ideologies]] 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/01-philosophy/religious-language/language-home/"}
+{"dg-publish":true,"permalink":"/philosophy/01-philosophy/religious-language/language-home/","updated":"2025-11-18T09:29:52.974+00:00"}
 ---
 
 #homepage 
