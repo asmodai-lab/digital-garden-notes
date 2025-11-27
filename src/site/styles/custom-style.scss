@@ -12,14 +12,12 @@ body {
     //  }
 
 
-/* Make embedded Excalidraw drawings responsive */
 .internal-embed[data-src$=".excalidraw"] {
   width: 100%;
   max-width: none;
-  cursor: zoom-in; /* Indicates click-to-expand */
+  cursor: zoom-in;
 }
 
-/* Fullscreen mode */
 .internal-embed[data-src$=".excalidraw"].fullscreen {
   position: fixed;
   top: 0;
@@ -27,12 +25,14 @@ body {
   width: 100vw;
   height: 100vh;
   z-index: 9999;
-  background: #fff; /* Optional for clean background */
+  background: #fff;
   margin: 0;
   padding: 0;
-  overflow: auto; /* Allows scrolling if needed */
-  cursor: zoom-out; /* Indicates click-to-exit */
+  overflow: auto;
+  cursor: zoom-out;
+  transition: all 0.3s ease-in-out;
 }
+
    // SVG scaling fix - make SVGs responsive and fit the container
     .markdown-rendered svg,
     .markdown-preview-view svg {
