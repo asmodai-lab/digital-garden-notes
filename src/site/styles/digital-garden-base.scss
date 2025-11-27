@@ -14,18 +14,18 @@ body {
 }
 
 img {
-    max-width: 100%;
+    max-width: auto !important;
 }
 
 .content {
-    max-width: 700px;
+    max-width: 800px;
     margin: auto;
     font-size: 18px;
     line-height: 1.5;
     margin-top: 90px;
     position: relative;
 
-    @media (max-width: 800px) {
+    @media (max-width: 1000px!impotant) {
         margin-top: 75px;
     }
 }
@@ -68,8 +68,9 @@ ul.task-list {
     height: 100%;
     min-width: 25px;
     display: flex;
+	flex-direction: column;
     z-index: 3;
-    max-width: 350px;
+    max-width: 250px;
 
     .graph {
         width: 320px;
@@ -202,7 +203,7 @@ ul.task-list {
 
     .backlink-title {
         margin: 4px 0;
-        font-size: 18px !important;
+        font-size: 16px !important;
         color: var(--h6-color);
     }
 }
@@ -249,7 +250,7 @@ ul.task-list {
         padding: 3px 7px;
         font-size: 1.2rem !important;
         border-radius: 10px 10px 0 0;
-        color: var(--h6-color);
+        color: var(--h1-color);
     }
 }
 
@@ -278,7 +279,7 @@ ul.task-list {
 
     .sidebar-container {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         justify-content: space-between;
     }
 
@@ -358,8 +359,8 @@ ul.task-list {
     }
 
     @media (max-width: 800px) {
-        h1 {
-            font-size: 18px !important;
+        h2 {
+            font-size: 18px ;
         }
     }
 
