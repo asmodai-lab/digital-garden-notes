@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/03-dct/christian-moral-principles/key-terms-cmp/","tags":["lessonminor"]}
+{"dg-publish":true,"permalink":"/philosophy/03-dct/christian-moral-principles/key-terms-cmp/","tags":["lessonminor"],"updated":"2025-11-26T12:43:33.754+00:00"}
 ---
 
 | Term               | Definition                                                                                                                                 |

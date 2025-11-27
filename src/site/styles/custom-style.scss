@@ -11,7 +11,29 @@ body {
     //   color: black;
     //  }
 
-    // SVG scaling fix - make SVGs responsive and fit the container
+
+/* Make embedded Excalidraw drawings responsive */
+.internal-embed[data-src$=".excalidraw"] {
+  width: 100%;
+  max-width: none;
+  cursor: zoom-in; /* Indicates click-to-expand */
+}
+
+/* Fullscreen mode */
+.internal-embed[data-src$=".excalidraw"].fullscreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 9999;
+  background: #fff; /* Optional for clean background */
+  margin: 0;
+  padding: 0;
+  overflow: auto; /* Allows scrolling if needed */
+  cursor: zoom-out; /* Indicates click-to-exit */
+}
+   // SVG scaling fix - make SVGs responsive and fit the container
     .markdown-rendered svg,
     .markdown-preview-view svg {
         max-width: 100%;

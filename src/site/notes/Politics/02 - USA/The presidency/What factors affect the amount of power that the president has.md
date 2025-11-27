@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/the-presidency/what-factors-affect-the-amount-of-power-that-the-president-has/"}
+{"dg-publish":true,"permalink":"/politics/02-usa/the-presidency/what-factors-affect-the-amount-of-power-that-the-president-has/","updated":"2025-11-18T10:36:12.988+00:00"}
 ---
 
 #lessonminor #unfinished 

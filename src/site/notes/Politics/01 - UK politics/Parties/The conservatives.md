@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/01-uk-politics/parties/the-conservatives/","tags":["lessonmajor"]}
+{"dg-publish":true,"permalink":"/politics/01-uk-politics/parties/the-conservatives/","tags":["lessonmajor"],"updated":"2025-11-26T20:17:33.126+00:00"}
 ---
 
 - [[#History of conservative ideas|History of conservative ideas]]
@@ -106,4 +106,4 @@ Afterwards:
 - <span style="color:rgb(181, 97, 245)">withdrawing from the ECHR</span>
 - <span style="color:rgb(181, 97, 245)">repealing the climate change act</span>
 - <span style="color:rgb(181, 97, 245)">reversing tax changes introduced by Starmer</span><span style="color:rgb(0, 176, 240)"><span style="color:rgb(0, 176, 240)"><br></span></span>
-![[Conservative leaders.pdf]]
+<iframe src="/img/user/Images/UK-Political-Parties-Conservative-Leaders-2.pdf" width="100%" height="900px" title="UK-Political-Parties-Conservative-Leaders-2.pdf" style="border:1px solid #ccc;"></iframe>

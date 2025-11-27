@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essay-plans/politics-essay-plans/political-v-judicial/"}
+{"dg-publish":true,"permalink":"/essay-plans/politics-essay-plans/political-v-judicial/","updated":"2025-11-18T10:39:53.057+00:00"}
 ---
 
 #debates 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essay-plans/philosophy-essay-plans/kingdom-of-god-essay-plan/"}
+{"dg-publish":true,"permalink":"/essay-plans/philosophy-essay-plans/kingdom-of-god-essay-plan/","updated":"2025-11-18T09:56:09.806+00:00"}
 ---
 
 #unfinished #debates  

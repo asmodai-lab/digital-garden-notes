@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/the-presidency/exop/"}
+{"dg-publish":true,"permalink":"/politics/02-usa/the-presidency/exop/","updated":"2025-11-18T10:36:01.802+00:00"}
 ---
 
 #lessonmajor 

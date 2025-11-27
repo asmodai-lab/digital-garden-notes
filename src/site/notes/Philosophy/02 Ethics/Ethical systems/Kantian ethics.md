@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/02-ethics/ethical-systems/kantian-ethics/","tags":["lessonmajor","homepage"]}
+{"dg-publish":true,"permalink":"/philosophy/02-ethics/ethical-systems/kantian-ethics/","tags":["lessonmajor","homepage"],"updated":"2025-11-26T10:42:47.240+00:00"}
 ---
 
 

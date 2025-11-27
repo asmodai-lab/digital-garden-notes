@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/the-presidency/the-presidency/"}
+{"dg-publish":true,"permalink":"/politics/02-usa/the-presidency/the-presidency/","updated":"2025-11-18T10:36:08.456+00:00"}
 ---
 
 [[Politics/02 - USA/The presidency/EXOP\|EXOP]] 

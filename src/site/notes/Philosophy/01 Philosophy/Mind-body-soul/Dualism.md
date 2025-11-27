@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/01-philosophy/mind-body-soul/dualism/","tags":["lessonmajor"]}
+{"dg-publish":true,"permalink":"/philosophy/01-philosophy/mind-body-soul/dualism/","tags":["lessonmajor"],"updated":"2025-11-23T14:15:22.405+00:00"}
 ---
 
 ## Plato on Dualism

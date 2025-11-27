@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bear-hunt/basic-obsidian-tutorial/"}
+{"dg-publish":true,"permalink":"/bear-hunt/basic-obsidian-tutorial/","updated":"2025-11-19T15:13:39.240+00:00"}
 ---
 
 [Obsidian](https://obsidian.md/) is a note-taking app which is somewhat similar to Notion and OneNote, but with many more features. While I never used Notion for a long time, I find Obsidian easier to navigate and with more personalisation.

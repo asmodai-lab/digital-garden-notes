@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essay-plans/philosophy-essay-plans/god-as-timeless/"}
+{"dg-publish":true,"permalink":"/essay-plans/philosophy-essay-plans/god-as-timeless/","updated":"2025-11-18T09:55:01.498+00:00"}
 ---
 
 #debates 

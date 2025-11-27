@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/01-uk-politics/parties/labour/","tags":["lessonmajor"]}
+{"dg-publish":true,"permalink":"/politics/01-uk-politics/parties/labour/","tags":["lessonmajor"],"updated":"2025-11-26T20:19:02.965+00:00"}
 ---
 
 
@@ -80,5 +80,4 @@ Here's what he did:
 >  When Blair resigned in 2007, Brown became PM. In response to the 2008 economic crisis, he introduced a 50 pence top rate of taxation on incomes over £150, 000, as well as a bank bailout programme.
 > His successor, Ed Miliband, maintained it's distancing from Blairite policy by committing to the 50 p top rate of taxation, demanding an energy price freeze, and drawing a distinction between 'predatory' finance capitalism and 'producers' in the industry.
 
-
-![[UK-Political-Parties-Labour-Leaders-1.pdf]]
+<iframe src="/img/user/Images/UK-Political-Parties-Labour-Leaders-1.pdf" width="100%" height="900px" title="UK-Political-Parties-Labour-Leaders-1.pdf" style="border:1px solid #ccc;"></iframe>

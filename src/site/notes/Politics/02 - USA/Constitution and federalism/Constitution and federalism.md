@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/constitution-and-federalism/constitution-and-federalism/","tags":["homepage"]}
+{"dg-publish":true,"permalink":"/politics/02-usa/constitution-and-federalism/constitution-and-federalism/","tags":["homepage"],"updated":"2025-11-23T23:00:16.252+00:00"}
 ---
 
 > Please note that many of these notes were transferred directly from my messy notes and I haven't taken much care to clean them up. 

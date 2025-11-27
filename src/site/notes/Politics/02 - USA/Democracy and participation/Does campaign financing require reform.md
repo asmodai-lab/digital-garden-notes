@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/democracy-and-participation/does-campaign-financing-require-reform/"}
+{"dg-publish":true,"permalink":"/politics/02-usa/democracy-and-participation/does-campaign-financing-require-reform/","updated":"2025-11-18T10:35:26.993+00:00"}
 ---
 
 #lessonminor 

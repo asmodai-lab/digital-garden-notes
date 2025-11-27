@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/01-uk-politics/parties/minor-parties/","tags":["lessonminor"]}
+{"dg-publish":true,"permalink":"/politics/01-uk-politics/parties/minor-parties/","tags":["lessonminor"],"updated":"2025-11-25T10:49:53.498+00:00"}
 ---
 
 

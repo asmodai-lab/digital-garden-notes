@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/the-supreme-court/civil-rights-and-civil-liberties/"}
+{"dg-publish":true,"permalink":"/politics/02-usa/the-supreme-court/civil-rights-and-civil-liberties/","updated":"2025-11-18T10:36:18.883+00:00"}
 ---
 
 #lessonmajor

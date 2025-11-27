@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/03-ideologies/socialism/democratic-socialism/","tags":["lessonminor"]}
+{"dg-publish":true,"permalink":"/politics/03-ideologies/socialism/democratic-socialism/","tags":["lessonminor","unfinished"],"updated":"2025-11-27T15:06:29.611+00:00"}
 ---
 
 ## Historical context

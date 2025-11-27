@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/01-uk-politics/voting-behaviour/voting-behaviour/","tags":["homepage"]}
+{"dg-publish":true,"permalink":"/politics/01-uk-politics/voting-behaviour/voting-behaviour/","tags":["homepage"],"updated":"2025-11-18T23:12:20.992+00:00"}
 ---
 
 

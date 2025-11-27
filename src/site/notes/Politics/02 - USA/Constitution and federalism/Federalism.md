@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/constitution-and-federalism/federalism/","tags":["lessonmajor"]}
+{"dg-publish":true,"permalink":"/politics/02-usa/constitution-and-federalism/federalism/","tags":["lessonmajor"],"updated":"2025-11-23T22:46:02.354+00:00"}
 ---
 
 **Table of contents**

@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/02-ethics/sexual-ethics/bdsm-and-homosexuality/","tags":["lessonmajor"]}
+{"dg-publish":true,"permalink":"/philosophy/02-ethics/sexual-ethics/bdsm-and-homosexuality/","tags":["lessonmajor"],"updated":"2025-11-27T10:00:12.159+00:00"}
 ---
 
 Table of contents
 
 
 ----
-
 ## Introduction
 
 There is a landmark case called [[PDFs and articles/Criminalisation & Consent -- R. V. Brown\|R. V. Brown]] on if consensual acts are always morally justifiable.
@@ -53,6 +52,7 @@ The major thing to focus on here is the conditions of the **categorical imperati
 4. legislating member
 >This one is only for use in actually acting out Kant's principles. If you've heard of the prisoner's dilemma, then Kantian ethics demands that one chooses the most virtuous option, no matter if your opponent is guaranteed to choose the option which hurts you.
 >> here is an [article on the prisoner's dilemma](https://www.investopedia.com/terms/p/prisoners-dilemma.asp)
+
 
 
 ## Homosexuality

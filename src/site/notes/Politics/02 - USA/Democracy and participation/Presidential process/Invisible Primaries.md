@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/democracy-and-participation/presidential-process/invisible-primaries/"}
+{"dg-publish":true,"permalink":"/politics/02-usa/democracy-and-participation/presidential-process/invisible-primaries/","updated":"2025-11-18T10:35:40.956+00:00"}
 ---
 
 #lessonminor 

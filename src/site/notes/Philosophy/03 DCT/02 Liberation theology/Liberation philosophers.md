@@ -1,11 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/03-dct/02-liberation-theology/liberation-philosophers/"}
+{"dg-publish":true,"permalink":"/philosophy/03-dct/02-liberation-theology/liberation-philosophers/","updated":"2025-11-26T20:01:50.115+00:00"}
 ---
 
 #lessonmajor 
 
-```table-of-contents
-```
+**Table of Contents**
+
+- [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers#Major points that need to be accounted for:\|Major points that need to be accounted for:]]
+	- [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers#Major points that need to be accounted for:\|Definitions that need to be accounted for: (see later section)]]
+- [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers#Pope John Paul 2nd\|Pope John Paul 2nd]]
+	- [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers#Pope John Paul 2nd\|Marx and Restrepo]]
+		- [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers#Marx and Restrepo\|Is it right for Christians to prioritise one group over another?]]
+	- [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers#Pope John Paul 2nd\|The church's concern with liberation theology]]
+- [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers#Critics\|Critics]]
+	- [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers#Critics\|Kloppenburg (always a critic)]]
+	- [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers#Critics\|Richard McBrien]]
+- [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers#Proponents\|Proponents]]
+- [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers#Should Christianity engage with secularist atheist ideologies?\|Should Christianity engage with secularist atheist ideologies?]]
+	- [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers#Should Christianity engage with secularist atheist ideologies?\|Gustavo Gutierrez (VIP)]]
+- [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers#Summary of my ideas\|Summary of my ideas]]
+	- [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers#Summary of my ideas\|Definitions]]
+		- [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers#Definitions\|Marxism's main points of interest are:]]
+	- [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers#Summary of my ideas\|Themes of my argument]]
+
+
 
 [[Essay plans/Philosophy Essay Plans/Liberation and Marx- speech\|Does liberation theology compromise christian faith by aligning too closely with Marxism?]]
 

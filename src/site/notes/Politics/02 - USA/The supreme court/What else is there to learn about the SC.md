@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/the-supreme-court/what-else-is-there-to-learn-about-the-sc/"}
+{"dg-publish":true,"permalink":"/politics/02-usa/the-supreme-court/what-else-is-there-to-learn-about-the-sc/","updated":"2025-11-18T10:36:34.202+00:00"}
 ---
 
  #lessonminor #unfinished 
