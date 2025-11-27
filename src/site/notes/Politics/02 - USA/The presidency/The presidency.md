@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/the-presidency/the-presidency/","updated":"2025-11-18T10:36:08.456+00:00"}
+{"dg-publish":true,"permalink":"/politics/02-usa/the-presidency/the-presidency/","updated":"2025-11-27T22:55:53.332+00:00"}
 ---
 
-[[Politics/02 - USA/The presidency/EXOP\|EXOP]] 
+[[Politics/02 - USA/The presidency/Informal powers\|Informal powers]] 
 
-[[Politics/02 - USA/The presidency/Vice-president and cabinet\|Vice-president and cabinet]]
+[[Politics/02 - USA/The presidency/Informal powers\|Informal powers]]
 
 [[Politics/02 - USA/The presidency/Formal powers\|Formal powers]]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/02-ethics/ethical-systems/utilitarianism/","tags":["lessonmajor"],"updated":"2025-11-26T10:27:31.502+00:00"}
+{"dg-publish":true,"permalink":"/philosophy/02-ethics/ethical-systems/utilitarianism/","tags":["lessonmajor"],"updated":"2025-11-27T21:37:11.492+00:00"}
 ---
 
 **Table of contents**
@@ -54,7 +54,7 @@ He had to define what good was. Because Bentham was a hedonist, he believed that
 ### The hedonic calculus
 
 He then creates the hedonic calculus to determine how good an act is. 
-![HCalculus.jpg](/img/user/Images/HCalculus.jpg)
+![HCalculus.jpg|700](/img/user/Images/HCalculus.jpg)
 
 It uses various variables:
 1. intensity

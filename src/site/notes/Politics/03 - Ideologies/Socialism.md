@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/03-ideologies/socialism/","tags":["lessonmajor"],"updated":"2025-11-27T15:11:36.254+00:00"}
+{"dg-publish":true,"permalink":"/politics/03-ideologies/socialism/","tags":["lessonmajor"],"updated":"2025-11-27T22:26:10.981+00:00"}
 ---
 
 
@@ -7,6 +7,38 @@ You have 4 major socialist ideas.
 
 The spec only asks for three. DON'T WRITE ABOUT THE FOURTH ONE (Democratic Socialism)
 
+## Terminology
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/politics/03-ideologies/socialism/marxism-definitions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+| Word                            | Definition                                                                                          |
+| ------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Bourgeois state                 | The police/military/laws (etc) that are controlled by the bourgeoisie and oppress the proletariat.  |
+| Class oppression                | When one class uses people of another class                                                         |
+| Armed struggle                  | Violent opposition to capitalism, such as a rebellion or civil war.                                 |
+| Dictatorship of the proleteriat | A political system where the bourgeoisie can't take part.                                           |
+| Vanguard party                  | An organisation that co-ordinates the revolution and runs the new society (Leninism)                |
+| Inequality                      | A lack of equality                                                                                  |
+| Historical materialism          | All of history is determined by economics                                                           |
+| Bourgeoisie                     | The class that owns the means of production in a capitalist country.                                |
+| Proletariat                     | The class that does not own the means of production in a capitalist country.                        |
+| Social revolution               | A revolution that doesn't just change the government, but the fundamental structure of society.     |
+| Capitalism is doomed            | Communism is inevitable                                                                             |
+| Substructure                    | The economic structure                                                                              |
+| Dialectic                       | When two ideas oppose each other and lead to the creation of a new idea.                            |
+| Surplus value                   | The difference between what you are paid and the value you produce, which is being stolen from you. |
+| Five year plan                  | How Stalin ran the Soviet economy.                                                                  |
+| Means of production             | The ability/resources to make stuff.                                                                |
+| Alienation                      | When you feel separated from your humanity and other workers by capitalism.                         |
+| Class conciousness              | When you realise that you are a member of the proletariat and must rise up against Capitalism       |
+
+
+</div></div>
 
 ## Revolutionary socialism
 
@@ -70,7 +102,7 @@ He uses an idea of Hegel- *dialectical change*- he says that the way that ideas 
 	Marx got taught by<span style="color:rgb(255, 192, 0)"> Hegel</span>. He steals the idea and calls it *dialectical/historical materialism*- the same idea but the <span style="color:rgb(255, 192, 0)">theses and antitheses are economic systems. </span>
 		this is why<span style="color:rgb(255, 192, 0)"> Marxists are</span> atheists- because they are<span style="color:rgb(255, 192, 0)"> materialists. </span>
 	It's <span style="color:rgb(255, 192, 0)">materialism (empiricism) and rationalism</span> (idealism- like belief in God or the soul)
-![synthesis.png](/img/user/Images/synthesis.png)
+![synthesis.png|800](/img/user/Images/synthesis.png)
 
 Marx says that every society is<span style="color:rgb(255, 192, 0)"> underpinned by oppression. </span>
 	*"The history of all hitherto existing society is the history of class struggles."*
@@ -161,7 +193,7 @@ Marx believed that this was inevitable, 95% of what he writes is about the pre-r
 - This was because of 
 
 </div></div>
- **— the one that you can't talk about in essays. Don't do it.**
+ **— the one that you can't talk about in essays. Don't do it.** 
 
 
 ## Social Democracy
