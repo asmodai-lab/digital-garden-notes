@@ -1,0 +1,1095 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Criminalisation &amp; Consent -- R. V. Brown</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/autoloader/prism-autoloader.min.js" integrity="sha512-sv0slik/5O0JIPdLBCR2A3XDg/1U3WuDEheZfI/DI5n8Yqc3h5kjrnr46FGBNiUAJF7rE4LHKwQ/SoSLRKAxEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script async src="https://cdn.jsdelivr.net/npm/lucide@0.115.0/dist/umd/lucide.min.js"></script>
+<script>window.addEventListener("load",(()=>{document.querySelectorAll(".callout").forEach((e=>{const t=getComputedStyle(e).getPropertyValue("--callout-icon"),l=t&&t.trim().replace(/^lucide-/,"");if(l){const t=e.querySelector(".callout-title");if(t){const e=document.createElement("div"),c=document.createElement("i");e.appendChild(c),c.setAttribute("icon-name",l),e.setAttribute("class","callout-icon"),t.insertBefore(e,t.firstChild)}}})),lucide.createIcons(),Array.from(document.querySelectorAll(".callout.is-collapsible")).forEach((e=>{e.querySelector(".callout-title").addEventListener("click",(t=>{e.classList.contains("is-collapsed")?e.classList.remove("is-collapsed"):e.classList.add("is-collapsed")}))}))}))</script>
+<script async src="https://fastly.jsdelivr.net/npm/force-graph@1.43.0/dist/force-graph.min.js"></script>
+<script async src="https://fastly.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js"></script>
+<script src="https://fastly.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js" async></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-okaidia.min.css" integrity="sha512-mIs9kKbaw6JZFfSuo+MovjU+Ntggfoj8RwAmJbVXQ5mkAX5LlgETQEweFPI18humSPHymTb5iikEOKWF7I8ncQ==" crossorigin="anonymous" referrerpolicy="no-referrer" async>
+<script src="https://fastly.jsdelivr.net/npm/whatwg-fetch@3.6.2/dist/fetch.umd.min.js" crossorigin="anonymous" referrerpolicy="no-referrer" async></script>
+<link href="/styles/digital-garden-base.css" rel="stylesheet">
+<link href="/styles/obsidian-base.css" rel="stylesheet">
+<link href="&#92;styles&#92;_theme.b7d1ddf0.css" rel="stylesheet">
+<link href="/styles/custom-style.css" rel="stylesheet">
+<style>body.css-settings-manager{--embed-padding:10;--embed-border-radius:5}</style>
+<style></style>
+</head>
+<body class="theme-dark markdown-preview-view markdown-rendered markdown-preview-section css-settings-manager theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app styled-scrollbars show-inline-title show-ribbon show-view-header is-maximized css-settings-manager callout-style-customize is-focused">
+<div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;" x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;" x-data="{isDesktop: true, showFilesMobile: false}">
+<div x-show.important="!isDesktop" style="display:none">
+<nav class="navbar">
+<div class="navbar-inner">
+<span style="font-size:1.5rem;margin-right:10px" @click="showFilesMobile=!showFilesMobile"><i icon-name="menu"></i></span>
+<a href="/" style="text-decoration:none">
+<h1 style="margin:15px!important">Digital Garden</h1>
+</a>
+</div>
+<div class="search-button align-icon" onclick="toggleSearch()">
+<span class="search-icon">
+<i icon-name="search"></i>
+</span>
+<span class="search-text">
+<span>Search</span>
+<span style="font-size:.6rem;padding:2px 2px 0 6px;text-align:center;transform:translateY(4px)" class="search-keys">
+CTRL + K
+</span>
+</span>
+</div>
+</nav>
+</div>
+<div x-show="showFilesMobile && !isDesktop" @click="showFilesMobile = false" style="display:none" class="fullpage-overlay"></div>
+<nav class="filetree-sidebar" x-show.important="isDesktop || showFilesMobile" style="display:none">
+<a href="/" style="text-decoration:none">
+<h1 style="text-align:center">Digital Garden</h1>
+</a>
+<div style="display:flex;justify-content:center">
+<div class="search-button align-icon" onclick="toggleSearch()">
+<span class="search-icon">
+<i icon-name="search"></i>
+</span>
+<span class="search-text">
+<span>Search</span>
+<span style="font-size:.6rem;padding:2px 2px 0 6px;text-align:center;transform:translateY(4px)" class="search-keys">
+CTRL + K
+</span>
+</span>
+</div>
+</div>
+<div class="folder" x-data="{isOpen: true}">
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Bear hunt&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Bear hunt</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/bear-hunt/basic-obsidian-tutorial/">Basic obsidian tutorial </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Essay plans&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Essay plans</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Essay plans/Philosophy Essay Plans&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Philosophy Essay Plans</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/philosophy-essay-plans/god-as-timeless/">God as timeless </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/philosophy-essay-plans/is-nml-helpful-at-decision-making/">Is NML helpful at decision making </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/philosophy-essay-plans/kingdom-of-god-essay-plan/">Kingdom of God essay plan </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/philosophy-essay-plans/liberation-and-marx-speech/">Liberation and Marx- speech </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Essay plans/Politics Essay Plans&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Politics Essay Plans</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Essay plans/Politics Essay Plans/Older essay plans&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Older essay plans</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/older-essay-plans/differences-between-uk-and-us-cabinet/">Differences between UK and US Cabinet </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/older-essay-plans/living-constitution-v-originalism/">Living constitution v originalism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/older-essay-plans/should-16-year-olds-have-voting-rights-debate/">Should 16 year-olds have voting rights- debate </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/checks-and-balances-on-the-sc/">Checks and balances on the SC </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/compulsory-voting-debate/">Compulsory voting- debate </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/do-opinion-polls-affect-voting-behaviour/">Do opinion polls affect voting behaviour </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/do-parties-help-or-hurt-democracy/">Do parties help or hurt democracy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/political-v-judicial/">Political v Judicial </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/primaries-pros-and-cons/">Primaries pros and cons </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/significance-of-parties-in-congress/">Significance of parties in congress </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Excalidraw&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Excalidraw</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Excalidraw/Philosophy&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Philosophy</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/does-christianity-tackle-social-issues-better-than-marxism-excalidraw/">Does Christianity tackle social issues better than Marxism.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/has-christian-theology-engaged-in-marxist-theology-enough-excalidraw/">Has christian theology engaged in Marxist theology enough.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/should-christianity-engage-with-atheist-ideologies-excalidraw/">Should Christianity engage with atheist ideologies.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/song-of-solomon-excalidraw/">Song of solomon.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/theonomous-ethics-excalidraw/">Theonomous ethics.excalidraw </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Excalidraw/Politics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Politics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/politics/should-the-state-fund-political-parties/">Should the state fund political parties </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/augustine-and-human-nature-summary-excalidraw/">Augustine and human nature -- summary.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/normative-theories-on-sexual-ethics-excalidraw/">Normative theories on sexual ethics.excalidraw </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Images&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Images</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/images/natural-law-essays/">Natural law essays </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Organisation&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Organisation</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/organisation/resources/">Resources </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;PDFs and articles&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">PDFs and articles</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/pd-fs-and-articles/correcting-caricatures-women-in-the-bible/">Correcting Caricatures - Women in the Bible </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/pd-fs-and-articles/criminalisation-and-consent-r-v-brown/">Criminalisation &amp; Consent -- R. V. Brown </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/pd-fs-and-articles/she-s-not-a-whore-translation-bias-in-ezekiel-16/">She’s Not a Whore - Translation Bias in Ezekiel 16 </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Philosophy</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/01 Philosophy&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">01 Philosophy</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/01 Philosophy/Mind-body-soul&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Mind-body-soul</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/mind-body-soul/dualism/">Dualism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/mind-body-soul/mind-body-and-soul/">Mind, body and soul </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/01 Philosophy/Nature and attributes of God&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Nature and attributes of God</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/anselm-s-theories/">Anselm&#39;s theories </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/introduction/">Introduction </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/nature-and-attributes-of-god/">Nature and attributes of God </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/omnipotence/">Omnipotence </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/omniscience/">Omniscience </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/01 Philosophy/Religious Language&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Religious Language</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/religious-language/101/">101 </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/religious-language/analogy/">Analogy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/religious-language/language-home/">Language Home </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/paper-1/">Paper 1 </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/philosophy-questions/">Philosophy questions </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">02 Ethics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics/Ethical systems&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Ethical systems</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics/Ethical systems/Natural Moral Law&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Natural Moral Law</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethical-systems/natural-moral-law/natural-moral-law/">Natural Moral Law </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics/Ethical systems/Situation ethics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Situation ethics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethical-systems/situation-ethics/situation-ethics/">Situation ethics </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethical-systems/kantian-ethics/">Kantian ethics </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethical-systems/utilitarianism/">Utilitarianism </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics/Sexual Ethics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Sexual Ethics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/sexual-ethics/bdsm-and-homosexuality/">BDSM and homosexuality </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/sexual-ethics/ethical-systems-on-sexual-ethics/">Ethical systems on sexual ethics </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/sexual-ethics/sex-ethics-contextual-texts/">Sex ethics contextual texts </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/sexual-ethics/sex-ethics/">Sex ethics </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/business-ethics-excalidraw/">Business ethics.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethics-questions/">Ethics questions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/paper-2/">Paper 2 </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">03 DCT</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT/01 Gender and Society&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">01 Gender and Society</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/feminism/">Feminism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/gender-and-society-home/">Gender and society home </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/mary-daly/">Mary Daly </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/rosemary-radford-reuther/">Rosemary Radford Reuther </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/simone-de-beauvoir/">Simone De Beauvoir </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT/02 Liberation theology&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">02 Liberation theology</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/02-liberation-theology/general-notes/">General notes </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/02-liberation-theology/kingdom-theology/">Kingdom Theology </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/02-liberation-theology/liberation-philosophers/">Liberation philosophers </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/02-liberation-theology/liberation-theology/">Liberation theology </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT/03 Augustine&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">03 Augustine</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/03-augustine/augustine-and-human-nature/">Augustine and human nature </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT/Christian Moral Principles&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Christian Moral Principles</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/christian-moral-principles/christian-moral-principles/">Christian Moral Principles </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/christian-moral-principles/key-terms-cmp/">Key terms CMP </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/paper-3/">Paper 3 </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/04 Essays Home&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">04 Essays Home</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/04-essays-home/development-of-christian-thought-essay-questions/">Development of Christian thought essay questions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/04-essays-home/ethics-essay-questions/">Ethics essay questions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/04-essays-home/philosophy-of-religion/">Philosophy of religion </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/terms-dictionary/">Terms dictionary </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Politics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">01 - UK politics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics/Democracy&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Democracy</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/democracy/democracy/">Democracy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/democracy/pressure-groups-lobbyists-and-think-tanks/">Pressure groups, Lobbyists and think tanks </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/democracy/the-franchise/">The Franchise </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/democracy/turnout-stats-sheet/">Turnout Stats sheet </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics/Parties&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Parties</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/general-info/">General Info </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/labour/">Labour </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/minor-parties/">Minor parties </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/party-funding/">Party funding </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/political-parties-home/">Political parties home </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/the-conservatives/">The conservatives </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/the-lib-dems/">The lib-dems </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics/Voting Behaviour&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Voting Behaviour</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-behaviour/non-social-factors/">Non-social factors </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-behaviour/social-factors/">Social factors </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-behaviour/the-media-and-voting-behaviour/">The media and voting behaviour </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-behaviour/voting-behaviour/">Voting Behaviour </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics/Voting systems&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Voting systems</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-systems/referendums/">Referendums </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-systems/voting-systems/">Voting systems </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/uk-government/">UK government </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/uk-politics-home/">UK politics home </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">02 - USA</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/Constitution and federalism&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Constitution and federalism</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/constitution-and-federalism/constitution-and-federalism/">Constitution and federalism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/constitution-and-federalism/federalism/">Federalism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/constitution-and-federalism/the-constitution/">The constitution </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/Democracy and participation&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Democracy and participation</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/Democracy and participation/Presidential process&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Presidential process</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/democracy-and-participation/">Democracy and participation </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/electoral-college/">Electoral College </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/invisible-primaries/">Invisible Primaries </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/party-conventions/">Party Conventions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/tv-debates/">TV debates </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/what-are-primaries-and-caucuses/">What are primaries and caucuses </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/does-campaign-financing-require-reform/">Does campaign financing require reform </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/how-can-pressure-groups-enhance-and-degrade-democracy/">How can pressure groups enhance and degrade democracy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/interest-groups-in-the-usa/">Interest groups in the USA </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/The presidency&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">The presidency</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/exop/">EXOP </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/formal-powers/">Formal powers </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/how-does-the-president-relate-to-congress/">How does the president relate to congress </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/the-presidency/">The presidency </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/vice-president-and-cabinet/">Vice-president and cabinet </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/what-factors-affect-the-amount-of-power-that-the-president-has/">What factors affect the amount of power that the president has </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/The supreme court&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">The supreme court</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/civil-rights-and-civil-liberties/">Civil rights and civil liberties </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/history-of-usa-immigration/">History of USA immigration </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/how-does-the-us-supreme-court-protect-rights/">How does the US supreme court protect rights </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/interpretations-and-debates-of-the-sc/">Interpretations and debates of the SC </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/judicial-ideologies/">Judicial ideologies </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/the-supreme-court/">The Supreme Court </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/what-else-is-there-to-learn-about-the-sc/">What else is there to learn about the SC </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/comparative-notes/uk-and-us-legislatures/">UK and US legislatures </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/usa-homepage/">USA homepage </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/03 - Ideologies&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">03 - Ideologies</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/03 - Ideologies/Liberalism&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Liberalism</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/liberalism/liberalism/">Liberalism </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/03 - Ideologies/Socialism&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Socialism</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/socialism/democratic-socialism/">Democratic Socialism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/socialism/marxism-definitions/">Marxism definitions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/socialism/revolutionary-socialism/">Revolutionary Socialism </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/ideologies-homepage/">Ideologies Homepage </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/social-democracy/">Social Democracy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/socialism/">Socialism </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/politics-essay-questions/">Politics essay questions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/the-news/">The news </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans-home/">Essay plans home </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/">Home </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/topic-tracker/">Topic tracker </a>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="search-container" id="globalsearch" onclick="toggleSearch()">
+<div class="search-box">
+<input type="search" id="term" placeholder="Start typing...">
+<div id="search-results"></div>
+<footer class="search-box-footer">
+<div class="navigation-hint">
+<span>Enter to select</span>
+</div>
+<div class="navigation-hint align-icon">
+<i icon-name="arrow-up" aria-hidden="true"></i>
+<i icon-name="arrow-down" aria-hidden="true"></i>
+<span>to navigate</span>
+</div>
+<div class="navigation-hint">
+<span>ESC to close</span>
+</div>
+</footer>
+</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2025-11-27T18:19:38.694Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2025-11-27T18:19:38.694Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2025-11-27T18:19:38.694Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
+<main class="content cm-s-obsidian">
+<header>
+<h1 data-note-icon="">Criminalisation &amp; Consent -- R. V. Brown</h1>
+<div class="header-meta">
+<div class="header-tags">
+<a class="tag" onclick="toggleTagSearch(this)">
+#resources
+</a>
+<a class="tag" onclick="toggleTagSearch(this)">
+#articles
+</a>
+</div>
+<div class="timestamps"><div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="2025-11-26T10:20:59.985+00:00"></span></div></div></div>
+</header>
+<p><a href="https://trinitycollegelawreview.org/criminalisation-and-consent-sadomasochism-in-r-v-brown/" target="_blank" class="external-link">Link</a></p>
+<p><strong><em>Introduction</em></strong></p>
+<p>Consensual sadomasochism(SM) constitutes criminal assault in the United Kingdom.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn1" target="_blank" class="external-link">1</a> This comes from <em>R v Brown,</em><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn2" target="_blank" class="external-link">2</a> a House of Lords case in which a group of men were convicted for their involvement in consensual sadomasochistic sexual acts. The key issue facing the Court was whether consent was a valid defence to assault in these circumstances. The Court answered in the negative. Within the judgement Lord Templeman stated this question can only be answered through consideration of policy and public interest”.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn3" target="_blank" class="external-link">3</a> The aforementioned judgement has been called “autonomy-constricting moralism”<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn4" target="_blank" class="external-link">4</a> while justified as an act to protect society by criminal sanctions against a cult of violence which potentially fostered proselytisation of young men”.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn5" target="_blank" class="external-link">5</a> This critique will focus on key aspects of; the potential miscategorisation of the sadomasochistic acts therein as ‘violent’ as opposed to ‘sexual’, the consensual element at play, the dissenting judgements’ arguments on the acts’ illegality under existing laws on violence, and the level of harm issue in the <em>ratio decedendi</em>. With those in mind this critique will aim to highlight the potential legal weaknesses of this House of Lords decision.</p>
+<p><strong><em>The Facts, Judgement, and Ratio Decedendi of R v Brown [1993] UKHL 19</em></strong></p>
+<p>In this case, a group of men (appellants) willingly participated in the commission of sadomasochism against each other, including genital torture, for the sexual pleasure it evoked.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn6" target="_blank" class="external-link">6</a> Passive partners consented to the acts committed and suffered no permanent injury.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn7" target="_blank" class="external-link">7</a> The activities occured in private; albeit recorded solely for the delectation of the group.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn8" target="_blank" class="external-link">8</a> The appellants were tried on charges of assault occasioning actual bodily harm, contrary to s 47 of the Offences against the Person Act 1861, and unlawful wounding, contrary to s 20 of that Act. The initial trial judge held that the consent of the victim afforded no defence to the charges, the appellants then pleaded guilty and were sentenced to terms of imprisonment.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn9" target="_blank" class="external-link">9</a> The appellants appealed against their convictions, contending that a person could not be guilty of assault of that nature in respect of consensual acts conducted in private. The Court of Appeal dismissed their appeals.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn10" target="_blank" class="external-link">10</a> The appellants appealed to the House of Lords who held, with Lord Mustill and Slynn dissenting, that consensual sadomasochistic encounters which occasion actual bodily harm to a victim is an assault. They held this in the interests of public policy. It thus followed that the appeals would be dismissed.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn11" target="_blank" class="external-link">11</a> The law following <em>Brown</em> seems to be that consensual assault causing ‘harm’ above the level of assault (such as in sadomasochism) is <em>prima facie</em> unlawful unless such behaviour falls within one of the exceptional categories grafted by the common law, which would subsequently legalise the conduct in question.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn12" target="_blank" class="external-link">12</a></p>
+<p><strong>Sadomasochism: Sex or violence?</strong></p>
+<p>In <em>Brown</em> the sadomasochistic acts were misguidedly characterised as ‘seriously violent’ and not ‘sexual’ thereby making them incapable of being ‘ratified’ by the concept of consent.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn13" target="_blank" class="external-link">13</a> Hence the judgement assumed: ‘that sex and violence are distinct and easily separable’ and that ‘consent to one is not necessarily consent to the other’.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn14" target="_blank" class="external-link">14</a> So, if the law insists upon mutual exclusivity, ‘is <em>Brown</em> about sexual practices between consenting adults in private, or is it about deviant, legally unprotected ‘violent’ sexual practices’?<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn15" target="_blank" class="external-link">15</a> To support the former statement, it must be established that SM is legitimate sexual expression albeit involving violence, if so, then consent should and does play a role determining the criminalisation of any resulting harm. In <em>Brown</em> the ‘violent’ categorisation was founded on the infliction of pain within the acts. Yet what if pain is a subjective experience intrinsically linked with pleasure within the human nervous system? Hence, pain in a sadomasochistic context may not constitute ‘pain’ but sexual pleasure. Recent studies shed light on this phenomenon.  In one study, researchers used fMRI to visualise the brains of women as they stimulated themselves to climax, found that more than 30 areas of the brain were active, including those involved in pain.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn16" target="_blank" class="external-link">16</a> Another found cancer survivors, who had spinal nerves severed to relieve chronic pain, lost the ability to have orgasms.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn17" target="_blank" class="external-link">17</a> If their pain returned, so did the orgasms. Then a study into paracetamol affecting emotions<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn18" target="_blank" class="external-link">18</a> found the painkilling drug relieved emotional pain, but blunted feelings of pleasure. The drug levelled-off highs as well as lows – an indicator that pain and sexual pleasure operate on shared biological pathways. For human beings, then, it appears that pain and pleasure are intertwined.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn19" target="_blank" class="external-link">19</a> Nafsika Athanassoulis communicated how this relates to <em>Brown</em> quite eloquently with the words “sadomasochism is sex expressed through violence”.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn20" target="_blank" class="external-link">20</a> Hence the characterisation of <em>Brown</em> as ‘violent’ is debunked and it is now asserted that sadomasochism is better characterised as ‘sexual’.</p>
+<p><strong>Consent in <em>Brown</em></strong></p>
+<p>If accepted that <em>Brown</em> sadomasochism is sexual then it is subject to the general rules of sexual consent and examined alongside the exceptional category of HIV transmission. If consent means ‘factual expressive consent’ <a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn21" target="_blank" class="external-link">21</a>, this was achieved in <em>Brown</em>. The conditions of freedom, knowledge, capacity, and motivation that are deemed necessary to ‘transmute X’s factual (expressive) consent into <em>legal</em> consent’,<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn22" target="_blank" class="external-link">22</a> were fulfilled so the participant’s consent was not ‘legally defective’ due to coercion, deception or incompetence.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn23" target="_blank" class="external-link">23</a> Hence in <em>Brown</em> sadomasochism was sexually consensual. Robin Mackenzie criticised that only isolated acts of apparently sudden violence were exhibited on video to the judges, because ‘were the actions placed in the context of on-going negotiations and gradually increased stimulation (as seen in other parts of the video), a more empathetic understanding of such practices as [sexually consensual] might be, and indeed should be fostered’.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn24" target="_blank" class="external-link">24</a> However there is the element of harm occurring within <em>Brown</em> but a common law exceptional category exists which allows for informed consent to the risk of serious harm for sexual ends.</p>
+<p>This is <em>R v Dica.</em><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn25" target="_blank" class="external-link">25</a> <em>Dica</em> concerned the transmission of HIV, which the law defines as grievous bodily harm (GBH) - a significantly more serious level of consensual harm than <em>Brown</em> allows for. <em>Dica</em> stated that parties can consent to the risk of transmission, which can be construed to mean that one can consent to the risk of serious harm for the sake of sexual gratification. <em>Brown</em>, by contrast, states that parties cannot consent to the risk of actual bodily harm (ABH) and ‘wounding’ for the sake of sexual gratification.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn26" target="_blank" class="external-link">26</a> Cowan observes that <em>Dica</em> allows for consensual harm within a sexual context, which justifies its derogation from <em>Brown</em> on the assumption the acts therein were ‘violent’. However this distinction from <em>Brown</em> is highly questionable if it is ‘sexual’ as our previous critique asserted. Furthermore the ‘harm’ in <em>Brown</em> came nowhere near the level of harm which was permissible in <em>Dica</em>, as HIV infection is an enduring life-long condition to manage<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn27" target="_blank" class="external-link">27</a> whereas in <em>Brown</em> there was no lasting injury. The <em>Dica ratio</em> itself states there is a realm of private sexual relations in which the criminal law should not interfere,<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn28" target="_blank" class="external-link">28</a> such logic which is clearly applicable to <em>Brown.</em> Therefore there is little evidence to justify this exclusion of <em>Brown</em> from the <em>Dica</em> exception. If sadomasochism, in the absence of permanent injury, constitutes the infliction of violence, it is illogical that HIV infection resulting from consensual risk-taking does not.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn29" target="_blank" class="external-link">29</a></p>
+<p><em>Dica</em> emphasises the severity of HIV infection to distinguish it from the ‘ordinary’ risks of unprotected sexual intercourse, such as unwanted pregnancy or common STIs. One can <em>implicitly</em> consent to these ‘lesser’ risks without an exceptional category. It is asserted that while <em>Dica</em> is right to distinguish HIV from the relative less considerable ‘ordinary’ sexual risks, it is misguided in its attempts to contrast SM with the ‘ordinary risks’, by equating it with HIV infection.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn30" target="_blank" class="external-link">30</a> This is questionable as <em>Dica</em> can seem to implicitly propose that one, if fully informed, ‘can expressly consent to the risk of HIV infection but not SM, because the risk of HIV is still one of those risks that (‘ordinary’) heterosexual intercourse incurs’<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn31" target="_blank" class="external-link">31</a> which can be construed to evidence the court’s normative approach to sexually deviant homosexual practices. It is problematic if the law perceives the heterosexual transmission of a fatal disease more positively than impermanent/superficial injury caused by homosexual sadomasochism.</p>
+<p><strong>Inclusion of sadomasochistic behaviour as an offence under assault</strong></p>
+<p>Henceforth this critique shall proceed assuming that the courts are not in a position to accept sadomasochism as a legitimate means of sexual expression. It will focus on the legal content of the judgements in <em>R v Brown</em>, with an emphasis on the rationale of those dissenting. As previously outlined, the decision in <em>Brown</em> was made with public policy at its core, to protect society through criminal sanctions from a ‘cult of violence’ which could convert young men to it.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn32" target="_blank" class="external-link">32</a> Yet, Lord Mustill outlines in his dissenting judgement, ‘corruption of youth is already catered for by the existing legislation’ ‘if there is a gap in it which needs to be filled the remedy surely lies in the hands of Parliament, not in the application of a statute which is aimed at other forms of wrong-doing’.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn33" target="_blank" class="external-link">33</a> Therein lies two important statements that reference other aspects of this judgement. That the public policy concern was addressed within pre-existing legislation, hence the <em>Brown ratio</em> is undermined and that there was not sufficient ground for declaring the <em>Brown</em> activities to be criminal under the Offences against the Person Act 1861.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn34" target="_blank" class="external-link">34</a> The later matter is debatable with contentions that the majority focused on the wrong legal idea,<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn35" target="_blank" class="external-link">35</a> they fixated on establishing the sadomasochistic acts were criminal and did not adequately consider ‘Were they criminal under the Act of 1861?’. Lord Mustill stated the statute was “intended to penalise conduct of quite a different nature” and ponders “should in this new situation be interpreted so as to make it criminal”.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn36" target="_blank" class="external-link">36</a> Furthermore, Lord Slynn in his dissenting judgement in response to the DPP’s submission that it was a matter of policy; should the courts “adopt a paternalistic attitude as to what is bad or good for subjects, in particular as to deliberate injury”? He established it was an area of policy where social and moral factors were extremely important and changeable, hence “it [was] a matter of policy for the legislature to decide.”<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn37" target="_blank" class="external-link">37</a> He further asserted it was not for the courts “to introduce into existing statutory crimes, concepts which did not properly fit there”. In his eyes it was the duty of Parliament to amend the Act of 1861 or the Sexual Offences Act 1967 for the <em>Brown</em> activities to be criminal under them.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn38" target="_blank" class="external-link">38</a> Hence it becomes apparent that the House of Lords, in their revulsion and eagerness to sanction the behaviour in <em>Brown</em>, may have extended the Offences Against the Persons Act 1861 to cover actions distinctly outside of its legal remit.</p>
+<p><strong>Level of harm</strong></p>
+<p>Aside from its inclusion under assault, there is another legal issue in <em>Brown</em>: the level of harm. In <em>Brown</em> the Lords heard from Mr. Purnell Q.C. that the appellants were liable under general law because the harm was to a degree where it went from non-criminal consensual violence to criminal.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn39" target="_blank" class="external-link">39</a> Hence the court sought to establish a border between the two, thus the level of harm appears in <em>Brown’s ratio.</em><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn40" target="_blank" class="external-link">40</a> Lord Slynn raised his concerns on this matter stating if a line is drawn “to be workable, it cannot be allowed to fluctuate within particular charges”.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn41" target="_blank" class="external-link">41</a> This has been evoked in recent works which ask ‘are the courts to start evaluating the validity of consent on the basis of some undeclared judicial barometer of the severity of harm?’<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn42" target="_blank" class="external-link">42</a> Perhaps the qualifying level of harm is arguably determined by judicial creativity on a case by case basis?<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn43" target="_blank" class="external-link">43</a> If we look to preexisting examples of applying the level of harm principle the negative answer becomes arguably more concrete. The <em>Brown</em> practices have been equated with those in <em>R v</em> <em>Emmett,</em><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn44" target="_blank" class="external-link">44</a> where a man tied a plastic bag over the head of his partner and on another occasion poured lighter fluid over her and set it alight in the pursuit of sexual gratification, and was therefore deemed to cause harm of too high a level to be legal. But this is debatably wrong, because the risks posed and harm caused in the latter were arguably much higher than those in <em>Brown</em>, including loss of consciousness and serious burns.<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn45" target="_blank" class="external-link">45</a> The European Court of Human Rights subsequently distinguished <em>R v Wilson,</em><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn46" target="_blank" class="external-link">46</a> which concerned the branding of a woman by her husband for sexual gratification but was deemed legally exempt under assault due to the exceptional category of body modification (specifically tattooing), because the injuries in that case were considered ‘not at all comparable in seriousness’<a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftn47" target="_blank" class="external-link">47</a> with those in <em>Brown</em> or <em>Emmett</em>. Yet in <em>Wilson</em> the injuries themselves amounted to ABH namely the level of harm incurred in <em>Brown</em>. Hence if we are to look at how the precedent of <em>Brown</em> has been interpreted it solidifies the argument that <em>Brown</em> is an inherently poor judgement with respect to the factors considered in its determination.</p>
+<p><strong>Conclusion</strong></p>
+<p><em>R v Brown</em> and the subsequent criminalisation of the sadomasochistic behaviour therein under the Offences against the Person Act 1861 coupled with the legal precedents it created are inherently flawed. As established within this critique the Court’s characterisation of <em>Brown</em> as ‘violent’ is questionable given the compelling evidence and arguments that is is better understood in a ‘sexual’ context. Had it been viewed within this context the consensual nature of the sadomasochistic behaviour could have absolved the appellants of criminal culpability. Furthermore, if accepted as ‘sexual’, then <em>Brown’s</em> potential inclusion under <em>Dica</em> becomes notably less objectionable and thus the question of allowing one to consent to GBH but not ABH sheds light on the Court’s normative approach to <em>Brown</em>. Additionally, the dissenting judgements in <em>Brown</em> present insight into the Court’s potential manipulation or misconstruing of the Act of 1861 in their efforts to criminalise the aforementioned actions and express a notable concern over the usage of a ‘level of harm’ principle in a legal setting. As evidenced by the subsequent case examples provided they were undoubtedly and assuredly correct to voice such worries. Hence the legal weaknesses in <em>Brown</em> are apparent and it is my assertion, with these in mind, that the criminalising of sado-masochistic activities in this case was plainly wrong.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref1" target="_blank" class="external-link">1</a><em>Halsburys Laws</em>(5thedn, 2010) vol 26, para 125.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref2" target="_blank" class="external-link">2</a>[1993] UKHL 19.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref3" target="_blank" class="external-link">3</a> <em>R v Brown</em>[1993] UKHL 19.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref4" target="_blank" class="external-link">4</a>Paul Roberts, ‘The Philosophical Foundations of Consent in the Criminal Law’ [1997] 17 _Oxford Journal of Legal Studies_389, [413].</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref5" target="_blank" class="external-link">5</a><em>R v Brown</em>[1993] UKHL 19.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref6" target="_blank" class="external-link">6</a><em>R v Brown</em>[1993] 2 All ER 75.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref7" target="_blank" class="external-link">7</a>Ibid.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref8" target="_blank" class="external-link">8</a>Ibid.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref9" target="_blank" class="external-link">9</a>Ibid.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref10" target="_blank" class="external-link">10</a>Ibid.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref11" target="_blank" class="external-link">11</a>Ibid.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref12" target="_blank" class="external-link">12</a><em>Halsburys Laws</em>(5thedn, 2010) vol 26, para 125.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref13" target="_blank" class="external-link">13</a>David Ormerod, <em>Smith &amp; Hogan__Criminal Law</em>(12thedn, OUP 2008).</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref14" target="_blank" class="external-link">14</a>  Sharon Cowan, The Pain of Pleasure: Consent and the Criminalisation of Sado-Masochistic ‘Assaults’ in Andrew Ashworth and Eric M. Clive <em>Essays in Criminal Law in honour of Sir Gerald Gordon</em>_(Edinburgh Studies in Law)_ (English University Press 2010).</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref15" target="_blank" class="external-link">15</a>Nicholas Bamforth, ‘Sadomasochism and Consent’ [1994] _Criminal Law Review_661, [663]</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref16" target="_blank" class="external-link">16</a>Komisaruk, Barry &amp; Wise, Nan &amp; Frangos, Eleni &amp; Liu, Wen-Ching &amp; Allen, Kachina &amp; Brody, Stuart,  <em>Women's Clitoris, Vagina, and Cervix Mapped on the Sensory Cortex: fMRI Evidence</em> (2011) The Journal of Sexual Medicine 8 &lt;<a href="https://www.researchgate.net/publication/51529414_Women's_Clitoris_Vagina_and_Cervix_Mapped_on_the_Sensory_Cortex_fMRI_Evidence" target="_blank" class="external-link">https://www.researchgate.net/publication/51529414_Women's_Clitoris_Vagina_and_Cervix_Mapped_on_the_Sensory_Cortex_fMRI_Evidence</a>&gt; accessed 17 October 2019.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref17" target="_blank" class="external-link">17</a>Aerts, Enzlin, Verhaeghe, Poppe, Vergote, Amant, <em>Long-term sexual functioning in women after surgical treatment of cervical cancer stages IA to IB: a prospective controlled study</em> (2014) International Journal of Gynecological Cancer &lt;<a href="https://www.ncbi.nlm.nih.gov/pubmed/25180463" target="_blank" class="external-link">https://www.ncbi.nlm.nih.gov/pubmed/25180463</a>&gt; accessed 17 October 2019.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref18" target="_blank" class="external-link">18</a>Durso, Luttrel, Way, _Over-the-Counter Relief From Pains and Pleasures Alike: Acetaminophen Blunts Evaluation Sensitivity to Both Negative and Positive Stimuli_Psychological Science26(6), 750–758. &lt;<a href="https://doi.org/10.1177/0956797615570366" target="_blank" class="external-link">https://doi.org/10.1177/0956797615570366</a>&gt; accessed 17 October 2019.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref19" target="_blank" class="external-link">19</a>Zaria Gorvet, Why pain feels good, (_BBC Future,_1 October 2015) &lt;<a href="https://www.bbc.com/future/article/20151001-why-pain-feels-good" target="_blank" class="external-link">https://www.bbc.com/future/article/20151001-why-pain-feels-good</a>&gt; accessed 17 October 2019</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref20" target="_blank" class="external-link">20</a>Nafsika Athanassoulis, ‘The role of consent in sado-masochistic practices’ (2002) 8 _Res Publica_141.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref21" target="_blank" class="external-link">21</a>Kimberly Kessler Ferzan, “Clarifying Consent: Peter Westen's The Logic of Consent”, [2006] 2 _Law and Philosophy_25.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref22" target="_blank" class="external-link">22</a>Peter Westen, <em>The Logic of Consent: the diversity and deceptiveness of consent as a defense to criminal conduct</em> (Ashgate 2004).</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref23" target="_blank" class="external-link">23</a>Kelly Egan, ‘Morality-based Legislation is Alive and Well: Why the law permits consent to body modification but no sadomasochistic sex’, [2007] 70 _Albany Law Review_1615, [1616].</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref24" target="_blank" class="external-link">24</a>Rosemary Hunter, Claire McGlynn and Erika Rackley (eds) <em>Feminist Judgments: From Theory to Practice</em>(Hart Publishing 2010).</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref25" target="_blank" class="external-link">25</a>[2004] EWCA Crim 1103.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref26" target="_blank" class="external-link">26</a>Sharon Cowan, The Pain of Pleasure: Consent and the Criminalisation of Sado-Masochistic ‘Assaults’ in Andrew Ashworth and Eric M. Clive <em>Essays in Criminal Law in honour of Sir Gerald Gordon</em>_(Edinburgh Studies in Law)_ (English University Press 2010).</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref27" target="_blank" class="external-link">27</a>Roger Pebody, ‘Life expectancy for people living with HIV’ (<em>Aidsmap</em>, May 2018) &lt;<a href="http://www.aidsmap.com/about-hiv/life-expectancy-people-living-hiv" target="_blank" class="external-link">http://www.aidsmap.com/about-hiv/life-expectancy-people-living-hiv</a>&gt; accessed 17 October 2019</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref28" target="_blank" class="external-link">28</a>R v Dica  [2004] EWCA Crim 1103.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref29" target="_blank" class="external-link">29</a>Natalie Connor, ‘A contemporary critique of R v Brown and the legal status of consensual sado-masochism’ The Student Journal of Law</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref30" target="_blank" class="external-link">30</a>Natalie Connor, ‘A contemporary critique of R v Brown and the legal status of consensual sado-masochism’ The Student Journal of Law</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref31" target="_blank" class="external-link">31</a>Sharon Cowan, The Pain of Pleasure: Consent and the Criminalisation of Sado-Masochistic ‘Assaults’ in Andrew Ashworth and Eric M. Clive <em>Essays in Criminal Law in honour of Sir Gerald Gordon</em>_(Edinburgh Studies in Law)_ (English University Press 2010).</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref32" target="_blank" class="external-link">32</a><em>R v Brown</em>[1993] UKHL 19.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref33" target="_blank" class="external-link">33</a>Ibid.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref34" target="_blank" class="external-link">34</a>Ibid.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref35" target="_blank" class="external-link">35</a>David Ormerod, <em>Smith &amp; Hogan__Criminal Law</em>(12thedn, OUP 2008).</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref36" target="_blank" class="external-link">36</a><em>R v Brown</em>[1993] UKHL 19.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref37" target="_blank" class="external-link">37</a>Ibid.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref38" target="_blank" class="external-link">38</a>Ibid.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref39" target="_blank" class="external-link">39</a>Ibid.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref40" target="_blank" class="external-link">40</a>Ibid.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref41" target="_blank" class="external-link">41</a>Ibid.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref42" target="_blank" class="external-link">42</a>David Ormerod, <em>Smith &amp; Hogan__Criminal Law</em>(12thedn, OUP 2008).</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref43" target="_blank" class="external-link">43</a>Natalie Connor, ‘A contemporary critique of R v Brown and the legal status of consensual sado-masochism’ The Student Journal of Law</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref44" target="_blank" class="external-link">44</a>Times, October 15, 1999.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref45" target="_blank" class="external-link">45</a>Ibid.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref46" target="_blank" class="external-link">46</a><em>R v Wilson</em>[1996] Crim LR 573.</p>
+<p><a href="applewebdata://A7941347-B35A-47C8-A4B7-7E8EBEA31838#_ftnref47" target="_blank" class="external-link">47</a><em>Laskey, Jaggard and Brown v United Kingdom</em> (1997) 24 E.H.R.R. 39.</p>
+</main>
+<aside>
+<div class="sidebar">
+<div class="sidebar-container">
+<script>async function fetchGraphData(){const e=await fetch("/graph.json").then((e=>e.json()));return{graphData:e,fullGraphData:filterFullGraphData(e)}}function getNextLevelNeighbours(e,t){const n=Object.values(e).map((e=>e.neighbors)).flat();return Object.keys(t).reduce(((r,l)=>(-1!=n.indexOf(l)?t[l].hide||(e[l]=t[l]):r[l]=t[l],r)),{})}function filterLocalGraphData(e,t){if(null==e)return null;let n=JSON.parse(JSON.stringify(e.nodes)),r=JSON.parse(JSON.stringify(e.links)),l=n[decodeURI(window.location.pathname)]||Object.values(n).find((e=>e.home));if(delete n[l.url],!l.home){delete n[Object.values(n).find((e=>e.home)).url]}l.current=!0;let i={};i[l.url]=l;for(let e=0;e<t;e++)n=getNextLevelNeighbours(i,n);nodes=Object.values(i),l.home||(nodes=nodes.filter((e=>!e.home)));let o=nodes.map((e=>e.id));return{nodes:nodes,links:r.filter((function(e){return o.indexOf(e.target)>-1&&o.indexOf(e.source)>-1}))}}function getCssVar(e){return getComputedStyle(document.body).getPropertyValue(e)}function htmlDecode(e){return(new DOMParser).parseFromString(e,"text/html").documentElement.textContent}function renderGraph(e,t,n,r){if(null==e)return;const l=document.getElementById(t);width=l.offsetWidth,height=l.offsetHeight;const i=new Set;let o=null;const a=getCssVar("--graph-main"),s=getCssVar("--graph-muted");let u=ForceGraph()(l).graphData(e).nodeId("id").nodeLabel("title").linkSource("source").linkTarget("target").d3AlphaDecay(.1).width(width).height(height).linkDirectionalArrowLength(2).linkDirectionalArrowRelPos(.5).autoPauseRedraw(!1).linkColor((e=>null==o||e.source.id==o.id||e.target.id==o.id?a:s)).nodeCanvasObject(((e,t)=>{const n=e.neighbors&&e.neighbors.length||2,r=Math.min(7,Math.max(n/2,2));t.beginPath(),t.arc(e.x,e.y,r,0,2*Math.PI,!1),null==o||e==o||i.has(e.url)?t.fillStyle=a:t.fillStyle=s,t.fill(),e.current&&(t.beginPath(),t.arc(e.x,e.y,r+1,0,2*Math.PI,!1),t.lineWidth=.5,t.strokeStyle=a,t.stroke());const l=htmlDecode(e.title);t.font="3.5px Sans-Serif",t.textAlign="center",t.textBaseline="top",t.fillText(l,e.x,e.y+r+2)})).onNodeClick((e=>{window.location=e.url})).onNodeHover((e=>{i.clear(),e&&(i.add(e),e.neighbors.forEach((e=>i.add(e)))),o=e||null}));return(r||null!=n&&e.nodes.length>4)&&setTimeout((()=>{u.zoomToFit(5,75)}),n||200),u}function renderLocalGraph(e,t,n){window.graph&&window.graph._destructor();return renderGraph(filterLocalGraphData(e,t),"link-graph",null,n)}function filterFullGraphData(e){if(null==e)return null;e=JSON.parse(JSON.stringify(e));const t=Object.values(e.nodes).filter((e=>e.hide)).map((e=>e.id));return{links:JSON.parse(JSON.stringify(e.links)).filter((e=>-1==t.indexOf(e.source)&&-1==t.indexOf(e.target))),nodes:[...Object.values(e.nodes).filter((e=>!e.hide))]}}function openFullGraph(e){return lucide.createIcons({attrs:{class:["svg-icon"]}}),renderGraph(e,"full-graph-container",200,!1)}function closefullGraph(e){return e&&e._destructor(),null}</script>
+<div x-init="{graphData, fullGraphData} = await fetchGraphData();" x-data="{ graphData: null, depth: 1, graph: null, fullGraph: null, showFullGraph: false, fullScreen: false, fullGraphData: null}" id="graph-component" x-bind:class="fullScreen ? 'graph graph-fs' : 'graph'" v-scope>
+<div class="graph-title-container">
+<div class="graph-title">Connected Pages</div>
+<div id="graph-controls">
+<div class="depth-control">
+<label for="graph-depth">Depth</label>
+<div class="slider">
+<input x-model.number="depth" name="graph-depth" list="depthmarkers" type="range" step="1" min="1" max="3" id="graph-depth">
+<datalist id="depthmarkers">
+<option value="1" label="1"></option>
+<option value="2" label="2"></option>
+<option value="3" label="3"></option>
+</datalist>
+</div>
+<span id="depth-display" x-text="depth"></span>
+</div>
+<div class="ctrl-right">
+<span id="global-graph-btn" x-on:click="showFullGraph = true; setTimeout(() => {fullGraph = openFullGraph(fullGraphData)}, 100)"><i icon-name="globe" aria-hidden="true"></i></span>
+<span id="graph-fs-btn" x-on:click="fullScreen = !fullScreen"><i icon-name="expand" aria-hidden="true"></i></span>
+</div>
+</div>
+</div>
+<div x-effect="window.graph = renderLocalGraph(graphData, depth, fullScreen)" id="link-graph"></div>
+<div x-show="showFullGraph" id="full-graph" class="show" style="display:none">
+<span id="full-graph-close" x-on:click="fullGraph = closefullGraph(fullGraph); showFullGraph = false;"><i icon-name="x" aria-hidden="true"></i></span><div id="full-graph-container"></div>
+</div>
+</div>
+<div class="backlinks">
+<div class="backlink-title" style="margin:4px 0!important">Pages mentioning this page</div>
+<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/philosophy/02-ethics/sexual-ethics/bdsm-and-homosexuality/" data-note-icon="" class="backlink">BDSM and homosexuality</a>
+</div></div>
+</div>
+</div>
+</div>
+</aside>
+<script>window.location.hash&&document.getElementById(window.location.hash.slice(1)).classList.add("referred"),window.addEventListener("hashchange",(e=>{const t=e.oldURL.split("#");t[1]&&document.getElementById(t[1]).classList.remove("referred");const n=e.newURL.split("#");n[1]&&document.getElementById(n[1]).classList.add("referred")}),!1);const url_parts=window.location.href.split("#"),url=url_parts[0],referrence=url_parts[1];document.querySelectorAll(".cm-s-obsidian > *[id]").forEach((function(e){e.ondblclick=function(e){const t=url+"#"+e.target.id;navigator.clipboard.writeText(t)}}))</script>
+<script src="https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js"></script>
+<script defer="defer">TIMESTAMP_FORMAT="MMM dd, yyyy h:mm a",document.querySelectorAll(".human-date").forEach((function(e){date=e.getAttribute("data-date")||e.innerText,parsed_date=luxon.DateTime.fromISO(date),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromSQL(date)),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromHTML(date)),e.innerHTML=parsed_date.toFormat(TIMESTAMP_FORMAT)}))</script>
+<script>lucide.createIcons({attrs:{class:["svg-icon"]}})</script>
+<script>document.addEventListener("DOMContentLoaded",(()=>{document.querySelectorAll('.internal-embed[data-src$=".excalidraw"]').forEach((e=>{e.addEventListener("click",(()=>{e.classList.toggle("fullscreen")}))}))}))</script>
+</body>
+</html>

@@ -1,0 +1,1115 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Christian Moral Principles</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/autoloader/prism-autoloader.min.js" integrity="sha512-sv0slik/5O0JIPdLBCR2A3XDg/1U3WuDEheZfI/DI5n8Yqc3h5kjrnr46FGBNiUAJF7rE4LHKwQ/SoSLRKAxEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script async src="https://cdn.jsdelivr.net/npm/lucide@0.115.0/dist/umd/lucide.min.js"></script>
+<script>window.addEventListener("load",(()=>{document.querySelectorAll(".callout").forEach((e=>{const t=getComputedStyle(e).getPropertyValue("--callout-icon"),l=t&&t.trim().replace(/^lucide-/,"");if(l){const t=e.querySelector(".callout-title");if(t){const e=document.createElement("div"),c=document.createElement("i");e.appendChild(c),c.setAttribute("icon-name",l),e.setAttribute("class","callout-icon"),t.insertBefore(e,t.firstChild)}}})),lucide.createIcons(),Array.from(document.querySelectorAll(".callout.is-collapsible")).forEach((e=>{e.querySelector(".callout-title").addEventListener("click",(t=>{e.classList.contains("is-collapsed")?e.classList.remove("is-collapsed"):e.classList.add("is-collapsed")}))}))}))</script>
+<script async src="https://fastly.jsdelivr.net/npm/force-graph@1.43.0/dist/force-graph.min.js"></script>
+<script async src="https://fastly.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js"></script>
+<script src="https://fastly.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js" async></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-okaidia.min.css" integrity="sha512-mIs9kKbaw6JZFfSuo+MovjU+Ntggfoj8RwAmJbVXQ5mkAX5LlgETQEweFPI18humSPHymTb5iikEOKWF7I8ncQ==" crossorigin="anonymous" referrerpolicy="no-referrer" async>
+<script src="https://fastly.jsdelivr.net/npm/whatwg-fetch@3.6.2/dist/fetch.umd.min.js" crossorigin="anonymous" referrerpolicy="no-referrer" async></script>
+<link href="/styles/digital-garden-base.css" rel="stylesheet">
+<link href="/styles/obsidian-base.css" rel="stylesheet">
+<link href="&#92;styles&#92;_theme.b7d1ddf0.css" rel="stylesheet">
+<link href="/styles/custom-style.css" rel="stylesheet">
+<style>body.css-settings-manager{--embed-padding:10;--embed-border-radius:5}</style>
+<style></style>
+</head>
+<body class="theme-dark markdown-preview-view markdown-rendered markdown-preview-section css-settings-manager theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app styled-scrollbars show-inline-title show-ribbon show-view-header is-maximized css-settings-manager callout-style-customize is-focused">
+<div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;" x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;" x-data="{isDesktop: true, showFilesMobile: false}">
+<div x-show.important="!isDesktop" style="display:none">
+<nav class="navbar">
+<div class="navbar-inner">
+<span style="font-size:1.5rem;margin-right:10px" @click="showFilesMobile=!showFilesMobile"><i icon-name="menu"></i></span>
+<a href="/" style="text-decoration:none">
+<h1 style="margin:15px!important">Digital Garden</h1>
+</a>
+</div>
+<div class="search-button align-icon" onclick="toggleSearch()">
+<span class="search-icon">
+<i icon-name="search"></i>
+</span>
+<span class="search-text">
+<span>Search</span>
+<span style="font-size:.6rem;padding:2px 2px 0 6px;text-align:center;transform:translateY(4px)" class="search-keys">
+CTRL + K
+</span>
+</span>
+</div>
+</nav>
+</div>
+<div x-show="showFilesMobile && !isDesktop" @click="showFilesMobile = false" style="display:none" class="fullpage-overlay"></div>
+<nav class="filetree-sidebar" x-show.important="isDesktop || showFilesMobile" style="display:none">
+<a href="/" style="text-decoration:none">
+<h1 style="text-align:center">Digital Garden</h1>
+</a>
+<div style="display:flex;justify-content:center">
+<div class="search-button align-icon" onclick="toggleSearch()">
+<span class="search-icon">
+<i icon-name="search"></i>
+</span>
+<span class="search-text">
+<span>Search</span>
+<span style="font-size:.6rem;padding:2px 2px 0 6px;text-align:center;transform:translateY(4px)" class="search-keys">
+CTRL + K
+</span>
+</span>
+</div>
+</div>
+<div class="folder" x-data="{isOpen: true}">
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Bear hunt&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Bear hunt</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/bear-hunt/basic-obsidian-tutorial/">Basic obsidian tutorial </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Essay plans&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Essay plans</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Essay plans/Philosophy Essay Plans&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Philosophy Essay Plans</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/philosophy-essay-plans/god-as-timeless/">God as timeless </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/philosophy-essay-plans/is-nml-helpful-at-decision-making/">Is NML helpful at decision making </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/philosophy-essay-plans/kingdom-of-god-essay-plan/">Kingdom of God essay plan </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/philosophy-essay-plans/liberation-and-marx-speech/">Liberation and Marx- speech </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Essay plans/Politics Essay Plans&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Politics Essay Plans</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Essay plans/Politics Essay Plans/Older essay plans&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Older essay plans</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/older-essay-plans/differences-between-uk-and-us-cabinet/">Differences between UK and US Cabinet </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/older-essay-plans/living-constitution-v-originalism/">Living constitution v originalism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/older-essay-plans/should-16-year-olds-have-voting-rights-debate/">Should 16 year-olds have voting rights- debate </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/checks-and-balances-on-the-sc/">Checks and balances on the SC </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/compulsory-voting-debate/">Compulsory voting- debate </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/do-opinion-polls-affect-voting-behaviour/">Do opinion polls affect voting behaviour </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/do-parties-help-or-hurt-democracy/">Do parties help or hurt democracy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/political-v-judicial/">Political v Judicial </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/primaries-pros-and-cons/">Primaries pros and cons </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/significance-of-parties-in-congress/">Significance of parties in congress </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Excalidraw&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Excalidraw</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Excalidraw/Philosophy&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Philosophy</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/does-christianity-tackle-social-issues-better-than-marxism-excalidraw/">Does Christianity tackle social issues better than Marxism.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/has-christian-theology-engaged-in-marxist-theology-enough-excalidraw/">Has christian theology engaged in Marxist theology enough.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/should-christianity-engage-with-atheist-ideologies-excalidraw/">Should Christianity engage with atheist ideologies.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/song-of-solomon-excalidraw/">Song of solomon.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/theonomous-ethics-excalidraw/">Theonomous ethics.excalidraw </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Excalidraw/Politics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Politics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/politics/should-the-state-fund-political-parties/">Should the state fund political parties </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/augustine-and-human-nature-summary-excalidraw/">Augustine and human nature -- summary.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/normative-theories-on-sexual-ethics-excalidraw/">Normative theories on sexual ethics.excalidraw </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Images&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Images</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/images/natural-law-essays/">Natural law essays </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Organisation&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Organisation</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/organisation/resources/">Resources </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;PDFs and articles&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">PDFs and articles</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/pd-fs-and-articles/correcting-caricatures-women-in-the-bible/">Correcting Caricatures - Women in the Bible </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/pd-fs-and-articles/criminalisation-and-consent-r-v-brown/">Criminalisation &amp; Consent -- R. V. Brown </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/pd-fs-and-articles/she-s-not-a-whore-translation-bias-in-ezekiel-16/">She’s Not a Whore - Translation Bias in Ezekiel 16 </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Philosophy</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/01 Philosophy&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">01 Philosophy</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/01 Philosophy/Mind-body-soul&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Mind-body-soul</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/mind-body-soul/dualism/">Dualism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/mind-body-soul/mind-body-and-soul/">Mind, body and soul </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/01 Philosophy/Nature and attributes of God&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Nature and attributes of God</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/anselm-s-theories/">Anselm&#39;s theories </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/introduction/">Introduction </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/nature-and-attributes-of-god/">Nature and attributes of God </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/omnipotence/">Omnipotence </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/omniscience/">Omniscience </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/01 Philosophy/Religious Language&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Religious Language</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/religious-language/101/">101 </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/religious-language/analogy/">Analogy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/religious-language/language-home/">Language Home </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/paper-1/">Paper 1 </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/philosophy-questions/">Philosophy questions </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">02 Ethics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics/Ethical systems&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Ethical systems</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics/Ethical systems/Natural Moral Law&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Natural Moral Law</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethical-systems/natural-moral-law/natural-moral-law/">Natural Moral Law </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics/Ethical systems/Situation ethics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Situation ethics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethical-systems/situation-ethics/situation-ethics/">Situation ethics </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethical-systems/kantian-ethics/">Kantian ethics </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethical-systems/utilitarianism/">Utilitarianism </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics/Sexual Ethics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Sexual Ethics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/sexual-ethics/bdsm-and-homosexuality/">BDSM and homosexuality </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/sexual-ethics/ethical-systems-on-sexual-ethics/">Ethical systems on sexual ethics </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/sexual-ethics/sex-ethics-contextual-texts/">Sex ethics contextual texts </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/sexual-ethics/sex-ethics/">Sex ethics </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/business-ethics-excalidraw/">Business ethics.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethics-questions/">Ethics questions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/paper-2/">Paper 2 </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">03 DCT</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT/01 Gender and Society&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">01 Gender and Society</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/feminism/">Feminism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/gender-and-society-home/">Gender and society home </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/mary-daly/">Mary Daly </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/rosemary-radford-reuther/">Rosemary Radford Reuther </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/simone-de-beauvoir/">Simone De Beauvoir </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT/02 Liberation theology&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">02 Liberation theology</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/02-liberation-theology/general-notes/">General notes </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/02-liberation-theology/kingdom-theology/">Kingdom Theology </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/02-liberation-theology/liberation-philosophers/">Liberation philosophers </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/02-liberation-theology/liberation-theology/">Liberation theology </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT/03 Augustine&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">03 Augustine</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/03-augustine/augustine-and-human-nature/">Augustine and human nature </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT/Christian Moral Principles&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Christian Moral Principles</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/christian-moral-principles/christian-moral-principles/">Christian Moral Principles </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/christian-moral-principles/key-terms-cmp/">Key terms CMP </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/paper-3/">Paper 3 </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/04 Essays Home&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">04 Essays Home</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/04-essays-home/development-of-christian-thought-essay-questions/">Development of Christian thought essay questions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/04-essays-home/ethics-essay-questions/">Ethics essay questions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/04-essays-home/philosophy-of-religion/">Philosophy of religion </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/terms-dictionary/">Terms dictionary </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Politics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">01 - UK politics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics/Democracy&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Democracy</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/democracy/democracy/">Democracy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/democracy/pressure-groups-lobbyists-and-think-tanks/">Pressure groups, Lobbyists and think tanks </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/democracy/the-franchise/">The Franchise </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/democracy/turnout-stats-sheet/">Turnout Stats sheet </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics/Parties&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Parties</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/general-info/">General Info </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/labour/">Labour </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/minor-parties/">Minor parties </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/party-funding/">Party funding </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/political-parties-home/">Political parties home </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/the-conservatives/">The conservatives </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/the-lib-dems/">The lib-dems </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics/Voting Behaviour&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Voting Behaviour</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-behaviour/non-social-factors/">Non-social factors </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-behaviour/social-factors/">Social factors </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-behaviour/the-media-and-voting-behaviour/">The media and voting behaviour </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-behaviour/voting-behaviour/">Voting Behaviour </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics/Voting systems&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Voting systems</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-systems/referendums/">Referendums </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-systems/voting-systems/">Voting systems </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/uk-government/">UK government </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/uk-politics-home/">UK politics home </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">02 - USA</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/Constitution and federalism&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Constitution and federalism</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/constitution-and-federalism/constitution-and-federalism/">Constitution and federalism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/constitution-and-federalism/federalism/">Federalism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/constitution-and-federalism/the-constitution/">The constitution </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/Democracy and participation&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Democracy and participation</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/Democracy and participation/Presidential process&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Presidential process</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/democracy-and-participation/">Democracy and participation </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/electoral-college/">Electoral College </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/invisible-primaries/">Invisible Primaries </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/party-conventions/">Party Conventions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/tv-debates/">TV debates </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/what-are-primaries-and-caucuses/">What are primaries and caucuses </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/does-campaign-financing-require-reform/">Does campaign financing require reform </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/how-can-pressure-groups-enhance-and-degrade-democracy/">How can pressure groups enhance and degrade democracy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/interest-groups-in-the-usa/">Interest groups in the USA </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/The presidency&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">The presidency</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/exop/">EXOP </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/formal-powers/">Formal powers </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/how-does-the-president-relate-to-congress/">How does the president relate to congress </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/the-presidency/">The presidency </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/vice-president-and-cabinet/">Vice-president and cabinet </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/what-factors-affect-the-amount-of-power-that-the-president-has/">What factors affect the amount of power that the president has </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/The supreme court&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">The supreme court</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/civil-rights-and-civil-liberties/">Civil rights and civil liberties </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/history-of-usa-immigration/">History of USA immigration </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/how-does-the-us-supreme-court-protect-rights/">How does the US supreme court protect rights </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/interpretations-and-debates-of-the-sc/">Interpretations and debates of the SC </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/judicial-ideologies/">Judicial ideologies </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/the-supreme-court/">The Supreme Court </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/what-else-is-there-to-learn-about-the-sc/">What else is there to learn about the SC </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/comparative-notes/uk-and-us-legislatures/">UK and US legislatures </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/usa-homepage/">USA homepage </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/03 - Ideologies&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">03 - Ideologies</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/03 - Ideologies/Liberalism&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Liberalism</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/liberalism/liberalism/">Liberalism </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/03 - Ideologies/Socialism&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Socialism</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/socialism/democratic-socialism/">Democratic Socialism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/socialism/marxism-definitions/">Marxism definitions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/socialism/revolutionary-socialism/">Revolutionary Socialism </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/ideologies-homepage/">Ideologies Homepage </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/social-democracy/">Social Democracy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/socialism/">Socialism </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/politics-essay-questions/">Politics essay questions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/the-news/">The news </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans-home/">Essay plans home </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/">Home </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/topic-tracker/">Topic tracker </a>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="search-container" id="globalsearch" onclick="toggleSearch()">
+<div class="search-box">
+<input type="search" id="term" placeholder="Start typing...">
+<div id="search-results"></div>
+<footer class="search-box-footer">
+<div class="navigation-hint">
+<span>Enter to select</span>
+</div>
+<div class="navigation-hint align-icon">
+<i icon-name="arrow-up" aria-hidden="true"></i>
+<i icon-name="arrow-down" aria-hidden="true"></i>
+<span>to navigate</span>
+</div>
+<div class="navigation-hint">
+<span>ESC to close</span>
+</div>
+</footer>
+</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2025-11-27T18:19:38.694Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2025-11-27T18:19:38.694Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2025-11-27T18:19:38.694Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
+<main class="content cm-s-obsidian">
+<header>
+<h1 data-note-icon="">Christian Moral Principles</h1>
+<div class="header-meta">
+<div class="header-tags">
+<a class="tag" onclick="toggleTagSearch(this)">
+#lessonmajor
+</a>
+</div>
+<div class="timestamps"><div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="2025-11-27T16:29:11.616+00:00"></span></div></div></div>
+</header>
+<h2 id="terminology" tabindex="-1">Terminology</h2>
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/philosophy/03-dct/christian-moral-principles/key-terms-cmp/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Biblical authority</td>
+<td>The extent to which the Bible influences human behaviour and morality.</td>
+</tr>
+<tr>
+<td>Theonomous ethics</td>
+<td>Ethics is determined by God</td>
+</tr>
+<tr>
+<td>Sola Scriptura</td>
+<td>&quot;by scripture alone&quot; doctrine that holds the Bible as the supreme authority in faith and practice</td>
+</tr>
+<tr>
+<td>Covenant</td>
+<td>The bible is God's promise and agreement with humans, which requires good behaviour from them.</td>
+</tr>
+<tr>
+<td>Hermeneutic circle</td>
+<td>Method of interpretation that focusses on a continual, circular pattern of reading and understanding passages in light of the entire Bible</td>
+</tr>
+<tr>
+<td>Heternomous ethics</td>
+<td>Ethics are governed by several sources; the Bible, human reason, conscience</td>
+</tr>
+<tr>
+<td>Papal encylical</td>
+<td>Letter issues by the Pope to senior clergy on a significant topic or teaching</td>
+</tr>
+<tr>
+<td>Magisterium</td>
+<td>Authority of the Pope and bishops as the official and authentic teachings of the church</td>
+</tr>
+<tr>
+<td>Natural law</td>
+<td>Basic moral principles set by God, discoverable by human nature.</td>
+</tr>
+<tr>
+<td>Autonomous ethics</td>
+<td>Ethics are self-governing and discovered through human reason alone</td>
+</tr>
+<tr>
+<td>Agape</td>
+<td>Universal, unconditional, sacrificial love originating from God; often seen as the ideal motivation for mral action</td>
+</tr>
+<tr>
+<td>Sacred tradition</td>
+<td>Both the scripture and the church are authoritative in communicating revaluation in Christ.</td>
+</tr>
+</tbody>
+</table>
+</div></div>
+<h2 id="mind-map-notes" tabindex="-1">Mind-map notes</h2>
+<p><a class="internal-link is-unresolved" href="/404" target="">Christian moral principles.excalidraw</a></p>
+<h3 id="theonomous-ethics" tabindex="-1">Theonomous ethics</h3>
+<iframe src="/img/user/Images/Christian%20moral%20principles.excalidraw.pdf" width="100%" height="900px" title="Christian moral principles.excalidraw.pdf" style="border:1px solid #ccc"></iframe>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1957.412087603157 1613.4953432050656" width="1957.412087603157" height="1613.4953432050656" class="excalidraw-svg"><metadata></metadata><defs><clipPath id="jkXFwQmDr0P9s-Qbgeyo9"><rect transform="translate(10 1012.5446772711961) rotate(0 383.8362791691043 252.5376365118546)" width="767.6725583382085" height="505.0752730237092" rx="8" ry="8"></rect></clipPath><clipPath id="KmqS9MC0Vxj53U05AAHKz"><rect transform="translate(1146.2408352929847 1078.6555496711364) rotate(0 390.0901681236629 153.95256294501434)" width="780.1803362473258" height="307.90512589002867" rx="8" ry="8"></rect></clipPath><clipPath id="0WMkhCE3xfpp7vAOgsjCW"><rect transform="translate(30.19068564588588 30.5) rotate(0 713.4687900902885 382.7758460627748)" width="1426.937580180577" height="765.5516921255496" rx="8" ry="8"></rect></clipPath><style class="style-fonts">@font-face{font-family:Excalifont;src:url(data:font/woff2;base64,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)}</style></defs><g stroke-linecap="round" transform="translate(1518.4481909217875 490.92934855029284) rotate(0 174.4152284590445 25.22535117283178)"><path d="M12.61 0 C99.57 3.88, 188.46 1.34, 336.22 0 C344.71 -2.4, 351.36 1.58, 348.83 12.61 C351.1 21.45, 350.28 27.24, 348.83 37.84 C346.92 45.37, 344.86 51.61, 336.22 50.45 C232.53 53.45, 131.97 49.97, 12.61 50.45 C6.94 50.89, 0.99 47.34, 0 37.84 C2.15 29.57, 2.28 17.33, 0 12.61 C1.42 3.43, 2.63 2.52, 12.61 0" stroke="none" stroke-width="0" fill="#ffffff"></path><path d="M12.61 0 C122.93 -1.98, 230.75 -0.75, 336.22 0 M12.61 0 C116.21 1.16, 219.95 1.45, 336.22 0 M336.22 0 C344.29 0.15, 350.79 4.09, 348.83 12.61 M336.22 0 C346.78 -0.75, 347.68 6.36, 348.83 12.61 M348.83 12.61 C348.31 21.15, 347.18 29.94, 348.83 37.84 M348.83 12.61 C349.04 21.56, 349.55 29.09, 348.83 37.84 M348.83 37.84 C349.48 47.7, 343.92 49.01, 336.22 50.45 M348.83 37.84 C348.48 47.32, 345.52 50.98, 336.22 50.45 M336.22 50.45 C246.4 47.25, 159.75 47.92, 12.61 50.45 M336.22 50.45 C236.68 48.32, 136.3 48.29, 12.61 50.45 M12.61 50.45 C3.15 52.06, 1.08 46.21, 0 37.84 M12.61 50.45 C3.4 50.73, 2.05 46.11, 0 37.84 M0 37.84 C-0.82 30.85, 0.52 24.64, 0 12.61 M0 37.84 C-0.04 28.85, 0.11 19.07, 0 12.61 M0 12.61 C1.18 4.91, 2.79 -1.35, 12.61 0 M0 12.61 C-0.11 4.12, 2.51 -1.56, 12.61 0" stroke="transparent" stroke-width="4" fill="none"></path></g><g stroke-linecap="round" transform="translate(1466.4658977475406 724.3538229720389) rotate(0 105.94645685535966 25.22535117283178)"><path d="M12.61 0 C64.24 -0.83, 105.54 1.4, 199.28 0 C209.19 2.64, 209.27 3.88, 211.89 12.61 C213.32 21.64, 211.12 28.52, 211.89 37.84 C209.02 44.67, 207.6 53.97, 199.28 50.45 C154.22 50.43, 115.08 54.45, 12.61 50.45 C1.24 47.61, 1.08 46.77, 0 37.84 C-1.87 32.28, 0.01 23.51, 0 12.61 C-1.07 5.59, 3.4 2.64, 12.61 0" stroke="none" stroke-width="0" fill="#ffffff"></path><path d="M12.61 0 C59.35 1.21, 110.71 -2.18, 199.28 0 M12.61 0 C71.47 0.09, 129.36 -1.21, 199.28 0 M199.28 0 C206.34 -0.09, 211.82 2.73, 211.89 12.61 M199.28 0 C206.13 -0.62, 211.67 2.83, 211.89 12.61 M211.89 12.61 C211.19 18.78, 210.71 26.26, 211.89 37.84 M211.89 12.61 C211.72 18.98, 212.2 24.48, 211.89 37.84 M211.89 37.84 C211.32 45.19, 207.2 50.58, 199.28 50.45 M211.89 37.84 C212.63 46.65, 206.21 50.99, 199.28 50.45 M199.28 50.45 C148.98 52.94, 101.21 51.97, 12.61 50.45 M199.28 50.45 C137.87 51.87, 76.34 51.91, 12.61 50.45 M12.61 50.45 C3.81 51.24, -0.43 45.37, 0 37.84 M12.61 50.45 C5.81 51.86, 1.09 46.97, 0 37.84 M0 37.84 C-0.43 27.43, 0.78 19.73, 0 12.61 M0 37.84 C-0.33 30.09, 0.67 23.73, 0 12.61 M0 12.61 C1.17 3.86, 4.11 0.31, 12.61 0 M0 12.61 C0.25 2.78, 5.36 -0.93, 12.61 0" stroke="transparent" stroke-width="4" fill="none"></path></g><g stroke-linecap="round" transform="translate(1117.545456971614 816.5163850375288) rotate(0 105.94645685535966 25.22535117283178)"><path d="M12.61 0 C68.84 -3.09, 133.97 2.01, 199.28 0 C207.85 2.15, 212.34 6.41, 211.89 12.61 C210.88 16.86, 215.44 21.32, 211.89 37.84 C209.07 43.74, 208.05 48.87, 199.28 50.45 C137.79 45.6, 75.71 50.67, 12.61 50.45 C4.69 46.99, -1.02 43.5, 0 37.84 C-2.94 29.28, 1.99 28.88, 0 12.61 C-1.86 3.62, 2.1 2.25, 12.61 0" stroke="none" stroke-width="0" fill="#ffffff"></path><path d="M12.61 0 C88.03 -0.49, 159.74 -0.35, 199.28 0 M12.61 0 C75.85 0.52, 141.78 0.94, 199.28 0 M199.28 0 C207.92 1.71, 210.04 2.89, 211.89 12.61 M199.28 0 C209.4 -1.25, 213.66 5.47, 211.89 12.61 M211.89 12.61 C213.03 21.43, 212 29.36, 211.89 37.84 M211.89 12.61 C211.2 21.4, 211.17 28.98, 211.89 37.84 M211.89 37.84 C213.07 44.71, 209.3 51.58, 199.28 50.45 M211.89 37.84 C211.99 44.48, 207.7 52.63, 199.28 50.45 M199.28 50.45 C149.81 48.15, 99.48 50.67, 12.61 50.45 M199.28 50.45 C131.29 50.14, 63.97 50.61, 12.61 50.45 M12.61 50.45 C3.66 49.79, 1.45 46.7, 0 37.84 M12.61 50.45 C3.31 49.08, 0.31 48.09, 0 37.84 M0 37.84 C-1.89 30.3, -0.2 20.13, 0 12.61 M0 37.84 C0.49 31.69, 0.96 24.5, 0 12.61 M0 12.61 C0.24 3.67, 6 0.91, 12.61 0 M0 12.61 C-0.77 5.38, 2.27 -0.21, 12.61 0" stroke="transparent" stroke-width="4" fill="none"></path></g><g stroke-linecap="round" transform="translate(1067.004590062772 856.7868184919496) rotate(0 154.9557329356179 72.07239750231173)"><path d="M32 0 C103.8 -0.09, 173.08 3.29, 277.91 0 C297.68 -0.63, 307.88 12.78, 309.91 32 C311.49 62.05, 311.88 89.76, 309.91 112.14 C311.93 131.69, 300.85 140.8, 277.91 144.14 C217.52 143.95, 152.75 144.8, 32 144.14 C10.32 143.54, -2.49 135.65, 0 112.14 C-1.36 94.39, 4.93 75.86, 0 32 C2.52 13.43, 7.5 -1.24, 32 0" stroke="none" stroke-width="0" fill="#fff5f5"></path><path d="M32 0 C126.48 1.36, 224.47 1.31, 277.91 0 M32 0 C110.48 -1.64, 189.57 -1.4, 277.91 0 M277.91 0 C297.79 1.82, 310.36 8.89, 309.91 32 M277.91 0 C297.97 1.66, 311.19 12.85, 309.91 32 M309.91 32 C310.95 60.18, 311.15 86.9, 309.91 112.14 M309.91 32 C309.43 51.08, 309.46 70.27, 309.91 112.14 M309.91 112.14 C308.9 132.28, 300.32 145.16, 277.91 144.14 M309.91 112.14 C311.31 134.68, 299.45 145.79, 277.91 144.14 M277.91 144.14 C200.05 144.96, 124.89 146.42, 32 144.14 M277.91 144.14 C211.93 145.9, 145.95 146.42, 32 144.14 M32 144.14 C11.19 144.18, 1.32 134.71, 0 112.14 M32 144.14 C10.43 144.57, -0.81 133.54, 0 112.14 M0 112.14 C0.58 82.05, -0.61 49.17, 0 32 M0 112.14 C0.35 87.76, 0.71 64.25, 0 32 M0 32 C1.44 8.76, 9.61 -1.59, 32 0 M0 32 C1.74 9.78, 8.54 1.33, 32 0" stroke="transparent" stroke-width="4" fill="none"></path></g><g stroke-linecap="round" transform="translate(1600.6106927521641 538.4971381300322) rotate(0 156.39709896590978 72.07239750231173)"><path d="M32 0 C126.4 -2.23, 214.41 -1.64, 280.79 0 C303.81 1.41, 313.62 9.75, 312.79 32 C308.38 57.05, 310.14 76.43, 312.79 112.14 C313.76 130.1, 303.48 144.01, 280.79 144.14 C219.51 143.8, 153.44 141.18, 32 144.14 C11.1 147.36, -0.21 130.88, 0 112.14 C-1.43 88.81, -2.26 66.65, 0 32 C2.19 7.63, 11.09 2.62, 32 0" stroke="none" stroke-width="0" fill="#fff5f5"></path><path d="M32 0 C126.45 0.43, 222.79 -0.08, 280.79 0 M32 0 C95.37 -1.3, 160.67 -1.55, 280.79 0 M280.79 0 C303.51 1.94, 311.62 8.87, 312.79 32 M280.79 0 C301.43 2.05, 313.41 11.63, 312.79 32 M312.79 32 C312.38 61.64, 314.06 87.25, 312.79 112.14 M312.79 32 C312.89 56.22, 312.72 77.8, 312.79 112.14 M312.79 112.14 C311.9 133.36, 300.64 145.28, 280.79 144.14 M312.79 112.14 C313.62 135.71, 303.91 145.22, 280.79 144.14 M280.79 144.14 C231.66 144.95, 180.24 147.59, 32 144.14 M280.79 144.14 C212.91 143.74, 144.98 143.77, 32 144.14 M32 144.14 C10.04 144.28, 1.15 133.88, 0 112.14 M32 144.14 C9.83 142.85, -0.14 133.14, 0 112.14 M0 112.14 C-0.07 89.51, -0.33 64.83, 0 32 M0 112.14 C0.98 89.78, 1.31 69.13, 0 32 M0 32 C-0.5 9.25, 9.91 0.79, 32 0 M0 32 C0.09 12.89, 11.12 0.87, 32 0" stroke="transparent" stroke-width="4" fill="none"></path></g><g stroke-linecap="round" transform="translate(33.23842466150904 28.410136962185106) rotate(0 708.9661167758712 380.39389883736897)"><path d="M32 0 C522.87 -3.11, 1010.39 -3.9, 1385.93 0 C1403.82 3.39, 1419.13 8.93, 1417.93 32 C1414.19 225.73, 1416.32 418.1, 1417.93 728.79 C1414.46 747.16, 1407.68 764.12, 1385.93 760.79 C882.42 767.53, 378.54 768.9, 32 760.79 C13.23 763.42, -0.82 753.18, 0 728.79 C-3.26 523.56, -3.99 315.8, 0 32 C2.28 12.33, 13.88 -0.81, 32 0" stroke="none" stroke-width="0" fill="#060212"></path><path d="M32 0 C489.72 -2.17, 946.43 -3.38, 1385.93 0 M32 0 C324.69 -0.94, 617.14 -0.93, 1385.93 0 M1385.93 0 C1406.74 -0.48, 1418.55 12.33, 1417.93 32 M1385.93 0 C1407.66 -0.53, 1415.99 9.16, 1417.93 32 M1417.93 32 C1420.91 290.64, 1421.16 548.71, 1417.93 728.79 M1417.93 32 C1415.51 230.79, 1415.31 430.33, 1417.93 728.79 M1417.93 728.79 C1418.99 750.76, 1407.5 761.2, 1385.93 760.79 M1417.93 728.79 C1418.99 747.95, 1409.26 759.77, 1385.93 760.79 M1385.93 760.79 C950.88 758.72, 517.09 758.3, 32 760.79 M1385.93 760.79 C964.32 763.22, 542.89 762.69, 32 760.79 M32 760.79 C9.52 762.35, -1.61 748.26, 0 728.79 M32 760.79 C9.61 761.22, -1.72 750.74, 0 728.79 M0 728.79 C-0.95 550.08, -1.04 370.79, 0 32 M0 728.79 C0.99 515.79, 1.6 302.63, 0 32 M0 32 C1.3 9.39, 9.01 -1.45, 32 0 M0 32 C-2.02 11.79, 10.07 -2.03, 32 0" stroke="transparent" stroke-width="4" fill="none"></path></g><g stroke-linecap="round" transform="translate(16.77627404932923 1024.126537365307) rotate(0 373.7783842218132 241.46742382350726)"><path d="M32 0 C247.51 -5.44, 464.65 -2.97, 715.56 0 C734.43 0.3, 747.62 10.08, 747.56 32 C747.56 121.75, 749.14 213.29, 747.56 450.93 C748.72 470.55, 734.78 480.93, 715.56 482.93 C523.98 485.4, 330.88 484.84, 32 482.93 C13.74 486.01, -1.28 468.98, 0 450.93 C-0.87 365.36, 1.45 279.71, 0 32 C-1.86 10.9, 8.88 -3.59, 32 0" stroke="none" stroke-width="0" fill="#fff4e6"></path><path d="M32 0 C270.96 2.97, 509.26 3.17, 715.56 0 M32 0 C273.52 0.4, 515.95 -0.17, 715.56 0 M715.56 0 C736.43 -0.98, 749.08 8.88, 747.56 32 M715.56 0 C738.3 1.33, 748.21 8.45, 747.56 32 M747.56 32 C748.59 123.4, 748.6 214.79, 747.56 450.93 M747.56 32 C748.8 146.39, 748.3 260.46, 747.56 450.93 M747.56 450.93 C747.47 473.44, 737.59 482.49, 715.56 482.93 M747.56 450.93 C748.74 470.58, 735.2 484.39, 715.56 482.93 M715.56 482.93 C479.1 482.7, 242.84 482.5, 32 482.93 M715.56 482.93 C507.81 483.02, 300.97 483.26, 32 482.93 M32 482.93 C10.66 481.44, -0.2 472.55, 0 450.93 M32 482.93 C11.98 482.44, 0.46 470.42, 0 450.93 M0 450.93 C-0.74 340.61, -1.9 231.14, 0 32 M0 450.93 C-0.09 315.49, -0.28 179.93, 0 32 M0 32 C0.05 11.18, 9.92 -0.83, 32 0 M0 32 C2.06 10.22, 10.58 -1.5, 32 0" stroke="transparent" stroke-width="4" fill="none"></path></g><g clip-path="url(#KmqS9MC0Vxj53U05AAHKz)"><g stroke-linecap="round" transform="translate(1158.0347792693162 1084.84559793868) rotate(0 378.1886812238711 146.64460995491083)"><path d="M32 0 C171.95 0.24, 310.4 0.51, 724.38 0 C746.84 2.21, 759.19 11, 756.38 32 C756.24 92.75, 755.16 155.49, 756.38 261.29 C759.2 282.34, 743.41 290.03, 724.38 293.29 C523.6 290.28, 323.13 292.28, 32 293.29 C10.37 292.96, -1.13 282.74, 0 261.29 C3.69 213.72, 2 161.87, 0 32 C1.72 8.45, 7.83 3.47, 32 0" stroke="none" stroke-width="0" fill="#fff4e6"></path><path d="M32 0 C190.04 1.49, 349.84 1.8, 724.38 0 M32 0 C289.85 -0.05, 548.21 -0.14, 724.38 0 M724.38 0 C747.16 1.41, 756.9 10.47, 756.38 32 M724.38 0 C743.46 -0.62, 754.75 12.88, 756.38 32 M756.38 32 C756.85 89.49, 757.23 150.91, 756.38 261.29 M756.38 32 C756.86 109.99, 756.91 188.74, 756.38 261.29 M756.38 261.29 C757.89 284.26, 746.19 293.45, 724.38 293.29 M756.38 261.29 C754.87 280.89, 747.56 294.35, 724.38 293.29 M724.38 293.29 C574.5 294.56, 424.87 295.58, 32 293.29 M724.38 293.29 C547.17 293.7, 369.99 293.71, 32 293.29 M32 293.29 C10.92 292.91, -0.75 281.43, 0 261.29 M32 293.29 C12.39 291.37, -1.82 283.98, 0 261.29 M0 261.29 C2.28 211.77, 1.72 164.45, 0 32 M0 261.29 C0.06 184.11, -0.89 108.84, 0 32 M0 32 C-0.65 11.54, 8.99 1.82, 32 0 M0 32 C1.68 9.46, 12.06 -0.12, 32 0" stroke="transparent" stroke-width="4" fill="none"></path></g></g><g stroke-linecap="round"><g transform="translate(1720.6739647913728 690.2504091719032) rotate(0 -21.804953876001985 190.3513386326543)"><path d="M-0.76 0.13 C-3.35 40.01, -8.33 176.24, -15.65 239.56 C-22.97 302.89, -40.04 356.36, -44.68 380.07 M1.05 -0.85 C-1.65 39.16, -9.12 177.14, -16.35 240.79 C-23.59 304.44, -37.88 357.87, -42.34 381.05" stroke="#2f9e44" stroke-width="4" fill="none"></path></g><g transform="translate(1720.6739647913728 690.2504091719032) rotate(0 -21.804953876001985 190.3513386326543)"><path d="M-45.69 356.27 C-44.44 364.26, -44.67 368.94, -42.34 381.05 M-45.69 356.27 C-44.78 362.83, -43.6 367.6, -42.34 381.05" stroke="#2f9e44" stroke-width="4" fill="none"></path></g><g transform="translate(1720.6739647913728 690.2504091719032) rotate(0 -21.804953876001985 190.3513386326543)"><path d="M-28.98 359.92 C-32.6 366.74, -37.7 370.35, -42.34 381.05 M-28.98 359.92 C-32.2 365.73, -35.15 369.6, -42.34 381.05" stroke="#2f9e44" stroke-width="4" fill="none"></path></g></g><mask></mask><g stroke-linecap="round" transform="translate(1519.2021498972665 757.2304442142924) rotate(0 134.14977905493612 78.04431438449456)"><path d="M32 0 C81.71 -2.41, 131.28 0.11, 236.3 0 C254.24 -1.26, 270.81 13.26, 268.3 32 C270.76 67.2, 267.63 107, 268.3 124.09 C268.06 144.88, 261.08 157.41, 236.3 156.09 C160.8 152.06, 87.21 155.71, 32 156.09 C13.91 157.7, 2.43 142.53, 0 124.09 C1.35 98.4, -4.16 69.91, 0 32 C3.01 8.3, 11.86 3.04, 32 0" stroke="none" stroke-width="0" fill="#ffffff"></path><path d="M32 0 C82.39 -2.37, 134.14 -0.31, 236.3 0 M32 0 C90.04 -2.28, 146.68 -1.19, 236.3 0 M236.3 0 C257.15 0.42, 268.78 9.02, 268.3 32 M236.3 0 C255.41 1.25, 267.05 8.37, 268.3 32 M268.3 32 C270.4 63.33, 268.41 93.86, 268.3 124.09 M268.3 32 C269.45 57.26, 268.2 83.29, 268.3 124.09 M268.3 124.09 C269.04 144.66, 258.07 157.68, 236.3 156.09 M268.3 124.09 C268.76 145.98, 255.6 156.3, 236.3 156.09 M236.3 156.09 C169.95 156.52, 104.58 158.79, 32 156.09 M236.3 156.09 C188.09 155.6, 141.99 155.37, 32 156.09 M32 156.09 C11.41 154.25, 0.31 144.82, 0 124.09 M32 156.09 C12.82 153.91, -0.13 143.73, 0 124.09 M0 124.09 C1.27 87.96, -1.69 53.45, 0 32 M0 124.09 C0.38 97.13, -0.3 71.23, 0 32 M0 32 C1.33 8.96, 11.85 -1.33, 32 0 M0 32 C-2.16 11.09, 10.02 -1.55, 32 0" stroke="transparent" stroke-width="4" fill="none"></path></g><g stroke-linecap="round" transform="translate(1599.833000663946 908.4923264529918) rotate(0 173.78954346960558 29.035068421793028)"><path d="M14.52 0 C112.17 4.91, 207.32 4.62, 333.06 0 C340.16 0.39, 350.9 8.36, 347.58 14.52 C348.6 23.11, 347.28 31.97, 347.58 43.55 C347.47 50.62, 340.37 61.15, 333.06 58.07 C213.37 57.54, 97.71 57.09, 14.52 58.07 C7.47 56.26, -0.65 54.74, 0 43.55 C-3.37 38.25, -0.2 24.9, 0 14.52 C-3.19 3.49, 7.67 0.24, 14.52 0" stroke="none" stroke-width="0" fill="#fff5f5"></path><path d="M14.52 0 C137.79 0.5, 261.81 0.47, 333.06 0 M14.52 0 C98.82 -0.57, 182.25 -0.01, 333.06 0 M333.06 0 C344.65 1.18, 348.04 4.5, 347.58 14.52 M333.06 0 C342.91 0.57, 348.08 6.94, 347.58 14.52 M347.58 14.52 C348.49 26.1, 347.57 35.21, 347.58 43.55 M347.58 14.52 C348.31 22.38, 347.62 30.84, 347.58 43.55 M347.58 43.55 C345.92 53.49, 342.3 56.08, 333.06 58.07 M347.58 43.55 C349.49 54.32, 342.38 57.43, 333.06 58.07 M333.06 58.07 C247.41 58.84, 158.89 58.06, 14.52 58.07 M333.06 58.07 C244.8 57.87, 155.94 57.71, 14.52 58.07 M14.52 58.07 C6.52 57.24, -1.77 53.41, 0 43.55 M14.52 58.07 C5.26 59.8, 0.72 51.96, 0 43.55 M0 43.55 C1.24 38.38, 0.52 31.65, 0 14.52 M0 43.55 C-0.78 31.35, -0.83 21.59, 0 14.52 M0 14.52 C-1.27 4.54, 3.02 0.13, 14.52 0 M0 14.52 C0.2 2.6, 3.33 1.86, 14.52 0" stroke="transparent" stroke-width="4" fill="none"></path></g><g clip-path="url(#KmqS9MC0Vxj53U05AAHKz)"><g stroke-linecap="round" transform="translate(1350.505309102121 1323.4674113451274) rotate(0 186.2941298570522 30.794129857052326)"><path d="M15.4 0 C120.2 -0.77, 222.73 -0.25, 357.19 0 C368.57 -3.14, 374.89 7.64, 372.59 15.4 C369.11 27.72, 368.99 32.65, 372.59 46.19 C375.28 57.35, 369.49 58.03, 357.19 61.59 C222.9 60.11, 91.23 60.32, 15.4 61.59 C6.34 61.48, -3.46 59.49, 0 46.19 C-0.19 38.23, 0.73 28.44, 0 15.4 C-1 5, 8.66 2.15, 15.4 0" stroke="none" stroke-width="0" fill="#ffffff"></path><path d="M15.4 0 C105.54 0.73, 196.24 0.52, 357.19 0 M15.4 0 C118.35 -0.22, 222.69 -0.11, 357.19 0 M357.19 0 C366.39 -1.22, 370.94 3.89, 372.59 15.4 M357.19 0 C369.55 -1.62, 374.82 4.78, 372.59 15.4 M372.59 15.4 C371.2 20.96, 373.97 28.78, 372.59 46.19 M372.59 15.4 C371.89 25.04, 372.92 34.21, 372.59 46.19 M372.59 46.19 C372.83 56.45, 366.26 62.38, 357.19 61.59 M372.59 46.19 C373.14 58.4, 365.52 61.92, 357.19 61.59 M357.19 61.59 C224.99 63.65, 92.3 63.07, 15.4 61.59 M357.19 61.59 C251.25 61.12, 146.18 61.85, 15.4 61.59 M15.4 61.59 C5.46 63.06, 1.02 55.88, 0 46.19 M15.4 61.59 C5.44 63.35, -1.54 55.92, 0 46.19 M0 46.19 C1.53 35.2, -0.75 26.09, 0 15.4 M0 46.19 C-0.09 35.55, 0.4 25.29, 0 15.4 M0 15.4 C-0.6 5.54, 5.19 -1.62, 15.4 0 M0 15.4 C-1.35 4.77, 6.15 -2.15, 15.4 0" stroke="#868e96" stroke-width="2" fill="none"></path></g></g><g clip-path="url(#KmqS9MC0Vxj53U05AAHKz)"><g transform="translate(1369.2295537052669 1341.7615412021796) rotate(0 167.56988525390625 12.5)"><text x="167.56988525390625" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#868e96" text-anchor="middle" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Approach to interpreting the Bible</text></g></g><g clip-path="url(#KmqS9MC0Vxj53U05AAHKz)"><g transform="translate(1162.2408352929847 1094.6555496711364) rotate(0 153.39791870117188 17.5)"><text x="0" y="24.668" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="28px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">The propositional view</text></g></g><g clip-path="url(#KmqS9MC0Vxj53U05AAHKz)"><g transform="translate(1188.8334534114315 1143.411999052647) rotate(0 102.29115092884084 44.658325020619145)"><text x="0" y="20.983458316354913" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.817773344330206px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">The Bible is pure</text><text x="0" y="50.75567499676767" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.817773344330206px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Revelation -- the</text><text x="0" y="80.52789167718043" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.817773344330206px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">infallible truth.</text></g></g><g clip-path="url(#KmqS9MC0Vxj53U05AAHKz)"><g transform="translate(1545.8613570871855 1100.653655089635) rotate(0 182.2799072265625 17.5)"><text x="0" y="24.668" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="28px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">The non-propositional view</text></g></g><g clip-path="url(#KmqS9MC0Vxj53U05AAHKz)"><g transform="translate(1633.2202269937893 1153.1772508445097) rotate(0 135.01812578603415 46.70362178823507)"><text x="0" y="21.94447509089872" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="24.908598287058705px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">The Bible's messages</text><text x="0" y="53.0802229497221" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="24.908598287058705px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">should be adapted to</text><text x="0" y="84.21597080854548" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="24.908598287058705px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">one's own life.</text></g></g><g clip-path="url(#jkXFwQmDr0P9s-Qbgeyo9)"><g transform="translate(98.40731900109631 1038.7728993847925) rotate(0 209.92503528391728 33.784903336222726)"><text x="0" y="23.811599871369786" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="27.027922668978192px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">All ethics and morality are</text><text x="0" y="57.59650320759253" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="27.027922668978192px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">determined by God's commands</text></g></g><g clip-path="url(#jkXFwQmDr0P9s-Qbgeyo9)"><g transform="translate(444.501213360008 1146.2734955079234) rotate(0 162.59651673011024 33.784903336222726)"><text x="0" y="23.811599871369786" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="27.027922668978192px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Writers of the Bible are</text><text x="0" y="57.59650320759253" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="27.027922668978192px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">scribes of God's word</text></g></g><g clip-path="url(#jkXFwQmDr0P9s-Qbgeyo9)"><g transform="translate(46.08278815566564 1253.3193565176507) rotate(0 305.90576193332765 16.892451668111363)"><text x="0" y="23.811599871369786" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="27.027922668978192px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">The Bible is self-authenticating and infallible</text></g></g><g clip-path="url(#jkXFwQmDr0P9s-Qbgeyo9)"><g transform="translate(513.637785599105 1306.8100236987016) rotate(0 112.70107707229283 33.784903336222726)"><text x="0" y="23.811599871369786" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="27.027922668978192px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Does not require</text><text x="0" y="57.59650320759253" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="27.027922668978192px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">interpretation</text></g></g><g clip-path="url(#jkXFwQmDr0P9s-Qbgeyo9)"><g transform="translate(96.36351605655636 1417.4620088998595) rotate(0 279.16231309640705 39.267801629931654)"><text x="0" y="27.67594658877583" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="31.41424130394532px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">As the word of God, it's the only</text><text x="0" y="66.94374821870748" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="31.41424130394532px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">source of moral decision making.</text></g></g><g transform="translate(1500.3318547875938 734.1203599368656) rotate(0 71.04996490478516 17.5)"><text x="0" y="24.668" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="28px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Karl Barth</text></g><g transform="translate(1539.2045521751625 773.864332331873) rotate(0 115.75316704644098 62.5)"><text x="0" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">God's word cannot be</text><text x="0" y="42.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">fully captured in human</text><text x="0" y="67.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">language: the Bible</text><text x="0" y="92.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">cannot claim to literally</text><text x="0" y="117.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">represent his message.</text></g><g transform="translate(1617.904910248079 921.84447556104) rotate(0 159.39990234375 12.5)"><text x="0" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Only God is divine -- not a book.</text></g><g transform="translate(1147.6242944327917 826.832437950666) rotate(0 80.12195587158203 17.5)"><text x="0" y="24.668" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="28px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Richard Hay</text></g><g transform="translate(1080.7909339727223 864.9633380157701) rotate(0 150.22401258680554 62.5)"><text x="0" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">We must read the Bible</text><text x="0" y="42.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">hermeneutically -- interpreting</text><text x="0" y="67.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">texts whilst keeping in mind</text><text x="0" y="92.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">the context in which they</text><text x="0" y="117.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">were written.</text></g><g transform="translate(1527.866736211005 503.0404431923996) rotate(0 161.4619140625 17.5)"><text x="0" y="24.668" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="28px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Friedrich Schleiermacher</text></g><g transform="translate(1609.509276480257 547.6849866191253) rotate(0 153.08024088541666 62.5)"><text x="0" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">The hermeneutical circle:</text><text x="0" y="42.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">a person must read a passage</text><text x="0" y="67.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">within the context of the</text><text x="0" y="92.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Bible and then in the context</text><text x="0" y="117.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">of one's life.</text></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(407.4094286357738 79.4083556617145) rotate(0 207.95590209960938 17.5)"><text x="0" y="24.668" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="28px" fill="#ffffff" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Are theonomous ethics useful?</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(698.7118494718778 171.71081522418626) rotate(0 186.89113899777539 46.85774983314502)"><text x="0" y="22.016894721600412" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="24.990799911010683px" fill="#40c057" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Clear: taking scripture as the</text><text x="0" y="53.255394610363766" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="24.990799911010683px" fill="#40c057" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">whole truth provides clear</text><text x="0" y="84.49389449912712" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="24.990799911010683px" fill="#40c057" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">guidance on moral matters.</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(834.7869244463425 329.717715075589) rotate(0 134.12497362693716 29.159062685419144)"><text x="0" y="20.55130738068342" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.32725014833532px" fill="#40c057" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Therefore it's easy to</text><text x="0" y="49.71037006610257" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.32725014833532px" fill="#40c057" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">implement and follow.</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(654.8172826110467 482.7946996595115) rotate(0 139.2542690011852 38.5397330846514)"><text x="0" y="18.108535918708213" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20.554524311814088px" fill="#40c057" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Trustworthy: allows</text><text x="0" y="43.801691308475824" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20.554524311814088px" fill="#40c057" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Christians to trust that</text><text x="0" y="69.49484669824344" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20.554524311814088px" fill="#40c057" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">their morality is correct.</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(376.89258129228983 302.1350607694458) rotate(0 134.66352820521308 45.81795157508691)"><text x="0" y="21.52832818008084" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="24.436240840046356px" fill="#40c057" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">examples: ethics are</text><text x="0" y="52.073629230138785" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="24.436240840046356px" fill="#40c057" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">illustrated through</text><text x="0" y="82.61893028019674" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="24.436240840046356px" fill="#40c057" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">real life situations.</text></g></g><g clip-path="url(#jkXFwQmDr0P9s-Qbgeyo9)"><g stroke-linecap="round"><g transform="translate(196.51131176067497 1113.5764908029873) rotate(0 14.110468588345498 61.87143285733157)"><path d="M0.83 0.78 C5.32 21.55, 22.77 103.75, 27.15 124.31 M-0.19 0.14 C4.64 20.59, 24.37 102.17, 29.3 122.48" stroke="#2f9e44" stroke-width="2" fill="none"></path></g><g transform="translate(196.51131176067497 1113.5764908029873) rotate(0 14.110468588345498 61.87143285733157)"><path d="M15.46 101.66 C21.07 106.35, 25.08 112.8, 29.3 122.48 M15.46 101.66 C20.6 109.24, 24.56 116.29, 29.3 122.48" stroke="#2f9e44" stroke-width="2" fill="none"></path></g><g transform="translate(196.51131176067497 1113.5764908029873) rotate(0 14.110468588345498 61.87143285733157)"><path d="M32.08 97.63 C32.43 103.71, 31.19 111.43, 29.3 122.48 M32.08 97.63 C31.72 106.69, 30.17 115.08, 29.3 122.48" stroke="#2f9e44" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#jkXFwQmDr0P9s-Qbgeyo9)"><g stroke-linecap="round"><g transform="translate(435.6689864781738 1201.901792792018) rotate(0 -79.8589420602791 17.708781862816323)"><path d="M-0.33 1.11 C-26.88 6.84, -133.87 29.76, -160.25 35.45 M1.7 0.64 C-24.97 7.1, -134.73 31.03, -161.47 37.01" stroke="#2f9e44" stroke-width="2" fill="none"></path></g><g transform="translate(435.6689864781738 1201.901792792018) rotate(0 -79.8589420602791 17.708781862816323)"><path d="M-140.37 23.6 C-143.03 25.6, -149.44 31.34, -161.47 37.01 M-140.37 23.6 C-145.55 28.19, -153.07 31.63, -161.47 37.01" stroke="#2f9e44" stroke-width="2" fill="none"></path></g><g transform="translate(435.6689864781738 1201.901792792018) rotate(0 -79.8589420602791 17.708781862816323)"><path d="M-136.69 40.3 C-140.3 38.63, -147.52 40.71, -161.47 37.01 M-136.69 40.3 C-143.07 40.1, -151.65 38.74, -161.47 37.01" stroke="#2f9e44" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#jkXFwQmDr0P9s-Qbgeyo9)"><g stroke-linecap="round"><g transform="translate(225.24970323862613 1303.1042598538734) rotate(0 -1.30510958867535 50.90003749925094)"><path d="M0.82 -0.73 C0.42 16.25, -1.5 84.55, -1.9 101.48 M-0.21 1.51 C-0.75 18.69, -2.22 86.16, -2.48 102.85" stroke="#f08c00" stroke-width="2" fill="none"></path></g><g transform="translate(225.24970323862613 1303.1042598538734) rotate(0 -1.30510958867535 50.90003749925094)"><path d="M-10.57 79.2 C-9.08 88.45, -5.61 97.13, -2.48 102.85 M-10.57 79.2 C-8.44 83.98, -5.97 89.32, -2.48 102.85" stroke="#f08c00" stroke-width="2" fill="none"></path></g><g transform="translate(225.24970323862613 1303.1042598538734) rotate(0 -1.30510958867535 50.90003749925094)"><path d="M6.52 79.53 C2.15 88.79, -0.27 97.35, -2.48 102.85 M6.52 79.53 C4.88 84.3, 3.58 89.57, -2.48 102.85" stroke="#f08c00" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#jkXFwQmDr0P9s-Qbgeyo9)"><g stroke-linecap="round"><g transform="translate(306.921598934714 1303.1042598538734) rotate(0 94.91186749813983 24.857865475538716)"><path d="M0.38 0.63 C0.62 8.57, -29.27 42.2, 2.18 48.78 C33.62 55.35, 157.77 41.4, 189.05 40.06 M-0.88 -0.09 C-0.35 8.49, -27.78 42.88, 4.29 49.82 C36.36 56.76, 160.57 43.38, 191.54 41.53" stroke="#f08c00" stroke-width="2" fill="none"></path></g><g transform="translate(306.921598934714 1303.1042598538734) rotate(0 94.91186749813983 24.857865475538716)"><path d="M168.82 51.96 C177.93 46.25, 183.48 43.1, 191.54 41.53 M168.82 51.96 C176.05 48.41, 183.89 44.38, 191.54 41.53" stroke="#f08c00" stroke-width="2" fill="none"></path></g><g transform="translate(306.921598934714 1303.1042598538734) rotate(0 94.91186749813983 24.857865475538716)"><path d="M167.43 34.92 C177.2 35.33, 183.25 38.31, 191.54 41.53 M167.43 34.92 C175.11 36.88, 183.4 38.38, 191.54 41.53" stroke="#f08c00" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#jkXFwQmDr0P9s-Qbgeyo9)"><g transform="translate(37.82134843892254 1039.3578820838534) rotate(0 20.925277709960938 18.833054382345495)"><text x="0" y="26.54707345735421" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="30.132887011752793px" fill="#868e96" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">P1:</text></g></g><g clip-path="url(#jkXFwQmDr0P9s-Qbgeyo9)"><g transform="translate(390.29927601019267 1153.2069237865996) rotate(0 24.27349853515625 18.25730685571932)"><text x="0" y="25.735499743821954" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="29.211690969150915px" fill="#868e96" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">P2:</text></g></g><g transform="translate(10 992.0446772711961) rotate(0 90.66162109375 8.75)"><text x="0" y="12.5302734375" font-family="Helvetica, sans-serif, Segoe UI Emoji" font-size="14px" fill="#37A27F" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Theonomous argument basis</text></g><rect transform="translate(10 1012.5446772711961) rotate(0 383.8362791691043 252.5376365118546)" width="767.6725583382085px" height="505.0752730237092px" rx="8" ry="8" fill="none" stroke="#AAE2D0" stroke-width="#71CFB0"></rect><g clip-path="url(#KmqS9MC0Vxj53U05AAHKz)"><g stroke-linecap="round"><g transform="translate(1539.0673820843988 1315.3338053859516) rotate(0 18.82089065622786 -85.84163749694144)"><path d="M0.44 0.4 C6.83 -28.15, 32.44 -142.75, 38.66 -171.36 M-0.79 -0.43 C5.51 -29.36, 31.94 -144.49, 38.25 -173.31" stroke="#9c36b5" stroke-width="4" fill="none"></path></g><g transform="translate(1539.0673820843988 1315.3338053859516) rotate(0 18.82089065622786 -85.84163749694144)"><path d="M41.44 -148.51 C41.08 -154.87, 39.91 -164.44, 38.25 -173.31 M41.44 -148.51 C41.19 -157.84, 38.81 -164.62, 38.25 -173.31" stroke="#9c36b5" stroke-width="4" fill="none"></path></g><g transform="translate(1539.0673820843988 1315.3338053859516) rotate(0 18.82089065622786 -85.84163749694144)"><path d="M24.75 -152.26 C29.82 -157.46, 34.09 -165.81, 38.25 -173.31 M24.75 -152.26 C30.17 -160.19, 33.46 -165.69, 38.25 -173.31" stroke="#9c36b5" stroke-width="4" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#KmqS9MC0Vxj53U05AAHKz)"><g stroke-linecap="round"><g transform="translate(1487.8065025396872 1313.581888918327) rotate(0 -29.29420288785299 -83.9631696235952)"><path d="M-0.34 1.12 C-10.09 -26.64, -47.75 -138.91, -57.43 -167 M1.68 0.67 C-8.21 -27.38, -47.63 -140.27, -57.78 -168.63" stroke="#9c36b5" stroke-width="4" fill="none"></path></g><g transform="translate(1487.8065025396872 1313.581888918327) rotate(0 -29.29420288785299 -83.9631696235952)"><path d="M-41.9 -149.32 C-46.1 -154.92, -52.57 -164.12, -57.78 -168.63 M-41.9 -149.32 C-46.51 -155.36, -53.17 -163.15, -57.78 -168.63" stroke="#9c36b5" stroke-width="4" fill="none"></path></g><g transform="translate(1487.8065025396872 1313.581888918327) rotate(0 -29.29420288785299 -83.9631696235952)"><path d="M-58.02 -143.63 C-55.96 -151.38, -56.19 -162.79, -57.78 -168.63 M-58.02 -143.63 C-57.16 -151.59, -58.32 -161.32, -57.78 -168.63" stroke="#9c36b5" stroke-width="4" fill="none"></path></g></g><mask></mask></g><g transform="translate(1146.2408352929847 1058.1555496711364) rotate(0 42.0205078125 8.75)"><text x="0" y="12.5302734375" font-family="Helvetica, sans-serif, Segoe UI Emoji" font-size="14px" fill="#37A27F" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">hermeneutics</text></g><rect transform="translate(1146.2408352929847 1078.6555496711364) rotate(0 390.0901681236629 153.95256294501434)" width="780.1803362473258px" height="307.90512589002867px" rx="8" ry="8" fill="none" stroke="#AAE2D0" stroke-width="#71CFB0"></rect><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(930.8617470737861 46.49999999999977) rotate(0 88.2121380467031 28.11924270289194)"><text x="0" y="19.818442256998235" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="22.49539416231355px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">The Bible is</text><text x="0" y="47.93768495989017" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="22.49539416231355px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">often sexist. </text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(1195.7908707110041 310.9471931203559) rotate(0 109.65086205005423 43.73848540578388)"><text x="0" y="20.551256342664317" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.327192216418066px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Biblical writings</text><text x="0" y="49.7102466131869" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.327192216418066px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">vary in tone and</text><text x="0" y="78.86923688370948" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.327192216418066px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">perspective</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(987.6705483789956 440.9813220241683) rotate(0 142.92076722626035 32.27821849043539)"><text x="0" y="22.749688392058864" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="25.822574792348316px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Teachings can</text><text x="0" y="55.02790688249426" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="25.822574792348316px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">contradict each other.</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(283.12679617165463 164.65365060391514) rotate(0 139.64690017172234 29.15899751201232)"><text x="0" y="20.551261446466285" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.32719800960986px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Some of the teachings</text><text x="0" y="49.710258958478605" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.32719800960986px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">are metaphors</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(56.163190632255464 244.35759388201154) rotate(0 86.15959960512248 47.89750464226529)"><text x="0" y="22.505440847912382" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="25.545335809208154px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">They can be</text><text x="0" y="54.437110609422575" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="25.545335809208154px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">interpreted</text><text x="0" y="86.36878037093277" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="25.545335809208154px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">subjectively</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(680.9911893641411 708.1142400536946) rotate(0 115.41251618523734 33.31799502402464)"><text x="0" y="23.482522892932565" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="26.654396019219714px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Prohibits inter-</text><text x="0" y="56.800517916957205" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="26.654396019219714px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">faith dialogue.</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(46.19068564588588 441.8987432293111) rotate(0 83.57731594383529 37.5)"><text x="0" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Some of the</text><text x="0" y="42.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">rules/practices</text><text x="0" y="67.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">are extreme.</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(426.1748109189814 599.9838421921772) rotate(0 112.17899870480335 44.77821849043539)"><text x="0" y="21.039792261372575" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.88171652823221px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Jesus warns</text><text x="0" y="50.89193792166284" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.88171652823221px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">against blindly</text><text x="0" y="80.7440835819531" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.88171652823221px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">following tradition</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(241.99519568576602 437.6504138535722) rotate(0 147.43057042158796 37.5)"><text x="0" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Some of the practices aren't</text><text x="0" y="42.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">applicable to/ don't mention</text><text x="0" y="67.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#fa5252" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">things in the 21st century</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(247.55629271443718 388.7868200253836) rotate(0 -39.18985732272449 85.2954584871427)"><path d="M0.66 1.06 C-12.39 29.64, -65.33 142.35, -78.31 170.73 M-0.45 0.57 C-13.65 29.43, -66.4 144.21, -79.22 172.35" stroke="#e03131" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(72.93044030037572 667.6206927929697) rotate(0 177.64997256201775 49.97697081156798)"><text x="0" y="23.482512685328736" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="26.65438443283625px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Planting two kinds of</text><text x="0" y="56.800493226374044" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="26.65438443283625px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">crops in the same field,</text><text x="0" y="90.11847376741935" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="26.65438443283625px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">not being able to eat pork.</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(63.51183270992101 57.35515140482153) rotate(0 139.69258711820044 41.65899751201232)"><text x="0" y="19.574174297644188" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="22.21813200640657px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">'if your right eye causes</text><text x="0" y="47.346839305652395" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="22.21813200640657px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">you to sin, tear it out</text><text x="0" y="75.11950431366061" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="22.21813200640657px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">and throw it away.'</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(1180.6432859965723 633.3981069785398) rotate(0 135.6111588663561 44.778261939373294)"><text x="0" y="21.039812676580198" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.88173970099909px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Divorce is shown as ok</text><text x="0" y="50.891987302829065" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.88173970099909px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">by Jesus in Mark but</text><text x="0" y="80.74416192907793" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.88173970099909px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">not in Matthew.</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(952.827713965834 644.8973705531764) rotate(0 99.31061196667338 50)"><text x="0" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">The sermon on the</text><text x="0" y="42.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">mount denounces</text><text x="0" y="67.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">many old testament</text><text x="0" y="92.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">ideas.</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g transform="translate(1108.3158380597602 97.44256005379361) rotate(0 166.4062138833513 59.35774983314491)"><text x="0" y="20.917671041200265" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.743099933257962px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">John presents a mystical</text><text x="0" y="50.59654595777272" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.743099933257962px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Jesus, whereas Matthew is</text><text x="0" y="80.27542087434517" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.743099933257962px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">more concerned with how</text><text x="0" y="109.95429579091763" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="23.743099933257962px" fill="#da77f2" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Jesus fits into Judaism</text></g></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(1178.2698303164223 330.40888155816265) rotate(0 -48.88663587849953 -31.858185740265412)"><path d="M-0.39 0.6 C-16.59 -10.1, -80.51 -53.85, -96.64 -64.59 M1.61 -0.13 C-14.71 -10.67, -80.45 -53.1, -97 -63.51" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(1178.2698303164223 330.40888155816265) rotate(0 -48.88663587849953 -31.858185740265412)"><path d="M-72.6 -58.08 C-80.12 -58.17, -91.11 -61, -97 -63.51 M-72.6 -58.08 C-80.23 -59.46, -85.89 -61.89, -97 -63.51" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(1178.2698303164223 330.40888155816265) rotate(0 -48.88663587849953 -31.858185740265412)"><path d="M-81.8 -43.66 C-86.05 -48.77, -93.82 -56.65, -97 -63.51 M-81.8 -43.66 C-86.7 -49.28, -89.7 -55.9, -97 -63.51" stroke="#e03131" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(971.6705483789956 441.25405025062923) rotate(0 -112.72442843929065 4.985659342184476)"><path d="M1 -0.02 C-34.89 -4.03, -177.19 -29.12, -214.8 -23.74 C-252.4 -18.36, -222.79 22.69, -224.62 32.26 M0.07 -1.08 C-36.03 -5, -178.3 -28.5, -215.8 -22.75 C-253.3 -17.01, -223.3 24.3, -224.95 33.37" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(971.6705483789956 441.25405025062923) rotate(0 -112.72442843929065 4.985659342184476)"><path d="M-239.73 13.21 C-234.6 19.88, -231.22 28.41, -224.95 33.37 M-239.73 13.21 C-236.02 18.44, -232.13 23.82, -224.95 33.37" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(971.6705483789956 441.25405025062923) rotate(0 -112.72442843929065 4.985659342184476)"><path d="M-223.31 8.43 C-223.85 16.89, -226.14 27.07, -224.95 33.37 M-223.31 8.43 C-224.01 15.08, -224.52 21.74, -224.95 33.37" stroke="#e03131" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(773.885859798233 409.3551965502893) rotate(0 -8.295101165370966 -62.589440829906266)"><path d="M-0.23 1.15 C-2.95 -19.61, -13.27 -103.42, -16 -124.46 M-1.82 0.71 C-4.66 -20.4, -14.04 -105.46, -16.64 -126.2" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(773.885859798233 409.3551965502893) rotate(0 -8.295101165370966 -62.589440829906266)"><path d="M-5.42 -103.86 C-7.15 -110.14, -11.5 -118.43, -16.64 -126.2 M-5.42 -103.86 C-8.87 -110.07, -13.09 -117.64, -16.64 -126.2" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(773.885859798233 409.3551965502893) rotate(0 -8.295101165370966 -62.589440829906266)"><path d="M-22.4 -101.88 C-18.64 -108.76, -17.49 -117.7, -16.64 -126.2 M-22.4 -101.88 C-20.64 -108.7, -19.65 -116.88, -16.64 -126.2" stroke="#e03131" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(555.6063365289419 479.8772888842416) rotate(0 133.49230378296767 -47.55938614880097)"><path d="M0.08 0.49 C44.72 -15.42, 223.35 -80.43, 267.63 -96.19 M-1.33 -0.29 C43.22 -16.04, 222.13 -79.29, 267.03 -95.21" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(555.6063365289419 479.8772888842416) rotate(0 133.49230378296767 -47.55938614880097)"><path d="M247.73 -79.31 C254.13 -82.76, 257.02 -90.35, 267.03 -95.21 M247.73 -79.31 C254.45 -85.37, 261.98 -91, 267.03 -95.21" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(555.6063365289419 479.8772888842416) rotate(0 133.49230378296767 -47.55938614880097)"><path d="M242.03 -95.43 C249.95 -94.3, 254.46 -97.31, 267.03 -95.21 M242.03 -95.43 C251.05 -95.25, 260.81 -94.6, 267.03 -95.21" stroke="#e03131" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(458.63313049559406 238.38322295739772) rotate(0 13.295449159337863 22.500918906023912)"><path d="M0.07 -0.2 C4.35 7.17, 21.79 37.03, 26.13 44.59 M-0.56 -0.78 C3.85 6.62, 22.51 37.31, 27.13 45.08" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(458.63313049559406 238.38322295739772) rotate(0 13.295449159337863 22.500918906023912)"><path d="M7.68 29.36 C14.73 34.46, 21.71 40.36, 27.13 45.08 M7.68 29.36 C14.46 34.32, 20.59 39.14, 27.13 45.08" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(458.63313049559406 238.38322295739772) rotate(0 13.295449159337863 22.500918906023912)"><path d="M22.33 20.54 C23.87 28.99, 25.29 38.23, 27.13 45.08 M22.33 20.54 C24.34 28.39, 25.68 36.09, 27.13 45.08" stroke="#e03131" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(571.4704096314808 190.79893953499254) rotate(0 58.17585207057891 9.066179967246399)"><path d="M-0.29 0.88 C19.29 3.73, 98 15.31, 117.32 18.2 M1.75 0.3 C21.28 3.87, 97.49 16.55, 116.88 19.78" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(571.4704096314808 190.79893953499254) rotate(0 58.17585207057891 9.066179967246399)"><path d="M92.3 24.35 C100.69 24.73, 106.29 20.57, 116.88 19.78 M92.3 24.35 C100.35 23.68, 108.15 21.97, 116.88 19.78" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(571.4704096314808 190.79893953499254) rotate(0 58.17585207057891 9.066179967246399)"><path d="M95.11 7.48 C102.86 12.63, 107.67 13.24, 116.88 19.78 M95.11 7.48 C102.17 12.02, 109.1 15.53, 116.88 19.78" stroke="#e03131" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(296.6107389796987 238.33208796230042) rotate(0 -28.559738357796505 27.843405457371205)"><path d="M0.64 -1.18 C-5.37 5.92, -27.28 32.69, -36.75 42.12 C-46.23 51.55, -52.82 53.3, -56.22 55.4 M-0.48 0.82 C-6.51 7.57, -27.94 30.81, -37.27 40.1 C-46.61 49.39, -53.24 54.03, -56.51 56.56" stroke="#f08c00" stroke-width="2" fill="none"></path></g><g transform="translate(296.6107389796987 238.33208796230042) rotate(0 -28.559738357796505 27.843405457371205)"><path d="M-50.05 46.51 C-52.82 49.78, -53.02 52.29, -56.51 56.56 M-50.05 46.51 C-52.04 48.77, -53.61 51.86, -56.51 56.56" stroke="#f08c00" stroke-width="2" fill="none"></path></g><g transform="translate(296.6107389796987 238.33208796230042) rotate(0 -28.559738357796505 27.843405457371205)"><path d="M-45.1 53.01 C-49.04 54.75, -50.43 55.69, -56.51 56.56 M-45.1 53.01 C-48.45 53.44, -51.39 54.74, -56.51 56.56" stroke="#f08c00" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(743.1235202323905 577.4152122433754) rotate(0 29.112772751627745 57.3495139051596)"><path d="M0.09 -1.18 C9.65 18.05, 48.56 95.87, 58.21 115.08 M-1.32 0.81 C8.01 19.7, 47.52 94.12, 57.25 113.16" stroke="#2f9e44" stroke-width="2" fill="none"></path></g><g transform="translate(743.1235202323905 577.4152122433754) rotate(0 29.112772751627745 57.3495139051596)"><path d="M38.8 96.29 C43.58 102.46, 53 108.25, 57.25 113.16 M38.8 96.29 C42.5 100.36, 47.23 104.83, 57.25 113.16" stroke="#2f9e44" stroke-width="2" fill="none"></path></g><g transform="translate(743.1235202323905 577.4152122433754) rotate(0 29.112772751627745 57.3495139051596)"><path d="M53.96 88.38 C53.13 97.48, 56.96 106.19, 57.25 113.16 M53.96 88.38 C53.97 94.38, 54.95 100.8, 57.25 113.16" stroke="#2f9e44" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(647.1026939821486 553.8593841922952) rotate(0 -20.91485642990733 22.344719562745126)"><path d="M-0.5 0.42 C-7.56 7.76, -35.26 37.13, -42.2 44.49 M0.24 0.16 C-6.66 7.54, -34.29 37.59, -41.16 45.08" stroke="#e8590c" stroke-width="2" fill="none"></path></g><g transform="translate(647.1026939821486 553.8593841922952) rotate(0 -20.91485642990733 22.344719562745126)"><path d="M-31.57 22 C-33.86 28.88, -38.16 36.55, -41.16 45.08 M-31.57 22 C-33.75 28.27, -37.44 34.73, -41.16 45.08" stroke="#e8590c" stroke-width="2" fill="none"></path></g><g transform="translate(647.1026939821486 553.8593841922952) rotate(0 -20.91485642990733 22.344719562745126)"><path d="M-18.97 33.57 C-25.47 36.58, -33.91 40.44, -41.16 45.08 M-18.97 33.57 C-24.75 36.59, -32.01 39.77, -41.16 45.08" stroke="#e8590c" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(279.39505206402123 651.5023246484354) rotate(0 4.308458250252102 -60.05095539743172)"><path d="M0.84 -1.18 C2.35 -21.16, 8.17 -99.78, 9.36 -119.63 M-0.18 0.81 C1.21 -19.55, 7.63 -101.52, 8.8 -121.51" stroke="#2f9e44" stroke-width="2" fill="none"></path></g><g transform="translate(279.39505206402123 651.5023246484354) rotate(0 4.308458250252102 -60.05095539743172)"><path d="M15.69 -97.48 C11.45 -103.94, 11.98 -114.05, 8.8 -121.51 M15.69 -97.48 C14.79 -103.36, 11.95 -110.14, 8.8 -121.51" stroke="#2f9e44" stroke-width="2" fill="none"></path></g><g transform="translate(279.39505206402123 651.5023246484354) rotate(0 4.308458250252102 -60.05095539743172)"><path d="M-1.37 -98.67 C-0.1 -104.87, 5.93 -114.59, 8.8 -121.51 M-1.37 -98.67 C2.54 -104.06, 4.51 -110.5, 8.8 -121.51" stroke="#2f9e44" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(112.22599505799076 649.9654284616352) rotate(0 -2.967975816946705 -57.15834261616203)"><path d="M0.74 0.6 C-0.24 -18.25, -5.58 -94.42, -6.76 -113.4 M-0.34 -0.13 C-0.85 -19.28, -3.32 -95.88, -4.49 -115.04" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(112.22599505799076 649.9654284616352) rotate(0 -2.967975816946705 -57.15834261616203)"><path d="M5.1 -91.95 C4 -98.46, 2.37 -102.99, -4.49 -115.04 M5.1 -91.95 C1.91 -101.29, -2.41 -108.89, -4.49 -115.04" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(112.22599505799076 649.9654284616352) rotate(0 -2.967975816946705 -57.15834261616203)"><path d="M-11.99 -91.19 C-9.24 -97.98, -7.02 -102.68, -4.49 -115.04 M-11.99 -91.19 C-8.58 -100.87, -6.3 -108.77, -4.49 -115.04" stroke="#e03131" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(137.46626864045243 230.27648006071013) rotate(0 -3.8551223499390517 -37.82168450272525)"><path d="M-0.51 1.17 C-1.88 -11.31, -7.09 -63.17, -8.16 -76 M1.43 0.74 C-0.15 -11.47, -7.89 -62.1, -9.34 -74.66" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(137.46626864045243 230.27648006071013) rotate(0 -3.8551223499390517 -37.82168450272525)"><path d="M2.31 -52.54 C0.89 -60.13, -5.25 -64.9, -9.34 -74.66 M2.31 -52.54 C-0.2 -58.79, -4.29 -64.55, -9.34 -74.66" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(137.46626864045243 230.27648006071013) rotate(0 -3.8551223499390517 -37.82168450272525)"><path d="M-14.63 -50.22 C-10.83 -58.46, -11.75 -63.93, -9.34 -74.66 M-14.63 -50.22 C-12.35 -57.25, -11.64 -63.66, -9.34 -74.66" stroke="#e03131" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(391.6897746110999 148.65365060391514) rotate(0 -20.584530404029238 -12.640314810834184)"><path d="M0.13 -0.54 C-0.92 -4.22, 0.71 -18.26, -6.23 -22.41 C-13.18 -26.56, -35.72 -24.92, -41.54 -25.45 M-0.47 0.38 C-1.36 -3.42, 1.39 -18.9, -5.26 -23.12 C-11.92 -27.34, -34.46 -24.58, -40.41 -24.93" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(391.6897746110999 148.65365060391514) rotate(0 -20.584530404029238 -12.640314810834184)"><path d="M-23.89 -31.47 C-29.89 -30.26, -33.33 -28, -40.41 -24.93 M-23.89 -31.47 C-28.53 -29.62, -32.5 -27.75, -40.41 -24.93" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(391.6897746110999 148.65365060391514) rotate(0 -20.584530404029238 -12.640314810834184)"><path d="M-23.55 -19.32 C-29.62 -21.87, -33.16 -23.37, -40.41 -24.93 M-23.55 -19.32 C-28.29 -20.75, -32.35 -22.16, -40.41 -24.93" stroke="#e03131" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(445.8895540398257 586.0914720724095) rotate(0 -16.16210991897458 -32.15376288546145)"><path d="M0.84 0.23 C-4.22 -10.52, -25.8 -52.83, -31.46 -63.78 M-0.18 -0.7 C-5.23 -11.87, -26.88 -54.94, -31.95 -65.62" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(445.8895540398257 586.0914720724095) rotate(0 -16.16210991897458 -32.15376288546145)"><path d="M-13.93 -48.29 C-17.44 -50.36, -20.73 -56.76, -31.95 -65.62 M-13.93 -48.29 C-17.79 -52.75, -21.07 -56.11, -31.95 -65.62" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(445.8895540398257 586.0914720724095) rotate(0 -16.16210991897458 -32.15376288546145)"><path d="M-29.29 -40.76 C-29.62 -44.52, -29.67 -52.5, -31.95 -65.62 M-29.29 -40.76 C-30.03 -46.69, -30.19 -51.59, -31.95 -65.62" stroke="#e03131" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(921.2663425492769 154.44303459142202) rotate(0 24.00216845017809 -21.584333082883404)"><path d="M0.28 -0.45 C8.37 -7.73, 40.12 -36.17, 48.07 -43.24 M-0.25 0.5 C7.83 -6.73, 39.69 -35.19, 47.67 -42.58" stroke="#2f9e44" stroke-width="2" fill="none"></path></g><g transform="translate(921.2663425492769 154.44303459142202) rotate(0 24.00216845017809 -21.584333082883404)"><path d="M36.01 -20.46 C37.51 -24.94, 40.61 -29.63, 47.67 -42.58 M36.01 -20.46 C39.9 -28.02, 44.27 -36.29, 47.67 -42.58" stroke="#2f9e44" stroke-width="2" fill="none"></path></g><g transform="translate(921.2663425492769 154.44303459142202) rotate(0 24.00216845017809 -21.584333082883404)"><path d="M24.53 -33.13 C28.44 -35.02, 33.92 -37.1, 47.67 -42.58 M24.53 -33.13 C32.43 -36.2, 40.86 -40, 47.67 -42.58" stroke="#2f9e44" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(1320.0040099915227 621.1445432872772) rotate(0 -2.372850548123381 -100.88959126417376)"><path d="M0.31 0.39 C2.14 -17.28, 15 -73.12, 12.03 -106.71 C9.06 -140.31, -12.68 -185.3, -17.51 -201.15 M-0.98 -0.45 C1.13 -17.86, 17.16 -71.39, 14.29 -105.17 C11.42 -138.96, -13.1 -187.23, -18.21 -203.17" stroke="#2f9e44" stroke-width="2" fill="none"></path></g><g transform="translate(1320.0040099915227 621.1445432872772) rotate(0 -2.372850548123381 -100.88959126417376)"><path d="M-1.54 -184.54 C-7.29 -193.19, -14.42 -198.82, -18.21 -203.17 M-1.54 -184.54 C-6.54 -191.95, -13.58 -198.01, -18.21 -203.17" stroke="#2f9e44" stroke-width="2" fill="none"></path></g><g transform="translate(1320.0040099915227 621.1445432872772) rotate(0 -2.372850548123381 -100.88959126417376)"><path d="M-17.42 -178.18 C-16.94 -189.35, -17.88 -197.47, -18.21 -203.17 M-17.42 -178.18 C-16.86 -187.83, -18.31 -196.12, -18.21 -203.17" stroke="#2f9e44" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(1250.1610672999327 228.13446698592907) rotate(0 11.772608714721883 36.74096497350308)"><path d="M-0.77 1.05 C3.35 13.04, 20.59 60.31, 24.6 72.33 M1.02 0.56 C5.09 12.61, 20.64 60.97, 24.21 73.26" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(1250.1610672999327 228.13446698592907) rotate(0 11.772608714721883 36.74096497350308)"><path d="M9.11 53.33 C15.29 60.96, 15.99 64.59, 24.21 73.26 M9.11 53.33 C12.38 58.86, 17.5 64.18, 24.21 73.26" stroke="#e03131" stroke-width="2" fill="none"></path></g><g transform="translate(1250.1610672999327 228.13446698592907) rotate(0 11.772608714721883 36.74096497350308)"><path d="M25.45 48.29 C26.92 57.27, 22.89 62.36, 24.21 73.26 M25.45 48.29 C24.31 55.22, 25.01 61.91, 24.21 73.26" stroke="#e03131" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(1249.4778626540287 619.4630435404488) rotate(0 -48.809194640624895 -48.96264226770484)"><path d="M-0.1 0.77 C-16.26 -15.61, -80.39 -81.66, -96.78 -98.12 M-1.62 0.13 C-17.88 -16.08, -81.56 -80.54, -97.3 -96.69" stroke="#2f9e44" stroke-width="2" fill="none"></path></g><g transform="translate(1249.4778626540287 619.4630435404488) rotate(0 -48.809194640624895 -48.96264226770484)"><path d="M-74.73 -85.92 C-80.55 -87.94, -89.26 -94.13, -97.3 -96.69 M-74.73 -85.92 C-80.6 -89.56, -88.78 -91.99, -97.3 -96.69" stroke="#2f9e44" stroke-width="2" fill="none"></path></g><g transform="translate(1249.4778626540287 619.4630435404488) rotate(0 -48.809194640624895 -48.96264226770484)"><path d="M-86.93 -73.94 C-88.93 -79.71, -93.81 -89.67, -97.3 -96.69 M-86.93 -73.94 C-89.24 -81.15, -93.84 -87.08, -97.3 -96.69" stroke="#2f9e44" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(1048.2310017274795 631.2276049979462) rotate(0 18.57950804961473 -54.84492299645353)"><path d="M0.47 -0.51 C6.6 -19.06, 31.78 -92.02, 37.87 -110.2 M-0.74 -1.83 C5.2 -19.7, 31.14 -91.2, 37.3 -108.92" stroke="#2f9e44" stroke-width="2" fill="none"></path></g><g transform="translate(1048.2310017274795 631.2276049979462) rotate(0 18.57950804961473 -54.84492299645353)"><path d="M37.48 -83.92 C36.33 -92.47, 36.27 -103.59, 37.3 -108.92 M37.48 -83.92 C37.98 -91.48, 36.93 -100.5, 37.3 -108.92" stroke="#2f9e44" stroke-width="2" fill="none"></path></g><g transform="translate(1048.2310017274795 631.2276049979462) rotate(0 18.57950804961473 -54.84492299645353)"><path d="M21.37 -89.66 C26.54 -96.04, 32.76 -104.92, 37.3 -108.92 M21.37 -89.66 C26.94 -95.39, 30.92 -102.62, 37.3 -108.92" stroke="#2f9e44" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(874.7345679955409 269.96594254842785) rotate(0 4.272451058659101 26.43330763347126)"><path d="M0.78 0.93 C2.26 9.64, 6.52 44.51, 7.72 53.18 M-0.28 0.38 C1.69 8.62, 8.8 42.23, 10 51.22" stroke="#f08c00" stroke-width="2" fill="none"></path></g><g transform="translate(874.7345679955409 269.96594254842785) rotate(0 4.272451058659101 26.43330763347126)"><path d="M-2.53 29.59 C1.73 32.51, 3.23 37.33, 10 51.22 M-2.53 29.59 C1.97 36.54, 4.77 43.55, 10 51.22" stroke="#f08c00" stroke-width="2" fill="none"></path></g><g transform="translate(874.7345679955409 269.96594254842785) rotate(0 4.272451058659101 26.43330763347126)"><path d="M14.31 26.6 C15.19 30.23, 13.29 35.66, 10 51.22 M14.31 26.6 C13.62 34.47, 11.22 42.4, 10 51.22" stroke="#f08c00" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g clip-path="url(#0WMkhCE3xfpp7vAOgsjCW)"><g stroke-linecap="round"><g transform="translate(648.0379395918194 349.496638468386) rotate(0 88.79021154061752 4.161102909303509)"><path d="M0.95 -0.91 C30.41 0.46, 147.18 6.63, 176.78 8.1 M-0.01 1.23 C29.83 2.8, 149.35 8.23, 179.07 9.53" stroke="#f08c00" stroke-width="2" fill="none"></path></g><g transform="translate(648.0379395918194 349.496638468386) rotate(0 88.79021154061752 4.161102909303509)"><path d="M155.22 17.02 C160.88 13.25, 169.18 13.99, 179.07 9.53 M155.22 17.02 C162.12 15.33, 167.41 13.12, 179.07 9.53" stroke="#f08c00" stroke-width="2" fill="none"></path></g><g transform="translate(648.0379395918194 349.496638468386) rotate(0 88.79021154061752 4.161102909303509)"><path d="M155.99 -0.07 C161.39 1.3, 169.47 7.17, 179.07 9.53 M155.99 -0.07 C162.56 2.78, 167.65 5.11, 179.07 9.53" stroke="#f08c00" stroke-width="2" fill="none"></path></g></g><mask></mask></g><g transform="translate(30.19068564588588 10) rotate(0 32.689453125 8.75)"><text x="0" y="12.5302734375" font-family="Helvetica, sans-serif, Segoe UI Emoji" font-size="14px" fill="#37A27F" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Evaluation</text></g><rect transform="translate(30.19068564588588 30.5) rotate(0 713.4687900902885 382.7758460627748)" width="1426.937580180577px" height="765.5516921255496px" rx="8" ry="8" fill="none" stroke="#AAE2D0" stroke-width="#71CFB0"></rect><g stroke-linecap="round"><g transform="translate(1569.7109599344697 1469.9827038096628) rotate(0 -6.760046959936005 -31.775847270684423)"><path d="M-0.16 -0.86 C-2.52 -11.62, -12.31 -53.41, -14.45 -63.93 M-1.7 1.31 C-3.67 -9.33, -10.27 -51.9, -12.23 -62.6" stroke="#1e1e1e" stroke-width="4" fill="none"></path></g><g transform="translate(1569.7109599344697 1469.9827038096628) rotate(0 -6.760046959936005 -31.775847270684423)"><path d="M0.09 -40.84 C-4.87 -48.44, -7.48 -52.06, -12.23 -62.6 M0.09 -40.84 C-2.64 -45.78, -5.26 -52.37, -12.23 -62.6" stroke="#1e1e1e" stroke-width="4" fill="none"></path></g><g transform="translate(1569.7109599344697 1469.9827038096628) rotate(0 -6.760046959936005 -31.775847270684423)"><path d="M-16.78 -38.01 C-17.07 -46.37, -15.02 -50.77, -12.23 -62.6 M-16.78 -38.01 C-15 -43.69, -13.15 -51.03, -12.23 -62.6" stroke="#1e1e1e" stroke-width="4" fill="none"></path></g></g><mask></mask><g stroke-linecap="round"><g transform="translate(1455.6547526195825 1508.5754774387176) rotate(0 -334.99803864691285 -75.49152208949762)"><path d="M-0.15 0.53 C-63.46 -4.66, -267.77 -6.52, -379.27 -31.78 C-490.78 -57.03, -620.89 -131.27, -669.17 -150.99 M-1.68 -0.23 C-64.68 -5.24, -265.75 -5.79, -377.06 -30.7 C-488.36 -55.61, -620.98 -129.43, -669.5 -149.67" stroke="#1e1e1e" stroke-width="4" fill="none"></path></g><g transform="translate(1455.6547526195825 1508.5754774387176) rotate(0 -334.99803864691285 -75.49152208949762)"><path d="M-644.61 -147.4 C-652.49 -149.8, -663.62 -147.66, -669.5 -149.67 M-644.61 -147.4 C-652.6 -148.48, -660.25 -148.12, -669.5 -149.67" stroke="#1e1e1e" stroke-width="4" fill="none"></path></g><g transform="translate(1455.6547526195825 1508.5754774387176) rotate(0 -334.99803864691285 -75.49152208949762)"><path d="M-651.89 -131.93 C-657.12 -139.78, -665.68 -143.1, -669.5 -149.67 M-651.89 -131.93 C-657.84 -137.7, -663.3 -141.97, -669.5 -149.67" stroke="#1e1e1e" stroke-width="4" fill="none"></path></g></g><mask></mask><g stroke-linecap="round"><g transform="translate(1589.2344467206963 1549.5876892669592) rotate(0 -125.28460245806387 23.530626123412375)"><path d="M0.44 -0.22 C-13.9 7.8, -44.02 42.49, -85.79 48.06 C-127.57 53.62, -222.74 35.64, -250.22 33.15 M-0.79 -1.38 C-15.24 6.32, -44.69 40.52, -86.36 46.45 C-128.03 52.39, -223.45 36.3, -250.8 34.22" stroke="#1e1e1e" stroke-width="4" fill="none"></path></g><g transform="translate(1589.2344467206963 1549.5876892669592) rotate(0 -125.28460245806387 23.530626123412375)"><path d="M-226.47 28.48 C-234.61 31.62, -240.37 32.82, -250.8 34.22 M-226.47 28.48 C-231.87 29.67, -238.71 31.91, -250.8 34.22" stroke="#1e1e1e" stroke-width="4" fill="none"></path></g><g transform="translate(1589.2344467206963 1549.5876892669592) rotate(0 -125.28460245806387 23.530626123412375)"><path d="M-228.47 45.46 C-235.97 43.17, -241.09 38.94, -250.8 34.22 M-228.47 45.46 C-233.34 42.24, -239.65 40.06, -250.8 34.22" stroke="#1e1e1e" stroke-width="4" fill="none"></path></g></g><mask></mask><g stroke-linecap="round"><g transform="translate(1516.8913480227857 862.1785244655347) rotate(0 -87.45847368085086 104.27709347258582)"><path d="M0.01 -0.46 C-29.35 34.12, -146.67 172.59, -175.72 207.53 M-1.45 -1.75 C-30.47 32.94, -144.55 173.71, -173.42 208.53" stroke="#e03131" stroke-width="4" fill="none"></path></g><g transform="translate(1516.8913480227857 862.1785244655347) rotate(0 -87.45847368085086 104.27709347258582)"><path d="M-165.16 184.93 C-168.71 191.57, -172.44 201.92, -173.42 208.53 M-165.16 184.93 C-168.04 194.25, -170.41 201.33, -173.42 208.53" stroke="#e03131" stroke-width="4" fill="none"></path></g><g transform="translate(1516.8913480227857 862.1785244655347) rotate(0 -87.45847368085086 104.27709347258582)"><path d="M-151.92 195.77 C-159.95 198.75, -168.15 205.44, -173.42 208.53 M-151.92 195.77 C-159.5 201.26, -166.54 204.52, -173.42 208.53" stroke="#e03131" stroke-width="4" fill="none"></path></g></g><mask></mask><g stroke-linecap="round"><g transform="translate(1394.8727901172635 907.3989162188575) rotate(0 104.58342776941345 81.33654956084274)"><path d="M0.53 -0.97 C28.48 6.12, 133.52 15.28, 168.34 42.46 C203.16 69.64, 202.8 142.16, 209.46 162.12 M-0.66 1.14 C27.05 8.45, 132.27 17.07, 167.19 44.07 C202.11 71.07, 202.03 143.31, 208.86 163.14" stroke="#2f9e44" stroke-width="4" fill="none"></path></g><g transform="translate(1394.8727901172635 907.3989162188575) rotate(0 104.58342776941345 81.33654956084274)"><path d="M196.19 141.59 C199.02 148.47, 205.31 157.17, 208.86 163.14 M196.19 141.59 C199.19 146.63, 201.47 152.8, 208.86 163.14" stroke="#2f9e44" stroke-width="4" fill="none"></path></g><g transform="translate(1394.8727901172635 907.3989162188575) rotate(0 104.58342776941345 81.33654956084274)"><path d="M213.01 138.49 C209.92 146.54, 210.3 156.33, 208.86 163.14 M213.01 138.49 C211.72 144.25, 209.73 151.21, 208.86 163.14" stroke="#2f9e44" stroke-width="4" fill="none"></path></g></g><mask></mask><g stroke-linecap="round"><g transform="translate(1780.175523456385 863.7078663944479) rotate(0 17.758183296981997 25.453437285584755)"><path d="M0.19 0.21 C6.12 3.13, 30.64 7.82, 36.27 16.39 C41.9 24.95, 34.43 45.86, 33.97 51.62 M-1.17 -0.72 C4.61 1.98, 29.91 6.39, 35.72 14.79 C41.52 23.18, 33.93 43.43, 33.64 49.65" stroke="#f08c00" stroke-width="1" fill="none"></path></g><g transform="translate(1780.175523456385 863.7078663944479) rotate(0 17.758183296981997 25.453437285584755)"><path d="M30.83 32.07 C31.98 39.47, 34.15 45.86, 33.64 49.65 M30.83 32.07 C32.26 38.85, 32.6 45.57, 33.64 49.65" stroke="#f08c00" stroke-width="1" fill="none"></path></g><g transform="translate(1780.175523456385 863.7078663944479) rotate(0 17.758183296981997 25.453437285584755)"><path d="M42.78 34.38 C39.68 40.97, 37.58 46.54, 33.64 49.65 M42.78 34.38 C39.91 40.33, 35.96 46.22, 33.64 49.65" stroke="#f08c00" stroke-width="1" fill="none"></path></g></g><mask></mask><g stroke-linecap="round"><g transform="translate(1454.8875438706434 1492.3055369996252) rotate(0 -545.3641066737054 -343.1642906017735)"><path d="M0.01 -0.36 C-71.68 -22.37, -350.77 -45.02, -430.39 -132.63 C-510.01 -220.24, -397.85 -453.16, -477.71 -526.02 C-557.56 -598.88, -807.22 -543.19, -909.52 -569.78 C-1011.82 -596.38, -1061.44 -666.2, -1091.53 -685.59 M-1.44 -1.59 C-73.3 -23.33, -352.57 -43.73, -431.53 -131 C-510.49 -218.27, -395.65 -451.71, -475.2 -525.22 C-554.75 -598.73, -806.39 -545.46, -908.82 -572.06 C-1011.24 -598.66, -1059.23 -665.64, -1089.76 -684.81" stroke="#1e1e1e" stroke-width="4" fill="none"></path></g><g transform="translate(1454.8875438706434 1492.3055369996252) rotate(0 -545.3641066737054 -343.1642906017735)"><path d="M-1066.26 -676.29 C-1073.42 -679.27, -1079.13 -682.3, -1089.76 -684.81 M-1066.26 -676.29 C-1072.11 -677.42, -1076.03 -679.73, -1089.76 -684.81" stroke="#1e1e1e" stroke-width="4" fill="none"></path></g><g transform="translate(1454.8875438706434 1492.3055369996252) rotate(0 -545.3641066737054 -343.1642906017735)"><path d="M-1077.24 -663.17 C-1081.25 -669.84, -1083.87 -676.55, -1089.76 -684.81 M-1077.24 -663.17 C-1080.79 -667.21, -1082.32 -672.37, -1089.76 -684.81" stroke="#1e1e1e" stroke-width="4" fill="none"></path></g></g><mask></mask><g stroke-linecap="round" transform="translate(1441.0547622749978 1454.3137400802932) rotate(0 153.4006767532087 49.8157800910393)"><path d="M24.91 0 C123.32 -0.42, 220.77 -1.15, 281.89 0 C296.66 -2.4, 309.2 5.42, 306.8 24.91 C309.7 41.02, 308.9 59.01, 306.8 74.72 C309.65 93.63, 297.73 102.65, 281.89 99.63 C188.17 96.78, 99 101.38, 24.91 99.63 C6.39 100.87, -0.64 91.91, 0 74.72 C-2.12 59.93, -1.42 45.6, 0 24.91 C1.57 5.12, 10.54 -0.98, 24.91 0" stroke="none" stroke-width="0" fill="#ff8787"></path><path d="M24.91 0 C88.38 0.41, 153.23 -1.17, 281.89 0 M24.91 0 C88.82 -1.09, 154.37 -0.91, 281.89 0 M281.89 0 C299.48 -0.49, 305.98 6.6, 306.8 24.91 M281.89 0 C300.11 -0.85, 306.04 10.23, 306.8 24.91 M306.8 24.91 C305.41 41.3, 305.83 62.63, 306.8 74.72 M306.8 24.91 C307.27 42.21, 306.58 60.7, 306.8 74.72 M306.8 74.72 C305.65 92.4, 297.46 100.94, 281.89 99.63 M306.8 74.72 C306.72 91.13, 299.74 99.56, 281.89 99.63 M281.89 99.63 C185.38 100.41, 86.21 99.11, 24.91 99.63 M281.89 99.63 C215.53 102.26, 148.38 102.03, 24.91 99.63 M24.91 99.63 C9.76 99.9, -0.71 92, 0 74.72 M24.91 99.63 C8.62 98.74, 0.52 90.39, 0 74.72 M0 74.72 C-0.74 57.51, 0.99 38.55, 0 24.91 M0 74.72 C-0.71 59.77, -1.24 42.37, 0 24.91 M0 24.91 C-1.3 7.33, 6.94 -1.87, 24.91 0 M0 24.91 C-0.95 8.69, 8.45 -1.43, 24.91 0" stroke="transparent" stroke-width="4" fill="none"></path></g><g transform="translate(1470.8875438706434 1482.0860311767613) rotate(0 124.83721923828125 25.833884753251823)"><text x="0" y="36.41544394818376" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="41.33421560520291px" fill="#1e1e1e" text-anchor="start" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">Theonomous</text></g><g stroke-linecap="round" transform="translate(1063.743060852427 1518.1921129029822) rotate(0 136.22173710473697 42.65161515104171)"><path d="M21.33 0 C109.39 -3.8, 196.34 -5.15, 251.12 0 C265.64 2.94, 272.35 4.36, 272.44 21.33 C272.87 34.17, 274.11 40.7, 272.44 63.98 C272.92 80.96, 262.93 84.46, 251.12 85.3 C181.25 84.08, 105.18 85.01, 21.33 85.3 C8.76 85.32, -2.84 77.89, 0 63.98 C-1.39 51.87, -0.2 35.39, 0 21.33 C-2.11 6.55, 8.7 -3.36, 21.33 0" stroke="none" stroke-width="0" fill="#ffffff"></path><path d="M21.33 0 C67.03 0.81, 114.56 -1.9, 251.12 0 M21.33 0 C92.29 -1.35, 163.53 -2.57, 251.12 0 M251.12 0 C264.85 1.08, 271.24 5.64, 272.44 21.33 M251.12 0 C265.91 -0.51, 274.13 5.94, 272.44 21.33 M272.44 21.33 C272.43 38.48, 273.25 53.56, 272.44 63.98 M272.44 21.33 C272.9 33.82, 271.44 44.58, 272.44 63.98 M272.44 63.98 C273.03 79.93, 266.83 84.45, 251.12 85.3 M272.44 63.98 C270.28 76.67, 264.94 87.01, 251.12 85.3 M251.12 85.3 C190.51 85.32, 130.61 85.06, 21.33 85.3 M251.12 85.3 C180.72 85.73, 112.11 85.87, 21.33 85.3 M21.33 85.3 C6.05 84.08, -1.65 76.95, 0 63.98 M21.33 85.3 C9.2 83.68, 2.23 77.84, 0 63.98 M0 63.98 C-0.76 53.17, 2.01 44.63, 0 21.33 M0 63.98 C-0.92 51.72, 0.11 39, 0 21.33 M0 21.33 C0.24 7.1, 5.92 0.79, 21.33 0 M0 21.33 C0.55 9.05, 5.18 0.33, 21.33 0" stroke="#1971c2" stroke-width="2" fill="none"></path></g><g transform="translate(1097.8848571612657 1535.8437280540238) rotate(0 102.07994079589844 25)"><text x="102.07994079589844" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1971c2" text-anchor="middle" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">The Bible is the only</text><text x="102.07994079589844" y="42.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1971c2" text-anchor="middle" style="white-space:pre" direction="ltr" dominant-baseline="alphabetic">source of authority.</text></g></svg>
+</main>
+<aside>
+<div class="sidebar">
+<div class="sidebar-container">
+<script>async function fetchGraphData(){const e=await fetch("/graph.json").then((e=>e.json()));return{graphData:e,fullGraphData:filterFullGraphData(e)}}function getNextLevelNeighbours(e,t){const n=Object.values(e).map((e=>e.neighbors)).flat();return Object.keys(t).reduce(((r,l)=>(-1!=n.indexOf(l)?t[l].hide||(e[l]=t[l]):r[l]=t[l],r)),{})}function filterLocalGraphData(e,t){if(null==e)return null;let n=JSON.parse(JSON.stringify(e.nodes)),r=JSON.parse(JSON.stringify(e.links)),l=n[decodeURI(window.location.pathname)]||Object.values(n).find((e=>e.home));if(delete n[l.url],!l.home){delete n[Object.values(n).find((e=>e.home)).url]}l.current=!0;let i={};i[l.url]=l;for(let e=0;e<t;e++)n=getNextLevelNeighbours(i,n);nodes=Object.values(i),l.home||(nodes=nodes.filter((e=>!e.home)));let o=nodes.map((e=>e.id));return{nodes:nodes,links:r.filter((function(e){return o.indexOf(e.target)>-1&&o.indexOf(e.source)>-1}))}}function getCssVar(e){return getComputedStyle(document.body).getPropertyValue(e)}function htmlDecode(e){return(new DOMParser).parseFromString(e,"text/html").documentElement.textContent}function renderGraph(e,t,n,r){if(null==e)return;const l=document.getElementById(t);width=l.offsetWidth,height=l.offsetHeight;const i=new Set;let o=null;const a=getCssVar("--graph-main"),s=getCssVar("--graph-muted");let u=ForceGraph()(l).graphData(e).nodeId("id").nodeLabel("title").linkSource("source").linkTarget("target").d3AlphaDecay(.1).width(width).height(height).linkDirectionalArrowLength(2).linkDirectionalArrowRelPos(.5).autoPauseRedraw(!1).linkColor((e=>null==o||e.source.id==o.id||e.target.id==o.id?a:s)).nodeCanvasObject(((e,t)=>{const n=e.neighbors&&e.neighbors.length||2,r=Math.min(7,Math.max(n/2,2));t.beginPath(),t.arc(e.x,e.y,r,0,2*Math.PI,!1),null==o||e==o||i.has(e.url)?t.fillStyle=a:t.fillStyle=s,t.fill(),e.current&&(t.beginPath(),t.arc(e.x,e.y,r+1,0,2*Math.PI,!1),t.lineWidth=.5,t.strokeStyle=a,t.stroke());const l=htmlDecode(e.title);t.font="3.5px Sans-Serif",t.textAlign="center",t.textBaseline="top",t.fillText(l,e.x,e.y+r+2)})).onNodeClick((e=>{window.location=e.url})).onNodeHover((e=>{i.clear(),e&&(i.add(e),e.neighbors.forEach((e=>i.add(e)))),o=e||null}));return(r||null!=n&&e.nodes.length>4)&&setTimeout((()=>{u.zoomToFit(5,75)}),n||200),u}function renderLocalGraph(e,t,n){window.graph&&window.graph._destructor();return renderGraph(filterLocalGraphData(e,t),"link-graph",null,n)}function filterFullGraphData(e){if(null==e)return null;e=JSON.parse(JSON.stringify(e));const t=Object.values(e.nodes).filter((e=>e.hide)).map((e=>e.id));return{links:JSON.parse(JSON.stringify(e.links)).filter((e=>-1==t.indexOf(e.source)&&-1==t.indexOf(e.target))),nodes:[...Object.values(e.nodes).filter((e=>!e.hide))]}}function openFullGraph(e){return lucide.createIcons({attrs:{class:["svg-icon"]}}),renderGraph(e,"full-graph-container",200,!1)}function closefullGraph(e){return e&&e._destructor(),null}</script>
+<div x-init="{graphData, fullGraphData} = await fetchGraphData();" x-data="{ graphData: null, depth: 1, graph: null, fullGraph: null, showFullGraph: false, fullScreen: false, fullGraphData: null}" id="graph-component" x-bind:class="fullScreen ? 'graph graph-fs' : 'graph'" v-scope>
+<div class="graph-title-container">
+<div class="graph-title">Connected Pages</div>
+<div id="graph-controls">
+<div class="depth-control">
+<label for="graph-depth">Depth</label>
+<div class="slider">
+<input x-model.number="depth" name="graph-depth" list="depthmarkers" type="range" step="1" min="1" max="3" id="graph-depth">
+<datalist id="depthmarkers">
+<option value="1" label="1"></option>
+<option value="2" label="2"></option>
+<option value="3" label="3"></option>
+</datalist>
+</div>
+<span id="depth-display" x-text="depth"></span>
+</div>
+<div class="ctrl-right">
+<span id="global-graph-btn" x-on:click="showFullGraph = true; setTimeout(() => {fullGraph = openFullGraph(fullGraphData)}, 100)"><i icon-name="globe" aria-hidden="true"></i></span>
+<span id="graph-fs-btn" x-on:click="fullScreen = !fullScreen"><i icon-name="expand" aria-hidden="true"></i></span>
+</div>
+</div>
+</div>
+<div x-effect="window.graph = renderLocalGraph(graphData, depth, fullScreen)" id="link-graph"></div>
+<div x-show="showFullGraph" id="full-graph" class="show" style="display:none">
+<span id="full-graph-close" x-on:click="fullGraph = closefullGraph(fullGraph); showFullGraph = false;"><i icon-name="x" aria-hidden="true"></i></span><div id="full-graph-container"></div>
+</div>
+</div>
+<div class="toc">
+<div class="toc-title-container">
+<div class="toc-title">
+On this page
+</div>
+</div>
+<div class="toc-container">
+<nav class="toc">
+<ol>
+<li><a href="#terminology">Terminology</a>
+</li>
+<li><a href="#mind-map-notes">Mind-map notes</a>
+<ol>
+<li><a href="#theonomous-ethics">Theonomous ethics</a>
+</li>
+</ol>
+</li>
+</ol>
+</nav>
+</div>
+</div>
+<div class="backlinks">
+<div class="backlink-title" style="margin:4px 0!important">Pages mentioning this page</div>
+<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/philosophy/03-dct/paper-3/" data-note-icon="" class="backlink">Paper 3</a>
+</div></div>
+</div>
+</div>
+</div>
+</aside>
+<script>window.location.hash&&document.getElementById(window.location.hash.slice(1)).classList.add("referred"),window.addEventListener("hashchange",(e=>{const t=e.oldURL.split("#");t[1]&&document.getElementById(t[1]).classList.remove("referred");const n=e.newURL.split("#");n[1]&&document.getElementById(n[1]).classList.add("referred")}),!1);const url_parts=window.location.href.split("#"),url=url_parts[0],referrence=url_parts[1];document.querySelectorAll(".cm-s-obsidian > *[id]").forEach((function(e){e.ondblclick=function(e){const t=url+"#"+e.target.id;navigator.clipboard.writeText(t)}}))</script>
+<script src="https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js"></script>
+<script defer="defer">TIMESTAMP_FORMAT="MMM dd, yyyy h:mm a",document.querySelectorAll(".human-date").forEach((function(e){date=e.getAttribute("data-date")||e.innerText,parsed_date=luxon.DateTime.fromISO(date),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromSQL(date)),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromHTML(date)),e.innerHTML=parsed_date.toFormat(TIMESTAMP_FORMAT)}))</script>
+<script>lucide.createIcons({attrs:{class:["svg-icon"]}})</script>
+<script>document.addEventListener("DOMContentLoaded",(()=>{document.querySelectorAll('.internal-embed[data-src$=".excalidraw"]').forEach((e=>{e.addEventListener("click",(()=>{e.classList.toggle("fullscreen")}))}))}))</script>
+</body>
+</html>

@@ -1,0 +1,1029 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Business ethics.excalidraw</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/autoloader/prism-autoloader.min.js" integrity="sha512-sv0slik/5O0JIPdLBCR2A3XDg/1U3WuDEheZfI/DI5n8Yqc3h5kjrnr46FGBNiUAJF7rE4LHKwQ/SoSLRKAxEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script async src="https://cdn.jsdelivr.net/npm/lucide@0.115.0/dist/umd/lucide.min.js"></script>
+<script>window.addEventListener("load",(()=>{document.querySelectorAll(".callout").forEach((e=>{const t=getComputedStyle(e).getPropertyValue("--callout-icon"),l=t&&t.trim().replace(/^lucide-/,"");if(l){const t=e.querySelector(".callout-title");if(t){const e=document.createElement("div"),c=document.createElement("i");e.appendChild(c),c.setAttribute("icon-name",l),e.setAttribute("class","callout-icon"),t.insertBefore(e,t.firstChild)}}})),lucide.createIcons(),Array.from(document.querySelectorAll(".callout.is-collapsible")).forEach((e=>{e.querySelector(".callout-title").addEventListener("click",(t=>{e.classList.contains("is-collapsed")?e.classList.remove("is-collapsed"):e.classList.add("is-collapsed")}))}))}))</script>
+<script async src="https://fastly.jsdelivr.net/npm/force-graph@1.43.0/dist/force-graph.min.js"></script>
+<script async src="https://fastly.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js"></script>
+<script src="https://fastly.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js" async></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-okaidia.min.css" integrity="sha512-mIs9kKbaw6JZFfSuo+MovjU+Ntggfoj8RwAmJbVXQ5mkAX5LlgETQEweFPI18humSPHymTb5iikEOKWF7I8ncQ==" crossorigin="anonymous" referrerpolicy="no-referrer" async>
+<script src="https://fastly.jsdelivr.net/npm/whatwg-fetch@3.6.2/dist/fetch.umd.min.js" crossorigin="anonymous" referrerpolicy="no-referrer" async></script>
+<link href="/styles/digital-garden-base.css" rel="stylesheet">
+<link href="/styles/obsidian-base.css" rel="stylesheet">
+<link href="&#92;styles&#92;_theme.b7d1ddf0.css" rel="stylesheet">
+<link href="/styles/custom-style.css" rel="stylesheet">
+<style>body.css-settings-manager{--embed-padding:10;--embed-border-radius:5}</style>
+<style></style>
+</head>
+<body class="theme-dark markdown-preview-view markdown-rendered markdown-preview-section css-settings-manager theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app styled-scrollbars show-inline-title show-ribbon show-view-header is-maximized css-settings-manager callout-style-customize is-focused">
+<div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;" x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;" x-data="{isDesktop: true, showFilesMobile: false}">
+<div x-show.important="!isDesktop" style="display:none">
+<nav class="navbar">
+<div class="navbar-inner">
+<span style="font-size:1.5rem;margin-right:10px" @click="showFilesMobile=!showFilesMobile"><i icon-name="menu"></i></span>
+<a href="/" style="text-decoration:none">
+<h1 style="margin:15px!important">Digital Garden</h1>
+</a>
+</div>
+<div class="search-button align-icon" onclick="toggleSearch()">
+<span class="search-icon">
+<i icon-name="search"></i>
+</span>
+<span class="search-text">
+<span>Search</span>
+<span style="font-size:.6rem;padding:2px 2px 0 6px;text-align:center;transform:translateY(4px)" class="search-keys">
+CTRL + K
+</span>
+</span>
+</div>
+</nav>
+</div>
+<div x-show="showFilesMobile && !isDesktop" @click="showFilesMobile = false" style="display:none" class="fullpage-overlay"></div>
+<nav class="filetree-sidebar" x-show.important="isDesktop || showFilesMobile" style="display:none">
+<a href="/" style="text-decoration:none">
+<h1 style="text-align:center">Digital Garden</h1>
+</a>
+<div style="display:flex;justify-content:center">
+<div class="search-button align-icon" onclick="toggleSearch()">
+<span class="search-icon">
+<i icon-name="search"></i>
+</span>
+<span class="search-text">
+<span>Search</span>
+<span style="font-size:.6rem;padding:2px 2px 0 6px;text-align:center;transform:translateY(4px)" class="search-keys">
+CTRL + K
+</span>
+</span>
+</div>
+</div>
+<div class="folder" x-data="{isOpen: true}">
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Bear hunt&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Bear hunt</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/bear-hunt/basic-obsidian-tutorial/">Basic obsidian tutorial </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Essay plans&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Essay plans</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Essay plans/Philosophy Essay Plans&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Philosophy Essay Plans</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/philosophy-essay-plans/god-as-timeless/">God as timeless </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/philosophy-essay-plans/is-nml-helpful-at-decision-making/">Is NML helpful at decision making </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/philosophy-essay-plans/kingdom-of-god-essay-plan/">Kingdom of God essay plan </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/philosophy-essay-plans/liberation-and-marx-speech/">Liberation and Marx- speech </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Essay plans/Politics Essay Plans&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Politics Essay Plans</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Essay plans/Politics Essay Plans/Older essay plans&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Older essay plans</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/older-essay-plans/differences-between-uk-and-us-cabinet/">Differences between UK and US Cabinet </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/older-essay-plans/living-constitution-v-originalism/">Living constitution v originalism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/older-essay-plans/should-16-year-olds-have-voting-rights-debate/">Should 16 year-olds have voting rights- debate </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/checks-and-balances-on-the-sc/">Checks and balances on the SC </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/compulsory-voting-debate/">Compulsory voting- debate </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/do-opinion-polls-affect-voting-behaviour/">Do opinion polls affect voting behaviour </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/do-parties-help-or-hurt-democracy/">Do parties help or hurt democracy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/political-v-judicial/">Political v Judicial </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/primaries-pros-and-cons/">Primaries pros and cons </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans/politics-essay-plans/significance-of-parties-in-congress/">Significance of parties in congress </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Excalidraw&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Excalidraw</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Excalidraw/Philosophy&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Philosophy</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/does-christianity-tackle-social-issues-better-than-marxism-excalidraw/">Does Christianity tackle social issues better than Marxism.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/has-christian-theology-engaged-in-marxist-theology-enough-excalidraw/">Has christian theology engaged in Marxist theology enough.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/should-christianity-engage-with-atheist-ideologies-excalidraw/">Should Christianity engage with atheist ideologies.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/song-of-solomon-excalidraw/">Song of solomon.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/philosophy/theonomous-ethics-excalidraw/">Theonomous ethics.excalidraw </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Excalidraw/Politics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Politics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/politics/should-the-state-fund-political-parties/">Should the state fund political parties </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/augustine-and-human-nature-summary-excalidraw/">Augustine and human nature -- summary.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/excalidraw/normative-theories-on-sexual-ethics-excalidraw/">Normative theories on sexual ethics.excalidraw </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Images&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Images</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/images/natural-law-essays/">Natural law essays </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Organisation&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Organisation</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/organisation/resources/">Resources </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;PDFs and articles&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">PDFs and articles</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/pd-fs-and-articles/correcting-caricatures-women-in-the-bible/">Correcting Caricatures - Women in the Bible </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/pd-fs-and-articles/criminalisation-and-consent-r-v-brown/">Criminalisation &amp; Consent -- R. V. Brown </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/pd-fs-and-articles/she-s-not-a-whore-translation-bias-in-ezekiel-16/">She’s Not a Whore - Translation Bias in Ezekiel 16 </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Philosophy</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/01 Philosophy&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">01 Philosophy</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/01 Philosophy/Mind-body-soul&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Mind-body-soul</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/mind-body-soul/dualism/">Dualism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/mind-body-soul/mind-body-and-soul/">Mind, body and soul </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/01 Philosophy/Nature and attributes of God&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Nature and attributes of God</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/anselm-s-theories/">Anselm&#39;s theories </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/introduction/">Introduction </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/nature-and-attributes-of-god/">Nature and attributes of God </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/omnipotence/">Omnipotence </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/nature-and-attributes-of-god/omniscience/">Omniscience </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/01 Philosophy/Religious Language&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Religious Language</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/religious-language/101/">101 </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/religious-language/analogy/">Analogy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/religious-language/language-home/">Language Home </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/paper-1/">Paper 1 </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/01-philosophy/philosophy-questions/">Philosophy questions </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">02 Ethics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics/Ethical systems&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Ethical systems</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics/Ethical systems/Natural Moral Law&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Natural Moral Law</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethical-systems/natural-moral-law/natural-moral-law/">Natural Moral Law </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics/Ethical systems/Situation ethics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Situation ethics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethical-systems/situation-ethics/situation-ethics/">Situation ethics </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethical-systems/kantian-ethics/">Kantian ethics </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethical-systems/utilitarianism/">Utilitarianism </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/02 Ethics/Sexual Ethics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Sexual Ethics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/sexual-ethics/bdsm-and-homosexuality/">BDSM and homosexuality </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/sexual-ethics/ethical-systems-on-sexual-ethics/">Ethical systems on sexual ethics </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/sexual-ethics/sex-ethics-contextual-texts/">Sex ethics contextual texts </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/sexual-ethics/sex-ethics/">Sex ethics </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/business-ethics-excalidraw/">Business ethics.excalidraw </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/ethics-questions/">Ethics questions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/02-ethics/paper-2/">Paper 2 </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">03 DCT</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT/01 Gender and Society&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">01 Gender and Society</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/feminism/">Feminism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/gender-and-society-home/">Gender and society home </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/mary-daly/">Mary Daly </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/rosemary-radford-reuther/">Rosemary Radford Reuther </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/01-gender-and-society/simone-de-beauvoir/">Simone De Beauvoir </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT/02 Liberation theology&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">02 Liberation theology</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/02-liberation-theology/general-notes/">General notes </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/02-liberation-theology/kingdom-theology/">Kingdom Theology </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/02-liberation-theology/liberation-philosophers/">Liberation philosophers </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/02-liberation-theology/liberation-theology/">Liberation theology </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT/03 Augustine&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">03 Augustine</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/03-augustine/augustine-and-human-nature/">Augustine and human nature </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/03 DCT/Christian Moral Principles&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Christian Moral Principles</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/christian-moral-principles/christian-moral-principles/">Christian Moral Principles </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/christian-moral-principles/key-terms-cmp/">Key terms CMP </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/03-dct/paper-3/">Paper 3 </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Philosophy/04 Essays Home&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">04 Essays Home</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/04-essays-home/development-of-christian-thought-essay-questions/">Development of Christian thought essay questions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/04-essays-home/ethics-essay-questions/">Ethics essay questions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/04-essays-home/philosophy-of-religion/">Philosophy of religion </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/philosophy/terms-dictionary/">Terms dictionary </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Politics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">01 - UK politics</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics/Democracy&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Democracy</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/democracy/democracy/">Democracy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/democracy/pressure-groups-lobbyists-and-think-tanks/">Pressure groups, Lobbyists and think tanks </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/democracy/the-franchise/">The Franchise </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/democracy/turnout-stats-sheet/">Turnout Stats sheet </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics/Parties&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Parties</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/general-info/">General Info </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/labour/">Labour </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/minor-parties/">Minor parties </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/party-funding/">Party funding </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/political-parties-home/">Political parties home </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/the-conservatives/">The conservatives </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/parties/the-lib-dems/">The lib-dems </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics/Voting Behaviour&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Voting Behaviour</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-behaviour/non-social-factors/">Non-social factors </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-behaviour/social-factors/">Social factors </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-behaviour/the-media-and-voting-behaviour/">The media and voting behaviour </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-behaviour/voting-behaviour/">Voting Behaviour </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/01 - UK politics/Voting systems&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Voting systems</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-systems/referendums/">Referendums </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/voting-systems/voting-systems/">Voting systems </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/uk-government/">UK government </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/01-uk-politics/uk-politics-home/">UK politics home </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">02 - USA</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/Constitution and federalism&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Constitution and federalism</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/constitution-and-federalism/constitution-and-federalism/">Constitution and federalism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/constitution-and-federalism/federalism/">Federalism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/constitution-and-federalism/the-constitution/">The constitution </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/Democracy and participation&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Democracy and participation</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/Democracy and participation/Presidential process&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Presidential process</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/democracy-and-participation/">Democracy and participation </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/electoral-college/">Electoral College </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/invisible-primaries/">Invisible Primaries </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/party-conventions/">Party Conventions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/tv-debates/">TV debates </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/presidential-process/what-are-primaries-and-caucuses/">What are primaries and caucuses </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/does-campaign-financing-require-reform/">Does campaign financing require reform </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/how-can-pressure-groups-enhance-and-degrade-democracy/">How can pressure groups enhance and degrade democracy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/democracy-and-participation/interest-groups-in-the-usa/">Interest groups in the USA </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/The presidency&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">The presidency</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/exop/">EXOP </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/formal-powers/">Formal powers </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/how-does-the-president-relate-to-congress/">How does the president relate to congress </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/the-presidency/">The presidency </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/vice-president-and-cabinet/">Vice-president and cabinet </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-presidency/what-factors-affect-the-amount-of-power-that-the-president-has/">What factors affect the amount of power that the president has </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/02 - USA/The supreme court&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">The supreme court</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/civil-rights-and-civil-liberties/">Civil rights and civil liberties </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/history-of-usa-immigration/">History of USA immigration </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/how-does-the-us-supreme-court-protect-rights/">How does the US supreme court protect rights </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/interpretations-and-debates-of-the-sc/">Interpretations and debates of the SC </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/judicial-ideologies/">Judicial ideologies </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/the-supreme-court/">The Supreme Court </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/the-supreme-court/what-else-is-there-to-learn-about-the-sc/">What else is there to learn about the SC </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/comparative-notes/uk-and-us-legislatures/">UK and US legislatures </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/02-usa/usa-homepage/">USA homepage </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/03 - Ideologies&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">03 - Ideologies</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/03 - Ideologies/Liberalism&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Liberalism</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/liberalism/liberalism/">Liberalism </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Politics/03 - Ideologies/Socialism&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" icon-name="chevron-down"></i>
+<i x-show="!isOpen" icon-name="chevron-right"></i>
+<span class="foldername">Socialism</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/socialism/democratic-socialism/">Democratic Socialism </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/socialism/marxism-definitions/">Marxism definitions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/socialism/revolutionary-socialism/">Revolutionary Socialism </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/ideologies-homepage/">Ideologies Homepage </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/social-democracy/">Social Democracy </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/03-ideologies/socialism/">Socialism </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/politics-essay-questions/">Politics essay questions </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/politics/the-news/">The news </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/essay-plans-home/">Essay plans home </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/">Home </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/topic-tracker/">Topic tracker </a>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="search-container" id="globalsearch" onclick="toggleSearch()">
+<div class="search-box">
+<input type="search" id="term" placeholder="Start typing...">
+<div id="search-results"></div>
+<footer class="search-box-footer">
+<div class="navigation-hint">
+<span>Enter to select</span>
+</div>
+<div class="navigation-hint align-icon">
+<i icon-name="arrow-up" aria-hidden="true"></i>
+<i icon-name="arrow-down" aria-hidden="true"></i>
+<span>to navigate</span>
+</div>
+<div class="navigation-hint">
+<span>ESC to close</span>
+</div>
+</footer>
+</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2025-11-27T18:19:38.694Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2025-11-27T18:19:38.694Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2025-11-27T18:19:38.694Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
+<main class="content cm-s-obsidian">
+<header>
+<h1 data-note-icon="">Business ethics.excalidraw</h1>
+<div class="header-meta">
+<div class="header-tags">
+<a class="tag" onclick="toggleTagSearch(this)">
+#excalidraw
+</a>
+</div>
+<div class="timestamps"><div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="2025-11-19T08:51:45.894+00:00"></span></div></div></div>
+</header>
+<style>.container{font-family:sans-serif;text-align:center}.button-wrapper button{z-index:1;height:40px;width:100px;margin:10px;padding:5px}.excalidraw .App-menu_top .buttonList{display:flex}.excalidraw-wrapper{height:800px;margin:50px;position:relative}:root[dir=ltr] .excalidraw .layer-ui__wrapper .zen-mode-transition.App-menu_bottom--transition-left{transform:none}</style><script src="https://cdn.jsdelivr.net/npm/react@17/umd/react.production.min.js"></script><script src="https://cdn.jsdelivr.net/npm/react-dom@17/umd/react-dom.production.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@excalidraw/excalidraw@0/dist/excalidraw.production.min.js"></script><div id="Business_ethicsexcalidraw.md"></div><script>!function(){const e={type:"excalidraw",version:2,source:"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.17.0",elements:[{id:"GkIDlgm7",type:"text",x:-215.57847595214844,y:82.45777130126953,width:181.66387939453125,height:32.199999999999996,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"a0",roundness:null,seed:1566258639,version:34,versionNonce:1476107484,isDeleted:!1,boundElements:[{id:"5qiyCWvfmNu83blXdTZW6",type:"arrow"}],updated:1763509874687,link:null,locked:!1,text:"Business ethics",rawText:"Business ethics",fontSize:28,fontFamily:7,textAlign:"left",verticalAlign:"top",containerId:null,originalText:"Business ethics",autoResize:!0,lineHeight:1.15},{id:"YJBLny8mj6PUt96L7dEfS",type:"rectangle",x:-512.2709197998047,y:237.19409942626953,width:215,height:60,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"a0V",roundness:{type:3},seed:1159239644,version:2,versionNonce:89355620,isDeleted:!1,boundElements:[{id:"5qiyCWvfmNu83blXdTZW6",type:"arrow"},{id:"GRw0k5ZE1pMbOzt9hXoem",type:"arrow"},{id:"bpRE4hegs86wfNK8MTP9h",type:"arrow"},{id:"r6gG11An",type:"text"}],updated:1763509626743,link:null,locked:!1},{id:"r6gG11An",type:"text",x:-484.64086151123047,y:242.19409942626953,width:159.73988342285156,height:50,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"a1",roundness:null,seed:597428289,version:98,versionNonce:131027428,isDeleted:!1,boundElements:[],updated:1763509626743,link:null,locked:!1,text:"Corporate Social\nResponsibility",rawText:"Corporate Social Responsibility",fontSize:20,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"YJBLny8mj6PUt96L7dEfS",originalText:"Corporate Social Responsibility",autoResize:!0,lineHeight:1.25},{id:"VzgB5tyRorlZi5_Ell1ML",type:"rectangle",x:-906.0487260861953,y:183.97337393342232,width:141,height:80,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"a1G",roundness:{type:3},seed:67569252,version:41,versionNonce:1088032740,isDeleted:!1,boundElements:[{id:"EIFJMs7C",type:"text"},{id:"ejMa5oRzZA3VxI86ip9S9",type:"arrow"}],updated:1763509794376,link:null,locked:!1},{id:"EIFJMs7C",type:"text",x:-886.9147005124648,y:188.97337393342232,width:102.73194885253906,height:70,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"a1V",roundness:null,seed:31628559,version:214,versionNonce:173437796,isDeleted:!1,boundElements:[],updated:1763509794376,link:null,locked:!1,text:"What is\nCSR?",rawText:"What is CSR?",fontSize:28,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"VzgB5tyRorlZi5_Ell1ML",originalText:"What is CSR?",autoResize:!0,lineHeight:1.25},{id:"I8skDkmmcedNRGteo7IzO",type:"rectangle",x:-1006.1073891775952,y:-22.12953513009208,width:279,height:135,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"a1l",roundness:{type:3},seed:698773732,version:7,versionNonce:1269251428,isDeleted:!1,boundElements:[{id:"NuRnLtVv",type:"text"},{id:"ejMa5oRzZA3VxI86ip9S9",type:"arrow"},{id:"yeLkr_O2djpS8FHaVOLTc",type:"arrow"},{id:"vSh7AW0CqYcVlSe6x8QqY",type:"arrow"}],updated:1763509778989,link:null,locked:!1},{id:"NuRnLtVv",type:"text",x:-997.7472817557202,y:-17.12953513009208,width:262.27978515625,height:125,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"a2",roundness:null,seed:463152353,version:374,versionNonce:327203548,isDeleted:!1,boundElements:[],updated:1763509778989,link:null,locked:!1,text:"It's the belief that\nbusinesses have an ethical\nresponsibility for their own\nconduct and their wider\ncommunity.",rawText:"It's the belief that businesses have an ethical responsibility for their own conduct and their wider community.",fontSize:20,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"I8skDkmmcedNRGteo7IzO",originalText:"It's the belief that businesses have an ethical responsibility for their own conduct and their wider community.",autoResize:!0,lineHeight:1.25},{id:"uHnAf-lgTvQD2yumkNWoI",type:"rectangle",x:-962.0170135498049,y:-109.369010925293,width:214,height:35,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"a2V",roundness:{type:3},seed:1816676188,version:5,versionNonce:1847718116,isDeleted:!1,boundElements:[{id:"EHVzmW7F",type:"text"},{id:"yeLkr_O2djpS8FHaVOLTc",type:"arrow"}],updated:1763509778989,link:null,locked:!1},{id:"EHVzmW7F",type:"text",x:-956.6269454956057,y:-104.369010925293,width:203.21986389160156,height:25,angle:0,strokeColor:"#9c36b5",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"a3",roundness:null,seed:1460052527,version:221,versionNonce:1910308700,isDeleted:!1,boundElements:[],updated:1763509778989,link:null,locked:!1,text:'"No man is an island."',rawText:'"No man is an island."',fontSize:20,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"uHnAf-lgTvQD2yumkNWoI",originalText:'"No man is an island."',autoResize:!0,lineHeight:1.25},{id:"e7s-T3nndV4JsZG86DwJX",type:"rectangle",x:-1286.6899348667691,y:-157.1902607509068,width:233,height:110,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"a3V",roundness:{type:3},seed:1006225500,version:6,versionNonce:1710896228,isDeleted:!1,boundElements:[{id:"Bh9bRuGa",type:"text"},{id:"vSh7AW0CqYcVlSe6x8QqY",type:"arrow"},{id:"IbP6TR0bukmjnp81NmFiE",type:"arrow"}],updated:1763509778989,link:null,locked:!1},{id:"Bh9bRuGa",type:"text",x:-1269.7398692539762,y:-152.1902607509068,width:199.09986877441406,height:100,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"a4",roundness:null,seed:78926209,version:368,versionNonce:893170652,isDeleted:!1,boundElements:[],updated:1763509778989,link:null,locked:!1,text:"The people managing\nthe business have a\nduty towards the\nstakeholders.",rawText:"The people managing the business have a duty towards the stakeholders.",fontSize:20,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"e7s-T3nndV4JsZG86DwJX",originalText:"The people managing the business have a duty towards the stakeholders.",autoResize:!0,lineHeight:1.25},{id:"at-19FOMvgoc_MMa9Orrt",type:"rectangle",x:-1384.2894701276514,y:-38.84142303466794,width:208,height:135,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"a4V",roundness:{type:3},seed:1268909540,version:6,versionNonce:1358825444,isDeleted:!1,boundElements:[{id:"eGey0BzB",type:"text"},{id:"IbP6TR0bukmjnp81NmFiE",type:"arrow"},{id:"AiOqhlSH7ufV9msli19UD",type:"arrow"}],updated:1763509778989,link:null,locked:!1},{id:"eGey0BzB",type:"text",x:-1376.079402378628,y:-33.84142303466794,width:191.57986450195312,height:125,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"a5",roundness:null,seed:1048609999,version:449,versionNonce:1269946460,isDeleted:!1,boundElements:[],updated:1763509778989,link:null,locked:!1,text:"Stakeholders are\nany individuals or\ngroups affected by\nthe activities of an\norganisation.",rawText:"Stakeholders are any individuals or groups affected by the activities of an organisation.",fontSize:20,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"at-19FOMvgoc_MMa9Orrt",originalText:"Stakeholders are any individuals or groups affected by the activities of an organisation.",autoResize:!0,lineHeight:1.25},{id:"3k29_XleuIwS-lmOwZNlt",type:"rectangle",x:-1216.414985546977,y:109.4101699473139,width:179,height:160,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"a5V",roundness:{type:3},seed:37488604,version:19,versionNonce:1664838500,isDeleted:!1,boundElements:[{id:"1lSkbvah",type:"text"},{id:"AiOqhlSH7ufV9msli19UD",type:"arrow"}],updated:1763509778989,link:null,locked:!1},{id:"1lSkbvah",type:"text",x:-1211.094932446391,y:114.4101699473139,width:168.35989379882812,height:150,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"a6",roundness:null,seed:695444943,version:470,versionNonce:286158044,isDeleted:!1,boundElements:[],updated:1763509778989,link:null,locked:!1,text:"Suppliers,\ncustomers,\nemployees,\nshareholders, the\nwider community,\netc",rawText:"Suppliers, customers, employees, shareholders, the wider community, etc",fontSize:20,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"3k29_XleuIwS-lmOwZNlt",originalText:"Suppliers, customers, employees, shareholders, the wider community, etc",autoResize:!0,lineHeight:1.25},{id:"MNGwlF4hZtp3b6WUgiveI",type:"rectangle",x:-130.09689029725462,y:285.6257756978523,width:136,height:35,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"a8V",roundness:{type:3},seed:1137967836,version:3,versionNonce:42907228,isDeleted:!1,boundElements:[{id:"oJPIW-XnpvJtaHQjaqyBV",type:"arrow"},{id:"GRw0k5ZE1pMbOzt9hXoem",type:"arrow"},{id:"vtUMcZq9",type:"text"},{id:"HSlSxQd5U3VA0USSVCU1Y",type:"arrow"}],updated:1763509688493,link:null,locked:!1},{id:"vtUMcZq9",type:"text",x:-124.94684299500852,y:290.6257756978523,width:125.69990539550781,height:25,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"a9",roundness:null,seed:16606223,version:138,versionNonce:688628580,isDeleted:!1,boundElements:[],updated:1763509626744,link:null,locked:!1,text:"Catholic CSR",rawText:"Catholic CSR",fontSize:20,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"MNGwlF4hZtp3b6WUgiveI",originalText:"Catholic CSR",autoResize:!0,lineHeight:1.25},{id:"1bN597116oY82UXmGnXA4",type:"rectangle",x:-130.0503678012717,y:379.65766767790967,width:239,height:110,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"a9V",roundness:{type:3},seed:1110096220,version:83,versionNonce:940429532,isDeleted:!1,boundElements:[{id:"oJPIW-XnpvJtaHQjaqyBV",type:"arrow"},{id:"2HpH4V25",type:"text"}],updated:1763509632799,link:null,locked:!1},{id:"2HpH4V25",type:"text",x:-105.62029120215061,y:384.65766767790967,width:190.1398468017578,height:100,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aA",roundness:null,seed:41453153,version:338,versionNonce:1884771676,isDeleted:!1,boundElements:[],updated:1763509632799,link:null,locked:!1,text:"Created by Cardinal\nVincent Nichols,\nArchbishop of\nWestminster.",rawText:"Created by Cardinal Vincent Nichols, Archbishop of Westminster.",fontSize:20,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"1bN597116oY82UXmGnXA4",originalText:"Created by Cardinal Vincent Nichols, Archbishop of Westminster.",autoResize:!0,lineHeight:1.25},{id:"ejMa5oRzZA3VxI86ip9S9",type:"arrow",x:-812.3188681799005,y:179.42258236564473,width:9.135709470850884,height:50.747328176070454,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"aAV",roundness:{type:2},seed:726407780,version:51,versionNonce:843877415,isDeleted:!1,boundElements:[],updated:1763542305484,link:null,locked:!1,points:[[0,0],[-9.135709470850884,-50.747328176070454]],lastCommittedPoint:null,startBinding:{elementId:"VzgB5tyRorlZi5_Ell1ML",focus:.4016348177060085,gap:4.550791567777566},endBinding:{elementId:"I8skDkmmcedNRGteo7IzO",focus:-.1963976649386157,gap:15.804789319666355},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"yeLkr_O2djpS8FHaVOLTc",type:"arrow",x:-842.7161473415302,y:-23.566271847493,width:1.3354318735208608,height:38.72813565362252,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"aAl",roundness:{type:2},seed:1414914276,version:24,versionNonce:2004519303,isDeleted:!1,boundElements:[],updated:1763542305495,link:null,locked:!1,points:[[0,0],[1.3354318735208608,-38.72813565362252]],lastCommittedPoint:null,startBinding:{elementId:"I8skDkmmcedNRGteo7IzO",focus:.15169232344197794,gap:1.436736717400919},endBinding:{elementId:"uHnAf-lgTvQD2yumkNWoI",focus:-.1362047167400916,gap:12.074603424177468},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"vSh7AW0CqYcVlSe6x8QqY",type:"arrow",x:-966.913247430442,y:-27.12953513009208,width:81.80177844636205,height:45.84850978528101,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"aAt",roundness:null,seed:1491068260,version:19,versionNonce:1453179047,isDeleted:!1,boundElements:[],updated:1763542305497,link:null,locked:!1,points:[[0,0],[0,-45.84850978528101],[-81.80177844636205,-45.84850978528101]],lastCommittedPoint:null,startBinding:{elementId:"I8skDkmmcedNRGteo7IzO",focus:-.719038410414672,gap:5,fixedPoint:[.14048079479266398,-.037037037037037035]},endBinding:{elementId:"e7s-T3nndV4JsZG86DwJX",focus:.5311311970097025,gap:5.000012089482844,fixedPoint:[1.021351540729464,.7655655985048518]},startArrowhead:null,endArrowhead:"arrow",elbowed:!0,fixedSegments:null,startIsSpecial:null,endIsSpecial:null},{id:"IbP6TR0bukmjnp81NmFiE",type:"arrow",x:-1119.1548244109701,y:-31.579015918997925,width:45.40539690814603,height:49.41174347216821,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"aAx",roundness:null,seed:2138089692,version:17,versionNonce:1063584487,isDeleted:!1,boundElements:[],updated:1763542305502,link:null,locked:!1,points:[[0,0],[-45.40539690814603,49.41174347216821]],lastCommittedPoint:null,startBinding:{elementId:"e7s-T3nndV4JsZG86DwJX",focus:-.693970015166768,gap:15.611244831908863},endBinding:{elementId:"at-19FOMvgoc_MMa9Orrt",focus:.6371321637464055,gap:11.72924880853543},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"AiOqhlSH7ufV9msli19UD",type:"arrow",x:-1286.0639278981628,y:105.85401470542995,width:62.95456255020213,height:82.91684549216158,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"gTHJYfIbaQg2xiptuAxCf",index:"aAz",roundness:{type:2},seed:1123547492,version:130,versionNonce:1215345959,isDeleted:!1,boundElements:[],updated:1763542305505,link:null,locked:!1,points:[[0,0],[62.95456255020213,82.91684549216158]],lastCommittedPoint:null,startBinding:{elementId:"at-19FOMvgoc_MMa9Orrt",focus:.4147202704505219,gap:9.695437740097873},endBinding:{elementId:"3k29_XleuIwS-lmOwZNlt",focus:-.6370408445007604,gap:6.69437980098337},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"gTHJYfIbaQg2xiptuAxCf",type:"frame",x:-1396.3457140241353,y:-165.83222852434423,width:677.7767421177455,height:454.3119238534489,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aB",roundness:null,seed:2097252353,version:83,versionNonce:492938460,isDeleted:!1,boundElements:[{id:"bpRE4hegs86wfNK8MTP9h",type:"arrow"}],updated:1763509777057,link:null,locked:!1,name:"What is CSR?",customData:{frameColor:{stroke:"#2B2B2B",fill:"#525252",nameColor:"#858585"}}},{id:"SikXSREGYYvgcmogK0s81",type:"ellipse",x:-971.5369528756548,y:646.0992179270819,width:387.59974888392844,height:381.5904889787946,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aC",roundness:{type:2},seed:2101936257,version:151,versionNonce:437801188,isDeleted:!1,boundElements:[{type:"text",id:"3OEMvmCm"}],updated:1763509859011,link:null,locked:!1},{id:"3OEMvmCm",type:"text",x:-907.5262217109159,y:801.981851219881,width:259.5038757324219,height:70,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aCG",roundness:null,seed:177395969,version:136,versionNonce:1677171911,isDeleted:!1,boundElements:[],updated:1763542305513,link:null,locked:!1,text:"Tenets of Catholic\nCSR",rawText:"Tenets of Catholic CSR",fontSize:28,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"SikXSREGYYvgcmogK0s81",originalText:"Tenets of Catholic CSR",autoResize:!0,lineHeight:1.25},{id:"IYrRQHtRglo6D0nXQsktC",type:"rectangle",x:-914.927619292368,y:597.4917786134657,width:141,height:35,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aCd",roundness:{type:3},seed:474938596,version:95,versionNonce:69506148,isDeleted:!1,boundElements:[{id:"Zd0d6fSxitopHIJj_WR_j",type:"arrow"},{id:"9foDpzL0",type:"text"}],updated:1763509859011,link:null,locked:!1},{id:"9foDpzL0",type:"text",x:-909.7975686331883,y:602.4917786134657,width:130.73989868164062,height:25,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aD",roundness:null,seed:1919438191,version:175,versionNonce:761811932,isDeleted:!1,boundElements:[],updated:1763509859011,link:null,locked:!1,text:"human dignity",rawText:"human dignity",fontSize:20,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"IYrRQHtRglo6D0nXQsktC",originalText:"human dignity",autoResize:!0,lineHeight:1.25},{id:"dhZctdBvuU-Jl3wmbI6Y7",type:"rectangle",x:-667.3955518572395,y:633.7768302317694,width:139,height:35,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aDV",roundness:{type:3},seed:944204516,version:95,versionNonce:2061264868,isDeleted:!1,boundElements:[{id:"iM40Mw6NB1OzLaxQ9S0T-",type:"arrow"},{id:"Go0F9DrJ",type:"text"}],updated:1763509859011,link:null,locked:!1},{id:"Go0F9DrJ",type:"text",x:-662.3055250017708,y:638.7768302317694,width:128.8199462890625,height:25,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aE",roundness:null,seed:521935585,version:173,versionNonce:2104064092,isDeleted:!1,boundElements:[],updated:1763509859011,link:null,locked:!1,text:"Common good",rawText:"Common good",fontSize:20,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"dhZctdBvuU-Jl3wmbI6Y7",originalText:"Common good",autoResize:!0,lineHeight:1.25},{id:"6dKcLD_f5Qhx9wxO5O9vu",type:"rectangle",x:-560.824904753794,y:810.0073861748498,width:103,height:35,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aEV",roundness:{type:3},seed:1972951268,version:95,versionNonce:38652772,isDeleted:!1,boundElements:[{id:"zZUOxOLk1An5Mnjxg7WcF",type:"arrow"},{id:"ZfIKFda4",type:"text"}],updated:1763509859011,link:null,locked:!1},{id:"ZfIKFda4",type:"text",x:-555.6348641654151,y:815.0073861748498,width:92.61991882324219,height:25,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aF",roundness:null,seed:977630159,version:132,versionNonce:1792150748,isDeleted:!1,boundElements:[],updated:1763509859011,link:null,locked:!1,text:"Solidarity",rawText:"Solidarity",fontSize:20,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"6dKcLD_f5Qhx9wxO5O9vu",originalText:"Solidarity",autoResize:!0,lineHeight:1.25},{id:"LjkIsaCuqx3YNX470Jgj4",type:"rectangle",x:-635.5526432704651,y:990.2831778880194,width:108,height:35,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aFV",roundness:{type:3},seed:1606633188,version:95,versionNonce:1824964324,isDeleted:!1,boundElements:[{id:"O_tMVzpAgmRitswYCrHex",type:"arrow"},{id:"3PrEc54e",type:"text"}],updated:1763509859011,link:null,locked:!1},{id:"3PrEc54e",type:"text",x:-630.3425907802307,y:995.2831778880194,width:97.57989501953125,height:25,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aG",roundness:null,seed:1242157729,version:140,versionNonce:926159196,isDeleted:!1,boundElements:[],updated:1763509859011,link:null,locked:!1,text:"Subsidiary",rawText:"Subsidiary",fontSize:20,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"LjkIsaCuqx3YNX470Jgj4",originalText:"Subsidiary",autoResize:!0,lineHeight:1.25},{id:"QKheZsCo0SaflVoV9gnE3",type:"rectangle",x:-924.9277784197398,y:1045.9894418389122,width:110,height:35,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aGV",roundness:{type:3},seed:1111930084,version:95,versionNonce:315966052,isDeleted:!1,boundElements:[{id:"_xxB_k9aTTJk4011gz1St",type:"arrow"},{id:"eugZiGf6",type:"text"}],updated:1763509859011,link:null,locked:!1},{id:"eugZiGf6",type:"text",x:-919.567732033021,y:1050.9894418389122,width:99.2799072265625,height:25,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aH",roundness:null,seed:649987503,version:130,versionNonce:568427996,isDeleted:!1,boundElements:[],updated:1763509859011,link:null,locked:!1,text:"Fraternity",rawText:"Fraternity",fontSize:20,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"QKheZsCo0SaflVoV9gnE3",originalText:"Fraternity",autoResize:!0,lineHeight:1.25},{id:"kLbB4qma31yxTzf5GiHDf",type:"rectangle",x:-1103.3542572143824,y:905.5935852540907,width:119,height:35,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aHV",roundness:{type:3},seed:681779940,version:95,versionNonce:189224420,isDeleted:!1,boundElements:[{id:"nTcv5nEardOXWhGLxQZSQ",type:"arrow"},{id:"q3P0DzbS",type:"text"}],updated:1763509859011,link:null,locked:!1},{id:"q3P0DzbS",type:"text",x:-1097.8642059448512,y:910.5935852540907,width:108.0198974609375,height:25,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aI",roundness:null,seed:258052737,version:131,versionNonce:804022876,isDeleted:!1,boundElements:[],updated:1763509859011,link:null,locked:!1,text:"Reciprocity",rawText:"Reciprocity",fontSize:20,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"kLbB4qma31yxTzf5GiHDf",originalText:"Reciprocity",autoResize:!0,lineHeight:1.25},{id:"gNmxNaLRufaMojvTJIIpV",type:"rectangle",x:-1103.6472107055934,y:733.1050947406981,width:141,height:35,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aIV",roundness:{type:3},seed:1582862564,version:95,versionNonce:1663760740,isDeleted:!1,boundElements:[{id:"xN9Lug8IPtj5xJr9WCVUf",type:"arrow"},{id:"9xr2GuyH",type:"text"}],updated:1763509859011,link:null,locked:!1},{id:"9xr2GuyH",type:"text",x:-1098.5371490600855,y:738.1050947406981,width:130.77987670898438,height:25,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aJ",roundness:null,seed:1518013167,version:129,versionNonce:1948696284,isDeleted:!1,boundElements:[],updated:1763509859011,link:null,locked:!1,text:"Sustainability",rawText:"Sustainability",fontSize:20,fontFamily:5,textAlign:"center",verticalAlign:"middle",containerId:"gNmxNaLRufaMojvTJIIpV",originalText:"Sustainability",autoResize:!0,lineHeight:1.25},{id:"RYryxoQs",type:"text",x:-1009.2593716049976,y:464.3271843230553,width:169.5722404928767,height:100,angle:0,strokeColor:"#1971c2",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aK",roundness:null,seed:2144167265,version:409,versionNonce:1439575268,isDeleted:!1,boundElements:[{id:"Zd0d6fSxitopHIJj_WR_j",type:"arrow"},{id:"mdO011C4iE2Tqfm690RBb",type:"arrow"}],updated:1763509859011,link:null,locked:!1,text:'People are valued by\nthe virtue of being\nhuman, not "merely an\ninstrument of\nusefulness."',rawText:'People are valued by the virtue of being human, not "merely an instrument of usefulness."',fontSize:16,fontFamily:5,textAlign:"center",verticalAlign:"top",containerId:null,originalText:'People are valued by the virtue of being human, not "merely an instrument of usefulness."',autoResize:!1,lineHeight:1.25},{id:"KXchtLWW",type:"text",x:-560.7594310548174,y:482.5861404832701,width:130.7659050436581,height:100,angle:0,strokeColor:"#1971c2",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aL",roundness:null,seed:890118113,version:321,versionNonce:1461879644,isDeleted:!1,boundElements:[{id:"iM40Mw6NB1OzLaxQ9S0T-",type:"arrow"}],updated:1763509859011,link:null,locked:!1,text:"The state of\naffairs in which\neveryone can\nflourish most\neffectively.",rawText:"The state of affairs in which everyone can flourish most effectively.",fontSize:16,fontFamily:5,textAlign:"center",verticalAlign:"top",containerId:null,originalText:"The state of affairs in which everyone can flourish most effectively.",autoResize:!1,lineHeight:1.25},{id:"U0WDfYOr",type:"text",x:-483.0242719727736,y:651.5866029586966,width:201.60875028722435,height:100,angle:0,strokeColor:"#1971c2",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aM",roundness:null,seed:98535439,version:408,versionNonce:79622244,isDeleted:!1,boundElements:[{id:"zZUOxOLk1An5Mnjxg7WcF",type:"arrow"}],updated:1763509859011,link:null,locked:!1,text:"People within a business\nare interdependent. They\nserve and look after the\nstakeholders, especially\nthe less privileged.",rawText:"People within a business are interdependent. They serve and look after the stakeholders, especially the less privileged.",fontSize:16,fontFamily:5,textAlign:"center",verticalAlign:"top",containerId:null,originalText:"People within a business are interdependent. They serve and look after the stakeholders, especially the less privileged.",autoResize:!1,lineHeight:1.25},{id:"vXsaEeYD",type:"text",x:-470.2127511117899,y:936.2226026077817,width:174.52289078657668,height:100,angle:0,strokeColor:"#1971c2",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aN",roundness:null,seed:1557050209,version:414,versionNonce:1597093852,isDeleted:!1,boundElements:[{id:"O_tMVzpAgmRitswYCrHex",type:"arrow"},{id:"NYZiei7sGaw1Xas1buH1p",type:"arrow"}],updated:1763509859011,link:null,locked:!1,text:"Decisions should be\nmade at the lowest\nlevel possible, in order\nto develop character\nand self-confidence.",rawText:"Decisions should be made at the lowest level possible, in order to develop character and self-confidence.",fontSize:16,fontFamily:5,textAlign:"center",verticalAlign:"top",containerId:null,originalText:"Decisions should be made at the lowest level possible, in order to develop character and self-confidence.",autoResize:!1,lineHeight:1.25},{id:"ZVfZNRws",type:"text",x:-836.0301369110631,y:1095.244306080608,width:137.38810819738043,height:80,angle:0,strokeColor:"#1971c2",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aO",roundness:null,seed:1635841985,version:205,versionNonce:801850340,isDeleted:!1,boundElements:[{id:"w-thDgegHL6krXF_VEtDn",type:"arrow"},{id:"_xxB_k9aTTJk4011gz1St",type:"arrow"}],updated:1763509859011,link:null,locked:!1,text:"Friendship\ntowards those\nof different\ncultures",rawText:"Friendship towards those of different cultures",fontSize:16,fontFamily:5,textAlign:"center",verticalAlign:"top",containerId:null,originalText:"Friendship towards those of different cultures",autoResize:!1,lineHeight:1.25},{id:"efnvHAbw",type:"text",x:-1229.1976648533168,y:973.481656009737,width:128.5795216279871,height:80,angle:0,strokeColor:"#1971c2",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aP",roundness:null,seed:1237665295,version:295,versionNonce:2019974236,isDeleted:!1,boundElements:[{id:"nTcv5nEardOXWhGLxQZSQ",type:"arrow"}],updated:1763509859011,link:null,locked:!1,text:"Giving what is\ndue, and going\nfurther in our\ngenerosity.",rawText:"Giving what is due, and going further in our generosity.",fontSize:16,fontFamily:5,textAlign:"center",verticalAlign:"top",containerId:null,originalText:"Giving what is due, and going further in our generosity.",autoResize:!1,lineHeight:1.25},{id:"Z6TpgNXc",type:"text",x:-1225.6337978453316,y:670.2560557110236,width:167.2508455164292,height:40,angle:0,strokeColor:"#1971c2",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aQ",roundness:null,seed:1276067265,version:198,versionNonce:1828792164,isDeleted:!1,boundElements:[{id:"xN9Lug8IPtj5xJr9WCVUf",type:"arrow"}],updated:1763509859011,link:null,locked:!1,text:"Our duty to future\ngenerations.",rawText:"Our duty to future generations.",fontSize:16,fontFamily:5,textAlign:"center",verticalAlign:"top",containerId:null,originalText:"Our duty to future generations.",autoResize:!1,lineHeight:1.25},{id:"EPWV0k71",type:"text",x:-1191.8126084291873,y:541.0667989549639,width:165.39920941521143,height:60,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aR",roundness:null,seed:805589039,version:283,versionNonce:1016230108,isDeleted:!1,boundElements:[{id:"mdO011C4iE2Tqfm690RBb",type:"arrow"}],updated:1763509859011,link:null,locked:!1,text:"Reminiscent of\nKant's categorical\nimperative.",rawText:"Reminiscent of Kant's categorical imperative.",fontSize:16,fontFamily:5,textAlign:"center",verticalAlign:"top",containerId:null,originalText:"Reminiscent of Kant's categorical imperative.",autoResize:!1,lineHeight:1.25},{id:"Vsmt1gfz",type:"text",x:-1062.4974284163782,y:1086.0448639168035,width:140.55115823184735,height:80,angle:0,strokeColor:"#9c36b5",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aS",roundness:null,seed:1864500417,version:259,versionNonce:1622055652,isDeleted:!1,boundElements:[{id:"w-thDgegHL6krXF_VEtDn",type:"arrow"}],updated:1763509859011,link:null,locked:!1,text:"William Temple\nclaimed that\nfellowship was a\nsocial due.",rawText:"William Temple claimed that fellowship was a social due.",fontSize:16,fontFamily:5,textAlign:"center",verticalAlign:"top",containerId:null,originalText:"William Temple claimed that fellowship was a social due.",autoResize:!1,lineHeight:1.25},{id:"tr9dc3n3",type:"text",x:-597.1704810623299,y:1073.5112328335558,width:136.82764030905332,height:80,angle:0,strokeColor:"#9c36b5",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aT",roundness:null,seed:535171919,version:258,versionNonce:994571612,isDeleted:!1,boundElements:[{id:"NYZiei7sGaw1Xas1buH1p",type:"arrow"}],updated:1763509859011,link:null,locked:!1,text:"J.S. Mill said it\nwas a 'means to\ntheir own mental\neducation.'",rawText:"J.S. Mill said it was a 'means to their own mental education.'",fontSize:16,fontFamily:5,textAlign:"center",verticalAlign:"top",containerId:null,originalText:"J.S. Mill said it was a 'means to their own mental education.'",autoResize:!1,lineHeight:1.25},{id:"w-thDgegHL6krXF_VEtDn",type:"arrow",x:-846.3176962707442,y:1158.9991932150106,width:64.55845264017876,height:1.8994413979537512,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aW",roundness:{type:2},seed:138364591,version:358,versionNonce:1969331812,isDeleted:!1,boundElements:[],updated:1763509859011,link:null,locked:!1,points:[[0,0],[-64.55845264017876,1.8994413979537512]],lastCommittedPoint:null,startBinding:{elementId:"ZVfZNRws",focus:-.510007522627957,gap:10.287559359681154},endBinding:{elementId:"Vsmt1gfz",focus:.8854101989702291,gap:11.070121273607924},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"O_tMVzpAgmRitswYCrHex",type:"arrow",x:-521.6633048037095,y:997.428793488489,width:45.794776244222646,height:15.983953426043058,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aX",roundness:{type:2},seed:1855626191,version:486,versionNonce:1584103751,isDeleted:!1,boundElements:[],updated:1763542305522,link:null,locked:!1,points:[[0,0],[45.794776244222646,-15.983953426043058]],lastCommittedPoint:null,startBinding:{elementId:"LjkIsaCuqx3YNX470Jgj4",focus:.2787920429550125,gap:5.947189117347534},endBinding:{elementId:"vXsaEeYD",focus:.46277879684567097,gap:5.655777447697005},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"NYZiei7sGaw1Xas1buH1p",type:"arrow",x:-406.5008893589253,y:1049.9557760529415,width:43.99556414560362,height:52.43000353376215,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aY",roundness:{type:2},seed:1430989473,version:514,versionNonce:333984228,isDeleted:!1,boundElements:[],updated:1763509859011,link:null,locked:!1,points:[[0,0],[-43.99556414560362,52.43000353376215]],lastCommittedPoint:null,startBinding:{elementId:"vXsaEeYD",focus:-.22476985835998284,gap:13.73317344515931},endBinding:{elementId:"tr9dc3n3",focus:.6788810304471745,gap:9.84638724874776},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"_xxB_k9aTTJk4011gz1St",type:"arrow",x:-879.1503555089089,y:1094.0496419931924,width:38.71841912073171,height:32.131910545386745,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aZ",roundness:{type:2},seed:69955617,version:295,versionNonce:1813626983,isDeleted:!1,boundElements:[],updated:1763542305523,link:null,locked:!1,points:[[0,0],[38.71841912073171,32.131910545386745]],lastCommittedPoint:null,startBinding:{elementId:"QKheZsCo0SaflVoV9gnE3",focus:.6051885917070208,gap:13.06020015428021},endBinding:{elementId:"ZVfZNRws",focus:-.5318982164906291,gap:4.401799477114082},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"zZUOxOLk1An5Mnjxg7WcF",type:"arrow",x:-448.28417538767775,y:812.5853057783535,width:24.182002154150553,height:55.7651642414404,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"aa",roundness:{type:2},seed:140482788,version:309,versionNonce:1226563111,isDeleted:!1,boundElements:[],updated:1763542305520,link:null,locked:!1,points:[[0,0],[24.182002154150553,-55.7651642414404]],lastCommittedPoint:null,startBinding:{elementId:"6dKcLD_f5Qhx9wxO5O9vu",focus:.9265092377788703,gap:10.3354719330747},endBinding:{elementId:"U0WDfYOr",focus:.14341764997183015,gap:5.233538578216439},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"iM40Mw6NB1OzLaxQ9S0T-",type:"arrow",x:-611.2632076664396,y:630.9437886545536,width:42.9256581632676,height:46.059467209194736,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"ab",roundness:{type:2},seed:1259282908,version:376,versionNonce:449730311,isDeleted:!1,boundElements:[],updated:1763542305518,link:null,locked:!1,points:[[0,0],[42.9256581632676,-46.059467209194736]],lastCommittedPoint:null,startBinding:{elementId:"dhZctdBvuU-Jl3wmbI6Y7",focus:-.37632215044647116,gap:2.833041577215795},endBinding:{elementId:"KXchtLWW",focus:.21895210712407606,gap:7.9211534487752715},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"Zd0d6fSxitopHIJj_WR_j",type:"arrow",x:-845.578683883626,y:594.3225028185401,width:26.314660497044542,height:27.080197208646155,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"ac",roundness:{type:2},seed:1912698596,version:371,versionNonce:815164391,isDeleted:!1,boundElements:[],updated:1763542305516,link:null,locked:!1,points:[[0,0],[-26.314660497044542,-27.080197208646155]],lastCommittedPoint:null,startBinding:{elementId:"IYrRQHtRglo6D0nXQsktC",focus:.21954120203751729,gap:3.1692757949256247},endBinding:{elementId:"RYryxoQs",focus:-.012402271905194167,gap:2.915121286838712},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"mdO011C4iE2Tqfm690RBb",type:"arrow",x:-1026.7683127849482,y:490.31251586223846,width:55.82894595437233,height:42.41181822534077,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"ad",roundness:{type:2},seed:1108273884,version:417,versionNonce:270821212,isDeleted:!1,boundElements:[],updated:1763509859011,link:null,locked:!1,points:[[0,0],[-55.82894595437233,42.41181822534077]],lastCommittedPoint:null,startBinding:{elementId:"RYryxoQs",focus:.8951210864961896,gap:17.508941179950625},endBinding:{elementId:"EPWV0k71",focus:-.2050954377981817,gap:8.342464867384706},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"xN9Lug8IPtj5xJr9WCVUf",type:"arrow",x:-1026.562669269388,y:730.5077321690727,width:30.820283059514395,height:23.971384489581283,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"ae",roundness:{type:2},seed:959774940,version:279,versionNonce:1244926631,isDeleted:!1,boundElements:[],updated:1763542305526,link:null,locked:!1,points:[[0,0],[-30.820283059514395,-23.971384489581283]],lastCommittedPoint:null,startBinding:{elementId:"gNmxNaLRufaMojvTJIIpV",focus:.3486448134136213,gap:2.5973625716253537},endBinding:{elementId:"Z6TpgNXc",focus:-.5825303489301634,gap:1},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"nTcv5nEardOXWhGLxQZSQ",type:"arrow",x:-1110.104849343552,y:920.4804068788878,width:48.06537763288884,height:40.054474084755384,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:"QSwouFaO-9DlonH6vmQTI",index:"af",roundness:{type:2},seed:383442396,version:300,versionNonce:603134855,isDeleted:!1,boundElements:[],updated:1763542305525,link:null,locked:!1,points:[[0,0],[-48.06537763288884,40.054474084755384]],lastCommittedPoint:null,startBinding:{elementId:"kLbB4qma31yxTzf5GiHDf",focus:.8619429001365162,gap:6.750592129169377},endBinding:{elementId:"efnvHAbw",focus:-.5058204747411689,gap:12.946775046093649},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"oJPIW-XnpvJtaHQjaqyBV",type:"arrow",x:10.47779571910253,y:327.00091819049567,width:30.231043121040443,height:41.19302094962825,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"ag",roundness:{type:2},seed:974726116,version:152,versionNonce:1491429799,isDeleted:!1,boundElements:[],updated:1763542305512,link:null,locked:!1,points:[[0,0],[30.231043121040443,41.19302094962825]],lastCommittedPoint:null,startBinding:{elementId:"MNGwlF4hZtp3b6WUgiveI",focus:-.6821959313195742,gap:10.883810768033982},endBinding:{elementId:"1bN597116oY82UXmGnXA4",focus:.6253111100804648,gap:11.463728537785727},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"5qiyCWvfmNu83blXdTZW6",type:"arrow",x:-142.7826348524015,y:123.85960988249849,width:155.08375609752557,height:102.26938806330557,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"ah",roundness:{type:2},seed:1605113692,version:43,versionNonce:2052921255,isDeleted:!1,boundElements:[],updated:1763542305473,link:null,locked:!1,points:[[0,0],[-155.08375609752557,102.26938806330557]],lastCommittedPoint:null,startBinding:{elementId:"GkIDlgm7",focus:-.17642393166222756,gap:9.20183858122897},endBinding:{elementId:"YJBLny8mj6PUt96L7dEfS",focus:.337425465134871,gap:14.104082219944587},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"GRw0k5ZE1pMbOzt9hXoem",type:"arrow",x:-297.6473416339528,y:296.37196914662616,width:161.82003862777185,height:4.130595783483557,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"ai",roundness:{type:2},seed:82900956,version:36,versionNonce:526702439,isDeleted:!1,boundElements:[],updated:1763542305508,link:null,locked:!1,points:[[0,0],[161.82003862777185,4.130595783483557]],lastCommittedPoint:null,startBinding:{elementId:"YJBLny8mj6PUt96L7dEfS",focus:.8310765093259757,gap:4.459095584694266},endBinding:{elementId:"MNGwlF4hZtp3b6WUgiveI",focus:.041334749748282974,gap:5.7304127089263375},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"bpRE4hegs86wfNK8MTP9h",type:"arrow",x:-464.44581770182594,y:229.95652467154463,width:246.59911783593736,height:83.39571576529025,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"aj",roundness:{type:2},seed:1366840924,version:68,versionNonce:1585093095,isDeleted:!1,boundElements:[],updated:1763542305478,link:null,locked:!1,points:[[0,0],[-246.59911783593736,-83.39571576529025]],lastCommittedPoint:null,startBinding:{elementId:"YJBLny8mj6PUt96L7dEfS",focus:.2563782575861382,gap:7.237574754724903},endBinding:{elementId:"gTHJYfIbaQg2xiptuAxCf",focus:-.09302131286197778,gap:7.524036368626639},startArrowhead:null,endArrowhead:"arrow",elbowed:!1},{id:"QSwouFaO-9DlonH6vmQTI",type:"frame",x:-1245.1976648533168,y:442.98540588551253,width:980.1978607975931,height:768.2906839586675,angle:0,strokeColor:"#1e1e1e",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:2,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"ak",roundness:null,seed:2038750052,version:128,versionNonce:2115551367,isDeleted:!1,boundElements:[{id:"HSlSxQd5U3VA0USSVCU1Y",type:"arrow"}],updated:1763542305429,link:null,locked:!1,name:"Catholic CSR",customData:{frameColor:{stroke:"#2B2B2B",fill:"#525252",nameColor:"#858585"}}},{id:"HSlSxQd5U3VA0USSVCU1Y",type:"arrow",x:-123.82420356492342,y:322.2032253463402,width:132.82543492188097,height:119.24779128678932,angle:0,strokeColor:"#ced4da",backgroundColor:"transparent",fillStyle:"solid",strokeWidth:4,strokeStyle:"solid",roughness:1,opacity:100,groupIds:[],frameId:null,index:"al",roundness:{type:2},seed:1628475876,version:87,versionNonce:197350023,isDeleted:!1,boundElements:[],updated:1763542305510,link:null,locked:!1,points:[[0,0],[-132.82543492188097,119.24779128678932]],lastCommittedPoint:null,startBinding:{elementId:"MNGwlF4hZtp3b6WUgiveI",focus:.46255095772702765,gap:1.7584366550914148},endBinding:{elementId:"QSwouFaO-9DlonH6vmQTI",focus:.07525858167174822,gap:8.491489446171556},startArrowhead:null,endArrowhead:"arrow",elbowed:!1}],appState:{theme:"dark",viewBackgroundColor:"#ffffff",currentItemStrokeColor:"#ced4da",currentItemBackgroundColor:"transparent",currentItemFillStyle:"solid",currentItemStrokeWidth:4,currentItemStrokeStyle:"solid",currentItemRoughness:1,currentItemOpacity:100,currentItemFontFamily:7,currentItemFontSize:28,currentItemTextAlign:"center",currentItemStartArrowhead:null,currentItemEndArrowhead:"arrow",currentItemArrowType:"round",currentItemFrameRole:null,scrollX:1515.8894884625392,scrollY:202.07180144166864,zoom:{value:1},currentItemRoundness:"round",gridSize:20,gridStep:5,gridModeEnabled:!1,gridColor:{Bold:"rgba(217, 217, 217, 0.5)",Regular:"rgba(230, 230, 230, 0.5)"},currentStrokeOptions:null,frameRendering:{enabled:!0,clip:!0,name:!0,outline:!0,markerName:!0,markerEnabled:!0},objectsSnapModeEnabled:!1,activeTool:{type:"selection",customType:null,locked:!1,fromSelection:!1,lastActiveTool:null},disableContextMenu:!1},files:{},scrollToContent:!0};App=()=>{const t=React.useRef(null),o=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect((()=>{i({width:o.current.getBoundingClientRect().width,height:o.current.getBoundingClientRect().height});const e=()=>{i({width:o.current.getBoundingClientRect().width,height:o.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)}),[o]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:o},React.createElement(ExcalidrawLib.Excalidraw,{ref:t,width:n.width,height:n.height,initialData:e,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("Business_ethicsexcalidraw.md"),ReactDOM.render(React.createElement(App),excalidrawWrapper)}()</script>
+</main>
+<aside>
+<div class="sidebar">
+<div class="sidebar-container">
+<script>async function fetchGraphData(){const e=await fetch("/graph.json").then((e=>e.json()));return{graphData:e,fullGraphData:filterFullGraphData(e)}}function getNextLevelNeighbours(e,t){const n=Object.values(e).map((e=>e.neighbors)).flat();return Object.keys(t).reduce(((r,l)=>(-1!=n.indexOf(l)?t[l].hide||(e[l]=t[l]):r[l]=t[l],r)),{})}function filterLocalGraphData(e,t){if(null==e)return null;let n=JSON.parse(JSON.stringify(e.nodes)),r=JSON.parse(JSON.stringify(e.links)),l=n[decodeURI(window.location.pathname)]||Object.values(n).find((e=>e.home));if(delete n[l.url],!l.home){delete n[Object.values(n).find((e=>e.home)).url]}l.current=!0;let i={};i[l.url]=l;for(let e=0;e<t;e++)n=getNextLevelNeighbours(i,n);nodes=Object.values(i),l.home||(nodes=nodes.filter((e=>!e.home)));let o=nodes.map((e=>e.id));return{nodes:nodes,links:r.filter((function(e){return o.indexOf(e.target)>-1&&o.indexOf(e.source)>-1}))}}function getCssVar(e){return getComputedStyle(document.body).getPropertyValue(e)}function htmlDecode(e){return(new DOMParser).parseFromString(e,"text/html").documentElement.textContent}function renderGraph(e,t,n,r){if(null==e)return;const l=document.getElementById(t);width=l.offsetWidth,height=l.offsetHeight;const i=new Set;let o=null;const a=getCssVar("--graph-main"),s=getCssVar("--graph-muted");let u=ForceGraph()(l).graphData(e).nodeId("id").nodeLabel("title").linkSource("source").linkTarget("target").d3AlphaDecay(.1).width(width).height(height).linkDirectionalArrowLength(2).linkDirectionalArrowRelPos(.5).autoPauseRedraw(!1).linkColor((e=>null==o||e.source.id==o.id||e.target.id==o.id?a:s)).nodeCanvasObject(((e,t)=>{const n=e.neighbors&&e.neighbors.length||2,r=Math.min(7,Math.max(n/2,2));t.beginPath(),t.arc(e.x,e.y,r,0,2*Math.PI,!1),null==o||e==o||i.has(e.url)?t.fillStyle=a:t.fillStyle=s,t.fill(),e.current&&(t.beginPath(),t.arc(e.x,e.y,r+1,0,2*Math.PI,!1),t.lineWidth=.5,t.strokeStyle=a,t.stroke());const l=htmlDecode(e.title);t.font="3.5px Sans-Serif",t.textAlign="center",t.textBaseline="top",t.fillText(l,e.x,e.y+r+2)})).onNodeClick((e=>{window.location=e.url})).onNodeHover((e=>{i.clear(),e&&(i.add(e),e.neighbors.forEach((e=>i.add(e)))),o=e||null}));return(r||null!=n&&e.nodes.length>4)&&setTimeout((()=>{u.zoomToFit(5,75)}),n||200),u}function renderLocalGraph(e,t,n){window.graph&&window.graph._destructor();return renderGraph(filterLocalGraphData(e,t),"link-graph",null,n)}function filterFullGraphData(e){if(null==e)return null;e=JSON.parse(JSON.stringify(e));const t=Object.values(e.nodes).filter((e=>e.hide)).map((e=>e.id));return{links:JSON.parse(JSON.stringify(e.links)).filter((e=>-1==t.indexOf(e.source)&&-1==t.indexOf(e.target))),nodes:[...Object.values(e.nodes).filter((e=>!e.hide))]}}function openFullGraph(e){return lucide.createIcons({attrs:{class:["svg-icon"]}}),renderGraph(e,"full-graph-container",200,!1)}function closefullGraph(e){return e&&e._destructor(),null}</script>
+<div x-init="{graphData, fullGraphData} = await fetchGraphData();" x-data="{ graphData: null, depth: 1, graph: null, fullGraph: null, showFullGraph: false, fullScreen: false, fullGraphData: null}" id="graph-component" x-bind:class="fullScreen ? 'graph graph-fs' : 'graph'" v-scope>
+<div class="graph-title-container">
+<div class="graph-title">Connected Pages</div>
+<div id="graph-controls">
+<div class="depth-control">
+<label for="graph-depth">Depth</label>
+<div class="slider">
+<input x-model.number="depth" name="graph-depth" list="depthmarkers" type="range" step="1" min="1" max="3" id="graph-depth">
+<datalist id="depthmarkers">
+<option value="1" label="1"></option>
+<option value="2" label="2"></option>
+<option value="3" label="3"></option>
+</datalist>
+</div>
+<span id="depth-display" x-text="depth"></span>
+</div>
+<div class="ctrl-right">
+<span id="global-graph-btn" x-on:click="showFullGraph = true; setTimeout(() => {fullGraph = openFullGraph(fullGraphData)}, 100)"><i icon-name="globe" aria-hidden="true"></i></span>
+<span id="graph-fs-btn" x-on:click="fullScreen = !fullScreen"><i icon-name="expand" aria-hidden="true"></i></span>
+</div>
+</div>
+</div>
+<div x-effect="window.graph = renderLocalGraph(graphData, depth, fullScreen)" id="link-graph"></div>
+<div x-show="showFullGraph" id="full-graph" class="show" style="display:none">
+<span id="full-graph-close" x-on:click="fullGraph = closefullGraph(fullGraph); showFullGraph = false;"><i icon-name="x" aria-hidden="true"></i></span><div id="full-graph-container"></div>
+</div>
+</div>
+<div class="backlinks">
+<div class="backlink-title" style="margin:4px 0!important">Pages mentioning this page</div>
+<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/philosophy/02-ethics/paper-2/" data-note-icon="" class="backlink">Paper 2</a>
+</div></div>
+</div>
+</div>
+</div>
+</aside>
+<script>window.location.hash&&document.getElementById(window.location.hash.slice(1)).classList.add("referred"),window.addEventListener("hashchange",(e=>{const t=e.oldURL.split("#");t[1]&&document.getElementById(t[1]).classList.remove("referred");const n=e.newURL.split("#");n[1]&&document.getElementById(n[1]).classList.add("referred")}),!1);const url_parts=window.location.href.split("#"),url=url_parts[0],referrence=url_parts[1];document.querySelectorAll(".cm-s-obsidian > *[id]").forEach((function(e){e.ondblclick=function(e){const t=url+"#"+e.target.id;navigator.clipboard.writeText(t)}}))</script>
+<script src="https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js"></script>
+<script defer="defer">TIMESTAMP_FORMAT="MMM dd, yyyy h:mm a",document.querySelectorAll(".human-date").forEach((function(e){date=e.getAttribute("data-date")||e.innerText,parsed_date=luxon.DateTime.fromISO(date),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromSQL(date)),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromHTML(date)),e.innerHTML=parsed_date.toFormat(TIMESTAMP_FORMAT)}))</script>
+<script>lucide.createIcons({attrs:{class:["svg-icon"]}})</script>
+<script>document.addEventListener("DOMContentLoaded",(()=>{document.querySelectorAll('.internal-embed[data-src$=".excalidraw"]').forEach((e=>{e.addEventListener("click",(()=>{e.classList.toggle("fullscreen")}))}))}))</script>
+</body>
+</html>
