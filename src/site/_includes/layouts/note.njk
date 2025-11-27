@@ -103,23 +103,27 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 </script>
 
+
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-  const embeds = document.querySelectorAll('.internal-embed[data-src$=".excalidraw"]');
+  const embeds = document.querySelectorAll('.excalidraw-wrapper');
+
+  console.log(`Found ${embeds.length} Excalidraw wrapper(s):`, embeds);
 
   document.addEventListener('keydown', (e) => {
     if (e.key.toLowerCase() === 'f') {
-      // Toggle fullscreen on all embeds
       embeds.forEach(embed => embed.classList.toggle('fullscreen'));
+      console.log('Fullscreen toggled with "f" key');
     }
 
     if (e.key === 'Escape') {
-      // Remove fullscreen from all embeds
       embeds.forEach(embed => embed.classList.remove('fullscreen'));
+      console.log('Fullscreen exited with "Escape" key');
     }
   });
 });
 </script>
+
 
   </body>
 </html>
