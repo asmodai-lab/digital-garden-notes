@@ -11,6 +11,12 @@ body {
     //   color: black;
     //  }
 
-   
+    // SVG scaling fix - make SVGs responsive and fit the container
+    .markdown-rendered svg,
+    .markdown-preview-view svg {
+        max-width: 100%;
+        height: auto;
+        width: 100%;
+    }
 
 }
