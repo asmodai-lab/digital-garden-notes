@@ -94,27 +94,5 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {%include "components/lucideIcons.njk"%}
 
 
-
-<script>
-document.addEventListener("DOMContentLoaded", () => {
-  const embeds = document.querySelectorAll('.excalidraw-wrapper');
-
-  console.log(`Found ${embeds.length} Excalidraw wrapper(s):`, embeds);
-
-  document.addEventListener('keydown', (e) => {
-    if (e.key.toLowerCase() === 'f') {
-      embeds.forEach(embed => embed.classList.toggle('fullscreen'));
-      console.log('Fullscreen toggled with "f" key');
-    }
-
-    if (e.key === 'Escape') {
-      embeds.forEach(embed => embed.classList.remove('fullscreen'));
-      console.log('Fullscreen exited with "Escape" key');
-    }
-  });
-});
-</script>
-
-
   </body>
 </html>
