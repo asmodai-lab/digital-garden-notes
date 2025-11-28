@@ -14,24 +14,24 @@
 
 # Politics
 
-[[Politics/01 - UK politics/UK politics home\|UK politics home]]
+[[02 - Politics/01 - UK politics/UK politics home\|UK politics home]]
 
-[[Politics/01 - UK politics/UK government\|UK government]]
+[[02 - Politics/01 - UK politics/UK government\|UK government]]
 
-[[Politics/03 - Ideologies/Ideologies Homepage\|Ideologies Homepage]]
+[[02 - Politics/04 - Ideologies/Ideologies Homepage\|Ideologies Homepage]]
 
-[[Politics/02 - USA/USA homepage\|USA homepage]]
+[[02 - Politics/03 - USA/USA homepage\|USA homepage]]
 
 
 # Philosophy
 
-[[Philosophy/Terms dictionary\|Terms dictionary]] 
+[[01 - Philosophy/Terms dictionary\|Terms dictionary]] 
 
-[[Philosophy/01 Philosophy/Paper 1\|Paper 1]] — Philosophy
+[[01 - Philosophy/01 Philosophy/Paper 1\|Paper 1]] — Philosophy
 
-[[Philosophy/02 Ethics/Paper 2\|Paper 2]] — Ethics
+[[01 - Philosophy/02 Ethics/Paper 2\|Paper 2]] — Ethics
 
-[[Philosophy/03 DCT/Paper 3\|Paper 3]] — Development of Christian Thought
+[[01 - Philosophy/03 DCT/Paper 3\|Paper 3]] — Development of Christian Thought
 
 
 # Essay plans

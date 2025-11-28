@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/02-politics/03-usa/comparative-notes/uk-and-us-legislatures/","updated":"2025-11-18T10:35:22.202+00:00"}
+---
+
+
+| Theme                           | Similarities                                                                                                                         | Differences                                                                                                                                           |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The lower house                 | Fully elected, and elected to represent an area.                                                                                     | Spending has to be declared for elections. UK house is part of the executive. Speaker is neutral in UK, partisan in US.                               |
+| The upper house                 | Long terms for both, both have limited financial control (HoL can't amend money bills, senate can't introduce or amend money bills.) | Fully elected in the US, not in the UK. US has more power, can introduce bills, and the President cannot appoint people to the senate.                |
+| Relationship with the executive | Oversight over the executive branch through checks and balances — mostly passing laws.                                               | Members of the Executive are also members of the legislature in the UK.                                                                               |
+| The role of parties             | Established two party system which is quite partisan.                                                                                | UK has more than just the two parties, whips have more power, leading party forms a government in UK but it's president who forms a government in USA |
+| Representation                  |                                                                                                                                      |                                                                                                                                                       |
+| Legislative process             |                                                                                                                                      |                                                                                                                                                       |

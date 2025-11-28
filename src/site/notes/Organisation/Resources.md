@@ -13,7 +13,7 @@ A [list of PDFs](https://andrewmbailey.com/money/readings/) of unorganised readi
 
 |                                                                                                             | Type               | Paper | Topic           | Rating | Summary notes |
 | ----------------------------------------------------------------------------------------------------------- | ------------------ | ----- | --------------- | ------ | ------------- |
-| [The elements of morality](https://home.csulb.edu/~cwallis/382/readings/160/EM.pdf)/ [[Reviews/EM\|Internal PDF]]   | Book               | 2     | Ethical systems | 8.2    |               |
+| [The elements of morality](https://home.csulb.edu/~cwallis/382/readings/160/EM.pdf)/ [[04 - Reviews/EM\|Internal PDF]]   | Book               | 2     | Ethical systems | 8.2    |               |
 | [Descartes and the mind-body-soul problem](https://www.laphamsquarterly.org/states-mind/ghost-and-princess) | Article            | 1     | mind-body-soul  | 6      |               |
 | - [Magical thinking and dualism](https://andrewmbailey.com/MagicalThinking.pdf)                             | Barticle           | 1     | mind-body-soul  |        |               |
 | [Plato.stanford.eu](https://plato.stanford.edu/new.html)                                                    | Website/collection |       |                 |        |               |
@@ -91,5 +91,5 @@ Some guy on the internet has quite a few interesting articles, such as (but not 
 ## Other resources
 [Politics spec ](https://qualifications.pearson.com/content/dam/pdf/A%20Level/Politics/2017/Specification%20and%20sample%20assessments/A-level-Politics-Specification.pdf)
 
-[[Politics/The news\|The news]]
+[[02 - Politics/The news\|The news]]
 
