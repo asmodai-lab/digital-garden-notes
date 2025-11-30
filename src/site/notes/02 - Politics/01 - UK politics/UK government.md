@@ -9,5 +9,5 @@
 
 [[Prime Minister\|Prime Minister]]
 
-[[Relations between the branches\|Relations between the branches]]
+[[Bear hunt/2025/2025-11/Relations between the branches\|Relations between the branches]]
 

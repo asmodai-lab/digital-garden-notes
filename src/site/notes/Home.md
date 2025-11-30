@@ -7,9 +7,9 @@
 
 [[Reviews\|Reviews]]
 
-[[Brain joggers\|I have an exam in 10 minutes and I need a QUICK summary — aka Brain Joggers]]
+[[Organisation/Brain joggers\|I have an exam in 10 minutes and I need a QUICK summary — aka Brain Joggers]]
 
-[[Topic tracker\|Topic tracker]] — has this topic got notes/essay plans on it yet?
+[[Organisation/Topic tracker\|Topic tracker]] — has this topic got notes/essay plans on it yet?
 
 
 # Politics
@@ -36,7 +36,7 @@
 
 # Essay plans
 
-[[Essay plans home\|Essay plans home]]
+[[03 - Essay plans/Essay plans home\|Essay plans home]]
 
 
 # FAQ
