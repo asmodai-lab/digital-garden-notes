@@ -1,22 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/the-supreme-court/","updated":"2025-11-18T10:36:29.450+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/the-supreme-court/","tags":["homepage"],"updated":"2025-12-02T10:44:54.551+00:00"}
 ---
-
-[[02 - Politics/03 - USA/The supreme court/Judicial ideologies\|Judicial ideologies]] 
-
-[[The appointment process\|The appointment process]]
-
-[[02 - Politics/03 - USA/The supreme court/How does the US supreme court protect rights\|How does the US supreme court protect rights]]
-
-[[02 - Politics/03 - USA/The supreme court/What else is there to learn about the SC\|What else is there to learn about the SC]]
-
-[[Cases for evidence SC\|Cases for evidence SC]]
-
-[[02 - Politics/03 - USA/Comparative notes/Supreme court and rights comparative\|Supreme court and rights comparative]] 
 
 [[02 - Politics/03 - USA/The supreme court/Interpretations and debates of the SC\|Interpretations and debates of the SC]]
 
-#homepage 
+[[02 - Politics/03 - USA/The supreme court/Judicial ideologies\|Judicial ideologies]] 
+
+[[02 - Politics/03 - USA/The supreme court/Civil rights and civil liberties\|Civil rights and civil liberties]]
+
+[[02 - Politics/03 - USA/The supreme court/Judicial ideologies\|Judicial ideologies]]
+
+[[02 - Politics/03 - USA/The supreme court/Interpretations and debates of the SC#Evidence that is useful\|Evidence for cases]]
+
+[[02 - Politics/03 - USA/Comparative notes/Supreme court and rights comparative\|Supreme court and rights comparative]] 
+
+----
+
+## Judicial independence
 
 
 How does the supreme court ensure that the judges are independent?

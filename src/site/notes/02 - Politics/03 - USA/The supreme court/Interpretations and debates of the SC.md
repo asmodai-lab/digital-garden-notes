@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/interpretations-and-debates-of-the-sc/","updated":"2025-11-18T10:36:24.833+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/interpretations-and-debates-of-the-sc/","updated":"2025-12-02T10:36:57.380+00:00"}
 ---
 
 #homepage 
@@ -8,14 +8,14 @@ There are four major debates in this topic.
 
 [[03 - Essay plans/Politics Essay Plans/Political v Judicial\| The Political versus Judicial nature of the supreme court]]
 
-[[03 - Essay plans/Politics Essay Plans/Older essay plans/Living constitution v originalism\|Living constitution v originalism]]
+[[02 - Politics/03 - USA/The supreme court/Living constitution v originalism\|Living constitution v originalism]]
 
 [[Civil rights protection\|How effectively civil and constitutional rights have been upheld by the Supreme court and the effectiveness of this]]
 
 [[03 - Essay plans/Politics Essay Plans/Checks and balances on the SC\|The extent of their powers and effectiveness of checks and balances]]
 
 ---------
-# Evidence that is useful for all of them 
+## Evidence that is useful 
 
 | Case name                                                | Date  | Explanation                                                                                                | Where to use?                                                                                                           |
 | -------------------------------------------------------- |:-----:| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |

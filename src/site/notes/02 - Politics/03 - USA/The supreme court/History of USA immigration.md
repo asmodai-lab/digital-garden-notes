@@ -1,10 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/history-of-usa-immigration/","updated":"2025-11-18T10:36:20.824+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/history-of-usa-immigration/","updated":"2025-12-02T09:57:38.149+00:00"}
 ---
 
 #lessonminor #unfinished 
 
-# Politics in the USA
+**Table of Contents**
+
+- [[02 - Politics/03 - USA/The supreme court/History of USA immigration#1790s-1830s\|1790s-1830s]]
+- [[02 - Politics/03 - USA/The supreme court/History of USA immigration#1830s-1865\|1830s-1865]]
+- [[02 - Politics/03 - USA/The supreme court/History of USA immigration#1865-1940s\|1865-1940s]]
+- [[02 - Politics/03 - USA/The supreme court/History of USA immigration#1940s-1960s\|1940s-1960s]]
+- [[02 - Politics/03 - USA/The supreme court/History of USA immigration#1960s-2000s\|1960s-2000s]]
+- [[02 - Politics/03 - USA/The supreme court/History of USA immigration#2000s-\|2000s-]]
+- [[02 - Politics/03 - USA/The supreme court/History of USA immigration#What is immigration like today?\|What is immigration like today?]]
+	- [[02 - Politics/03 - USA/The supreme court/History of USA immigration#What is immigration like today?\|Why is illegal immigration so high?]]
+			- [[02 - Politics/03 - USA/The supreme court/History of USA immigration#What has illegal immigration been like since the 1970s\|What has illegal immigration been like since the 1970s]]
+		- [[02 - Politics/03 - USA/The supreme court/History of USA immigration#Why is illegal immigration so high?\|How have US presidents responded?]]
+- [[02 - Politics/03 - USA/The supreme court/History of USA immigration#Essay planning\|Essay planning]]
+
+---
 
 ## 1790s-1830s
 •The dominant view at this time was that whites were a Herrenvolk – ‘Master folk/race’. This particularly applied to the Anglo-Saxon races of the Germans and English.
@@ -91,7 +105,7 @@ Bussing orders school districts to bus white children to schools in majority bla
 
 
 
-# What is immigration like today?
+## What is immigration like today?
 
 Key things to remember (cultural differences)
 
@@ -110,17 +124,17 @@ Totals:
 	- around 1 million people legally migrated to the USA
 	- it is estimated that about 3 million illegally migrated.
 Note that the term undocumented and illegal are different but have a big overlap. Undocumented is mostly children of illegal immigrants. 
-## Why is illegal immigration so high?
+### Why is illegal immigration so high?
 - in the 1940s, the US allowed large numbers of guest workers from Mexico. They could stay to work briefly- often coming as seasonable labour. However, this was ended in 1964. Thus, many people chose to make a one-way trip
 	- part of the problem is that the people would come and go seasonally- so many chose to go and not leave. 
 - There was exceptional instability in Latin America in recent years- notably in Mexico and Venezuela
 - A law called **Title 42** was used to expel new arrivals during COVID to protect the population from disease. Some people were expelled several times- but that was counted as individual people, inflating the statistics.
-### What has illegal immigration been like since the 1970s
+##### What has illegal immigration been like since the 1970s
 - border encounters by the Border Guard are used as a broad estimation to gauge the number of illegal migrants
 - numbers wa
 There was a gradual increase form 1970-2000, a reduction
 
-## How have US presidents responded?
+#### How have US presidents responded?
 - in the eighties and nineties, both Reagan and Clinton deployed more border agents and introduced harsher penalties for illegal migration. However, this encouraged even less seasonal migration
 In 1986, the **Immigration reform and control act** is introduced.
 	 Makes it illegal to hire undocumented migrants
