@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/paper-1/","updated":"2025-11-19T12:39:05.091+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/paper-1/","tags":["homepage"],"updated":"2025-12-03T11:49:32.602+00:00"}
 ---
 
 [[01 - Philosophy/01 Philosophy/Mind-body-soul/Mind, body and soul\|Mind, body and soul]]

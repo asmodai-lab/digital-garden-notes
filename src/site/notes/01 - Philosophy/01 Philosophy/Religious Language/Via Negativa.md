@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/via-negativa/","updated":"2025-11-28T11:42:22.441+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/via-negativa/","tags":["messy"],"updated":"2025-12-03T10:10:41.189+00:00"}
 ---
 
 #intro 
@@ -34,7 +34,7 @@ I.e. how do we overcome the epistemic gap?
 2. considered whether language can be used in any adequate or meaningful sense to talk about God
 3. evaluated uses of symbol, analogy and myth, language as a game; to help communicate human understanding of God
 4. are conversations about God meaningful/intelligible if we use symbol?
-5. reflected on the [[Views of Aquinas\|Views of Aquinas]], [[Views of Paul Tillich\|Views of Paul Tillich]], and the [[views of Ludwig Wittingstein\|views of Ludwig Wittingstein]]
+5. reflected on the Views of Aquinas, Views of Paul Tillich, and the views of Ludwig Wittingstein
 
 # Useful definitions
 
@@ -157,5 +157,4 @@ It came from the philosophy of **Plotinus** in the second century CE. **Plotinus
 Anthony Flew argues that if we say that God is invisible, soundless, incorporeal, and so on, there is little difference between our definition of God and our definition of nothingness. 
 
 - you could say everything via negativa and it ends up being via positiva.
-
 - it is a way of recognising that we have to go beyond our normal everyday experiences

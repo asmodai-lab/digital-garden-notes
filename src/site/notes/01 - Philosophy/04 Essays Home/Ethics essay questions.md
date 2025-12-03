@@ -25,7 +25,7 @@
 
 1. whether or not religious beliefs and practices concerning sex and relationships have a continuing role in the area of sexual ethics
 2. whether choices in the area of sexual behaviour should be entirely private and personal, or whether they should be subject to societal norms and legislation
-3. [[Excalidraw/Normative theories on sexual ethics.excalidraw\|whether normative theories are useful in what they might say about sexual ethics]]
+3. [[Excalidraw/Philosophy/Normative theories on sexual ethics.excalidraw\|whether normative theories are useful in what they might say about sexual ethics]]
 	1. Kantian ethics
 	2. Natural Moral Law
 	3. Situation ethics

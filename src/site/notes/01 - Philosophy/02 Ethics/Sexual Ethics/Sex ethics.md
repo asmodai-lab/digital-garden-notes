@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/sexual-ethics/sex-ethics/","tags":["homepage"],"updated":"2025-11-27T21:16:34.628+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/sexual-ethics/sex-ethics/","tags":["homepage"],"updated":"2025-12-03T09:20:42.036+00:00"}
 ---
 
 ## Spec on sexual ethics
@@ -8,7 +8,7 @@
 continuing role in the area of sexual ethics
 • whether choices in the area of sexual behaviour should be entirely private and
 personal, or whether they should be subject to societal norms and legislation 
-• [[Excalidraw/Normative theories on sexual ethics.excalidraw\|whether normative theories are useful in what they might say about sexual ethics]]
+• [[Excalidraw/Philosophy/Normative theories on sexual ethics.excalidraw\|whether normative theories are useful in what they might say about sexual ethics]]
 
 ## Notes
 
@@ -18,6 +18,8 @@ personal, or whether they should be subject to societal norms and legislation
 3. [[01 - Philosophy/02 Ethics/Sexual Ethics/Sex ethics contextual texts#Song of songs\|The song of Solomon]]
 
 [[01 - Philosophy/02 Ethics/Sexual Ethics/BDSM and homosexuality\|BDSM and homosexuality]]
+
+[[01 - Philosophy/02 Ethics/Sexual Ethics/Marriage and sexual ethics\|Marriage and sexual ethics]]
 
 [[01 - Philosophy/02 Ethics/Sexual Ethics/Ethical systems on sexual ethics\|Ethical systems on sexual ethics]] 
 

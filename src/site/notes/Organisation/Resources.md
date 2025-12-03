@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organisation/resources/","tags":["resources","homepage"],"updated":"2025-12-02T10:41:47.812+00:00"}
+{"dg-publish":true,"permalink":"/organisation/resources/","tags":["resources","homepage"],"updated":"2025-12-03T10:30:25.783+00:00"}
 ---
 
 # Philosophy resources
@@ -11,15 +11,15 @@
 
 A [list of PDFs](https://andrewmbailey.com/money/readings/) of unorganised readings
 
-| Philosophy                                                                                                  | Type               | Paper | Topic           | Rating | Summary notes |
-| ----------------------------------------------------------------------------------------------------------- | ------------------ | ----- | --------------- | ------ | ------------- |
-| [The elements of morality](https://home.csulb.edu/~cwallis/382/readings/160/EM.pdf)/ [[04 - Reviews/EM\|Internal PDF]]   | Book               | 2     | Ethical systems | 8.2    |               |
-| [Descartes and the mind-body-soul problem](https://www.laphamsquarterly.org/states-mind/ghost-and-princess) | Article            | 1     | mind-body-soul  | 6      |               |
-| - [Magical thinking and dualism](https://andrewmbailey.com/MagicalThinking.pdf)                             | Barticle           | 1     | mind-body-soul  |        |               |
-| [Plato.stanford.eu](https://plato.stanford.edu/new.html)                                                    | Website/collection |       |                 |        |               |
-|                                                                                                             |                    |       |                 |        |               |
-|                                                                                                             |                    |       |                 |        |               |
-|                                                                                                             |                    |       |                 |        |               |
+| Philosophy                                                                                                  | Type               | Paper | Topic              | Rating | Summary notes          | Time reading? |
+| ----------------------------------------------------------------------------------------------------------- | ------------------ | ----- | ------------------ | ------ | ---------------------- | ------------- |
+| [The elements of morality](https://home.csulb.edu/~cwallis/382/readings/160/EM.pdf)/ [[04 - Reviews/EM\|Internal PDF]]   | Book               | 2     | Ethical systems    | 8.2    |                        |               |
+| [Descartes and the mind-body-soul problem](https://www.laphamsquarterly.org/states-mind/ghost-and-princess) | Article            | 1     | mind-body-soul     | 6      |                        |               |
+| - [Magical thinking and dualism](https://andrewmbailey.com/MagicalThinking.pdf)                             | Barticle           | 1     | mind-body-soul     |        |                        |               |
+| [Plato.stanford.eu](https://plato.stanford.edu/new.html)                                                    | Website/collection |       |                    |        | Good for long reading  |               |
+| [Plato Stanford --vReligious language](https://plato.stanford.edu/entries/religious-language/#toc)          | Article (LONG)     | 1     | Religious Language |        |                        | 40-70 minutes |
+| [Religious language](https://iep.utm.edu/rel-lang/)                                                         | Article            | 1     | Religious Language |        |                        | 30-50 minutes |
+| [3QuarksDaily](https://3quarksdaily.com/)                                                                   | Website/collection |       |                    |        | Good for short reading |               |
 
 ## Link dump yard
 

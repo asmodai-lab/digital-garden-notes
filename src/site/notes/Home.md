@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-11-26T13:31:58.231+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-12-03T11:50:32.720+00:00"}
 ---
 
 # Resources
@@ -45,9 +45,6 @@
 How is this organised?
 > This is organised into subject, then topic, then lesson. To find essay plans, go through the essay plans home page, which is sorted by paper for philosophy, and for politics is an unsorted list of questions with a table of contents. 
 
-What does the colour coding mean?
-![[Screenshot 2025-11-26 132348 1.png\|Screenshot 2025-11-26 132348 1.png]]
-Sometimes I use yellow for evidence though, so never be too careful.
 
 What are excalidrawings?
 > They are inserted PDFs/mind maps which I use to essay plan in a more organic way.
