@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/judicial-ideologies/","updated":"2025-12-02T10:42:43.829+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/judicial-ideologies/","updated":"2025-12-03T12:38:03.628+00:00"}
 ---
 
 #table
@@ -15,6 +15,20 @@
 ## What is Judicial activism?
 - this is when the supreme court rules an an issue rather than letting the president or congress solving it. This can be both liberal **(Obergefell v. Hodges- on gay marriage)** or conservative **(Citizens united v. FEC- allowing super PACS)**
 - ==Judicial restraint== is when, rather than reaching decisions based on activism, judges tend to *stare decisis*- so, letting decisions stand. They are far more likely to use past court rulings to reach a decision. This can be liberal **(whole women's health v Hellerstead)** or conservative **(Dobbs v Jackson)**
+- ==Judicial activism== is when judges actively interpret and apply the law — sometimes going beyond the explicit text of the Constitution, in order to address social issues and promote justice. It involves broader interpretation of the law and a more active role in shaping public policy.
+
+
+
+### Arguments on judicial overreach
+
+| Restraint                                           | Activism                           |
+| --------------------------------------------------- | ---------------------------------- |
+| Erosion of Judicial independence                    | Judicial overreach                 |
+| Neglect of minority rights                          | Undermines democratic processes    |
+| Conservative bias and status quo                    | Inconsistency and unpredictability |
+| Inconsistent and selective application              | Erosion of legal precedent         |
+| Delayed and ambiguous constitutional interpretation | Risk of partisanship               |
+
 
 
 

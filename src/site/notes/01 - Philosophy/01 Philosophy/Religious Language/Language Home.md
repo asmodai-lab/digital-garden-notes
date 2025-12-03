@@ -1,16 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/language-home/","tags":["homepage"],"updated":"2025-12-03T11:46:01.078+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/language-home/","tags":["homepage"],"updated":"2025-12-03T14:23:14.879+00:00"}
 ---
 
-
-## Religious Language (part 1)
-
-
-### Messy versions of notes
-[[01 - Philosophy/01 Philosophy/Religious Language/Via Negativa\|Via Negativa]]
-[[01 - Philosophy/01 Philosophy/Religious Language/Analogy\|Analogy]]
->[[Analogy.canvas|Analogy]]
-[[Symbol.canvas|Symbol]] (this file type is unviewable on the website.)
 
 >[!WARNING] What mini-topic is part of what major topic?
 >The first part of the religious language topic does NOT contain Wittgenstein, Falsification or Verification. It only contains:
@@ -24,6 +15,23 @@
 [Link to the LONG plato.stanford.edu article on this topic](https://plato.stanford.edu/entries/religious-language/#toc) (this is a 40 minute - 1 hour read)
 
 [Religious language](https://iep.utm.edu/rel-lang/) This is a slightly shorter article, and covers RL part 1 more.
+
+## Religious Language (part 1)
+
+[[01 - Philosophy/01 Philosophy/Religious Language/What is the problem of religious language\|What is the problem of religious language]]
+
+[[01 - Philosophy/01 Philosophy/Religious Language/The apophatic way\|The apophatic way]]
+
+[[Aquinas' analogies\|Aquinas' analogies]]
+
+[[Tillich's view on symbolism\|Tillich's view on symbolism]]
+
+
+### Dumping yard for notes
+[[01 - Philosophy/01 Philosophy/Religious Language/Via Negativa\|Via Negativa]]
+[[01 - Philosophy/01 Philosophy/Religious Language/Analogy\|Analogy]]
+>[[Analogy.canvas|Analogy canvas]]
+[[Symbol.canvas|Symbol]] (this file type is unviewable on the website.)
 
 
 
