@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/language-home/","tags":["homepage"],"updated":"2025-12-03T14:23:14.879+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/language-home/","tags":["homepage"],"updated":"2025-12-03T14:28:18.746+00:00"}
 ---
 
 
@@ -18,7 +18,7 @@
 
 ## Religious Language (part 1)
 
-[[01 - Philosophy/01 Philosophy/Religious Language/What is the problem of religious language\|What is the problem of religious language]]
+[[01 - Philosophy/01 Philosophy/Religious Language/What is the problem of religious language\|What is the problem of religious language]] (includes most of the useful terminology definitions for this topic)
 
 [[01 - Philosophy/01 Philosophy/Religious Language/The apophatic way\|The apophatic way]]
 
