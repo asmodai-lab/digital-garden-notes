@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/interpretations-and-debates-of-the-sc/","updated":"2025-12-05T09:26:06.939+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/interpretations-and-debates-of-the-sc/","updated":"2025-12-05T09:50:59.422+00:00"}
 ---
 
 #homepage 
@@ -15,6 +15,8 @@ The successes and failures of measures to promote equality, including affirmativ
 [[Civil rights protection\|How effectively civil and constitutional rights have been upheld by the Supreme court and the effectiveness of this]]
 
 [[03 - Essay plans/Politics Essay Plans/Checks and balances on the SC\|The extent of their powers and effectiveness of checks and balances]]
+
+[[02 - Politics/Race rights success\|How effective have racial rights protections been in the US?]]
 
 There are some more. Check them out in the [[02 - Politics/Politics essay questions\|Politics essay questions]] document.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/democracy/","tags":["homepage"],"updated":"2025-11-24T14:17:37.576+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/democracy/","tags":["homepage"],"updated":"2025-12-05T10:05:33.674+00:00"}
 ---
 
  
@@ -15,7 +15,7 @@ Typically, questions will involve how we can 'better' democracy. This will usual
 - increasing the size of [[02 - Politics/01 - UK politics/Democracy/The Franchise\|The Franchise]]
 - subjective qualities- such as:
 -> strength of government
--> increased protection of rights (which can be incredibly subjective)
+-> increased [[02 - Politics/01 - UK politics/Democracy/Rights in context\|protection of rights]] (which can be incredibly subjective)
 -> increasing the dignity of politics (i.e. not letting immoral acts go unpunished)
 
 

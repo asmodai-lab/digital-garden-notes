@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/politics-essay-questions/","tags":["questions"],"updated":"2025-12-05T09:09:23.053+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/politics-essay-questions/","tags":["questions"],"updated":"2025-12-05T10:41:05.955+00:00"}
 ---
 
 # UK politics
@@ -12,6 +12,8 @@
 4. [[03 - Essay plans/Politics Essay Plans/Compulsory voting- debate\|Should voting be made compulsory?]]
 5. [[03 - Essay plans/Politics Essay Plans/Older essay plans/Should 16 year-olds have voting rights- debate\|Should the voting age be lowered to 16?]]
 6. Do pressure groups promote democracy and participation?
+	1. How effective are insider/outsider methods of lobbying?
+	2. [[Excalidraw/Pressure group methods UK\|Are some groups more successful than others?]]
 7. To what extent is pressure group success down to large membership?
 8. Does the UK now have a ‘rights-based’ culture?
 9. Rights are not sufficiently protected in the UK. Discuss
