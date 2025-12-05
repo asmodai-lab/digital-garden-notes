@@ -99,7 +99,7 @@ There are three approaches to this:
 ------
 ### How successfully has racial equality been achieved in the US?
 
-there are three dominant themes to this [[03 - Essay plans/Politics Essay Plans/Older essay plans/Racial equality debate\|debate]]:
+there are three dominant themes to this [[Racial equality debate\|debate]]:
 1. affirmative action
 2. voting rights
 3. representation

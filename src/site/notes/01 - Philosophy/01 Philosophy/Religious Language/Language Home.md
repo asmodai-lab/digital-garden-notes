@@ -22,7 +22,7 @@
 
 [[01 - Philosophy/01 Philosophy/Religious Language/The apophatic way\|The apophatic way]]
 
-[[Aquinas' analogies\|Aquinas' analogies]]
+[[01 - Philosophy/01 Philosophy/Religious Language/Aquinas' analogies\|Aquinas' analogies]]
 
 [[Tillich's view on symbolism\|Tillich's view on symbolism]]
 

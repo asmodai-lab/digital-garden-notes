@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/constitution-and-federalism/federalism/","tags":["lessonmajor"],"updated":"2025-11-23T22:46:02.354+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/constitution-and-federalism/federalism/","tags":["lessonmajor"],"updated":"2025-12-04T12:03:18.261+00:00"}
 ---
 
 **Table of contents**
@@ -63,7 +63,7 @@ Everyone -starting with Bush- has changed it the fuck around.
 
 | Yes                                                                                                                                                                             | No                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| The supreme court seems very willing to return important decisions (like abortion) to the states. States have control over driving age, euthanasia, gun control, and marijuana. | The supreme court is growing in power, meaning the federal government has more influence                                                                                    |
+| The supreme court seems very willing to return important decisions (like abortion) to the states. States have control over driving age, euthanasia, gun control, and marijuana. | The supreme court is growing in power, meaning the federal government has more influence.                                                                                   |
 | Election regulations remain with states                                                                                                                                         | There have been notable landmark legislation from the federal government that has impacted states and been upheld numerous times by the supreme court (affordable care act) |
 | Increasing hyper partisanship in federal government has resulted in gridlock- meaning states have to do more                                                                    | Rights are uniformly protected at federal level- such as respect for marriage act 2022. This level of protection supersedes any state-level law.                            |
 | While federal law supersedes state law, in instances like the legalisation of marijuana- state law has gone above federal and gone unchallenged                                 | Certain national issues demand national response- like Covid-19, the Russia-Ukraine war, or inflation.                                                                      |

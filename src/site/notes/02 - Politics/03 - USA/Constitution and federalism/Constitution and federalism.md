@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/constitution-and-federalism/constitution-and-federalism/","tags":["homepage"],"updated":"2025-11-23T23:00:16.252+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/constitution-and-federalism/constitution-and-federalism/","tags":["homepage"],"updated":"2025-12-04T12:13:06.900+00:00"}
 ---
 
 > Please note that many of these notes were transferred directly from my messy notes and I haven't taken much care to clean them up. 
@@ -13,14 +13,29 @@
 
 ## Major questions
 
-**How democratic is the Constitution today?
+1. How democratic is the Constitution today?
+2. [[Excalidraw/is the USA still federal today.excalidraw\|Is the USA still federal today?]]
+3. how effective is the constitution today?
+4. how similar is it to the founding father's intentions?
+5. how robust is it against challenges?
 
-**Is the USA still federal?**
-
-
-1. how effective is the constitution today?
-2. how similar is it to the founding father's intentions?
-3. how robust is it against challenges?
+### Specification
+1. Nature of the USA constitution
+	1. vagueness of the document, codification and entrenchment
+	2. the constitutional powers of the branches of Govt.
+	3. the amendment process (plus pros and cons)
+2. the key features and their effectiveness today
+	1. federalism
+	2. separation of powers + checks & balances
+	3. bipartisanship
+	4. limited govt.
+3. main characteristics of federalism 
+	1. nature of the federal system of govt. and it's relationship with the states
+4. interpretations and debates around the constitution and federalism
+	1. the extent of democracy within the constitution
+	2. strengths and weaknesses of the constitution
+	3. it's impact on the govt. today
+	4. whether the USA is still federal today.
 
 ## Misc
 

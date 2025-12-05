@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/social-democracy/","tags":["lessonminor"],"updated":"2025-11-28T13:35:43.044+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/social-democracy/","tags":["lessonminor"],"updated":"2025-12-04T14:58:44.474+00:00"}
 ---
 
 ```mermaid
@@ -42,3 +42,8 @@ It majorly starts in the 1930s as there are a lot of economic problems:
 1. nationalising businesses
 2. setting up the welfare state and the NHS
 3. tax the rich heavily to put it into nationalized companies
+
+
+
+
+

@@ -1,11 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/","tags":["lessonmajor"],"updated":"2025-11-28T13:30:01.644+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/","tags":["lessonmajor"],"updated":"2025-12-04T15:10:35.464+00:00"}
 ---
 
 
 You have 4 major socialist ideas. 
 
 The spec only asks for three. DON'T WRITE ABOUT THE FOURTH ONE (Democratic Socialism)
+
+## Summary
+| Sector       | Marxism                                                                                                                                                                                                                                                 | Democratic Socialism                                            | Social Democracy                                                               | Third way |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------ | --------- |
+| State        | State is completely evil, but is needed during the revolutionary phase in order to defend from internal and external threats — but it will eventually disappear and people will live in communes. This state will be a dictatorship of the proletariat. | State is necessary in order to help people. Big government yay. | State is big.                                                                  |           |
+| Society      | Capitalism will eventually oroboros itself as the capitalist class becomes smaller over time and the proletariat will finally grow so angry that they do a revolution.                                                                                  | Crime is caused by social causes.                               | Crime is caused by a mix of social causes and free will.                       |           |
+| Human Nature | Human nature is corrupted because we are alienated from our work and forced to be greedy by capitalism.                                                                                                                                                 |                                                                 |                                                                                |           |
+| the economy  | because wealth can not be created, someone who becomes wealthier becomes so because somebody else becomes poorer.                                                                                                                                       |                                                                 | Mixed economy — capitalism can create wealth but unregulated causes suffering. |           |
+
+
+## Notes
+
+[[02 - Politics/04 - Ideologies/Socialism/Revolutionary Socialism\|Revolutionary Socialism]] 
+ 
+[[02 - Politics/04 - Ideologies/Social Democracy\|Social Democracy]] (includes Democratic Socialism)
+
+[[02 - Politics/04 - Ideologies/Third way\|Third way]]
 
 ## Terminology
 
@@ -40,11 +57,4 @@ The spec only asks for three. DON'T WRITE ABOUT THE FOURTH ONE (Democratic Socia
 
 </div></div>
 
-## Revolutionary socialism
-
-[[02 - Politics/04 - Ideologies/Socialism/Revolutionary Socialism\|Revolutionary Socialism]] 
- 
-## Social Democracy
-
-[[02 - Politics/04 - Ideologies/Social Democracy\|Social Democracy]] (includes Democratic Socialism)
 

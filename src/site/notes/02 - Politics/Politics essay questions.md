@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/politics-essay-questions/","tags":["questions"],"updated":"2025-11-18T22:24:30.727+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/politics-essay-questions/","tags":["questions"],"updated":"2025-12-05T09:09:23.053+00:00"}
 ---
 
 # UK politics
@@ -92,6 +92,12 @@ The success or failure of political party?
 8. To what extent has parliament lost sovereignty as a result of the UK’s membership of the EU
 
 # US Politics
+## Constitution and federalism
+1. Is the amendment process to the constitution successful?
+2. Is the constitution democratic?
+3. is the constitution strong?
+4. [[Excalidraw/is the USA still federal today.excalidraw\|Is the USA still federal today?]]
+
 ## Congress
 
 1. Evaluate the view that congress has gotten weaker over time
@@ -106,5 +112,20 @@ The success or failure of political party?
 10. Evaluate the extent to which the real work of Congress occurs in committees rather than in the chambers
 11. Evaluate the extent to which Congress can check the power of the executive branch 
 12. Evaluate the view that gridlock is an inevitable consequence of the US system of government 
+
+## Supreme Court
+
+1. [[Is the judicial appointment process fit for purpose\|Is the judicial appointment process fit for purpose]]
+2. [[Is judicial restraint superior to Judicial activism\|Is judicial restraint superior to Judicial activism]]
+3. [[02 - Politics/Race rights success\|Have race rights groups been effective in achieving racial equality]]
+4. [[Is the supreme court a judicial or political body\|Is the supreme court a judicial or political body]]
+
+Extra questions:
+1. Evaluate the view that Supreme Court justices are politicians in disguise. -
+2. Evaluate the view that the appointment process for justices is not fit for purpose. -
+3. Evaluate the view that Supreme Court justices should interpret the law and the Constitution based on the intent of the people who wrote it. -
+4. Evaluate the view that the Roberts Court has failed to protect civil liberties. -
+5. Evaluate the view that the Robert's Court is a major disappointment to conservatives. -
+6. Evaluate the view that racial equality has been achieved in the United States. -
 
 # Ideologies

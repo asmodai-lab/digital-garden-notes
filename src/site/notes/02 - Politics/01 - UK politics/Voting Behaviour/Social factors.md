@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/voting-behaviour/social-factors/","tags":["lessonmajor","unfinished"],"updated":"2025-12-03T23:21:45.255+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/voting-behaviour/social-factors/","tags":["lessonmajor","unfinished"],"updated":"2025-12-03T23:24:50.623+00:00"}
 ---
 
 ## Class
@@ -32,4 +32,4 @@ Nowadays, these assumptions aren't really correct for multiple reasons.
 
 ---
 
-![Class 2024 GE.png](/img/user/Images/Class%202024%20GE.png)
+![Class 2024 GE.png|800](/img/user/Images/Class%202024%20GE.png)
