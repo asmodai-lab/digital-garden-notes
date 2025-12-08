@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/language-home/","tags":["homepage"],"updated":"2025-12-03T14:28:18.746+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/language-home/","tags":["homepage"],"updated":"2025-12-08T09:49:56.039+00:00"}
 ---
 
 
@@ -24,14 +24,14 @@
 
 [[01 - Philosophy/01 Philosophy/Religious Language/Aquinas' analogies\|Aquinas' analogies]]
 
-[[Tillich's view on symbolism\|Tillich's view on symbolism]]
+[[01 - Philosophy/01 Philosophy/Religious Language/Tillich's view on symbolism\|Tillich's view on symbolism]]
 
-
+[[media-lib/url-ef526jmq\|language c20th]]
 ### Dumping yard for notes
 [[01 - Philosophy/01 Philosophy/Religious Language/Via Negativa\|Via Negativa]]
 [[01 - Philosophy/01 Philosophy/Religious Language/Analogy\|Analogy]]
 >[[Analogy.canvas|Analogy canvas]]
-[[Symbol.canvas|Symbol]] (this file type is unviewable on the website.)
+[[Symbol.canvas|Symbol]] (these two file types are unviewable on the website.)
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organisation/resources/","tags":["resources","homepage"],"updated":"2025-12-03T10:30:25.783+00:00"}
+{"dg-publish":true,"permalink":"/organisation/resources/","tags":["resources","homepage"],"updated":"2025-12-08T09:53:08.626+00:00"}
 ---
 
 # Philosophy resources
@@ -7,19 +7,21 @@
 
 [Readings mentioned in the spec](https://whsat.sharepoint.com/sites/Section_27011/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FSection%5F27011%2FShared%20Documents%2FGeneral%2FRevision%2FReadings%2FReadings%2FSyllabus%20references&viewid=9ebddd88%2D243c%2D42f9%2Dae13%2D94323681edcb&ct=1736165693424&or=Teams%2DHL&ga=1)
 
-[The elements of morality](https://home.csulb.edu/~cwallis/382/readings/160/EM.pdf) by James Rachels (ever want to understand the whole of ethics? Read this!)
+[The elements of morality](https://home.csulb.edu/~cwallis/382/readings/160/EM.pdf) by James Rachels (ever want to understand the whole of normative ethical theories? Read this!)
 
 A [list of PDFs](https://andrewmbailey.com/money/readings/) of unorganised readings
 
-| Philosophy                                                                                                  | Type               | Paper | Topic              | Rating | Summary notes          | Time reading? |
-| ----------------------------------------------------------------------------------------------------------- | ------------------ | ----- | ------------------ | ------ | ---------------------- | ------------- |
-| [The elements of morality](https://home.csulb.edu/~cwallis/382/readings/160/EM.pdf)/ [[04 - Reviews/EM\|Internal PDF]]   | Book               | 2     | Ethical systems    | 8.2    |                        |               |
-| [Descartes and the mind-body-soul problem](https://www.laphamsquarterly.org/states-mind/ghost-and-princess) | Article            | 1     | mind-body-soul     | 6      |                        |               |
-| - [Magical thinking and dualism](https://andrewmbailey.com/MagicalThinking.pdf)                             | Barticle           | 1     | mind-body-soul     |        |                        |               |
-| [Plato.stanford.eu](https://plato.stanford.edu/new.html)                                                    | Website/collection |       |                    |        | Good for long reading  |               |
-| [Plato Stanford --vReligious language](https://plato.stanford.edu/entries/religious-language/#toc)          | Article (LONG)     | 1     | Religious Language |        |                        | 40-70 minutes |
-| [Religious language](https://iep.utm.edu/rel-lang/)                                                         | Article            | 1     | Religious Language |        |                        | 30-50 minutes |
-| [3QuarksDaily](https://3quarksdaily.com/)                                                                   | Website/collection |       |                    |        | Good for short reading |               |
+| Philosophy                                                                                                                           | Type               | Paper | Topic                             | Rating | Misc                   | Time reading? |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | ----- | --------------------------------- | ------ | ---------------------- | ------------- |
+| [The elements of morality](https://home.csulb.edu/~cwallis/382/readings/160/EM.pdf)/ [[04 - Reviews/EM\|Internal PDF]]                            | Book               | 2     | Ethical systems                   | 8.2    |                        |               |
+| [Descartes and the mind-body-soul problem](https://www.laphamsquarterly.org/states-mind/ghost-and-princess)                          | Article            | 1     | mind-body-soul                    | 6      |                        |               |
+| - [Magical thinking and dualism](https://andrewmbailey.com/MagicalThinking.pdf)                                                      | Barticle           | 1     | mind-body-soul                    |        |                        |               |
+| [Plato.stanford.eu](https://plato.stanford.edu/new.html)                                                                             | Website/collection |       |                                   |        | Good for long reading  |               |
+| [Plato Stanford --vReligious language](https://plato.stanford.edu/entries/religious-language/#toc)                                   | Article (LONG)     | 1     | Religious Language                |        |                        | 40-70 minutes |
+| [Religious language](https://iep.utm.edu/rel-lang/)                                                                                  | Article            | 1     | Religious Language                |        |                        | 30-50 minutes |
+| [3QuarksDaily](https://3quarksdaily.com/)                                                                                            | Website/collection |       |                                   |        | Good for short reading |               |
+| [[media-lib/url-ef526jmq\|Religious language c20th]]                                                                                           | Video              | 1     | Religious language                | 6      |                        | 40 minutes    |
+| [Misquoting Jesus — YouTube podcast (playlist)](https://www.youtube.com/watch?v=uObu6PCipG0&list=PLmutpnyeVQcrRNOzPWdEothXcCVo2Npfv) | Video              | 2 & 3 | Person of Jesus Christ and others |        |                        |               |
 
 ## Link dump yard
 
