@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/04-essays-home/ethics-essay-questions/","tags":["questions"],"updated":"2025-11-27T11:41:37.954+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/04-essays-home/ethics-essay-questions/","tags":["questions"],"updated":"2025-12-07T21:46:53.152+00:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 # Normative theories
 ## Natural Moral Law
 
-1. whether or not a judgement about something being good, bad, right or wrong can be based on its success or failure in achieving its telos
+1. [[Excalidraw/Is telos enough to justify an action.excalidraw\|whether or not a judgement about something being good, bad, right or wrong can be based on its success or failure in achieving its telos]]
 2. whether or not the universe as a whole is designed with a telos, or human nature Has an orientation towards the good
 3. whether or not the doctrine of double effect can be used to justify an action, such as killing someone as an act of self-defence
 4. [[03 - Essay plans/Philosophy Essay Plans/Is NML helpful at decision making\|Whether or not natural law provides a helpful method of moral decision-making]]

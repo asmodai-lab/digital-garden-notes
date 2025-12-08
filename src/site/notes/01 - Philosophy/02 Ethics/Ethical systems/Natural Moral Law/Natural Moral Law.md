@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/ethical-systems/natural-moral-law/natural-moral-law/","updated":"2025-11-18T09:30:59.182+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/ethical-systems/natural-moral-law/natural-moral-law/","updated":"2025-12-07T21:48:02.497+00:00"}
 ---
 
 #lessonmajor #unfinished 
@@ -8,11 +8,12 @@
 
 # Specification
 
-| Content               | Key knowledge                                                                               |
-| --------------------- | ------------------------------------------------------------------------------------------- |
-| Telos                 | Origins of the concept of telos in Aristotle and it's religious development from Aquinas.   |
-| The four tiers of law | The eternal law, the divine law, natural law, and human law                                 |
-| The precepts          | The key precept (do good and avoid evil), the five primary precepts, and secondary precepts |
+| Content                       | Key knowledge                                                                               |
+| ----------------------------- | ------------------------------------------------------------------------------------------- |
+| Telos                         | Origins of the concept of telos in Aristotle and it's religious development from Aquinas.   |
+| The four tiers of law         | The eternal law, the divine law, natural law, and human law                                 |
+| The precepts                  | The key precept (do good and avoid evil), the five primary precepts, and secondary precepts |
+| The doctrine of double effect |                                                                                             |
 
 # Thomas Aquinas
 
