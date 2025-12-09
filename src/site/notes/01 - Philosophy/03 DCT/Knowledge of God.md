@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/knowledge-of-god/","tags":["homepage"],"updated":"2025-12-09T11:18:47.144+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/knowledge-of-god/","tags":["homepage"],"updated":"2025-12-09T11:18:49.375+00:00"}
 ---
 
 [[01 - Philosophy/03 DCT/John Calvin\|John Calvin]]
@@ -21,7 +21,7 @@
 
 [Philosopherkings notes](http://www.philosopherkings.co.uk/calvinknowledgeofgod.html)
 
-[Faster summary notes](https://whsat.sharepoint.com/:w:/r/sites/Section_27011/_layouts/15/Doc.aspx?sourcedoc=%7B6438CC4A-AF02-43DB-BE67-2F258F7532ED%7D&file=Knowledge-of-God-s-existence.docx&action=default&mobileredirect=true) (see PDF version bel)
+[Faster summary notes](https://whsat.sharepoint.com/:w:/r/sites/Section_27011/_layouts/15/Doc.aspx?sourcedoc=%7B6438CC4A-AF02-43DB-BE67-2F258F7532ED%7D&file=Knowledge-of-God-s-existence.docx&action=default&mobileredirect=true) (see PDF version below)
 
 
 
