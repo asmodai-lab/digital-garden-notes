@@ -1,6 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/02-uk-government/04-relations-between-the-branches/the-uk-supreme-court/","tags":["lessonmajor"],"updated":"2025-12-10T13:19:09.006+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/02-uk-government/04-relations-between-the-branches/the-uk-supreme-court/","tags":["lessonmajor"],"updated":"2025-12-10T13:22:13.003+00:00"}
 ---
+
+**Table of Contents**
+
+- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#The Supreme Court\|The Supreme Court]]
+	- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#The Supreme Court\|History of the supreme Court]]
+		- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#History of the supreme Court\|The law lords]]
+		- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#History of the supreme Court\|The Constitutional Reform Act 2005]]
+	- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#The Supreme Court\|The Supreme Court now]]
+		- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#The Supreme Court now\|How is it organised?]]
+		- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#The Supreme Court now\|What is it's role?]]
+			- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#What is it's role?\|Membership of the Supreme Court]]
+			- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#What is it's role?\|Differences between the Law Lords and the Supreme Court]]
+	- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#The Supreme Court\|Relationship between the Judiciary and Parliament]]
+		- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#Relationship between the Judiciary and Parliament\|Judicial review]]
+			- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#Judicial review\|Cases of judicial review]]
+- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#Judicial independence\|Judicial independence]]
+	- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#Judicial independence\|How is independence maintained?]]
+		- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#How is independence maintained?\|How independent are they?]]
+			- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#How independent are they?\|Judicial neutrality/impartiality]]
+	- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#Judicial independence\|Why has there been tension between the judiciary and govt?]]
+- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#Is the UK Supreme Court too powerful?\|Is the UK Supreme Court too powerful?]]
+	- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#Is the UK Supreme Court too powerful?\|Should they have more power?]]
+- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#Judge-led inquiries\|Judge-led inquiries]]
+	- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#Judge-led inquiries\|Pros and cons of judge-led inquiries]]
+	- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#Judge-led inquiries\|Examples of Judge-Led Inquiries]]
 
 ```mermaid
 flowchart TD
@@ -20,6 +45,20 @@ B --> D --> E --> F
 C --> Da --> G --> H
 ```
 ## The Supreme Court
+**Table of Contents**
+
+- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#History of the supreme Court\|History of the supreme Court]]
+	- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#History of the supreme Court\|The law lords]]
+	- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#History of the supreme Court\|The Constitutional Reform Act 2005]]
+- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#The Supreme Court now\|The Supreme Court now]]
+	- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#The Supreme Court now\|How is it organised?]]
+	- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#The Supreme Court now\|What is it's role?]]
+		- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#What is it's role?\|Membership of the Supreme Court]]
+		- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#What is it's role?\|Differences between the Law Lords and the Supreme Court]]
+- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#Relationship between the Judiciary and Parliament\|Relationship between the Judiciary and Parliament]]
+	- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#Relationship between the Judiciary and Parliament\|Judicial review]]
+		- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#Judicial review\|Cases of judicial review]]
+
 ### History of the supreme Court
 #### The law lords
 Until <span style="color:rgb(255, 192, 0)">2009,</span> the highest court was the Appellate Committee of the House of Lords.
@@ -150,6 +189,13 @@ This can be split further:
 | **Miller v. Prime Minister (2019)**                                    | In 2019, Parliament was prorogued on the advice of the PM, Johnson. The govt. claimed that it was necessary as parliament had sat for 341 days, longer than most cases. However, the length of the proposed prorogation was 3 weeks, when most were 1 week. The govt. was suspected of doing this in order to stop MPs from debating on Brexit to put pressure on parliament to accept a deal before the deadline.                                                                                                                                                                                                                                                                                                               | First, whether the PM prorogued parliament in order to stifle parliamentary scrutiny, (which would be Ultra Vires), and second, whether — as a political decision — it was subject to judicial review.                                                                                                                                                                                                                                     | Ruled that the case wasn't under judicial review, so it wasn't within their power to make a judgement. Although, a Scottish Court found it unlawful.                                                                                                                                                           | The case heard was an amalgamation of appeals for two separate cases: the Scottish and English ones. The court ruled that Johnson's prorogation was unlawful. They stressed that the govt.'s motives weren't a central issue, it was that the prorogation stifled parliamentary debate, which was undemocratic, and stopped parliament carrying out it's functions without reasonable justification.                                                    |
  
 ## Judicial independence
+**Table of Contents**
+
+- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#How is independence maintained?\|How is independence maintained?]]
+	- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#How is independence maintained?\|How independent are they?]]
+		- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#How independent are they?\|Judicial neutrality/impartiality]]
+- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#Why has there been tension between the judiciary and govt?\|Why has there been tension between the judiciary and govt?]]
+
 Judicial Independence is the notion that judges should be a separate entity from the other branches of government. Judicial Independence is necessary to truly uphold the Rule of Law. The opposite of Judicial Independence is Judicial Activism. This is the term given when the judiciary have a more active role in the political system. Increasingly, despite the changes made in the <span style="color:rgb(0, 176, 240)">Constitutional Reform Act (2005)</span>, it may actually be becoming harder for judges to maintain political independence.
 
 ### How is independence maintained?
@@ -196,7 +242,9 @@ Judicial Independence is the notion that judges should be a separate entity fro
 > 
 > > Also in 2025, Kier Starmer publicly criticised a court decision to grant a Palestinian family the right to remain in the UK. The comment was made in PMQs. The Chief Justice of England and Wales said she was deeply concerned that he remarked this publically.
 
+----
 ## Is the UK Supreme Court too powerful?
+
 
 | Powerful                                                                                                                              | Theme             | Weak                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -213,7 +261,13 @@ Judicial Independence is the notion that judges should be a separate entity fro
 | They have a role in ensuring that human rights and freedoms are upheld.                                                                                                                                                          | When upholding EU law of the ECHR, the courts are arguably challenging Parliamentary sovereignty, a key constitutional principle.                                                   |
 | While judges vary in opinion and background, they operate strictly within the law and so prevent abuses of power or rights which make take place merely to satisfy short-term public mood.                                       | The senior judiciary is out of touch and unrepresentative — being mostly privately educated and male.                                                                               |
 
+---
 ## Judge-led inquiries
+**Table of Contents**
+
+- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#Pros and cons of judge-led inquiries\|Pros and cons of judge-led inquiries]]
+- [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court#Examples of Judge-Led Inquiries\|Examples of Judge-Led Inquiries]]
+
 ### Pros and cons of judge-led inquiries
 
 | Pros                                                                                                                                                                                                    | Cons                                                                                                                                                                                            |
