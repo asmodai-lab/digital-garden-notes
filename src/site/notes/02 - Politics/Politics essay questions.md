@@ -119,7 +119,7 @@ The success or failure of political party?
 
 1. [[Is the judicial appointment process fit for purpose\|Is the judicial appointment process fit for purpose]]
 2. [[Is judicial restraint superior to Judicial activism\|Is judicial restraint superior to Judicial activism]]
-3. [[02 - Politics/Race rights success\|Have race rights groups been effective in achieving racial equality]]
+3. [[02 - Politics/03 - USA/The supreme court/Race rights success\|Have race rights groups been effective in achieving racial equality]]
 4. [[Is the supreme court a judicial or political body\|Is the supreme court a judicial or political body]]
 
 Extra questions:

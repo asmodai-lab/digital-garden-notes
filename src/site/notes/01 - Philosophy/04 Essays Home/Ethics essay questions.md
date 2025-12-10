@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/04-essays-home/ethics-essay-questions/","tags":["questions"],"updated":"2025-12-07T21:46:53.152+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/04-essays-home/ethics-essay-questions/","tags":["questions"],"updated":"2025-12-10T09:55:13.587+00:00"}
 ---
 
 
@@ -25,8 +25,12 @@
 
 1. whether or not religious beliefs and practices concerning sex and relationships have a continuing role in the area of sexual ethics
 2. whether choices in the area of sexual behaviour should be entirely private and personal, or whether they should be subject to societal norms and legislation
-3. [[Excalidraw/Philosophy/Normative theories on sexual ethics.excalidraw\|whether normative theories are useful in what they might say about sexual ethics]]
+3. 'consent is the only valid measure of the ethics of sex' — discuss
+4. 'religion is a source of destructive attitudes about sex' — discuss
+5.[[01 - Philosophy/04 Essays Home/'premarital sex is always unethical'\|'premarital sex is always unethical']] — discuss
+5. [[Excalidraw/Philosophy/Normative theories on sexual ethics.excalidraw\|whether normative theories are useful in what they might say about sexual ethics]]
 	1. Kantian ethics
 	2. Natural Moral Law
 	3. Situation ethics
 	4. Utilitarianism
+		1. [[01 - Philosophy/02 Ethics/Sexual Ethics/Secular normative theories on sex ethics\|Secular normative theories on sex ethics]]

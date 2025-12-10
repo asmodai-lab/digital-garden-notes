@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/interpretations-and-debates-of-the-sc/","updated":"2025-12-05T09:50:59.422+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/interpretations-and-debates-of-the-sc/","updated":"2025-12-09T21:08:39.965+00:00"}
 ---
 
 #homepage 
@@ -16,10 +16,14 @@ The successes and failures of measures to promote equality, including affirmativ
 
 [[03 - Essay plans/Politics Essay Plans/Checks and balances on the SC\|The extent of their powers and effectiveness of checks and balances]]
 
-[[02 - Politics/Race rights success\|How effective have racial rights protections been in the US?]]
+[[02 - Politics/03 - USA/The supreme court/Race rights success\|How effective have racial rights protections been in the US?]]
 
 There are some more. Check them out in the [[02 - Politics/Politics essay questions\|Politics essay questions]] document.
 
+### Resources
+[Video that talks about the impact of Rucho v Common Cause](https://www.youtube.com/watch?v=Cv_OsWd7cLo)
+
+[[Images/media-lib/Trump - powers\|Trump - powers]]
 
 ---------
 ## Evidence that is useful 
@@ -42,7 +46,7 @@ There are some more. Check them out in the [[02 - Politics/Politics essay questi
 | Bostock v Clayton County                                 | 2020  | Extended civil rights protections to LGBTQ+ employees. Based on the Civil rights act (1964)                                                                                            | Both liberal and conservative justices supported this.                                                                  |
 |                                                          | 2020  | Employers cannot discriminate based on sexual orientation or gender identity.                                                                                                          | Directly affected public policy.                                                                                        |
 | Nielson v Preap                                          | 2019  | Allowed warrantless searches of immigrants homes.                                                                                                                                      | immigration                                                                                                             |
-| Rucho v Common Cause                                     | 2019  | Federal courts have no role in regulating partisan gerrymandering                                                                                                                      |                                                                                                                         |
+| Rucho v Common Cause                                     | 2019  | Federal courts have no role in regulating partisan gerrymandering                                                                                                                      | Voting rights, federalism                                                                                               |
 | Murphy v NCAA                                            | 2018  | Overturned the PASPA, which prohibited states from authorising sports gambling.                                                                                                        |                                                                                                                         |
 | Carpenter v United States                                | 2018  | Government does need a warrant to access mobile location date, UNLESS it's a matter of national security.                                                                              | Supported 4th amendment rights                                                                                          |
 | Trump v Hawaii                                           | 2018  | Upheld the muslim travel ban                                                                                                                                                           | immigration                                                                                                             |

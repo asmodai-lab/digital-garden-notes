@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/constitution-and-federalism/the-constitution/","tags":["lessonmajor"],"updated":"2025-11-23T23:01:32.768+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/constitution-and-federalism/the-constitution/","tags":["lessonmajor"],"updated":"2025-12-09T21:13:55.345+00:00"}
 ---
 
 
@@ -122,7 +122,7 @@ First amendment- freedom of speech, action and press and religion
 11th cant sue states in federal court
 12th president and vice elected separately
 13th abolishes slavery (terms and conditions may apply)
-14th citizenship to all persons born in the USA (being a citizen means rights)
+14th citizenship to all persons born in the USA (being a citizen means rights), and guidelines for districting
 15th everyone can vote (men of colour edition)
 16th govt can get taxes and not give em proportionally
 17th senators are elected
@@ -190,3 +190,7 @@ First amendment- freedom of speech, action and press and religion
 | Confirmation of justices       | The Senate confirmed Amy Coney Barret days before the 2020 presidential election                                                                                                               |
 | Impeachment of justices        | there has been 1 unsuccessful attempt to impeach a justice in the 1800s                                                                                                                        |
 | structural changes             | none have been recently enacted                                                                                                                                                                |
+
+## Other notes
+
+14th amendment for redistricting asks that it is done in population — of which does not include native americans.
