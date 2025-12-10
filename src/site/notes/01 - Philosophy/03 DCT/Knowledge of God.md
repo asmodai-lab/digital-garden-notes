@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/knowledge-of-god/","tags":["homepage"],"updated":"2025-12-09T11:18:49.375+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/knowledge-of-god/","tags":["homepage"],"updated":"2025-12-10T09:32:38.980+00:00"}
 ---
 
 [[01 - Philosophy/03 DCT/John Calvin\|John Calvin]]
 
+[[Excalidraw/knowledge of God.excalidraw\|knowledge of God.excalidraw]]
 ## Specification 
 
 ![Pasted image 20251209105736.png|800](/img/user/Images/Pasted%20image%2020251209105736.png)
