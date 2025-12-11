@@ -5,7 +5,7 @@
 
 # Socialism
 
-[[02 - Politics/04 - Ideologies/Socialism\|Socialism]]
+[[02 - Politics/04 - Ideologies/Socialism/Socialism\|Socialism]]
 
 # Liberalism
 

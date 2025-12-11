@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/race-rights-success/","tags":["debates"],"updated":"2025-12-05T09:50:02.442+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/race-rights-success/","tags":["debates"],"updated":"2025-12-11T12:22:18.745+00:00"}
 ---
 
 
@@ -19,3 +19,4 @@
 > >[!EXAMPLE] Example — Texas 2021
 > >Texas used the Shelby ruling to impose rules restricting the hours of voting, and also banning extending voting hours if there were queues of people still waiting to vote.
 > >>This is a problem because there are less voting stations in black areas, which is on purpose.
+

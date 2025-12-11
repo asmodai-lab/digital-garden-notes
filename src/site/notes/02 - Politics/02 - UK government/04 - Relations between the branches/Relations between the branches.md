@@ -4,4 +4,4 @@
 
 [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court\|The UK supreme court]]
 
-[[Bear hunt/2025/2025-11/The European Union\|The European Union]]
+[[02 - Politics/02 - UK government/04 - Relations between the branches/The European Union\|The European Union]]
