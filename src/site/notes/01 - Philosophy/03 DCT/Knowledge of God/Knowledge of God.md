@@ -4,7 +4,7 @@
 
 [[01 - Philosophy/03 DCT/Knowledge of God/John Calvin\|John Calvin]]
 
-[[Excalidraw/knowledge of God.excalidraw\|knowledge of God.excalidraw]]
+[[Excalidraw/Philosophy/knowledge of God.excalidraw\|knowledge of God.excalidraw]]
 ## Specification 
 
 ![Pasted image 20251209105736.png|800](/img/user/Images/Pasted%20image%2020251209105736.png)

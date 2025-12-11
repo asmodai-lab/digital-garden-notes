@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/sexual-ethics/sex-ethics/","tags":["homepage"],"updated":"2025-12-03T09:20:42.036+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/sexual-ethics/sex-ethics/","tags":["homepage"],"updated":"2025-12-11T09:24:37.771+00:00"}
 ---
 
 ## Spec on sexual ethics
@@ -22,6 +22,7 @@ personal, or whether they should be subject to societal norms and legislation
 [[01 - Philosophy/02 Ethics/Sexual Ethics/Marriage and sexual ethics\|Marriage and sexual ethics]]
 
 [[01 - Philosophy/02 Ethics/Sexual Ethics/Ethical systems on sexual ethics\|Ethical systems on sexual ethics]] 
+> [[Excalidraw/Philosophy/Normative theories on sexual ethics.excalidraw\|Normative theories on sexual ethics.excalidraw]] (mindmap)
 
 ## Other materials
 

@@ -98,7 +98,7 @@ The success or failure of political party?
 1. Is the amendment process to the constitution successful?
 2. Is the constitution democratic?
 3. is the constitution strong?
-4. [[Excalidraw/is the USA still federal today.excalidraw\|Is the USA still federal today?]]
+4. [[Excalidraw/Politics/is the USA still federal today.excalidraw\|Is the USA still federal today?]]
 
 ## Congress
 
