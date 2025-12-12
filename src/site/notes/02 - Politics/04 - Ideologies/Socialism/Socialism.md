@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/socialism/","tags":["lessonmajor"],"updated":"2025-12-11T15:29:34.429+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/socialism/","tags":["lessonmajor"],"updated":"2025-12-12T12:44:11.876+00:00"}
 ---
 
 
 You have 4 major socialist ideas. 
 
 The spec only asks for three. DON'T WRITE ABOUT THE FOURTH ONE (Democratic Socialism)
+
+[[02 - Politics/04 - Ideologies/Socialism/Socialism help\|Socialism help]]
 
 ## Summary
 | Sector       | Marxism                                                                                                                                                                                                                                                 | Social Democracy                                                                        | Third way                                                                                                                                                                                              |

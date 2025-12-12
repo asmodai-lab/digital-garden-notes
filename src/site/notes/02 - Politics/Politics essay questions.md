@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/politics-essay-questions/","tags":["questions"],"updated":"2025-12-05T10:41:05.955+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/politics-essay-questions/","tags":["questions"],"updated":"2025-12-12T12:48:58.226+00:00"}
 ---
 
 # UK politics
@@ -131,3 +131,7 @@ Extra questions:
 6. Evaluate the view that racial equality has been achieved in the United States. -
 
 # Ideologies
+
+## Socialism
+1. To what extent to socialists agree on the state
+2. [[02 - Politics/04 - Ideologies/Socialism/to what extent are socialists united in their views on society\|to what extent are socialists united in their views on society]]
