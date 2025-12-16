@@ -1,10 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism/","tags":["lessonmajor"],"updated":"2025-12-08T13:15:50.379+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism/","tags":["lessonmajor"],"updated":"2025-12-15T12:57:33.011+00:00"}
 ---
 
-## John Locke
+[[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism\|Classical Liberalism]]
+## LONG NOTES
+### Major ideas
+- freedom
+- democracy
+- tolerance
+- rights
+- limited government
+- rule of law
+- equality of opportunity
+### John Locke
 
-### Historical context of John Locke
+#### Historical context of John Locke
 ---
 Summer 1683, Charles II has been king for more than 20 years. Locke doesn't like Charlie boy — he is also somewhat linked to a plot to kill the king. He moves to the Netherlands to avoid capture.
 
@@ -39,22 +49,22 @@ Although, keep in mind he still hated Catholics (because they were sworn to one 
 - limited government
 - rule of law
 
-## Core ideas of Liberalism
+### Core ideas of Liberalism
 ---
-### Individualism
+#### Individualism
 ---
 The idea that individuals are capable of making decisions for themselves, as opposed to requiring their 'betters' to do that on their behalf.
 
 Individuals are self-interested, rather than being concerned about wider society. However, as individuals do not exist in a vacuum, liberalism argues for tolerance of others, particularly of their political and religious views. If someone is not causing you harm, they should be allowed to continue their business. 
 >It's just 'treat others how you wish to be treated.'
 
-#### The change in understanding of tolerance
+##### The change in understanding of tolerance
 
 The understanding of tolerance has evolved. Mary Wollstonecraft argued to extend tolerance to women, particularly in the case of the right to vote. In the 20th century, Betty Friedan continued this, arguing for full equality for women.
 - Over time, different groups have been the focus of debates around tolerance. 
 	- In the UK, this has included allowing Catholics and Jews to sit in Parliament, tolerance towards migrants, homosexuality, and now transgender people.
 
-#### Liberal denominations
+##### Liberal denominations
 Whilst all liberals support the argument that the individual is more important than any collective group, modern and classical liberals have different ideas on what liberals can achieve in isolation.
 - Classical liberals support **'egoistic individualism'**
 	- that is the belief that humans are rational, and therefore self-interested, therefore self-reliant and capable of thriving on their own.
@@ -63,7 +73,7 @@ Whilst all liberals support the argument that the individual is more important t
 	- Whilst liberals argue in favour of a tolerant, fair society, they cannot control other's social attitudes.
 >Consequently, modern liberals (such as John Rawls) argue that if humans are left to their own devices, inequalities will get worse. Therefore, the role of the state is to help individuals develop and thrive through opportunities.
 
-### Freedom/liberty
+#### Freedom/liberty
 ---
 For liberals, freedom is not granted by a ruler or government, it is a natural right that humans have by virtue of being human. The state's role is to uphold this freedom by preventing harm to individuals that would impact their liberty, and to enforce contracts that individuals freely enter into with each other.
 - Locke described this role as vital for ensuring people were free.
@@ -75,7 +85,7 @@ The state only exists by consent of the governed, which is also known as the soc
 
 Locke says that when a government ceases to promote freedom, the people have the right to withdraw their consent to be governed and replace the government. 
 
-### State
+#### State
 ---
 The more you are left alone, the freer you are. 
 - But without a state, bad things will happen. 
@@ -91,7 +101,7 @@ So, the state's job is:
 
 The government exists by the consent of the people via a 'social contract.' People would be more willing to obey a government whose authority is limited, is elected by the people, and which is restricted in it's ability to restrict rights via a **constitution**.
 
-#### Modern liberalism and the state
+##### Modern liberalism and the state
 
 Some liberals have adopted a more positive view of the state — because of the potential good a state can do to allow human flourishing: aka an '**enabling state**'.
 
@@ -104,7 +114,7 @@ Some liberals have adopted a more positive view of the state — because of the 
 >
 
 
-### Rationalism
+#### Rationalism
 ---
 >[!INFO]
 >Everyone is a rational person, so they are capable of making the best decisions for themselves.
@@ -117,14 +127,14 @@ So therefore, we have some rights that should never be infringed
 	- they are split on right to an abortion / right to death
 Some also argued that this idea advocates for laissez-faire capitalism, the main proponent being
 
-#### Adam Smith
+##### Adam Smith
 
 Adam Smith had this idea called **the invisible hand of the market**:
 - Because people are rational, this means that their actions collectively create wealth and efficiency
 	- i.e. the market works because everyone is acting well within the market.
 > This is the classical liberal idea about the economy, which is completely different from [[02 - Politics/04 - Ideologies/Liberalism/Liberalism#Modern liberalism\|Modern liberal's ideas about the state.]]
 
-### Equality/social justice
+#### Equality/social justice
 Liberalism is rooted in the principle that all individuals are of equal moral worth and should have the same rights and opportunities to fulfil their potential. This is known as foundational equality. Liberals oppose discrimination based on arbitrary characteristics such as race, gender, or class and believe in formal equality, which ensures equal treatment under the law. Central to liberal thought is the concept of meritocracy, where individuals should succeed based on their talents and efforts rather than inherited privilege. Social justice, for liberals, involves creating a fair society in which individual rights and opportunities are upheld. However, there is a significant divide between classical and modern liberals over the extent of the state’s role in ensuring equality and social justice.
 
 Classical liberals emphasise equality of opportunity but reject the notion of equality of outcome. They believe that individuals are rational and capable of achieving success through their own efforts, provided they have equal legal rights and a level playing field. For classical liberals, the role of the state should be minimal, limited to protecting individual rights and enforcing the rule of law. Thinkers like John Locke and Adam Smith argue that economic freedom, grounded in free markets, allows individuals to pursue their self-interest and rewards effort and ability. Social justice, from this perspective, is achieved when individuals are free from external interference, including excessive government intervention. Inequality in wealth or outcomes is seen as a natural consequence of individual differences in talent, effort, and choices, and attempts to redistribute wealth are viewed as an infringement on individual liberty.
@@ -132,7 +142,7 @@ Classical liberals emphasise equality of opportunity but reject the notion of eq
 Modern liberals, while also committed to foundational and formal equality, argue that true equality of opportunity cannot exist without addressing social and economic inequalities. They believe that structural disadvantages, such as poverty or lack of education, can prevent individuals from realising their potential, even in a society that guarantees formal equality. Thinkers like T.H. Green and John Rawls advocate for a more active role for the state to promote social justice. Rawls’ veil of ignorance argument suggested that people, unaware of their own personal circumstances, would prefer a world of less inequality thereby recognising the challenges that many people faced. He further argues that inequalities are only justifiable if they benefit the least advantaged in society, as outlined in his “difference principle.” Modern liberals support redistributive policies, such as progressive taxation and welfare systems, to reduce inequality and ensure everyone has access to basic resources and opportunities. For modern liberals, social justice is not just about individual liberty but about creating a society where all individuals have the means to exercise their freedom meaningfully.​
 
 The difference in approach by classical and modern liberals can be seen when looking at the example of female suffrage and equality. Earlier feminists, such as Mary Wollstonecraft, argued in favour of formal equality of opportunity for women, who at the time were denied the right to vote and limited their right to own property. In this sense, Wollstonecraft was arguing for a classical liberal understanding of foundational equality. Betty Friedan, by contrast, writing over 150 years later, captures the essence of modern liberalism. Friedan argued that the state had to do more than give women the same formal equality of opportunity as men, and needed to take steps to help challenge traditional patriarchal views of the role of women, which continued to limit women to playing the role of wives of and mothers.
-### Liberal Democracy
+#### Liberal Democracy
 
 Liberalism is closely associated with the concept of liberal democracy, a system of governance that combines democratic principles with the protection of individual rights and freedoms. Liberals believe that a legitimate government derives its authority from the consent of the governed, expressed through free, fair, and regular elections. They also emphasise the importance of constitutionalism, the rule of law, and the separation of powers to safeguard against tyranny and the abuse of power. For liberals, democracy is valuable not only as a mechanism for decision-making but also as a means of promoting political equality, enabling individuals to participate in shaping the laws and policies that govern them. However, liberal democracy must balance majority rule with the protection of minority rights to ensure that individual liberty is not undermined by the “tyranny of the majority.”
 
