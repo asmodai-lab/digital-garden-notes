@@ -1,7 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/classical-liberalism/","tags":["lessonminor"],"updated":"2025-12-15T13:32:15.166+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/classical-liberalism/","tags":["lessonminor"],"updated":"2025-12-17T12:07:07.053+00:00"}
 ---
 
+**Table of Contents**
+
+- [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism#Origins of classical liberalism\|Origins of classical liberalism]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism#Origins of classical liberalism\|Ideas behind classical liberalism]]
+		- [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism#Ideas behind classical liberalism\|Egoistic Individualism]]
+		- [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism#Ideas behind classical liberalism\|Negative freedom]]
+		- [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism#Ideas behind classical liberalism\|State is a 'necessary evil']]
+		- [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism#Ideas behind classical liberalism\|Civil society]]
+		- [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism#Ideas behind classical liberalism\|Natural rights]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism#Origins of classical liberalism\|Philosophical influences]]
+		- [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism#Philosophical influences\|Utilitarianism]]
+		- [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism#Philosophical influences\|Economic Liberalism]]
+		- [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism#Philosophical influences\|Social Darwinism]]
+- [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism#Terminology\|Terminology]]
 
 
 ## Origins of classical liberalism
@@ -25,9 +39,9 @@
 #### State is a 'necessary evil'
 - without a state, bad things will happen
 	- BUT if a state is too big, bad things will also happen
-- the more you are left alone, the freer you are
+- BUT the more you are left alone, the freer you are
 - therefore, the state should exist but be as small as it can be
-	- this is called a 'nightwatchman state'
+	- this is called a **'nightwatchman state'**
 
 #### Civil society
 - bodies that represent people's interests are good
@@ -56,7 +70,7 @@ I have notes on utilitarianism. Fetch.
 
 Adam Smith thought that the market will do what is best for society because that is the most profitable. This is the 'invisible hand of the market.'
 
-### Social Darwinism
+#### Social Darwinism
 - people are free and rational, so therefore they can make free choices
 - we should be responsible for the choices that we make, since we could have chosen not to make them
 	- therefore, if you work hard and make good choices, it's not your problem if some people are lazy and incompetent
@@ -65,9 +79,7 @@ Adam Smith thought that the market will do what is best for society because that
 >[!TIP] Not my monkeys, not my circus
 
 
-
-State, society, human nature and economy
-## Table
+## Terminology
 
 | Thing                       | Explanation                                                                                                           | Area         |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------ |

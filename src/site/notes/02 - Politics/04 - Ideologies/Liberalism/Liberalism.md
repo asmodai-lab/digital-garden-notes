@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism/","tags":["lessonmajor"],"updated":"2025-12-15T12:57:33.011+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism/","tags":["lessonmajor"],"updated":"2025-12-17T12:06:41.624+00:00"}
 ---
 
 [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism\|Classical Liberalism]]
+
+[[02 - Politics/04 - Ideologies/Liberalism/Modern Liberalism\|Modern Liberalism]]
+
 ## LONG NOTES
 ### Major ideas
 - freedom
