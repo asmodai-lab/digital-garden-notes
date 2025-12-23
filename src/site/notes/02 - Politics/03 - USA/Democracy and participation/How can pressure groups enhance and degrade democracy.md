@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/how-can-pressure-groups-enhance-and-degrade-democracy/","updated":"2025-11-18T10:35:29.575+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/how-can-pressure-groups-enhance-and-degrade-democracy/","updated":"2025-12-18T20:16:09.050+00:00"}
 ---
 
 #table 
@@ -23,4 +23,4 @@
 | Policy        | I assume this is just think tanks?                     | Heritage foundation                                    | Adam smith institute                                   |
 ![PressureGroups.png](/img/user/Images/PressureGroups.png)
 
-![Screenshot-2025-03-27-at-19.24.48-2048x1484.png](/img/user/Images/Screenshot-2025-03-27-at-19.24.48-2048x1484.png)
+![US pressure groups.png](/img/user/Images/US%20pressure%20groups.png)

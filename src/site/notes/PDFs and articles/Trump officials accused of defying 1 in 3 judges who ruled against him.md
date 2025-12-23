@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pd-fs-and-articles/trump-officials-accused-of-defying-1-in-3-judges-who-ruled-against-him/","tags":["articles"],"updated":"2025-12-02T10:35:34.797+00:00"}
+{"dg-publish":true,"permalink":"/pd-fs-and-articles/trump-officials-accused-of-defying-1-in-3-judges-who-ruled-against-him/","tags":["articles"],"updated":"2025-12-18T20:13:09.912+00:00"}
 ---
 
 
@@ -138,7 +138,7 @@ Legal experts said the slow pace of efforts to enforce court orders is not surpr
 
 He was referring to U.S. Marshals, the executive branch law enforcement personnel who carry out court orders related to contempt proceedings, whether that is serving subpoenas or arresting officials whom a judge has ordered jailed for not complying.
 
-![Pasted image 20251202103526.png|800](/img/user/Images/Pasted%20image%2020251202103526.png)
+![Trump noncompliance.png|800](/img/user/Images/Trump%20noncompliance.png)
 
 Former judges and other legal experts said judges might be calculating that a confrontation over contempt proceedings could result in the administration ordering marshals to defy the courts. That type of standoff could significantly undermine the authority of judges.
 

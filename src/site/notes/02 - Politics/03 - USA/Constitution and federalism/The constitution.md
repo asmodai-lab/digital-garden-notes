@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/constitution-and-federalism/the-constitution/","tags":["lessonmajor"],"updated":"2025-12-09T21:13:55.345+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/constitution-and-federalism/the-constitution/","tags":["lessonmajor"],"updated":"2025-12-18T20:12:06.719+00:00"}
 ---
 
 
@@ -166,8 +166,8 @@ First amendment- freedom of speech, action and press and religion
 	- So the phrase ‘checks and balances’ describes how each branch can limit and be limited in their powers
 **This only works when there is a separation of branches**
 
-![Pasted image 20251123155213.png](/img/user/Images/Pasted%20image%2020251123155213.png)
-![Pasted image 20251123161022.png](/img/user/Images/Pasted%20image%2020251123161022.png)
+![Checks and balances.png](/img/user/Images/Checks%20and%20balances.png)
+![Drawn checks and balances.png](/img/user/Images/Drawn%20checks%20and%20balances.png)
 
 ### Examples of checks and balances being used
 

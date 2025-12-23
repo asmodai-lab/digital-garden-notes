@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/arguments-for-the-existence-of-god/","tags":["homepage"],"updated":"2025-12-16T10:24:05.279+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/arguments-for-the-existence-of-god/","tags":["homepage"],"updated":"2025-12-18T20:14:58.675+00:00"}
 ---
 
 ## Specification
 ### a posteriori arguments
-![Pasted image 20251216102212.png|800](/img/user/Images/Pasted%20image%2020251216102212.png)
+![spec arg for existence of god.png|800](/img/user/Images/spec%20arg%20for%20existence%20of%20god.png)
 ### a priori arguments
-![Pasted image 20251216102242.png|800](/img/user/Images/Pasted%20image%2020251216102242.png)
+![spec ontological.png|800](/img/user/Images/spec%20ontological.png)
 
 ### Problem of Evil
-![Pasted image 20251216102327.png|800](/img/user/Images/Pasted%20image%2020251216102327.png)
+![spec problem of evil.png|800](/img/user/Images/spec%20problem%20of%20evil.png)
 ### Definitions
 **Analytical statements** — a statement which is true by definition and needs no outside clarification. (*related to deductive arguments*)
 

@@ -3,7 +3,7 @@
 ---
 
 
-[[UK constitution\|UK constitution]]
+[[02 - Politics/02 - UK government/01 - UK constitution/UK constitution\|UK constitution]]
 
 [[02 - Politics/02 - UK government/02 - UK parliament/UK parliament\|UK parliament]]
 

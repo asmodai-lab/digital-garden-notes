@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/knowledge-of-god/knowledge-of-god/","tags":["homepage"],"updated":"2025-12-12T12:27:52.364+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/knowledge-of-god/knowledge-of-god/","tags":["homepage"],"updated":"2025-12-18T20:13:26.431+00:00"}
 ---
 
 
 [[01 - Philosophy/03 DCT/Knowledge of God/knowledge of God.excalidraw\|knowledge of God.excalidraw]] (or see below)
 ## Specification 
 
-![Pasted image 20251209105736.png|800](/img/user/Images/Pasted%20image%2020251209105736.png)
+![spec knowledge of god.png|800](/img/user/Images/spec%20knowledge%20of%20god.png)
 
 ### Debates
 - whether or not God can be known through reason alone

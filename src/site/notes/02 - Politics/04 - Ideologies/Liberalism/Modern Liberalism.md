@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/modern-liberalism/","tags":["lessonminor"],"updated":"2025-12-17T12:28:17.126+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/modern-liberalism/","tags":["lessonminor"],"updated":"2025-12-18T20:15:25.736+00:00"}
 ---
 
 
@@ -11,7 +11,7 @@ Like classical liberalism, the increased spread of industrialisation was the roo
 	- you see so many people living in shit conditions, no matter what class you are. There is no escape from seeing the shit.
 
 There was a problem that many had with classical liberalism.
-![Pasted image 20251217121125.png|800](/img/user/Images/Pasted%20image%2020251217121125.png)
+![meme classical liberals.png|800](/img/user/Images/meme%20classical%20liberals.png)
 
 ### The problems
 The industrial revolution and unrestrained pursual of self-interest did NOT lead to a more socially just society!
@@ -20,4 +20,4 @@ The industrial revolution and unrestrained pursual of self-interest did NOT lead
 
 #### What do liberals think about this?
 
-![Pasted image 20251217122812.png|800](/img/user/Images/Pasted%20image%2020251217122812.png)
+![meme liberalism.png|800](/img/user/Images/meme%20liberalism.png)

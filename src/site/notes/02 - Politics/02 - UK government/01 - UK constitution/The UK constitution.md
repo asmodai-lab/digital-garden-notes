@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/02-uk-government/01-uk-constitution/the-uk-constitution/","tags":["homepage"],"updated":"2025-12-12T10:38:39.335+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/02-uk-government/01-uk-constitution/the-uk-constitution/","tags":["homepage"],"updated":"2025-12-20T09:33:37.971+00:00"}
 ---
 
 
@@ -8,6 +8,7 @@
 
 ## Devolution matters
 ### Notes
+[[02 - Politics/02 - UK government/01 - UK constitution/UK constitution\|UK constitution]]
 [[02 - Politics/02 - UK government/01 - UK constitution/Devolution\|Devolution]]
 ### Summary info
 ![Devolved powers summary.png](/img/user/Images/Devolved%20powers%20summary.png)

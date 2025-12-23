@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bear-hunt/basic-obsidian-tutorial/","updated":"2025-11-19T15:13:39.240+00:00"}
+{"dg-publish":true,"permalink":"/bear-hunt/basic-obsidian-tutorial/","updated":"2025-12-18T20:11:43.778+00:00"}
 ---
 
 [Obsidian](https://obsidian.md/) is a note-taking app which is somewhat similar to Notion and OneNote, but with many more features. While I never used Notion for a long time, I find Obsidian easier to navigate and with more personalisation.
@@ -59,7 +59,7 @@ That's about it for inbuilt text features. There are a few plugins that I would 
 Graph view is where linking notes comes into play! It's a fun way of looking at the links between your notes and finding notes.
 
 Here's a screenshot of my current graph view:
-![Pasted image 20251119143756.png](/img/user/Images/Pasted%20image%2020251119143756.png)
+![Graph view.png](/img/user/Images/Graph%20view.png)
 Every single dot is a note. Every single line is a link. 
 
 There are a few other things you can do with graph view — messing around with the forces, colouring the dots based on properties that the note has — but the know-how gets explained later, so I'll leave it for now.
@@ -92,7 +92,7 @@ This leads well into-
 This is done using the inbuilt plugin 'Bases' — which you can find and activate in the same way as you found Properties View. It should already be enabled, but who knows. 
 
 This is one of my bases:
-![Pasted image 20251119145447.png](/img/user/Images/Pasted%20image%2020251119145447.png)
+![Bases img.png](/img/user/Images/Bases%20img.png)
 
 As you can see, bases contain all of your notes and are very searchable and customisable. Everything except the 'file name' property is something I put in through the 'properties' menu which you can see on the top right of the image.
 
@@ -112,7 +112,7 @@ Finally,
 Canvas is the final core plugin which needs an explanation. It's essentially just a mindmap.
 
 Here's one I made earlier-
-![Pasted image 20251119150832.png](/img/user/Images/Pasted%20image%2020251119150832.png)
+![Canvas powerful.png](/img/user/Images/Canvas%20powerful.png)
 It's zoomed out, so you can't see the text, but you see what it is, right? It's quite useful — especially in understanding lines of argument and forcing you to make links between ideas. It's good for redo-ing messy notes from a lesson — it helps in understanding and remembering the content by making you interact with your notes properly.
 
 You won't see it in this website though, because it's an incompatible format, and these were made before I started working on this website. Nowadays, I use (and you will see) the [Excalidraw plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) which is similar in it's features, but looks quite different — and it's in a compatible format for posting. 

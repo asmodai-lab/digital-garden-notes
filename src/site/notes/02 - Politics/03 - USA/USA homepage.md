@@ -9,6 +9,6 @@
 
 [[02 - Politics/03 - USA/The presidency/The presidency\|The presidency]] 
 
-[[02 - Politics/03 - USA/Democracy and participation/Presidential process/Democracy and participation\|Democracy and participation]] 
+[[02 - Politics/03 - USA/Democracy and participation/Democracy and participation\|Democracy and participation]] 
 
 [[02 - Politics/03 - USA/Comparative notes/Comparative USA and UK\|Comparative USA and UK]]
