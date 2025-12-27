@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-12-03T11:50:32.720+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-12-27T13:10:24.305+00:00"}
 ---
 
 # Resources
@@ -38,6 +38,27 @@
 
 [[03 - Essay plans/Essay plans home\|Essay plans home]]
 
+# Recent files
+
+| File                                                                                                                                         | file.mday         | file.tags                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------------------------------- |
+| [[01 - Philosophy/01 Philosophy/List of useful fallacies\|List of useful fallacies]]                                                      | December 27, 2025 | <ul><li>#resources</li></ul>                  |
+| [[01 - Philosophy/01 Philosophy/Arguments for the existence of God\|Arguments for the existence of God]]                                  | December 24, 2025 | <ul><li>#homepage</li></ul>                   |
+| [[01 - Philosophy/01 Philosophy/Paper 1\|Paper 1]]                                                                                        | December 16, 2025 | <ul><li>#homepage</li></ul>                   |
+| [[01 - Philosophy/01 Philosophy/Religious Language/Language Home\|Language Home]]                                                         | December 08, 2025 | <ul><li>#homepage</li></ul>                   |
+| [[01 - Philosophy/01 Philosophy/Religious Language/Tillich's view on symbolism\|Tillich's view on symbolism]]                             | December 08, 2025 | <ul><li>#lessonminor</li></ul>                |
+| [[01 - Philosophy/01 Philosophy/Religious Language/Aquinas' analogies\|Aquinas' analogies]]                                               | December 04, 2025 | <ul><li>#lessonmajor</li></ul>                |
+| [[01 - Philosophy/01 Philosophy/Religious Language/The apophatic way\|The apophatic way]]                                                 | December 03, 2025 | <ul><li>#lessonmajor</li></ul>                |
+| [[01 - Philosophy/01 Philosophy/Religious Language/Via Negativa\|Via Negativa]]                                                           | December 03, 2025 | <ul><li>#intro</li><li>#messy</li></ul>       |
+| [[01 - Philosophy/01 Philosophy/Religious Language/What is the problem of religious language\|What is the problem of religious language]] | December 03, 2025 | <ul><li>#lessonminor</li><li>#intro</li></ul> |
+| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Nature and attributes of God\|Nature and attributes of God]]                 | November 18, 2025 | <ul><li>#homepage</li></ul>                   |
+| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Introduction\|Introduction]]                                                 | November 18, 2025 | <ul><li>#intro</li></ul>                      |
+| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Omnipotence\|Omnipotence]]                                                   | November 18, 2025 | <ul><li>#lessonmajor</li></ul>                |
+| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Anselm's theories\|Anselm's theories]]                                       | November 18, 2025 | <ul><li>#lessonminor</li></ul>                |
+| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Omniscience\|Omniscience]]                                                   | November 18, 2025 | <ul><li>#lessonmajor</li></ul>                |
+| [[01 - Philosophy/01 Philosophy/Religious Language/Analogy\|Analogy]]                                                                     | November 18, 2025 | <ul></ul>                                     |
+
+{ .block-language-dataview}
 
 # FAQ
 
