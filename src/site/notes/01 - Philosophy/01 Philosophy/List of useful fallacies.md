@@ -1,11 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/terms-dictionary/","updated":"2025-12-17T11:39:19.917+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/list-of-useful-fallacies/","tags":["resources"],"updated":"2025-12-27T13:09:29.172+00:00"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-philosophy/01-philosophy/list-of-useful-fallacies/#useful-terminology" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
 
 ## Useful terminology
 
@@ -34,49 +29,31 @@
 | ↑                                                  | A ↑ B is true if and only if its **not the case** that both A and B are true                                                                             |
 Or, if you want another explanation for all the symbols I am using:[ here](https://en.wikipedia.org/wiki/Propositional_logic)! or [here](https://en.wikipedia.org/wiki/Propositional_logic)
 ![wiki logic symbols.png|800](/img/user/Images/wiki%20logic%20symbols.png)
+## Formal Fallacies
+(A formal fallacy is an error in the argument's form — i.e. from A -> B, and the '->' contains the fallacy)
 
-</div></div>
+### Assumptions made
+#### Existential Fallacy
+In [the existential fallacy](https://en.wikipedia.org/wiki/Existential_fallacy), one presupposes that a class (of thing) has members when one is not supposed to do so. This fallacy is a categorical syllogism, because it has two universal premises and a particular conclusion with no assumption that at least one member of the class exists, an assumption which is not established by the premises.
+
+This fallacy does not occur with enthymemes (arguments reliant on a hidden premise, often one that is taken from the audience's worldview), where hidden premises required to make the syllogism valid assume the existence of at least one member of the class.
+- don't confuse this with affirming the consequent (If A, then B. B, therefore A.)
+
+> [!EXAMPLE] Example 1
+> P₁ : all trespassers will be prosecuted
+> C₁ : ∴ some of those prosecuted will have trespassed. 
+> > This is a fallacy because P₁ does not require the existence of real trespassers, and so does not prove the existence of any. **Note that this is a fallacy regardless of whether anyone trespassed.**
+
+> [!EXAMPLE] Example 2
+> P₁ : every unicorn has a horn on its forehead
+> If P₁ is true, somewhere there is a unicorn in the world (with a horn on it's forehead.)
 
 
-**Ontology-** 
-A theory about reality
 
-**Epistemology**-
-A theory of knowledge
-> Episteme: how people prove their theory of knowledge
 
-**Epiphenomenalism**-
-Epiphenomenalism is a philosophical theory on the mind–body problem in the philosophy of mind. It holds that subjective mental events are completely dependent for their existence on corresponding physical and biochemical events within the human body, but do not themselves influence physical events.
 
-Eternal is **existing outside of time**
+## Informal Fallacies
+(an informal fallacy is one which is based on faulty premises.)
 
-Everlasting is **existing as long as time exists** 
-
-**Theism**
-refers to the view that there is a God that is omniscient, omnipotent and omnibenevolent, who created the world and who is still actively involved in the world. 
-
-**Apaphatic-** (A.K.A. *via negativa*)
-saying what something is by describing what it is
-
-**Cataphatic-** (A.K.A. *via positiva*)
-saying what something is by describing what it is not
-
-atemporal- eternal
-
-sempiternal- everlasting
-
-**Meaningful**
-- makes philosophical sense
-
-**Meaningless**
-- does not make philosophical sense
-
-**Providence**
-God's goodness and continuing activity on behalf of his creation
-
-**Causal determinism**
-Every event can be explained by reference to the causes that brought it about
-
-**Middle knowledge**
-Idea that God knows all the possibilities of what would happen in different scenarios, but not which one will happen
-
+## Non-logic based fallacies
+(most of these are technically informal fallacies, but they are quite different, in that they are most commonly heard whilst actually debating a topic with real people — usually stupid people.)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/the-ontological-argument/","tags":["lessonmajor"],"updated":"2025-12-17T11:37:48.120+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/the-ontological-argument/","tags":["lessonmajor"],"updated":"2025-12-24T13:23:55.367+00:00"}
 ---
 
 **Table of Contents**
@@ -81,6 +81,51 @@ OR
 > C₁ : this being would be greater than God, and so God would not be TWNGCBC
 > > C₂ : God is therefore a necessary being
 
+### A few more proponents
+#### Descartes
+1. I have the idea of God
+2. The idea of God is the idea of a supremely perfect being
+3. A supremely perfect being does not lack any perfection
+4. Existence is a perfection
+5. Therefore, **God exists**
+
+This argument is very similar to Anselm’s, except it uses the concept of a _perfect being_ rather than _a being greater than which cannot be conceived_.
+
+Descartes argues this shows that ‘God does not exist’ is a _self-contradiction_. Hume uses this claim as the basis for his objection to the ontological argument.
+
+#### Norman Malcolm
+Malcolm's version is a direct response to [[01 - Philosophy/01 Philosophy/The ontological argument#Kant's criticisms (the existential fallacy)\|Kant's criticism of the ontological argument]].
+	- a version of this section is included below after Kant's section, because I'm including it twice. It's a free country, I can do what I want. Also this is copy pasted from the brill notes that I included in the [[01 - Philosophy/01 Philosophy/Arguments for the existence of God#Resources\|resources section]] of the home note for this topic.
+- he accepts that Descartes and Anselm are wrong. 
+- instead, he argued that it's not *existence* that is a perfection, but the *logical impossibility of non-existence* (i.e. necessary existence)
+
+This (necessary existence) _is_ a predicate, so avoids Kant’s argument below. Malcolm’s ontological argument is as follows:
+
+1. Either God exists or does not exist
+2. God cannot come into existence or go out of existence
+3. If God exists, God cannot cease to exist
+4. Therefore, if God exists, God’s existence is necessary
+5. Therefore, if God does not exist, God’s existence is impossible
+6. Therefore, God’s existence is either necessary or impossible
+7. God’s existence is impossible only if the concept of God is self-contradictory
+8. The concept of God is not self-contradictory
+9. Therefore, God’s existence is not impossible
+10. Therefore, God exists necessarily
+
+![malcolm's ontological argument](https://philosophyalevel.com/wp-content/uploads/2023/10/malcom-ontological-argument.png)
+
+Malcolm’s argument essentially boils down to:
+
+- God’s existence is either necessary or impossible (see above)
+- God’s existence is not impossible
+- Therefore God’s existence is necessary
+
+_Possible response:_
+
+We may respond to point 8, as discussed in the [concept of God section](https://philosophyalevel.com/aqa-philosophy-revision-notes/concept-of-god/), that [the concept of God _is_ self-contradictory.](https://philosophyalevel.com/aqa-philosophy-revision-notes/concept-of-god/#Problems)
+
+Alternatively, we may argue that the meaning of “necessary” changes between premise 4 and the conclusion (10) and thus Malcolm’s argument is invalid. In premise 4, Malcolm is talking about necessary existence in the sense of a property that something does or does not have. By the conclusion, Malcolm is talking about necessary existence in the sense that it is a [necessary truth](https://philosophyalevel.com/glossary/#NecessaryContingent) that God exists. But this is not the same thing. We can accept that _if God exists_, then God has the property of necessary existence, but deny the conclusion that God exists necessarily.
+
 #### Criticisms
 ##### Gaunilo's imaginary island
 Gaunilo argued that is someone were to describe to you a 'most perfect island' and then state that it must exist because it is perfect, then you would be a fool to believe him. You cannot move from thought to reality.
@@ -119,7 +164,7 @@ _‘that which nothing greater can be conceived’-_ Aquinas questions this beca
 
 ##### Kant's criticisms (the existential fallacy)
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-philosophy/01-philosophy/list-of-useful-fallacies/#existential-fallacy" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -146,7 +191,11 @@ This fallacy does not occur with enthymemes (arguments reliant on a hidden premi
 </div></div>
 
 
-
+OR: 
+> Imagine a unicorn. Then imagine a unicorn _that exists_. What’s the difference between the two ideas? **Nothing!** Adding existence to the idea of a unicorn doesn’t make unicorns suddenly exist.
+> >When someone says “God exists”, they don’t mean “there is a God and he has the _property_ of existence”. If they did, then when someone says “God does not exist”, they’d mean, “there is a God and he has the _property_ of non existence” – which doesn’t make sense!
+> >
+> >Instead, what people mean when they say “God exists” is that “God exists _in the world”_. This cannot be argued from the definition of God and could only be proved via (a posteriori) experience. Thus the ontological argument fails to prove God’s (actual) existence.
 
 > [!NOTE] Note
 > Kant coined the term 'ontological argument'

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/comparative-notes/uk-and-us-legislatures/","updated":"2025-11-18T10:35:22.202+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/comparative-notes/uk-and-us-legislatures/","tags":["comparative"],"updated":"2025-12-27T12:21:28.861+00:00"}
 ---
 
 
