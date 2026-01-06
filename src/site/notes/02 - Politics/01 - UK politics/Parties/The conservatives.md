@@ -106,4 +106,4 @@ Afterwards:
 - <span style="color:rgb(181, 97, 245)">withdrawing from the ECHR</span>
 - <span style="color:rgb(181, 97, 245)">repealing the climate change act</span>
 - <span style="color:rgb(181, 97, 245)">reversing tax changes introduced by Starmer</span><span style="color:rgb(0, 176, 240)"><span style="color:rgb(0, 176, 240)"><br></span></span>
-<iframe src="/img/user/Images/UK-Political-Parties-Conservative-Leaders-2.pdf" width="100%" height="900px" title="UK-Political-Parties-Conservative-Leaders-2.pdf" style="border:1px solid #ccc;"></iframe>
+<iframe src="/img/user/05%20-%20Images/UK-Political-Parties-Conservative-Leaders-2.pdf" width="100%" height="900px" title="UK-Political-Parties-Conservative-Leaders-2.pdf" style="border:1px solid #ccc;"></iframe>

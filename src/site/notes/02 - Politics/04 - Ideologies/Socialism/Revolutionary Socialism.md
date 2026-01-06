@@ -56,7 +56,7 @@ He uses an idea of Hegel- *dialectical change*- he says that the way that ideas 
 	Marx got taught by<span style="color:rgb(255, 192, 0)"> Hegel</span>. He steals the idea and calls it *dialectical/historical materialism*- the same idea but the <span style="color:rgb(255, 192, 0)">theses and antitheses are economic systems. </span>
 		this is why<span style="color:rgb(255, 192, 0)"> Marxists are</span> atheists- because they are<span style="color:rgb(255, 192, 0)"> materialists. </span>
 	It's <span style="color:rgb(255, 192, 0)">materialism (empiricism) and rationalism</span> (idealism- like belief in God or the soul)
-![synthesis.png|800](/img/user/Images/synthesis.png)
+![synthesis.png|800](/img/user/05%20-%20Images/synthesis.png)
 
 Marx says that every society is<span style="color:rgb(255, 192, 0)"> underpinned by oppression. </span>
 	*"The history of all hitherto existing society is the history of class struggles."*
@@ -71,7 +71,7 @@ Marx talks about the nature of society- that being the substructure (the economi
 		 the police enforce the legal system
 		 nationalism means that people don't think that their problems are caused by the upper class, but by people of other countries
 			 He calls this false consciousness
-![Substructure.png](/img/user/Images/Substructure.png)
+![Substructure.png](/img/user/05%20-%20Images/Substructure.png)
 
 #### Nature of capitalism
 Marx believes that capitalism will inevitably collapse.

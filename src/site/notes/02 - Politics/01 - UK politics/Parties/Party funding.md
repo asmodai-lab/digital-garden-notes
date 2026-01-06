@@ -31,12 +31,12 @@ These<span style="color:rgb(255, 0, 0)"> don’t</span> cover campaign and elect
 | DUP    | £195,870    |
 #### Short money 2025/26
 
-![Short money 2024.png](/img/user/Images/Short%20money%202024.png)
+![Short money 2024.png](/img/user/05%20-%20Images/Short%20money%202024.png)
 
 
 ### Donations to political parties during the 6 weeks of the 2019 general election
 
-![Donations in 2019.png](/img/user/Images/Donations%20in%202019.png)
+![Donations in 2019.png](/img/user/05%20-%20Images/Donations%20in%202019.png)
 
 
 
@@ -48,4 +48,4 @@ These<span style="color:rgb(255, 0, 0)"> don’t</span> cover campaign and elect
 
 ![Should the state fund political parties.png](/img/user/03%20-%20Essay%20plans/Politics%20Essay%20Plans/Should%20the%20state%20fund%20political%20parties.png)
 
-[[Excalidraw/Politics/Should the state fund political parties\|Should the state fund political parties]]
+[[07 - Excalidraw/Politics/Should the state fund political parties\|Should the state fund political parties]]

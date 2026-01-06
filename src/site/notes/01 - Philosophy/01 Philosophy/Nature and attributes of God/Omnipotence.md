@@ -52,4 +52,4 @@ God is not a think like a human being but God is a thing in the same sense that 
 
 
 
-![Omnipotence summary.png](/img/user/Images/Omnipotence%20summary.png)
+![Omnipotence summary.png](/img/user/05%20-%20Images/Omnipotence%20summary.png)

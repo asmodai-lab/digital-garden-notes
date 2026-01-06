@@ -5,7 +5,7 @@
 #debates 
 
 ---
-![US Constitution perspectives.png](/img/user/Images/US%20Constitution%20perspectives.png)
+![US Constitution perspectives.png](/img/user/05%20-%20Images/US%20Constitution%20perspectives.png)
 
 | living                                                                                                                            | originalism                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |

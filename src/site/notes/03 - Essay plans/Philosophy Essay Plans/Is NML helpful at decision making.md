@@ -5,4 +5,4 @@
 #debates 
 
 
-![Natural law essays.png](/img/user/Images/Natural%20law%20essays.png)
+![Natural law essays.png](/img/user/05%20-%20Images/Natural%20law%20essays.png)

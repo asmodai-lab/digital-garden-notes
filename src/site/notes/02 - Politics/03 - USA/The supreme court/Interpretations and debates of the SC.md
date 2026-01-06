@@ -23,7 +23,7 @@ There are some more. Check them out in the [[02 - Politics/Politics essay questi
 ### Resources
 [Video that talks about the impact of Rucho v Common Cause](https://www.youtube.com/watch?v=Cv_OsWd7cLo)
 
-[[Images/media-lib/Trump - powers\|Trump - powers]]
+[[05 - Images/media-lib/Trump - powers\|Trump - powers]]
 
 ---------
 ## Evidence that is useful 

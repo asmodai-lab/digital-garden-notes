@@ -3,13 +3,13 @@
 ---
 
 # Resources
-[[Organisation/Resources\|Resources]]
+[[08 - Organisation/Resources\|Resources]]
 
 [[Reviews\|Reviews]]
 
-[[Organisation/Brain joggers\|I have an exam in 10 minutes and I need a QUICK summary — aka Brain Joggers]]
+[[08 - Organisation/Brain joggers\|I have an exam in 10 minutes and I need a QUICK summary — aka Brain Joggers]]
 
-[[Organisation/Topic tracker\|Topic tracker]] — has this topic got notes/essay plans on it yet?
+[[08 - Organisation/Topic tracker\|Topic tracker]] — has this topic got notes/essay plans on it yet?
 
 
 # Politics
@@ -40,23 +40,23 @@
 
 # Recent files
 
-| File                                                                                                                                         | file.mday         | file.tags                                     |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------------------------------- |
-| [[01 - Philosophy/01 Philosophy/List of useful fallacies\|List of useful fallacies]]                                                      | December 27, 2025 | <ul><li>#resources</li></ul>                  |
-| [[01 - Philosophy/01 Philosophy/Arguments for the existence of God\|Arguments for the existence of God]]                                  | December 24, 2025 | <ul><li>#homepage</li></ul>                   |
-| [[01 - Philosophy/01 Philosophy/Paper 1\|Paper 1]]                                                                                        | December 16, 2025 | <ul><li>#homepage</li></ul>                   |
-| [[01 - Philosophy/01 Philosophy/Religious Language/Language Home\|Language Home]]                                                         | December 08, 2025 | <ul><li>#homepage</li></ul>                   |
-| [[01 - Philosophy/01 Philosophy/Religious Language/Tillich's view on symbolism\|Tillich's view on symbolism]]                             | December 08, 2025 | <ul><li>#lessonminor</li></ul>                |
-| [[01 - Philosophy/01 Philosophy/Religious Language/Aquinas' analogies\|Aquinas' analogies]]                                               | December 04, 2025 | <ul><li>#lessonmajor</li></ul>                |
-| [[01 - Philosophy/01 Philosophy/Religious Language/The apophatic way\|The apophatic way]]                                                 | December 03, 2025 | <ul><li>#lessonmajor</li></ul>                |
-| [[01 - Philosophy/01 Philosophy/Religious Language/Via Negativa\|Via Negativa]]                                                           | December 03, 2025 | <ul><li>#intro</li><li>#messy</li></ul>       |
-| [[01 - Philosophy/01 Philosophy/Religious Language/What is the problem of religious language\|What is the problem of religious language]] | December 03, 2025 | <ul><li>#lessonminor</li><li>#intro</li></ul> |
-| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Nature and attributes of God\|Nature and attributes of God]]                 | November 18, 2025 | <ul><li>#homepage</li></ul>                   |
-| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Introduction\|Introduction]]                                                 | November 18, 2025 | <ul><li>#intro</li></ul>                      |
-| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Omnipotence\|Omnipotence]]                                                   | November 18, 2025 | <ul><li>#lessonmajor</li></ul>                |
-| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Anselm's theories\|Anselm's theories]]                                       | November 18, 2025 | <ul><li>#lessonminor</li></ul>                |
-| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Omniscience\|Omniscience]]                                                   | November 18, 2025 | <ul><li>#lessonmajor</li></ul>                |
-| [[01 - Philosophy/01 Philosophy/Religious Language/Analogy\|Analogy]]                                                                     | November 18, 2025 | <ul></ul>                                     |
+| File                                                                                                                                   | file.mday         | file.tags                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------------- |
+| [[02 - Politics/01 - UK politics/Parties/Labour\|Labour]]                                                                           | December 11, 2025 | <ul><li>#lessonmajor</li></ul>                     |
+| [[02 - Politics/01 - UK politics/Voting Behaviour/Social factors\|Social factors]]                                                  | December 11, 2025 | <ul><li>#lessonmajor</li><li>#unfinished</li></ul> |
+| [[02 - Politics/01 - UK politics/Democracy/Pressure groups, Lobbyists and think tanks\|Pressure groups, Lobbyists and think tanks]] | December 05, 2025 | <ul><li>#lessonmajor</li><li>#unfinished</li></ul> |
+| [[02 - Politics/01 - UK politics/Democracy/Rights in context\|Rights in context]]                                                   | December 05, 2025 | <ul><li>#lessonmajor</li></ul>                     |
+| [[02 - Politics/01 - UK politics/Democracy/Democracy\|Democracy]]                                                                   | December 05, 2025 | <ul><li>#homepage</li></ul>                        |
+| [[02 - Politics/01 - UK politics/Parties/The conservatives\|The conservatives]]                                                     | November 26, 2025 | <ul><li>#lessonmajor</li></ul>                     |
+| [[02 - Politics/01 - UK politics/Parties/Minor parties\|Minor parties]]                                                             | November 25, 2025 | <ul><li>#lessonminor</li></ul>                     |
+| [[02 - Politics/01 - UK politics/Parties/The lib-dems\|The lib-dems]]                                                               | November 25, 2025 | <ul></ul>                                          |
+| [[02 - Politics/01 - UK politics/Parties/Political parties home\|Political parties home]]                                           | November 25, 2025 | <ul><li>#homepage</li></ul>                        |
+| [[02 - Politics/01 - UK politics/Voting Behaviour/Non-social factors\|Non-social factors]]                                          | November 24, 2025 | <ul><li>#lessonmajor</li></ul>                     |
+| [[02 - Politics/01 - UK politics/Parties/Party funding\|Party funding]]                                                             | November 19, 2025 | <ul><li>#lessonminor</li></ul>                     |
+| [[02 - Politics/01 - UK politics/Democracy/Turnout Stats sheet\|Turnout Stats sheet]]                                               | November 18, 2025 | <ul><li>#table</li></ul>                           |
+| [[02 - Politics/01 - UK politics/Democracy/The Franchise\|The Franchise]]                                                           | November 18, 2025 | <ul><li>#homepage</li></ul>                        |
+| [[02 - Politics/01 - UK politics/Parties/General Info\|General Info]]                                                               | November 18, 2025 | <ul><li>#lessonmajor</li></ul>                     |
+| [[02 - Politics/01 - UK politics/Voting Behaviour/Voting Behaviour\|Voting Behaviour]]                                              | November 18, 2025 | <ul><li>#homepage</li></ul>                        |
 
 { .block-language-dataview}
 
@@ -74,13 +74,13 @@ How do I navigate excalidrawings?
 > Use the middle mouse button to move around, and Ctrl + Shift to zoom — or use finger gestures on the mousepad.
 
 What do the colours in excalidrawings mean?
-![Screenshot 2025-11-26 132348.png](/img/user/Images/Screenshot%202025-11-26%20132348.png)
+![Screenshot 2025-11-26 132348.png](/img/user/05%20-%20Images/Screenshot%202025-11-26%20132348.png)
 
 What are you using to do this?
 > I use Obsidian to make notes — it's a free note-taking app. To make the website, I used the Digital Garden plugin. All of this was entirely free and relatively easy.
 
 How do I do this?
-> Here is my [[Bear hunt/Basic obsidian tutorial\|Basic obsidian tutorial]]. Enjoy.
+> Here is my [[09 - Bear hunt/Basic obsidian tutorial\|Basic obsidian tutorial]]. Enjoy.
 
 Why is {insert topic} not here?
 > Because I haven't made the notes for it yet. This was started halfway through my A-Levels, I still haven't finished transferring my notes yet. 

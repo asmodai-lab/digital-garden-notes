@@ -53,7 +53,7 @@ Most papers now have websites where they publish most of their stuff. Many focus
 - 2019 election — despite the decline, print media reinforced political divisions. The Sun's anti-Corbyn campaign solidified tory support.
 - 2024: not much impact on younger voters. However, the Daily Mail's endorsement of Tories may have swayed older voters. 
 
-![Newspaper circulation.png](/img/user/Images/Newspaper%20circulation.png)
+![Newspaper circulation.png](/img/user/05%20-%20Images/Newspaper%20circulation.png)
 
 # Television
 
@@ -129,7 +129,7 @@ Additionally analysis revealed that 88% of the Conservative Party's Facebook adv
 
 Also, deepfakes. 
 
-![Social media usage numbers.png](/img/user/Images/Social%20media%20usage%20numbers.png)
+![Social media usage numbers.png](/img/user/05%20-%20Images/Social%20media%20usage%20numbers.png)
 
 ## Statistics
 

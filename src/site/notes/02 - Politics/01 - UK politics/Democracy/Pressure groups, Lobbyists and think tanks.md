@@ -13,7 +13,7 @@
 A key part of UK democracy is pressure groups. The definition of pressure groups is quite wide- basically any organized group which is **not** the government working to influence government policy counts- which does lowkey make the opposition political parties count. But don't include that in an essay, it's a bit cheeky. 
 
 ## Types of pressure groups
-[[Excalidraw/Pressure group methods UK\|Pressure group methods UK]]
+[[07 - Excalidraw/Pressure group methods UK\|Pressure group methods UK]]
 
 |          | Promotional                         | Sectional                  |
 | -------- | ----------------------------------- | -------------------------- |

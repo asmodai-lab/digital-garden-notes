@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/arguments-for-the-existence-of-god/","tags":["homepage"],"updated":"2025-12-24T14:06:58.988+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/arguments-for-the-existence-of-god/","tags":["homepage"],"updated":"2026-01-05T15:19:56.277+00:00"}
 ---
 
 ## Specification
 ### a posteriori arguments
-![spec arg for existence of god.png|800](/img/user/Images/spec%20arg%20for%20existence%20of%20god.png)
+![spec arg for existence of god.png|800](/img/user/05%20-%20Images/spec%20arg%20for%20existence%20of%20god.png)
 ### a priori arguments
-![spec ontological.png|800](/img/user/Images/spec%20ontological.png)
+![spec ontological.png|800](/img/user/05%20-%20Images/spec%20ontological.png)
 
 ### Problem of Evil
-![spec problem of evil.png|800](/img/user/Images/spec%20problem%20of%20evil.png)
+![spec problem of evil.png|800](/img/user/05%20-%20Images/spec%20problem%20of%20evil.png)
 ### Definitions
 **Analytical statements** — a statement which is true by definition and needs no outside clarification. (*related to deductive arguments*)
 
@@ -34,6 +34,7 @@ This argument is only probably true, not true beyond all doubt, so it is therefo
 
 [[01 - Philosophy/01 Philosophy/The ontological argument\|The ontological argument]]
 [[01 - Philosophy/01 Philosophy/Teleological\|Teleological]]
+[[01 - Philosophy/01 Philosophy/Cosmological\|Cosmological]]
 
 Summary table:
 
@@ -53,3 +54,14 @@ Summary table:
 - [iep article on the teleological argument](https://iep.utm.edu/design-arguments-for-existence-of-god/)
 
 - [iep article on Hume specifically and all his opinions on the different arguments for the existence of God](https://iep.utm.edu/hume-rel/#H5) (it's generally a good idea to know one philosopher quite well for each topic, and Hume is a good one to pick for this one)
+
+- [_Incoherence of the Philosophers_ by Abu Hamid al-Ghazali](https://www.ghazali.org/books/tf/)
+- [_Summa Theologica_ by Thomas Aquinas](https://sacred-texts.com/chr/aquinas/summa/index.htm)
+- [_Meditations on First Philosophy_ by Rene Descartes](https://philosophyalevel.com/rene-descartes-meditations-on-first-philosophy/)
+- [_Monadology_ by Gottfried Wilhelm Leibniz](http://home.datacomm.ch/kerguelen/monadology/printable.html)
+- [_Dialogues Concerning Natural Religion_ by David Hume](https://www.gutenberg.org/files/4583/4583-h/4583-h.htm)
+- [_Enquiry Concerning Human Understanding_ by David Hume](https://www.gutenberg.org/files/9662/9662-h/9662-h.htm)
+- [1948 Russell-Copleston radio debate](https://www.youtube.com/watch?v=wMsbD1L5IlQ)
+- [Stanford page on cosmological arguments](https://plato.stanford.edu/entries/cosmological-argument/) 
+
+---

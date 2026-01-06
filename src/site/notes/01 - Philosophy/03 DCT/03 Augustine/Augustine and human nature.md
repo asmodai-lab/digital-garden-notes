@@ -6,4 +6,4 @@
 
 [[Divine Election.canvas|Divine Election]]
 
-[[Excalidraw/Augustine and human nature -- summary.excalidraw\|Notes mind map]]
+[[07 - Excalidraw/Augustine and human nature -- summary.excalidraw\|Notes mind map]]

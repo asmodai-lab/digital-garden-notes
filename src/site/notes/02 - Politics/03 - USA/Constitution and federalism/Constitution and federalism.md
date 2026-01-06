@@ -14,7 +14,7 @@
 ## Major questions
 
 1. How democratic is the Constitution today?
-2. [[Excalidraw/Politics/is the USA still federal today.excalidraw\|Is the USA still federal today?]]
+2. [[07 - Excalidraw/Politics/is the USA still federal today.excalidraw\|Is the USA still federal today?]]
 3. how effective is the constitution today?
 4. how similar is it to the founding father's intentions?
 5. how robust is it against challenges?

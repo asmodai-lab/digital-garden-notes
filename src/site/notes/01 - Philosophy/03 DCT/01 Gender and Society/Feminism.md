@@ -21,6 +21,6 @@ The self
 *
 ### Articles on hermeneutics
 
-[[PDFs and articles/She’s Not a Whore - Translation Bias in Ezekiel 16\|She’s Not a Whore - Translation Bias in Ezekiel 16]]
+[[06 - PDFs and articles/She’s Not a Whore - Translation Bias in Ezekiel 16\|She’s Not a Whore - Translation Bias in Ezekiel 16]]
 
-[[PDFs and articles/Correcting Caricatures - Women in the Bible\|Correcting Caricatures - Women in the Bible]]
+[[06 - PDFs and articles/Correcting Caricatures - Women in the Bible\|Correcting Caricatures - Women in the Bible]]

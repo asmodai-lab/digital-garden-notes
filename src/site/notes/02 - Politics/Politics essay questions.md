@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-politics/politics-essay-questions/","tags":["questions"],"updated":"2025-12-23T13:00:36.167+00:00"}
 ---
 
-[[PDFs and articles/Politics Essay Questions Bank -  UK & USA Perspectives (PAPER 1-3)\|Question bank copied over from the internet]]
+[[06 - PDFs and articles/Politics Essay Questions Bank -  UK & USA Perspectives (PAPER 1-3)\|Question bank copied over from the internet]]
 
 # UK politics
 
@@ -15,7 +15,7 @@
 5. [[03 - Essay plans/Politics Essay Plans/Older essay plans/Should 16 year-olds have voting rights- debate\|Should the voting age be lowered to 16?]]
 6. Do pressure groups promote democracy and participation?
 	1. How effective are insider/outsider methods of lobbying?
-	2. [[Excalidraw/Pressure group methods UK\|Are some groups more successful than others?]]
+	2. [[07 - Excalidraw/Pressure group methods UK\|Are some groups more successful than others?]]
 7. To what extent is pressure group success down to large membership?
 8. Does the UK now have a ‘rights-based’ culture?
 9. Rights are not sufficiently protected in the UK. Discuss
@@ -100,7 +100,7 @@ The success or failure of political party?
 1. Is the amendment process to the constitution successful?
 2. Is the constitution democratic?
 3. is the constitution strong?
-4. [[Excalidraw/Politics/is the USA still federal today.excalidraw\|Is the USA still federal today?]]
+4. [[07 - Excalidraw/Politics/is the USA still federal today.excalidraw\|Is the USA still federal today?]]
 
 ## Congress
 

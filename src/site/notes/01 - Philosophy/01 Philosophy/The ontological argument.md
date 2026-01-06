@@ -185,9 +185,6 @@ This fallacy does not occur with enthymemes (arguments reliant on a hidden premi
 
 
 
-
-
-
 </div></div>
 
 

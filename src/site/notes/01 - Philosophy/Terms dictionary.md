@@ -33,7 +33,7 @@
 | ⇒                                                  | A ⇒ B is false when A is true and B is false, but true otherwise.                                                                                        |
 | ↑                                                  | A ↑ B is true if and only if its **not the case** that both A and B are true                                                                             |
 Or, if you want another explanation for all the symbols I am using:[ here](https://en.wikipedia.org/wiki/Propositional_logic)! or [here](https://en.wikipedia.org/wiki/Propositional_logic)
-![wiki logic symbols.png|800](/img/user/Images/wiki%20logic%20symbols.png)
+![wiki logic symbols.png|800](/img/user/05%20-%20Images/wiki%20logic%20symbols.png)
 
 </div></div>
 

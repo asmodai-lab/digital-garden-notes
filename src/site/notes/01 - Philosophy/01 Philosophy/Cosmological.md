@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/cosmological/","tags":["lessonmajor","notes"],"updated":"2026-01-05T15:19:32.426+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/cosmological/","tags":["lessonmajor","notes"],"updated":"2026-01-05T15:22:25.560+00:00"}
 ---
 
 The cosmological argument is very similar to the teleological argument, but — again — you do need to remember the differences. 
@@ -48,7 +48,7 @@ The prime mover is pure actuality, incapable of change, and acts as a final caus
 Furthermore, Aristotle argues that since matter is changeable, the prime mover cannot be material, and must be an immaterial mind. And — since it is unchanging — the mind can only contemplate itself: i.e. 'thought thinking itself'. 
 > This is the major difference of prime mover -> cosmological arguments; because it is entirely inert and non-interactive. 
 
-#### The Kalam Argument
+#### The Kalam Argument (non-Christian ver)
 Arguably the first 'modern' cosmological argument. It was initially created by Christian Philosopher John Philoponus in the 6th century and later revived by Islamic thinker al-Ghazali in the 11th century.
 > Obviously, we are doing the Christian side of the course: but this is the first paper, so referencing an Islamic thinker should be fine: especially as Christian and Islamic ideas of God are both Abrahamic.
 
@@ -89,7 +89,7 @@ There are other theories for the beginning of the universe: like the oscillating
 
 ----
 #### Aquinas
-##### First way and second way
+##### First way and second way (I like to move it move it)
 Aka his 'argument from motion' — outlined in the *Summa Theologica*.
 
 For Aquinas, motion doesn't just mean physical location change, but any kind of change - like wood becoming hot when set on fire. Before the fire, the wood is potentially hot, and after the fire it is actually hot. Motion is the transition from potential to actual.
@@ -204,7 +204,7 @@ So, even if everything that we have observed within the universe has a cause, th
 
 
 ---
-#### Descartes' argument
+#### Descartes' argument (yes it DOES have to be God)
 This one is bloody long-winded, but it does provide reasoning for why the first cause must be God (all the omnis plus perfect) specifically.
 
 In his book, Meditations 3, Descartes goes through process of elimination to explain his argument.
@@ -228,8 +228,8 @@ He has a few more arguments on why this must be God specifically.
 
 ![fallacies goerg.png](/img/user/Images/fallacies%20goerg.png)
 
-### From contingency
-#### Aquinas' third way
+### From contingency (you will never escape the ontological argument)
+#### Aquinas' third way (why am I not dead yet?: the argument)
 The third way is a different kind of cosmological argument: one from contingency, not causation.
 > Where all the above arguments assume some variation of the causal principle, contingency arguments rely on ideas of necessity and contingency.
 

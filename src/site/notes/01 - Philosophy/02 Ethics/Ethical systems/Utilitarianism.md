@@ -54,7 +54,7 @@ He had to define what good was. Because Bentham was a hedonist, he believed that
 ### The hedonic calculus
 
 He then creates the hedonic calculus to determine how good an act is. 
-![HCalculus.jpg|700](/img/user/Images/HCalculus.jpg)
+![HCalculus.jpg|700](/img/user/05%20-%20Images/HCalculus.jpg)
 
 It uses various variables:
 1. intensity

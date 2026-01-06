@@ -21,6 +21,6 @@
 | Single issue  | Based around a single issue                            | NRA, mothers against drunk driving                     | Just stop oil, Greenpeace                              |
 | Professional  | Represents the interests of members of an occupation   | American civil liberties union, Heritage foundation    | ASLEF (train drivers), National education union        |
 | Policy        | I assume this is just think tanks?                     | Heritage foundation                                    | Adam smith institute                                   |
-![PressureGroups.png](/img/user/Images/PressureGroups.png)
+![PressureGroups.png](/img/user/05%20-%20Images/PressureGroups.png)
 
-![US pressure groups.png](/img/user/Images/US%20pressure%20groups.png)
+![US pressure groups.png](/img/user/05%20-%20Images/US%20pressure%20groups.png)

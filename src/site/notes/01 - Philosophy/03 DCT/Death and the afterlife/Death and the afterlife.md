@@ -6,7 +6,7 @@
 
 ![[Divine Election.canvas|Divine Election]]
 ## Specification
-![spec death and the afterlife.png](/img/user/Images/spec%20death%20and%20the%20afterlife.png)
+![spec death and the afterlife.png](/img/user/05%20-%20Images/spec%20death%20and%20the%20afterlife.png)
 ### Debates
 - whether or not God’s judgement takes place immediately after death or at the end of time
 - whether or not hell and heaven are eternal

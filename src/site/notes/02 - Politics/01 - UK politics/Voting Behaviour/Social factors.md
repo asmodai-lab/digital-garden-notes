@@ -61,7 +61,7 @@ Nowadays, these assumptions aren't really correct for multiple reasons.
 
 ---
 #### Graph
-![Class 2024 GE.png|800](/img/user/Images/Class%202024%20GE.png)
+![Class 2024 GE.png|800](/img/user/05%20-%20Images/Class%202024%20GE.png)
 
 ## Age
 
@@ -79,7 +79,7 @@ This precedent (but not the existence of patterns in age groups) shifted in 2024
 	- they still performed better among older voters.
 		- which is crucial when older voters have **significantly higher turnout**
 ### Graph
-![Age Voting behaviour.png](/img/user/Images/Age%20Voting%20behaviour.png)
+![Age Voting behaviour.png](/img/user/05%20-%20Images/Age%20Voting%20behaviour.png)
 
 ## Gender
 
@@ -98,8 +98,8 @@ The influence of gender is much more nuanced than other factors. It changes and 
 - Tory appeal remained relatively strong among older male voters
 
 ### Graph
-![Gender 2024.png](/img/user/Images/Gender%202024.png)
-![Age and Gender 2024.png](/img/user/Images/Age%20and%20Gender%202024.png)
+![Gender 2024.png](/img/user/05%20-%20Images/Gender%202024.png)
+![Age and Gender 2024.png](/img/user/05%20-%20Images/Age%20and%20Gender%202024.png)
 
 ## Region
 
@@ -152,7 +152,7 @@ Regional voting patterns are deeply rooted but not immune to shifting.
 
 Labour dominates among ethnic minorities, but this isn't uniform across groups.
 
-![Ethnic minorities.png](/img/user/Images/Ethnic%20minorities.png)
+![Ethnic minorities.png](/img/user/05%20-%20Images/Ethnic%20minorities.png)
 
 
 ## Turnout
@@ -177,19 +177,19 @@ However, from the 1990s -> now, turnout has been declining. This is linked to:
 
 ### Graph
 
-![UK turnout.png|800](/img/user/Images/UK%20turnout.png)
+![UK turnout.png|800](/img/user/05%20-%20Images/UK%20turnout.png)
 
 ## Miscellaneous factors
 
 ### Education level
-![Education level.png](/img/user/Images/Education%20level.png)
+![Education level.png](/img/user/05%20-%20Images/Education%20level.png)
 
 ### Employment
-![employment voting behaviour.png](/img/user/Images/employment%20voting%20behaviour.png)
+![employment voting behaviour.png](/img/user/05%20-%20Images/employment%20voting%20behaviour.png)
 
 ### Household income
-![income voting behaviour.png](/img/user/Images/income%20voting%20behaviour.png)
+![income voting behaviour.png](/img/user/05%20-%20Images/income%20voting%20behaviour.png)
 
 ### Voting record from 2019
 
-![2019 voting record.png](/img/user/Images/2019%20voting%20record.png)
+![2019 voting record.png](/img/user/05%20-%20Images/2019%20voting%20record.png)

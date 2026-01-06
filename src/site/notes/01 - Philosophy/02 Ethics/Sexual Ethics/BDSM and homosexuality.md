@@ -8,7 +8,7 @@ Table of contents
 ----
 ## Introduction
 
-There is a landmark case called [[PDFs and articles/Criminalisation & Consent -- R. V. Brown\|R. V. Brown]] on if consensual acts are always morally justifiable.
+There is a landmark case called [[06 - PDFs and articles/Criminalisation & Consent -- R. V. Brown\|R. V. Brown]] on if consensual acts are always morally justifiable.
 
 
 > [!QUOTE]
@@ -17,7 +17,7 @@ There is a landmark case called [[PDFs and articles/Criminalisation & Consent --
 > [!QUOTE]
 > "That proposition can be expressed as follows: an assault intended or which is likely to cause bodily harm, accompanied by indecency, is an offence irrespective of consent, provided that the injury is not 'transient or trifling'."
 
-[[PDFs and articles/Criminalisation & Consent -- R. V. Brown\|Criminalisation & Consent -- R. V. Brown]]
+[[06 - PDFs and articles/Criminalisation & Consent -- R. V. Brown\|Criminalisation & Consent -- R. V. Brown]]
 
 ### Using ethical systems to examine BDSM
 
@@ -103,7 +103,7 @@ Different translations of the Bible have very different meanings; of which is of
 
 ##### Other mistranslations
 
-[[PDFs and articles/She’s Not a Whore - Translation Bias in Ezekiel 16\|She’s Not a Whore - Translation Bias in Ezekiel 16]]
+[[06 - PDFs and articles/She’s Not a Whore - Translation Bias in Ezekiel 16\|She’s Not a Whore - Translation Bias in Ezekiel 16]]
 
-[[PDFs and articles/Correcting Caricatures - Women in the Bible\|Correcting Caricatures - Women in the Bible]]
+[[06 - PDFs and articles/Correcting Caricatures - Women in the Bible\|Correcting Caricatures - Women in the Bible]]
 

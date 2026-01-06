@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/teleological/","tags":["lessonmajor"],"updated":"2025-12-24T16:13:22.404+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/teleological/","tags":["lessonmajor"],"updated":"2026-01-05T15:39:14.901+00:00"}
 ---
 
 
@@ -120,18 +120,18 @@ Please note that, throughout this, Hume is arguing that, using this: *it is reas
 And here's the problems! This time there are two!
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-philosophy/01-philosophy/teleological/#weaknesses-in-the-analogy" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-philosophy/01-philosophy/teleological/#weaknesses-in-the-analogy-comparisons-cannot-be-compared" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-##### Weaknesses in the analogy
+##### Weaknesses in the analogy (comparisons cannot be compared)
 Hume's analogy was presented as a dialogue, so we don't even have to come up with some of the responses!
 
 >[!quote] Hume's response to himself in *Dialogues Concerning Natural Religion*
-> “But wherever you depart, in the least, from the similarity of the cases, you diminish proportionably the evidence; and may at last bring it to a very weak analogy, which is confessedly liable to error and uncertainty. After having experienced the circulation of the blood in human creatures, we make no doubt that it takes place in Titius and Mævius: But from its circulation in frogs and fishes, it is only a presumption, though a strong one, from analogy, that it takes place in men and other animals. The analogical reasoning is much weaker, when we infer the circulation of the sap in vegetables from our experience that the blood circulates in animals; and those, who hastily followed that imperfect analogy, are found, by more accurate experiments, to have been mistaken.”
+> *“But wherever you depart, in the least, from the similarity of the cases, you diminish proportionably the evidence; and may at last bring it to a very weak analogy, which is confessedly liable to error and uncertainty. After having experienced the circulation of the blood in human creatures, we make no doubt that it takes place in Titius and Mævius: But from its circulation in frogs and fishes, it is only a presumption, though a strong one, from analogy, that it takes place in men and other animals. The analogical reasoning is much weaker, when we infer the circulation of the sap in vegetables from our experience that the blood circulates in animals; and those, who hastily followed that imperfect analogy, are found, by more accurate experiments, to have been mistaken.”*
 > > [!summary] TLDR
 > > As Hume's character points out, arguments from analogy are only as strong as the similarity of the two things being compared.
-> > > For example:
+> > > **For example:**
 > > > - if one human has circulating blood, we are justified in claiming that all humans do.
 > > > - furthermore, we are somewhat justified in generalising from circulation of blood in humans to frogs and fishes
 > > > - however, when the analogy goes from animals to plants, it's much weaker: because the idea that plants circulate sap like how animals circulate blood is false.
@@ -192,7 +192,14 @@ All of these many, many examples of flawed or purposeless design can be used as 
 ##### Paley's watchmaker
 
 #### Arguments about order in the *laws* of nature
-##### Swinburne's version
+##### Swinburne's version (Leibniz with a different name)
+Swinburne focusses not on order within nature, but order within time.
+- **spatial order** is things like an eye, the heart, a bird's wings: the 'regularities of co-presence' because the various parts are organised in such a way as to fulfil a purpose.
+	- however, this can be explained by evolution
+- **temporal order** is the order of the laws of nature: gravity, the speed of light, etc. The 'regularities of succession' as Swinburne calls them, because events follow consistent and predictable patterns over time. Temporal order cannot be explained by evolution as spatial order can be, since the laws of nature are the framework which evolution occurs within.
+Swinburne says that the consistency of the laws of nature needs an explanation. How can the universe behave in such a stable, law-like way? This can't be explained by evolution — or any science, because scientific explanations must assume that these laws exist in the first place. 
+> Science can use gravity to predict the orbit of planets, but cannot explain why gravity itself exists or why the laws of nature follow consistent patterns rather than being consistent
+> > This is, of course, at least mildly debatable. It's also just another version of [[01 - Philosophy/01 Philosophy/Cosmological#Leibniz's argument (or the toddler asking 'why?')\|Leibniz's principle of sufficient reason]], which proposes that contingent truths are not sufficiently supported, because they are reliant on other contingent truths.
 ##### The fine-tuning argument
 
 #### Criticisms
@@ -215,14 +222,14 @@ But following the scientific revolution of the 16th Century, this norm got repla
 Not everything can be explained scientifically via the Newtonian method. For example, [[01 - Philosophy/01 Philosophy/Teleological#Swinburne's version\|Swinburne's teleological argument]] argues that science works by *assuming* scientific laws to explain things, but that the scientific explanations do not explain *why the laws themselves exist.*
 
 
-##### Weaknesses in the analogy
+##### Weaknesses in the analogy (comparisons cannot be compared)
 Hume's analogy was presented as a dialogue, so we don't even have to come up with some of the responses!
 
 >[!quote] Hume's response to himself in *Dialogues Concerning Natural Religion*
-> “But wherever you depart, in the least, from the similarity of the cases, you diminish proportionably the evidence; and may at last bring it to a very weak analogy, which is confessedly liable to error and uncertainty. After having experienced the circulation of the blood in human creatures, we make no doubt that it takes place in Titius and Mævius: But from its circulation in frogs and fishes, it is only a presumption, though a strong one, from analogy, that it takes place in men and other animals. The analogical reasoning is much weaker, when we infer the circulation of the sap in vegetables from our experience that the blood circulates in animals; and those, who hastily followed that imperfect analogy, are found, by more accurate experiments, to have been mistaken.”
+> *“But wherever you depart, in the least, from the similarity of the cases, you diminish proportionably the evidence; and may at last bring it to a very weak analogy, which is confessedly liable to error and uncertainty. After having experienced the circulation of the blood in human creatures, we make no doubt that it takes place in Titius and Mævius: But from its circulation in frogs and fishes, it is only a presumption, though a strong one, from analogy, that it takes place in men and other animals. The analogical reasoning is much weaker, when we infer the circulation of the sap in vegetables from our experience that the blood circulates in animals; and those, who hastily followed that imperfect analogy, are found, by more accurate experiments, to have been mistaken.”*
 > > [!summary] TLDR
 > > As Hume's character points out, arguments from analogy are only as strong as the similarity of the two things being compared.
-> > > For example:
+> > > **For example:**
 > > > - if one human has circulating blood, we are justified in claiming that all humans do.
 > > > - furthermore, we are somewhat justified in generalising from circulation of blood in humans to frogs and fishes
 > > > - however, when the analogy goes from animals to plants, it's much weaker: because the idea that plants circulate sap like how animals circulate blood is false.
@@ -266,7 +273,9 @@ All of these many, many examples of flawed or purposeless design can be used as 
 
 ##### The universe is a unique case
 ##### Is the designer God?
+Just refer to this section in my notes on the cosmological argument: [[01 - Philosophy/01 Philosophy/Cosmological#Is the first cause God?\|Why is the first cause God?]] Just adjust it for the Teleological argument.
 ##### The Epicurean hypothesis
 
-
+##### My personal bone to pick
+both the cosmological and teleological arguments rely on the fact that we don't know stuff *now.* Why can't we figure it out in the future? Why can't we know why gravity exists?
 

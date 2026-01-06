@@ -19,17 +19,17 @@
 
 
 
-![Song of solomon.excalidraw-1.webp](/img/user/Images/Song%20of%20solomon.excalidraw-1.webp)
+![Song of solomon.excalidraw-1.webp](/img/user/05%20-%20Images/Song%20of%20solomon.excalidraw-1.webp)
 
 ## Important texts to reference
 ### Song of songs
 
 #### The text
 
-[[Excalidraw/Philosophy/Song of solomon.excalidraw\|Song of solomon.excalidraw]] 
+[[07 - Excalidraw/Philosophy/Song of solomon.excalidraw\|Song of solomon.excalidraw]] 
 
 
-![Song of solomon.png](/img/user/Images/Song%20of%20solomon.png)
+![Song of solomon.png](/img/user/05%20-%20Images/Song%20of%20solomon.png)
 
 #### Guiding questions
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/list-of-useful-fallacies/","tags":["resources"],"updated":"2025-12-27T13:09:29.172+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/list-of-useful-fallacies/","tags":["resources"],"updated":"2025-12-28T18:00:35.162+00:00"}
 ---
 
 ## Useful terminology
@@ -28,7 +28,7 @@
 | ⇒                                                  | A ⇒ B is false when A is true and B is false, but true otherwise.                                                                                        |
 | ↑                                                  | A ↑ B is true if and only if its **not the case** that both A and B are true                                                                             |
 Or, if you want another explanation for all the symbols I am using:[ here](https://en.wikipedia.org/wiki/Propositional_logic)! or [here](https://en.wikipedia.org/wiki/Propositional_logic)
-![wiki logic symbols.png|800](/img/user/Images/wiki%20logic%20symbols.png)
+![wiki logic symbols.png|800](/img/user/05%20-%20Images/wiki%20logic%20symbols.png)
 ## Formal Fallacies
 (A formal fallacy is an error in the argument's form — i.e. from A -> B, and the '->' contains the fallacy)
 
@@ -49,11 +49,25 @@ This fallacy does not occur with enthymemes (arguments reliant on a hidden premi
 > If P₁ is true, somewhere there is a unicorn in the world (with a horn on it's forehead.)
 
 
-
-
-
 ## Informal Fallacies
-(an informal fallacy is one which is based on faulty premises.)
+(an informal fallacy is one which is based on faulty premises — but is not a fallacy that always disproves an argument — it depends on the context and content of the argument itself)
+
+### Fallacy of composition
+Assuming that something true of part of a thing must be true of the whole of that thing. Conversely, the fallacy of division is assuming that something true of a whole thing must be true of all or some of it's parts. 
+
+It's also related to the fallacy of hasty generalization, in which an incorrect inference is made from a statement about a sample -> to a statement about the population from which the sample is drawn. (like small samples in science being unreliable.)
+
+>[!example]
+> "This book is made of sheets of paper. Sheets of paper are thin, therefore the book is thin."
+> 
+> or
+> 
+> "no atoms are alive, therefore nothing made of atoms is alive"
+> 
+> or, for the fallacy of division:
+> 
+> "the second grade in X elementary school eats a lot of ice cream. Carlos is a second-grader in X elementary school, therefore Carlos eats a lot of ice cream."
+
 
 ## Non-logic based fallacies
 (most of these are technically informal fallacies, but they are quite different, in that they are most commonly heard whilst actually debating a topic with real people — usually stupid people.)

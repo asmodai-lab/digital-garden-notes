@@ -106,4 +106,4 @@ Phenomenon where negative attacks on a candidate result in increased support for
 
 #### Polling data from 2017-2025
 
-![UK party polling.png](/img/user/Images/UK%20party%20polling.png) 
+![UK party polling.png](/img/user/05%20-%20Images/UK%20party%20polling.png) 

@@ -9,6 +9,6 @@
 
 ### Statistics
 
-![Referendums statistics.png](/img/user/Images/Referendums%20statistics.png)
+![Referendums statistics.png](/img/user/05%20-%20Images/Referendums%20statistics.png)
 
 

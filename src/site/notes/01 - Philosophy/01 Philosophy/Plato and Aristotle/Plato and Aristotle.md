@@ -8,5 +8,5 @@
 
 ## Theories of Knowledge
 
-![ontology.png|600](/img/user/Images/ontology.png)
+![ontology.png|600](/img/user/05%20-%20Images/ontology.png)
 Both Plato and Aristotle have very similar ideas. Their Prime Movers and Forms are both pre-cursors to God.

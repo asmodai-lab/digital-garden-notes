@@ -4,14 +4,14 @@
 
 
 ## Specification
-![Devolution spec.png|800](/img/user/Images/Devolution%20spec.png)
+![Devolution spec.png|800](/img/user/05%20-%20Images/Devolution%20spec.png)
 
 ## Devolution matters
 ### Notes
 [[02 - Politics/02 - UK government/01 - UK constitution/UK constitution\|UK constitution]]
 [[02 - Politics/02 - UK government/01 - UK constitution/Devolution\|Devolution]]
 ### Summary info
-![Devolved powers summary.png](/img/user/Images/Devolved%20powers%20summary.png)
+![Devolved powers summary.png](/img/user/05%20-%20Images/Devolved%20powers%20summary.png)
 
 **Powers reserved by Westminster:**
 - constitution

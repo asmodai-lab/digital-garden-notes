@@ -26,7 +26,7 @@
 
 [[01 - Philosophy/01 Philosophy/Religious Language/Tillich's view on symbolism\|Tillich's view on symbolism]]
 
-[[media-lib/url-ef526jmq\|language c20th]]
+[[05 - Images/media-lib 1/url-ef526jmq\|language c20th]]
 ### Dumping yard for notes
 [[01 - Philosophy/01 Philosophy/Religious Language/Via Negativa\|Via Negativa]]
 [[01 - Philosophy/01 Philosophy/Religious Language/Analogy\|Analogy]]

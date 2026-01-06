@@ -8,7 +8,7 @@
 continuing role in the area of sexual ethics
 • whether choices in the area of sexual behaviour should be entirely private and
 personal, or whether they should be subject to societal norms and legislation 
-• [[Excalidraw/Philosophy/Normative theories on sexual ethics.excalidraw\|whether normative theories are useful in what they might say about sexual ethics]]
+• [[07 - Excalidraw/Philosophy/Normative theories on sexual ethics.excalidraw\|whether normative theories are useful in what they might say about sexual ethics]]
 
 ## Notes
 
@@ -22,7 +22,7 @@ personal, or whether they should be subject to societal norms and legislation
 [[01 - Philosophy/02 Ethics/Sexual Ethics/Marriage and sexual ethics\|Marriage and sexual ethics]]
 
 [[01 - Philosophy/02 Ethics/Sexual Ethics/Ethical systems on sexual ethics\|Ethical systems on sexual ethics]] 
-> [[Excalidraw/Philosophy/Normative theories on sexual ethics.excalidraw\|Normative theories on sexual ethics.excalidraw]] (mindmap)
+> [[07 - Excalidraw/Philosophy/Normative theories on sexual ethics.excalidraw\|Normative theories on sexual ethics.excalidraw]] (mindmap)
 
 ## Other materials
 

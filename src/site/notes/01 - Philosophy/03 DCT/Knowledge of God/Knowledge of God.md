@@ -6,7 +6,7 @@
 [[01 - Philosophy/03 DCT/Knowledge of God/knowledge of God.excalidraw\|knowledge of God.excalidraw]] (or see below)
 ## Specification 
 
-![spec knowledge of god.png|800](/img/user/Images/spec%20knowledge%20of%20god.png)
+![spec knowledge of god.png|800](/img/user/05%20-%20Images/spec%20knowledge%20of%20god.png)
 
 ### Debates
 - whether or not God can be known through reason alone
@@ -29,4 +29,4 @@
 
 
 
-<iframe src="/img/user/Images/Knowledge-of-God-s-existence.pdf" width="100%" height="900px" title="Knowledge-of-God-s-existence.pdf" style="border:1px solid #ccc;"></iframe>
+<iframe src="/img/user/05%20-%20Images/Knowledge-of-God-s-existence.pdf" width="100%" height="900px" title="Knowledge-of-God-s-existence.pdf" style="border:1px solid #ccc;"></iframe>
