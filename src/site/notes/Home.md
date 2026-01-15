@@ -40,23 +40,23 @@
 
 # Recent files
 
-| File                                                                                                                                   | file.mday         | file.tags                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------------- |
-| [[02 - Politics/01 - UK politics/Parties/Labour\|Labour]]                                                                           | December 11, 2025 | <ul><li>#lessonmajor</li></ul>                     |
-| [[02 - Politics/01 - UK politics/Voting Behaviour/Social factors\|Social factors]]                                                  | December 11, 2025 | <ul><li>#lessonmajor</li><li>#unfinished</li></ul> |
-| [[02 - Politics/01 - UK politics/Democracy/Pressure groups, Lobbyists and think tanks\|Pressure groups, Lobbyists and think tanks]] | December 05, 2025 | <ul><li>#lessonmajor</li><li>#unfinished</li></ul> |
-| [[02 - Politics/01 - UK politics/Democracy/Rights in context\|Rights in context]]                                                   | December 05, 2025 | <ul><li>#lessonmajor</li></ul>                     |
-| [[02 - Politics/01 - UK politics/Democracy/Democracy\|Democracy]]                                                                   | December 05, 2025 | <ul><li>#homepage</li></ul>                        |
-| [[02 - Politics/01 - UK politics/Parties/The conservatives\|The conservatives]]                                                     | November 26, 2025 | <ul><li>#lessonmajor</li></ul>                     |
-| [[02 - Politics/01 - UK politics/Parties/Minor parties\|Minor parties]]                                                             | November 25, 2025 | <ul><li>#lessonminor</li></ul>                     |
-| [[02 - Politics/01 - UK politics/Parties/The lib-dems\|The lib-dems]]                                                               | November 25, 2025 | <ul></ul>                                          |
-| [[02 - Politics/01 - UK politics/Parties/Political parties home\|Political parties home]]                                           | November 25, 2025 | <ul><li>#homepage</li></ul>                        |
-| [[02 - Politics/01 - UK politics/Voting Behaviour/Non-social factors\|Non-social factors]]                                          | November 24, 2025 | <ul><li>#lessonmajor</li></ul>                     |
-| [[02 - Politics/01 - UK politics/Parties/Party funding\|Party funding]]                                                             | November 19, 2025 | <ul><li>#lessonminor</li></ul>                     |
-| [[02 - Politics/01 - UK politics/Democracy/Turnout Stats sheet\|Turnout Stats sheet]]                                               | November 18, 2025 | <ul><li>#table</li></ul>                           |
-| [[02 - Politics/01 - UK politics/Democracy/The Franchise\|The Franchise]]                                                           | November 18, 2025 | <ul><li>#homepage</li></ul>                        |
-| [[02 - Politics/01 - UK politics/Parties/General Info\|General Info]]                                                               | November 18, 2025 | <ul><li>#lessonmajor</li></ul>                     |
-| [[02 - Politics/01 - UK politics/Voting Behaviour/Voting Behaviour\|Voting Behaviour]]                                              | November 18, 2025 | <ul><li>#homepage</li></ul>                        |
+| File                                                                                                                         | file.mday         | file.tags                                     |
+| ---------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------------------------------- |
+| [[01 - Philosophy/01 Philosophy/Cosmological\|Cosmological]]                                                              | January 06, 2026  | <ul><li>#lessonmajor</li><li>#notes</li></ul> |
+| [[01 - Philosophy/01 Philosophy/Paper 1\|Paper 1]]                                                                        | January 06, 2026  | <ul><li>#homepage</li></ul>                   |
+| [[01 - Philosophy/01 Philosophy/Arguments for the existence of God\|Arguments for the existence of God]]                  | January 05, 2026  | <ul><li>#homepage</li></ul>                   |
+| [[01 - Philosophy/01 Philosophy/List of useful fallacies\|List of useful fallacies]]                                      | December 28, 2025 | <ul><li>#resources</li></ul>                  |
+| [[01 - Philosophy/01 Philosophy/Plato and Aristotle/Plato and Aristotle\|Plato and Aristotle]]                            | December 18, 2025 | <ul><li>#lessonmajor</li></ul>                |
+| [[01 - Philosophy/01 Philosophy/Religious Language/Aquinas' analogies\|Aquinas' analogies]]                               | December 04, 2025 | <ul><li>#lessonmajor</li></ul>                |
+| [[01 - Philosophy/01 Philosophy/Mind-body-soul/Dualism\|Dualism]]                                                         | November 28, 2025 | <ul><li>#lessonmajor</li></ul>                |
+| [[01 - Philosophy/01 Philosophy/Mind-body-soul/Mind, body and soul\|Mind, body and soul]]                                 | November 28, 2025 | <ul><li>#homepage</li></ul>                   |
+| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Introduction\|Introduction]]                                 | November 18, 2025 | <ul><li>#intro</li></ul>                      |
+| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Anselm's theories\|Anselm's theories]]                       | November 18, 2025 | <ul><li>#lessonminor</li></ul>                |
+| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Nature and attributes of God\|Nature and attributes of God]] | November 18, 2025 | <ul><li>#homepage</li></ul>                   |
+| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Omnipotence\|Omnipotence]]                                   | November 18, 2025 | <ul><li>#lessonmajor</li></ul>                |
+| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Omniscience\|Omniscience]]                                   | November 18, 2025 | <ul><li>#lessonmajor</li></ul>                |
+| [[01 - Philosophy/01 Philosophy/Philosophy questions\|Philosophy questions]]                                              | November 18, 2025 | <ul></ul>                                     |
+| [[01 - Philosophy/01 Philosophy/Religious Language/Analogy\|Analogy]]                                                     | November 18, 2025 | <ul></ul>                                     |
 
 { .block-language-dataview}
 

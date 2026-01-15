@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/voting-systems/referendums/","tags":["lessonmajor"],"updated":"2025-11-25T22:53:24.239+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/voting-systems/referendums/","tags":["lessonmajor"],"updated":"2026-01-07T22:47:19.200+00:00"}
 ---
 
 ## Notes
-
-
-
 
 ### Statistics
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/the-ontological-argument/","tags":["lessonmajor"],"updated":"2025-12-24T13:23:55.367+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/the-ontological-argument/","tags":["lessonmajor"],"updated":"2026-01-06T10:35:26.749+00:00"}
 ---
 
 **Table of Contents**
@@ -106,9 +106,9 @@ This (necessary existence) _is_ a predicate, so avoids Kant’s argument below. 
 3. If God exists, God cannot cease to exist
 4. Therefore, if God exists, God’s existence is necessary
 5. Therefore, if God does not exist, God’s existence is impossible
-6. Therefore, God’s existence is either necessary or impossible
-7. God’s existence is impossible only if the concept of God is self-contradictory
-8. The concept of God is not self-contradictory
+6. Therefore, **God’s existence is either necessary or impossible**
+7. God’s existence is **impossible only** if the concept of **God is self-contradictory**
+8. The **concept of God is not self-contradictory**
 9. Therefore, God’s existence is not impossible
 10. Therefore, God exists necessarily
 

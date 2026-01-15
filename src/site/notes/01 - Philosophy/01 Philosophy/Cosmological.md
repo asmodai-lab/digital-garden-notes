@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/cosmological/","tags":["lessonmajor","notes"],"updated":"2026-01-05T15:22:25.560+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/cosmological/","tags":["lessonmajor","notes"],"updated":"2026-01-06T10:43:21.911+00:00"}
 ---
 
 The cosmological argument is very similar to the teleological argument, but — again — you do need to remember the differences. 

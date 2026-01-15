@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/voting-behaviour/non-social-factors/","tags":["lessonmajor"],"updated":"2025-11-24T14:16:28.072+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/voting-behaviour/non-social-factors/","tags":["lessonmajor"],"updated":"2026-01-07T09:00:07.420+00:00"}
 ---
 
 - [[02 - Politics/01 - UK politics/Voting Behaviour/Non-social factors#Campaigning\|Campaigning]]
@@ -23,7 +23,7 @@
 		- [[02 - Politics/01 - UK politics/Voting Behaviour/Non-social factors#Do opinion polls affect voting behaviour?\|Polling data from 2017-2025]]
 
 
-[[02 - Politics/01 - UK politics/Voting Behaviour/The media and voting behaviour\|The media and voting behaviour]]
+
 
 
 # Other non-social factors
