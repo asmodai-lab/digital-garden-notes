@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-organisation/topic-tracker/","tags":["resources"],"updated":"2025-11-25T19:19:10.620+00:00"}
+{"dg-publish":true,"permalink":"/08-organisation/topic-tracker/","tags":["resources"],"updated":"2026-01-21T08:56:31.969+00:00"}
 ---
 
 If you wish to find a specific topic in here, use Ctrl/Cmd + F to search the page.
@@ -19,8 +19,8 @@ If a box is blank, assume that the answer is 'no'.
 | -------------------------------------------------------------------------------- | ----- | ----------- | ------------- | ------------ |
 | <span style="color:rgb(255, 0, 0)">Ancient philosophical influences</span>       |       |             |               |              |
 | <span style="color:rgb(255, 0, 0)">mind-body-soul</span>                         | yes   |             | yes           |              |
-| <span style="color:rgb(255, 0, 0)">a posteriori arguments</span>                 |       |             |               |              |
-| <span style="color:rgb(255, 0, 0)">a priori arguments</span>                     |       |             |               |              |
+| <span style="color:rgb(255, 0, 0)">a posteriori arguments</span>                 | yes   |             |               |              |
+| <span style="color:rgb(255, 0, 0)">a priori arguments</span>                     | yes   |             |               |              |
 | <span style="color:rgb(255, 0, 0)">religious experience</span>                   |       |             |               |              |
 | <span style="color:rgb(255, 0, 0)">the problem of evil</span>                    |       |             |               |              |
 | <span style="color:rgb(172, 94, 232)">Natural law</span>                         | yes   |             |               |              |
@@ -30,7 +30,7 @@ If a box is blank, assume that the answer is 'no'.
 | <span style="color:rgb(172, 94, 232)">Business ethics</span>                     | half  |             |               |              |
 | <span style="color:rgb(0, 176, 240)">Augustine's teaching on human nature</span> | half  |             |               |              |
 | <span style="color:rgb(0, 176, 240)">Death and the afterlife</span>              |       |             |               |              |
-| <span style="color:rgb(0, 176, 240)">Knowledge of God's existence</span>         |       |             |               |              |
+| <span style="color:rgb(0, 176, 240)">Knowledge of God's existence</span>         | yes   |             |               |              |
 | <span style="color:rgb(0, 176, 240)">The person of Jesus Christ</span>           |       |             |               |              |
 | <span style="color:rgb(0, 176, 240)">Christian moral principles</span>           | half  |             |               |              |
 | <span style="color:rgb(0, 176, 240)">Christian moral action</span>               |       |             |               |              |

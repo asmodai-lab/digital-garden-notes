@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-organisation/resources/","tags":["resources","homepage"],"updated":"2026-01-20T12:01:30.394+00:00"}
+{"dg-publish":true,"permalink":"/08-organisation/resources/","tags":["resources","homepage"],"updated":"2026-01-21T10:39:19.366+00:00"}
 ---
 
 # Philosophy resources
@@ -29,6 +29,7 @@ A [list of PDFs](https://andrewmbailey.com/money/readings/) of unorganised readi
 | [Antilogicalism](https://antilogicalism.com/primary-sources/philosophy/20th-century-present/)                                        | holds a lot of links to the original philosopher's books |       |                                   |        |                                                                                                                                                                       |               |
 | [Open Culture](https://www.openculture.com/free-philosophy-ebooks)                                                                   | Free philosophy ebooks                                   |       |                                   |        |                                                                                                                                                                       |               |
 | [Project Gutenberg](https://www.gutenberg.org/ebooks/bookshelf/691)                                                                  | Free philosophy ebooks                                   |       |                                   |        |                                                                                                                                                                       |               |
+| [Attributes of God](https://iep.utm.edu/god-west/#H3)                                                                                | Article                                                  | 1     | Nature and attributes of God      |        |                                                                                                                                                                       |               |
 
 ## Link dump yard
 

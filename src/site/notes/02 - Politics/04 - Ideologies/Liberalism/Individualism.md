@@ -1,8 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/individualism/","tags":["lessonminor"],"updated":"2026-01-21T12:27:01.777+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/individualism/","tags":["lessonminor"],"updated":"2026-01-21T12:33:36.379+00:00"}
 ---
 
 > [!note] This can be included in a discussion of the liberal view of society, human nature, and the economy.
+
+****Table of Contents**
+
+- [[02 - Politics/04 - Ideologies/Liberalism/Individualism#Summary\|Summary]]
+- [[02 - Politics/04 - Ideologies/Liberalism/Individualism#What is it?\|What is it?]]
+- [[02 - Politics/04 - Ideologies/Liberalism/Individualism#Differences between branches\|Differences between branches]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Individualism#Differences between branches\|Classical liberal views]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Individualism#Differences between branches\|Modern liberal views]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Individualism#Differences between branches\|Agreement and disagreement]]
 
 ## Summary
 - Liberals believe in the power and capacity of individuals to transform their own lives
@@ -23,6 +32,16 @@ This is best summed up by J.S. Mill:
 > [!quote] 'Over himself, over his own body and mind, the individual is sovereign.'
 
 This is similar to Kant's idea of respecting people as ends in themselves, not a means to an end. 
+
+### Egoistic and individualistic individualism
+
+
+### Scholars
+Mary Wollstonecraft argued that tolerance out to be extended to women, in order to allow them to play a fuller role in society — particularly on having the right to vote.
+
+Betty Friedan continued this campaign, arguing for full equality for women beyond the right to vote.
+
+---
 
 ## Differences between branches
 ### Classical liberal views

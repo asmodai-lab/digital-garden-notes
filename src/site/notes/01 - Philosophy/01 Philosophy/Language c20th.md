@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/language-c20th/","tags":["homepage"],"updated":"2026-01-20T12:25:39.833+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/language-c20th/","tags":["homepage"],"updated":"2026-01-21T10:57:25.175+00:00"}
 ---
 
 ## Specification
@@ -34,5 +34,9 @@
 
 **Full books**
 - [The Problem of Knowledge, Ayer](https://antilogicalism.com/wp-content/uploads/2017/07/the-problem-of-knowledge-a-j-ayer.pdf)
-- 
+
+**Articles**
+- [Religious language, Internet encyclopedia of Philosophy](https://iep.utm.edu/rel-lang/) (includes verification, plus pre-20th century religious language theories.)
+- [Analytic philosophy, IEP](https://iep.utm.edu/analytic-philosophy/)
+- [Falsification and Karl Popper, IEP](https://iep.utm.edu/pop-sci/)
 
