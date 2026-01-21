@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/interpretations-and-debates-of-the-sc/","updated":"2025-12-09T21:08:39.965+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/interpretations-and-debates-of-the-sc/","updated":"2026-01-16T00:16:28.674+00:00"}
 ---
 
 #homepage 
@@ -30,7 +30,7 @@ There are some more. Check them out in the [[02 - Politics/Politics essay questi
 
 | Case name                                                | Date  | Explanation                                                                                                                                                                            | Where to use?                                                                                                           |
 | -------------------------------------------------------- |:-----:| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Trump v Casa, Inc.                                       | 2025  | Curtailed the ability of lower courts to stop executive orders on a nationwide level.                                                                                                  | Checks and balances!                                                                                                    |
+| Trump v Casa, Inc.                                       | 2025  | Curtailed the ability of lower courts to stop executive orders on a nationwide level.                                                                                                  | Checks and balances! +birthright                                                                                        |
 |                                                          | 2025  | Ordered the release of $2 billion in foreign aid.                                                                                                                                      | Amy Coney Barret voted against Trump                                                                                    |
 | United states v. Skremetti                               | 2025  | Upheld Tennessee's ban on gender-affirming care for minors.                                                                                                                            | Judicial/Political                                                                                                      |
 | Tiktok v Garland                                         | 2024  | Congress has the right to force the sale of Tiktok due to concerns over national security.                                                                                             | Unanimous decision. ==Nearly 50% of court decisions are 9-0 or 8-1==                                                    |

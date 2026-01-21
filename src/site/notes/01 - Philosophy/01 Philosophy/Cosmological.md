@@ -148,7 +148,7 @@ FYI, the second way is just the same argument as motion but replacing motion wit
 
 Same thing with the vertical and horizontal causes. Here's a diagram explaining
 
-![Pasted image 20260105120411.png](/img/user/Images/Pasted%20image%2020260105120411.png)
+![Pasted image 20260105120411.png](/img/user/05%20-%20Images/Images/Pasted%20image%2020260105120411.png)
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-philosophy/01-philosophy/cosmological/#is-the-first-cause-god" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -226,7 +226,7 @@ He has a few more arguments on why this must be God specifically.
 2. because of the causal adequacy principle, Descartes says that the cause of an effect but have at least us much 'reality' as the effect. And since Descartes has an idea of a perfect, infinite being: the only thing that could've caused that idea must be something that itself is perfect and infinite: so, God.
 	 *“And the whole force of the argument I have used here to prove the existence of God consists in this, that I recognize that it would not be possible for my nature to be as it is, that is to say, that I should have in me the idea of a God, if God did not really exist;”*
 
-![fallacies goerg.png](/img/user/Images/fallacies%20goerg.png)
+![fallacies goerg.png](/img/user/05%20-%20Images/Images/fallacies%20goerg.png)
 
 ### From contingency (you will never escape the ontological argument)
 #### Aquinas' third way (why am I not dead yet?: the argument)
@@ -527,7 +527,7 @@ Proponents of the contingency arguments, however, may argue that this conflates 
 So, when contingency arguments say that God is a necessary being, they don't mean that 'God exists' is a necessary truth. They're saying that if God exists, it is within God's nature to exist necessarily.
 
 In other words, Russell and Hume may be right to say that 'a necessary being does not exist' is not logically contradictory. But that doesn't settle whether it exists, just that the statement 'a necessary being exists' isn't true by definition.
-![fallacies goerg.png](/img/user/Images/fallacies%20goerg.png)
+![fallacies goerg.png](/img/user/05%20-%20Images/Images/fallacies%20goerg.png)
 ### My personal bone(s) to pick
 I personally think that the premises and conclusions of the cosmological arguments from contingency are non-sequiturs. If the premise is that everything in the universe is contingent on something else, then there cannot be a being which is not contingent (i.e. necessary) because that being must be contingent on something else.
 

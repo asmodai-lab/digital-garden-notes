@@ -34,7 +34,7 @@
 	- [[#2024 — Starmer#Outcome|Outcome]]
 
 ## 1979 — Thatcher
-![Pasted image 20260107093658.png](/img/user/Images/Pasted%20image%2020260107093658.png)
+![Pasted image 20260107093658.png](/img/user/05%20-%20Images/Images/Pasted%20image%2020260107093658.png)
 ### Overview
 Large dissatisfaction with Callaghan's government due to economic unrest, unemployment, and disruptive strikes, laid fertile ground for the Conservatives to come in promising deregulation, lowered trade union power, and economic stability.
 
@@ -54,7 +54,7 @@ Also, the Conservatives commissioned a poster from an advertising party, with th
 > > This poster became incredibly memorable. It targeted aspirational middle-class voters who were frustrated by industrial action and high taxes.
 > > 
 > > Thatcher's image as the 'iron lady' was carefully crafted, strongly contrasting Labour: which appeared weak and divided.
-![Pasted image 20260107091446.png](/img/user/Images/Pasted%20image%2020260107091446.png)
+![Pasted image 20260107091446.png](/img/user/05%20-%20Images/Images/Pasted%20image%2020260107091446.png)
 
 
 <span style="color:rgb(240, 40, 40)">Callaghan's Labour</span> had very different policies:
@@ -103,7 +103,7 @@ The election saw a<span style="color:rgb(0, 176, 240)"> 5.2%</span> swing from<s
 ---
 ---
 ## 1997 — Blair
-![Pasted image 20260107093757.png](/img/user/Images/Pasted%20image%2020260107093757.png)
+![Pasted image 20260107093757.png](/img/user/05%20-%20Images/Images/Pasted%20image%2020260107093757.png)
 ### Overview
 With the rebranded 'New Labour', Blair won a landslide victory against John Major's government. This was because of carefully crafted strategy to modernise Labour and shift to the centre: shedding their socialist roots, and partly because of fatigue with the Conservatives and scandals that marred Major's government.
 
@@ -125,7 +125,7 @@ Blair also moved the party sharply right. He<span style="color:rgb(0, 176, 240)"
 
 John Major's campaign struggled to articulate a compelling vision for the future. Their slogan, **"New Labour, New Danger,"** failed to resonate with voters wanting change. They relied entirely on negative campaigning to undermine Blair, which failed to gain traction. Additionally, they were deeply affected by negative perception of the Conservatives due to infighting, scandals, and lack of confidence in their economic policy.
 > funnily enough, produced by the same company that produced Thatcher's 'Labour isn't working' poster.
-![Pasted image 20260107100305.png](/img/user/Images/Pasted%20image%2020260107100305.png)
+![Pasted image 20260107100305.png](/img/user/05%20-%20Images/Images/Pasted%20image%2020260107100305.png)
 
 #### Context
 Major's government suffered multiple scandals: internal divisions over the EU, the "Cash for Questions" scandal, and economic fallout from Black Wednesday (1992)— when the UK was forced to exit the Exchange Rate Mechanism: which dealt a severe blow to the Tories' reputation for economic competence. General sleaze and allegations of corruption further tarnished the Tory brand.
@@ -166,7 +166,7 @@ Labour's landslide victory marked the end of 18 years of Tory dominance and esta
 ---
 
 ## 2019 — Johnson
-![Pasted image 20260107102030.png](/img/user/Images/Pasted%20image%2020260107102030.png)
+![Pasted image 20260107102030.png](/img/user/05%20-%20Images/Images/Pasted%20image%2020260107102030.png)
 ### Overview
 The 2019 election was characterised overwhelmingly by Brexit. The Conservative "Get Brexit Done" campaign appealed to public fatigue over how long Brexit was taking. It was clear and uncomplicated. On the other hand, Labour was perceived as ambiguous on Brexit, which lost them confidence amongst voters on their ability to deliver on national issues. 
 
@@ -192,7 +192,7 @@ The election was held in the shadow of the Brexit stalemate: years of parliament
 
 Other issues such as public services, climate change, and economic inequality influenced voter choices. But these were secondary to the overwhelming focus on Brexit.
 
-![Pasted image 20260107102955.png](/img/user/Images/Pasted%20image%2020260107102955.png)
+![Pasted image 20260107102955.png](/img/user/05%20-%20Images/Images/Pasted%20image%2020260107102955.png)
 
 #### Social factors
 All new: **major class dealignment!**
@@ -227,7 +227,7 @@ It also highlighted change in campaign strategy: with the growing necessity of d
 
 ### Overview
 The 2024 general election too place amid economic challenge, a struggling NHS post-COVID, and wide public dissatisfaction with the Conservative government after 14 years. The Tories had an extremely damaged image, and Labour were not obviously crap: they were positioning themselves as a trustworthy, steady and economically responsible party.
-![Pasted image 20260107104417.png](/img/user/Images/Pasted%20image%2020260107104417.png)
+![Pasted image 20260107104417.png](/img/user/05%20-%20Images/Images/Pasted%20image%2020260107104417.png)
 ### Factors
 #### Policy and campaigning
 Labour had policies focussed on — essentially — being 'not the Tories'

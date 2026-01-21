@@ -40,23 +40,23 @@
 
 # Recent files
 
-| File                                                                                                                         | file.mday         | file.tags                                     |
-| ---------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------------------------------- |
-| [[01 - Philosophy/01 Philosophy/Cosmological\|Cosmological]]                                                              | January 06, 2026  | <ul><li>#lessonmajor</li><li>#notes</li></ul> |
-| [[01 - Philosophy/01 Philosophy/Paper 1\|Paper 1]]                                                                        | January 06, 2026  | <ul><li>#homepage</li></ul>                   |
-| [[01 - Philosophy/01 Philosophy/Arguments for the existence of God\|Arguments for the existence of God]]                  | January 05, 2026  | <ul><li>#homepage</li></ul>                   |
-| [[01 - Philosophy/01 Philosophy/List of useful fallacies\|List of useful fallacies]]                                      | December 28, 2025 | <ul><li>#resources</li></ul>                  |
-| [[01 - Philosophy/01 Philosophy/Plato and Aristotle/Plato and Aristotle\|Plato and Aristotle]]                            | December 18, 2025 | <ul><li>#lessonmajor</li></ul>                |
-| [[01 - Philosophy/01 Philosophy/Religious Language/Aquinas' analogies\|Aquinas' analogies]]                               | December 04, 2025 | <ul><li>#lessonmajor</li></ul>                |
-| [[01 - Philosophy/01 Philosophy/Mind-body-soul/Dualism\|Dualism]]                                                         | November 28, 2025 | <ul><li>#lessonmajor</li></ul>                |
-| [[01 - Philosophy/01 Philosophy/Mind-body-soul/Mind, body and soul\|Mind, body and soul]]                                 | November 28, 2025 | <ul><li>#homepage</li></ul>                   |
-| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Introduction\|Introduction]]                                 | November 18, 2025 | <ul><li>#intro</li></ul>                      |
-| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Anselm's theories\|Anselm's theories]]                       | November 18, 2025 | <ul><li>#lessonminor</li></ul>                |
-| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Nature and attributes of God\|Nature and attributes of God]] | November 18, 2025 | <ul><li>#homepage</li></ul>                   |
-| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Omnipotence\|Omnipotence]]                                   | November 18, 2025 | <ul><li>#lessonmajor</li></ul>                |
-| [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Omniscience\|Omniscience]]                                   | November 18, 2025 | <ul><li>#lessonmajor</li></ul>                |
-| [[01 - Philosophy/01 Philosophy/Philosophy questions\|Philosophy questions]]                                              | November 18, 2025 | <ul></ul>                                     |
-| [[01 - Philosophy/01 Philosophy/Religious Language/Analogy\|Analogy]]                                                     | November 18, 2025 | <ul></ul>                                     |
+| File                                                                                                                                       | file.mday         | file.tags                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ------------------------------ |
+| [[02 - Politics/03 - USA/Comparative notes/Comparative USA and UK\|Comparative USA and UK]]                                             | December 27, 2025 | <ul><li>#homepage</li></ul>    |
+| [[02 - Politics/03 - USA/Comparative notes/Party funding comparative\|Party funding comparative]]                                       | December 27, 2025 | <ul><li>#comparative</li></ul> |
+| [[02 - Politics/03 - USA/Comparative notes/Supreme court and rights comparative\|Supreme court and rights comparative]]                 | December 27, 2025 | <ul><li>#comparative</li></ul> |
+| [[02 - Politics/03 - USA/Comparative notes/UK and US legislatures\|UK and US legislatures]]                                             | December 27, 2025 | <ul><li>#comparative</li></ul> |
+| [[02 - Politics/02 - UK government/01 - UK constitution/UK constitution\|UK constitution]]                                              | December 20, 2025 | <ul><li>#lessonmajor</li></ul> |
+| [[02 - Politics/02 - UK government/01 - UK constitution/The UK constitution\|The UK constitution]]                                      | December 20, 2025 | <ul><li>#homepage</li></ul>    |
+| [[02 - Politics/03 - USA/Constitution and federalism/The constitution\|The constitution]]                                               | December 18, 2025 | <ul><li>#lessonmajor</li></ul> |
+| [[02 - Politics/02 - UK government/04 - Relations between the branches/Relations between the branches\|Relations between the branches]] | December 10, 2025 | <ul></ul>                      |
+| [[02 - Politics/02 - UK government/04 - Relations between the branches/The UK supreme court\|The UK supreme court]]                     | December 10, 2025 | <ul><li>#lessonmajor</li></ul> |
+| [[02 - Politics/03 - USA/Constitution and federalism/Constitution and federalism\|Constitution and federalism]]                         | December 04, 2025 | <ul><li>#homepage</li></ul>    |
+| [[02 - Politics/03 - USA/Constitution and federalism/Federalism\|Federalism]]                                                           | December 04, 2025 | <ul><li>#lessonmajor</li></ul> |
+| [[02 - Politics/02 - UK government/04 - Relations between the branches/The European Union\|The European Union]]                         | November 30, 2025 | <ul><li>#lessonmajor</li></ul> |
+| [[02 - Politics/02 - UK government/02 - UK parliament/UK parliament\|UK parliament]]                                                    | November 28, 2025 | <ul><li>#lessonmajor</li></ul> |
+| [[02 - Politics/02 - UK government/02 - UK parliament/Comparative Lords and Commons\|Comparative Lords and Commons]]                    | November 28, 2025 | <ul><li>#lessonminor</li></ul> |
+| [[02 - Politics/03 - USA/Democracy and participation/Does campaign financing require reform\|Does campaign financing require reform]]   | November 18, 2025 | <ul><li>#lessonminor</li></ul> |
 
 { .block-language-dataview}
 

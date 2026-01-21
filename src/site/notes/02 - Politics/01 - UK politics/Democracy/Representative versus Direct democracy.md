@@ -33,7 +33,7 @@
 Representative democracy means that **there will always be a gulf between the government and the people.**
 > this can lead to political apathy as citizens feel powerless. Governments therefore govern in the name of the people: requiring their will (i.e. the mandate), but in practice, people have little meaningful control over the government. This is a common attitude in the UK.
 
-![Pasted image 20260107123942.png|800](/img/user/Images/Pasted%20image%2020260107123942.png)
+![Pasted image 20260107123942.png|800](/img/user/05%20-%20Images/Images/Pasted%20image%2020260107123942.png)
 > *2019 report*
 
 #### Personal development
@@ -43,7 +43,7 @@ Representative democracy means that **there will always be a gulf between the go
 Whereas with representative democracy, votes take place so infrequently that **people 'switch off' from politics.**
 > As a result, effective understanding of politics decreases (see below), reducing the ability of people to vote effectively even when they can vote: reducing effective participation and voting equality: especially because we simply do not have the resources to educate people (see Kier Starmer's policy on 16+ voting in England getting pushback from teachers because they don't have the resources to educate kids)
 
-![Pasted image 20260107124903.png|800](/img/user/Images/Pasted%20image%2020260107124903.png)
+![Pasted image 20260107124903.png|800](/img/user/05%20-%20Images/Images/Pasted%20image%2020260107124903.png)
 
 #### Ending professional politics
 **Direct democracy would reduce/remove the public's dependence on self-serving career politician**s. This would increase public trust, political understanding, participation, and decrease corruption, along with increasing legitimacy.
