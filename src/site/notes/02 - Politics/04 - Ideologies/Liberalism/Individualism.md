@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/individualism/","tags":["lessonminor"],"updated":"2026-01-21T12:24:01.163+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/individualism/","tags":["lessonminor"],"updated":"2026-01-21T12:27:01.777+00:00"}
 ---
 
 > [!note] This can be included in a discussion of the liberal view of society, human nature, and the economy.
@@ -11,13 +11,13 @@
 - it is often understood in the sense of personal autonomy
 
 ## What is it?
-As feudal societies moved towards capitalism, people were encouraged to think for themselves. As a result, society was increasingly understood from the viewpoint of the individual.
+As feudal societies moved towards capitalism, people were encouraged to think for themselves. As a result, society was increasingly<span style="color:rgb(255, 192, 0)"> understood from</span> the <span style="color:rgb(255, 192, 0)">viewpoint of the individual.</span>
 
 The belief in the **primacy of the individual** is the characteristic theme of liberalism. It's the belief in the supreme importance of the individual over any collective body, and suggests that the individual is central to any political theory.
-- individuals are private, separate, and unique entities who have an identity distinct to others which must be respected. 
-- Society is established by individuals for the fulfilment of their own ends, not the other way round.
+- individuals are<span style="color:rgb(255, 192, 0)"> private, separate, and unique entities</span> who have an identity distinct to others which must be respected. 
+- <span style="color:rgb(255, 192, 0)">Society is established</span> by individuals for the<span style="color:rgb(255, 192, 0)"> fulfilment of their own ends</span>, not the other way round.
 
-Individualism also implies that society should be constructed to benefit the individual — giving priority to individual rights/needs/interests.
+Individualism also implies that<span style="color:rgb(255, 192, 0)"> society should be constructed to benefit the individual</span> — giving priority to individual rights/needs/interests.
 
 This is best summed up by J.S. Mill:
 > [!quote] 'Over himself, over his own body and mind, the individual is sovereign.'
@@ -26,12 +26,11 @@ This is similar to Kant's idea of respecting people as ends in themselves, not a
 
 ## Differences between branches
 ### Classical liberal views
-**Strong emphasis** on individualism: the individual is rational, self-reliant, and capable of making decisions in their own best interests.
-
+**Strong emphasis** on individualism: the individual is<span style="color:rgb(255, 192, 0)"> rational, self-reliant, and capable of making decisions in their own best interests.<br></span>
 **Individuals existed prior to the state**, and society was formed through **voluntary interactions rather than collective purpose.**
-- therefore, the role of the state should be limited to protecting natural rights
+- therefore, the <span style="color:rgb(255, 192, 0)">role of the state</span> should be <span style="color:rgb(255, 192, 0)">limited</span> to protecting natural rights
 	- such as John Locke's **life, liberty & property.**
-- Any expansion of state power is a threat to individual freedom.
+- Any <span style="color:rgb(255, 192, 0)">expansion of state power</span> is a<span style="color:rgb(255, 192, 0)"> threat </span>to individual freedom.
 
 **Economic individualism** is central, with free markets allowing individuals to compete, innovate, and pursue success. Classical liberals **link outcomes closely with personal effort and responsibility.**
 
@@ -39,17 +38,17 @@ This is similar to Kant's idea of respecting people as ends in themselves, not a
 
 ### Modern liberal views
 
-Also values it, but recognises that **individuals are shaped by social and economic circumstances**. While individuals are autonomous and deserving of rights, they argue that genuine freedom requires the capacity to act on choices.
+Also values it, but recognises that **individuals are shaped by social and economic circumstances**. While individuals are autonomous and deserving of rights, they argue that <span style="color:rgb(255, 192, 0)">genuine freedom requires</span> the <span style="color:rgb(255, 192, 0)">capacity</span> to <span style="color:rgb(255, 192, 0)">act on choices.</span>
 >[!tip] This is also known as positive freedom.
 
-In which the state plays an active role in **enabling** individuals to **reach their potential**. Government intervention through:
+In which the <span style="color:rgb(255, 192, 0)">state plays an active role</span> in **enabling** individuals to **reach their potential**. Government intervention through:
 - welfare
 - education
 - healthcare
 - anti-discrimination
 is therefore justified.
 
-Individualism is **compatible with collective action**, as reducing inequality helps ensure fair opportunities for all.
+Individualism is **compatible with collective action**, as reducing inequality helps <span style="color:rgb(255, 192, 0)">ensure fair opportunities</span> for all.
 
 <span style="color:rgb(240, 40, 40)">Critics argue that this weakens personal responsibility, but modern liberals maintain that supporting individuals strengthens autonomy and meaningful freedom, rather than undermining it.</span>
 
