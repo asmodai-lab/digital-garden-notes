@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-pd-fs-and-articles/politics-essay-questions-bank-uk-and-usa-perspectives-paper-1-3/","updated":"2026-01-22T08:56:28.117+00:00"}
+{"dg-publish":true,"permalink":"/06-pd-fs-and-articles/politics-essay-questions-bank-uk-and-usa-perspectives-paper-1-3/","updated":"2026-01-22T09:38:27.063+00:00"}
 ---
 
 PAPER 1 :
@@ -55,7 +55,7 @@ Paper 3: ALL USA POLITICS
 - Evaluate the extent to which the current Conservative party are more influenced by one nation principles than Thatcherism - 30
 
 ### Electoral systems:
-- Evaluate the view that the emergence of multiple parties in the uk means that the electoral westminister electoral system must be changed - 30
+- Evaluate the view that the emergence of multiple parties in the UK means that the electoral Westminster electoral system must be changed - 30
 - Evaluate the view that various electoral systems in the UK make significant differences to party representation - 30
 - Evaluate the extent to which the FPTP electoral system promotes strong and stable government – 30
 - Evaluate the extent to which proportional representation promotes a democratic multi-party system – 30
@@ -70,7 +70,7 @@ Paper 3: ALL USA POLITICS
 - Evaluate the view that the influence of the media in politics is exaggerated; it is not heavily biased and has little power of persuasion - 30
 - Evaluate the relative importance of different demographic factors in voting behaviour – 30
 - Evaluate the impact of turnout in determining the outcomes of elections – 30
-- Evaluate the extent to which general electins in the UK are lost by the government rather than won by the opposition – 30
+- Evaluate the extent to which general elections in the UK are lost by the government rather than won by the opposition – 30
 - Evaluate the extent to which social factors determine voting behaviour – 30
 - Evaluate the view that, for the general public, the media is more significant than policy statements and manifestos from political parties – 30
 - Evaluate the extent to which the media influence the outcome of elections in the UK – 30

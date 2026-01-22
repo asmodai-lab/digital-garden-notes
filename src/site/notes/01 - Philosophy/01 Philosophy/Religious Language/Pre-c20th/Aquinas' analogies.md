@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/pre-c20th/aquinas-analogies/","tags":["lessonmajor"],"updated":"2025-12-04T11:57:40.795+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/pre-c20th/aquinas-analogies/","tags":["lessonmajor"],"updated":"2026-01-22T09:00:33.027+00:00"}
 ---
 
 

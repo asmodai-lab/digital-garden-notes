@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/pre-c20th/via-negativa/","tags":["messy"],"updated":"2025-12-03T10:10:41.189+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/pre-c20th/via-negativa/","tags":["messy"],"updated":"2026-01-22T09:00:43.961+00:00"}
 ---
 
 #intro 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/pre-c20th/the-apophatic-way/","tags":["lessonmajor"],"updated":"2025-12-03T14:25:30.628+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/pre-c20th/the-apophatic-way/","tags":["lessonmajor"],"updated":"2026-01-22T09:00:41.623+00:00"}
 ---
 
 

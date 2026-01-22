@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/pre-c20th/what-is-the-problem-of-religious-language/","tags":["lessonminor","intro"],"updated":"2025-12-03T14:26:35.101+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/pre-c20th/what-is-the-problem-of-religious-language/","tags":["lessonminor","intro"],"updated":"2026-01-22T09:00:45.915+00:00"}
 ---
 
 
