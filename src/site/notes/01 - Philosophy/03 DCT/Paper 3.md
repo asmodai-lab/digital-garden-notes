@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/paper-3/","tags":["homepage"],"updated":"2026-01-21T08:59:16.470+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/paper-3/","tags":["homepage"],"updated":"2026-01-21T12:40:19.477+00:00"}
 ---
 
 [[01 - Philosophy/03 DCT/01 Gender and Society/Gender and society home\|Gender and society home]]
@@ -14,4 +14,4 @@
 
 [[01 - Philosophy/03 DCT/Christian Moral Principles/Christian Moral Principles\|Christian Moral Principles]]
 
-[[01 - Philosophy/03 DCT/Jesus Christ\|01 - Philosophy/03 DCT/Jesus Christ]]
+[[01 - Philosophy/03 DCT/Jesus Christ/Jesus Christ\|Jesus Christ]]

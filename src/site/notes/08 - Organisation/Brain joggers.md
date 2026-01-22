@@ -11,7 +11,7 @@
 |       | mind-body-soul                        | 2          |
 |       | A posteriori arguments                | 4          |
 |       | A priori arguments                    | 5          |
-|       | [[01 - Philosophy/01 Philosophy/Religious Experience Brain Jogger\|Religious Experience Brain Jogger]] | 3          |
+|       | [[01 - Philosophy/01 Philosophy/Religious experience/Religious Experience Brain Jogger\|Religious Experience Brain Jogger]] | 3          |
 |       | The problem of evil                   | 2          |
 |       | Nature and Attributes of God          | 8          |
 |       | Religious language                    | 9          |

@@ -20,20 +20,20 @@
 
 ### Pre-20th century
 
-[[01 - Philosophy/01 Philosophy/Religious Language/What is the problem of religious language\|What is the problem of religious language]] (includes most of the useful terminology definitions for this topic)
+[[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/What is the problem of religious language\|What is the problem of religious language]] (includes most of the useful terminology definitions for this topic)
 
-[[01 - Philosophy/01 Philosophy/Religious Language/The apophatic way\|The apophatic way]]
+[[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/The apophatic way\|The apophatic way]]
 
-[[01 - Philosophy/01 Philosophy/Religious Language/Aquinas' analogies\|Aquinas' analogies]]
+[[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Aquinas' analogies\|Aquinas' analogies]]
 
-[[01 - Philosophy/01 Philosophy/Religious Language/Tillich's view on symbolism\|Tillich's view on symbolism]]
+[[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Tillich's view on symbolism\|Tillich's view on symbolism]]
 
 [[05 - Images/media-lib 1/url-ef526jmq\|language c20th]] (video)
 
 
 ### Dumping yard for notes
-[[01 - Philosophy/01 Philosophy/Religious Language/Via Negativa\|Via Negativa]]
-[[01 - Philosophy/01 Philosophy/Religious Language/Analogy\|Analogy]]
+[[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Via Negativa\|Via Negativa]]
+[[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Analogy\|Analogy]]
 >[[Analogy.canvas|Analogy canvas]]
 [[Symbol.canvas|Symbol]] (these two file types are unviewable on the website.)
 
