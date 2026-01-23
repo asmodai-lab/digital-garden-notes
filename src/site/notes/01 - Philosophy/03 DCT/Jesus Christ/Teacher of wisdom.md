@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/jesus-christ/teacher-of-wisdom/","tags":["excalidraw","brainjogger"],"updated":"2026-01-22T12:06:34.202+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/jesus-christ/teacher-of-wisdom/","tags":["excalidraw","brainjogger"],"updated":"2026-01-22T15:15:53.215+00:00"}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
