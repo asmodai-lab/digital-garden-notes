@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/ethical-systems/situation-ethics/situation-ethics/","tags":["lessonmajor"],"updated":"2025-11-24T15:12:04.535+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/ethical-systems/situation-ethics/situation-ethics/","tags":["lessonmajor"],"updated":"2026-01-29T11:46:55.725+00:00"}
 ---
 
 - [[01 - Philosophy/02 Ethics/Ethical systems/Situation ethics/Situation ethics#ituation ethics\|Principles]]
@@ -9,7 +9,7 @@
 	- [[01 - Philosophy/02 Ethics/Ethical systems/Situation ethics/Situation ethics#Principles\|The six fundamental principles]]
 - [[01 - Philosophy/02 Ethics/Ethical systems/Situation ethics/Situation ethics#Questions on Situation ethics\|Questions on Situation ethics]]
 
-
+[[01 - Philosophy/02 Ethics/Ethical systems/Situation ethics/Situation ethics brain jogger\|Situation ethics brain jogger]]
 
 ## Principles
 
@@ -74,3 +74,9 @@ These are how to apply situation ethics/agape to ethics.
 • whether or not an ethical judgement about something being good, bad, right or wrong can be based on the extent to which, in any given situation, agape is best served
 • whether Fletcher’s understanding of agape is really religious or whether it means nothing more than wanting the best for the person involved in a given situation
 • whether or not the rejection of absolute rules by situation ethics makes moral decision-making entirely individualistic and subjective
+
+### Resources
+- [article](https://peped.org/philosophicalinvestigations/handout-situation-ethics40/)
+- [consequentialism — sort of about situation ethics?](https://iep.utm.edu/consequentialism-utilitarianism/)
+- [FULL ARTICLE ON SITUATION ETHICS (very good. introduces consciousness)](https://philosophynow.org/issues/28/The_Singer_Revolution)
+- [Peter Singer's ethics](https://philosophynow.org/issues/28/The_Singer_Revolution)
