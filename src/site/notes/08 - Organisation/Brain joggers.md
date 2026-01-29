@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-organisation/brain-joggers/","tags":["brainjogger","resources","summary"],"updated":"2026-01-06T10:28:36.826+00:00"}
+{"dg-publish":true,"permalink":"/08-organisation/brain-joggers/","tags":["brainjogger","resources","summary"],"updated":"2026-01-29T11:52:22.429+00:00"}
 ---
 
 #resources 
@@ -18,7 +18,7 @@
 |       | Modern religious language             | ?          |
 |       |                                       |            |
 | 2     | Natural moral law                     | 3          |
-|       | Situation ethics                      | 2          |
+|       | [[01 - Philosophy/02 Ethics/Ethical systems/Situation ethics/Situation ethics brain jogger\|Situation ethics brain jogger]]     | 2          |
 |       | Kantian ethics                        | 6          |
 |       | Utilitarianism                        | 2          |
 |       | Business ethics                       | 3          |
@@ -29,7 +29,7 @@
 | 3     | Augustine on human nature             | 4          |
 |       | Death and the afterlife               | 4          |
 |       | Knowledge of God's existence          | 5          |
-|       | The person of Jesus Christ            | 3          |
+|       | [[01 - Philosophy/03 DCT/Jesus Christ/Jesus Christ\|Jesus Christ]]                      | 3          |
 |       | Christian moral principles            | 2          |
 |       | Christian moral action                | 3          |
 |       | Religious pluralism and theology      | ?          |
