@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/jesus-christ/jesus-christ-son-of-god/","tags":["excalidraw","brainjogger"],"updated":"2026-01-22T09:59:59.302+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/jesus-christ/jesus-christ-son-of-god/","tags":["excalidraw","brainjogger"],"updated":"2026-01-29T11:51:39.877+00:00"}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'

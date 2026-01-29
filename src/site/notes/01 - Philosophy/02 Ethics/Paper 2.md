@@ -14,7 +14,7 @@
 
 ## Ethics things
 
-[[01 - Philosophy/02 Ethics/Business ethics.excalidraw\|Business ethics]]
+[[01 - Philosophy/02 Ethics/Business ethics/Business ethics.excalidraw\|Business ethics]]
 
 [[01 - Philosophy/02 Ethics/Sexual Ethics/Sex ethics\|Sex ethics]]
 

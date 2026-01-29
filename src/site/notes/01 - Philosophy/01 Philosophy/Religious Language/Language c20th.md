@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/language-c20th/","tags":["homepage"],"updated":"2026-01-21T10:57:25.175+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/language-c20th/","tags":["homepage"],"updated":"2026-01-29T09:04:49.671+00:00"}
 ---
 
 ## Specification
@@ -23,8 +23,9 @@
 ## Notes
 
 [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Logical positivism and the verification principle\|Logical positivism and the verification principle]]
+- [[01 - Philosophy/01 Philosophy/Religious Language/Criticisms of verification\|Criticisms of verification]]
 
-[[Falsification\|Falsification]]
+[[01 - Philosophy/01 Philosophy/Religious Language/Falsification\|Falsification]]
 
 [[Wittgenstein and language games\|Wittgenstein and language games]]
 
@@ -39,4 +40,5 @@
 - [Religious language, Internet encyclopedia of Philosophy](https://iep.utm.edu/rel-lang/) (includes verification, plus pre-20th century religious language theories.)
 - [Analytic philosophy, IEP](https://iep.utm.edu/analytic-philosophy/)
 - [Falsification and Karl Popper, IEP](https://iep.utm.edu/pop-sci/)
+- [Religious language, Plato Standford](https://plato.stanford.edu/entries/religious-language/)
 
