@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism/","tags":["homepage"],"updated":"2026-01-28T11:53:55.794+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism/","tags":["homepage"],"updated":"2026-02-04T12:05:38.681+00:00"}
 ---
 
 [[02 - Politics/04 - Ideologies/Liberalism/Core tenets\|Core tenets]]
@@ -7,6 +7,9 @@
 [[02 - Politics/04 - Ideologies/Liberalism/Liberalism lesson notes\|Liberalism lesson notes]]
 
 [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers\|Liberalism key thinkers]]
+
+[[02 - Politics/04 - Ideologies/Liberalism/Liberalism tenet questions\|Liberalism tenet questions]]
+> [[02 - Politics/04 - Ideologies/Liberalism/Worked liberalism tenet questions\|Worked liberalism tenet questions]]
 
 
 
