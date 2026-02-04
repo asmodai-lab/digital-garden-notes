@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/uk-politics-home/","tags":["homepage"],"updated":"2026-01-07T09:05:36.317+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/uk-politics-home/","tags":["homepage"],"updated":"2026-02-04T11:06:25.275+00:00"}
 ---
 
 [[02 - Politics/01 - UK politics/Democracy/Democracy\|Democracy]]
@@ -27,4 +27,7 @@
 - long term factors
 - the media
 - election case studies
+
+## NOTE OF A GREAT STAT
+35% of Labour's seats in the 2024 GE were won by vote split between Conservative and Reform (144/411)
 

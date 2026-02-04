@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/ideologies-homepage/","tags":["homepage"],"updated":"2026-01-23T10:46:03.723+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/ideologies-homepage/","tags":["homepage"],"updated":"2026-02-03T12:05:12.019+00:00"}
 ---
 
 
-[[02 - Politics/04 - Ideologies/Socialism/Socialism\|Socialism]]
+[[02 - Politics/04 - Ideologies/Socialism/Socialism\|02 - Politics/04 - Ideologies/Socialism/Socialism]]
 
 [[02 - Politics/04 - Ideologies/Liberalism/Liberalism\|Liberalism]]
 
-[[02 - Politics/04 - Ideologies/Conservatism\|Conservatism]]
+[[02 - Politics/04 - Ideologies/Conservatism/Conservatism\|Conservatism]]
 ## Introduction
 
 

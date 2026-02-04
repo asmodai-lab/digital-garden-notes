@@ -27,7 +27,7 @@
 
 [[01 - Philosophy/01 Philosophy/Religious Language/Falsification\|Falsification]]
 
-[[Wittgenstein and language games\|Wittgenstein and language games]]
+[[01 - Philosophy/01 Philosophy/Religious Language/Wittgenstein and language games\|Wittgenstein and language games]]
 
 ## Resources
 **Readings from the Specification**

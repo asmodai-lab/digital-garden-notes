@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism-key-thinkers/","tags":["lessonminor"],"updated":"2026-01-28T12:34:27.737+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism-key-thinkers/","tags":["lessonminor"],"updated":"2026-02-04T12:04:06.746+00:00"}
 ---
 
 Non-spec key thinkers: Jeremy Bentham, Adam Smith, Immanuel Kant.
@@ -43,7 +43,6 @@ True faith cannot be forced, and one has no more reason to think that they are r
 
 ---
 ## Mary Wollstonecraft (1759-97)
-
 Mary Wollstonecraft was a pioneer in feminist thinking. Her book, *A Vindication of the Rights of Woman*, stressed the equal rights of women — especially in education — based on the notion of 'personhood.'
 
 ### Reason
@@ -113,3 +112,45 @@ Mill thought that higher pleasures were far superior to lower ones, as once huma
 
 > [!quote] 'it is better to be a human dissatisfied than a pig satisfied.'
 
+----
+## John Rawls (1921-2002)
+A US political philosopher who used a form of social contract theory to reconcile liberal individualism with the principles of redistribution and social justice. In his major work, *A Theory of Justice* (1970), he developed the notion of 'justice as fairness'.
+
+### Justice as fairness
+This is Rawls' theory of justice for a liberal society; it recommends equal basic rights, equality of opportunity and promoting the interests of the least advantaged members of society. Justice meant society should be accessible to all. A society with fundamental inequality of opportunity at its heart could not be a just one. 
+
+Rawls identified two guiding principles:
+1. Each person is to have an equal right to the most extensive liberty compatible with a similar liberty for all.
+2. Social and economic equalities are to be organized so they are both:
+	1. to the greatest benefit of the least advantaged
+	2. allow all positions and offices to be open to all under conditions of equality of opportunity.
+
+The first principle is commitment to liberty. The second is aiming towards distributive justice, i.e. that inequalities of wealth to incentivize people are acceptable as long as they raise the prosperity of the least well-off. 
+
+However, Rawls was very clear that the first principle takes priority over the second; liberty for all is more important than the prosperity of society, i.e. if reducing liberty would result in greater economic growth and prosperity: the economic advantages are not worth the loss of liberty.
+
+For Rawls, the way to do this was via the social institutions at the heart of society: education, healthcare, and welfare. Rawls believed that a capitalist economy with strong social institutions would result in a fair and just society. Capitalism on its own was not sufficient to ensure fairness.
+
+### The original position, veil of ignorance and the difference principle
+Rawls suggested a way of agreeing how society should organize itself where the citizens are free and equal, and society fair. 
+
+The **'original position'** is Rawls' hypothetical scenario where people are set the task of reaching an agreement about how to create a just society. These decisions are made behind a **'veil of ignorance'** where knowledge of one's gender, race, age, intelligence, wealth, skills, education, and religion are unknown. Rawls argued that this was the best way to ensure that no one considered their own vested interest.
+
+He suggested that all rational individuals in these circumstances would advocate an unequal society, but one where the differences between individuals was not too great. This position is expressed in the 'difference principle', according to which, in a system of ignorance about one's status, one would strive to improve the position of the worst off, because he might find himself in that position.
+
+----
+## Betty Friedan
+Betty Friedan is seen as the founder of the women's liberation movement. It's a tad nonsensical to have her as a key thinker in liberalism, but she adds much to the debate about equality of opportunity, as well as reforming society legally and gradually.
+
+Friedan believes that women are insufficiently free in society. They argue that decisions are made *for* women, but which don't reflect their capabilities and needs. This means that women are unable to flourish in society. Freedom is a means to personal autonomy— i.e. the ability to live the life of your choosing, which includes political autonomy.
+
+### Problem with no name
+Friedan made her most famous discovery while asking alumni during a college reunion to complete a survey on their experiences of the workplace after graduating. Their responses were so similar that Friedan realised that she was onto something: described as the 'problem with no name'.
+
+> [!quote] The Feminine Mystique, 1963
+> 'The problem lay buried, unspoken, for many years... a sense of dissatisfaction, a yearning that women suffered... each suburban (house)wife struggled with it alone. As she made the beds, shopped for groceries... she was afraid to ask even of herself the silent question — "Is this all?"'
+
+This is linked to the notion of positive freedom, developmental individualism and equality of opportunity. Women were unable to thrive, grow or develop in society as their choices had been predetermined. Society had already decided that a life of domesticity (looking after a home, a husband and children) made women happy. It was so pervasive in society that women who felt stifled and unfulfilled wondered what was wrong with them. Why were they unhappy? They felt guilty for not feeling more fulfilled.
+
+Friedan argued that women were as capable as men of any type of work or any career path, which, at the time, ran contrary to the wide perceptions in the media and wider society. Friedan revealed a pervasive paternalistic culture which sought to keep women in a lower position in society with the argument that this was their ‘natural’ role, where men knew what was best for women rather than the equal moral worth agenda espoused by so many liberals at the time. This was the same paternalism that liberalism had been seeking to eradicate in society. Friedan was simply asking
+that women were treated like humans too, as J.S. Mill had begun to do a century before. She was seeking to challenge attitudes that limited the freedom and individualism of half the population of the world.

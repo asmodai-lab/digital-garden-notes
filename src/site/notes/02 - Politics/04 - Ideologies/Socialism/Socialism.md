@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/socialism/","tags":["lessonmajor"],"updated":"2025-12-12T12:44:11.876+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/socialism/","tags":["lessonmajor"],"updated":"2026-02-03T12:02:18.397+00:00"}
 ---
 
 
@@ -16,12 +16,24 @@ The spec only asks for three. DON'T WRITE ABOUT THE FOURTH ONE (Democratic Socia
 | Society      | Capitalism will eventually oroboros itself as the capitalist class becomes smaller over time and the proletariat will finally grow so angry that they do a revolution.                                                                                  | Crime is caused by a mix of social causes and free will.                                | Still want to focus on the causes of crime but bigger focus on individual responsibility.                                                                                                              |
 | Human Nature | Human nature is corrupted because we are alienated from our work and forced to be greedy by capitalism.                                                                                                                                                 | Class defines your human nature.                                                        | Class doesn't really exist, actually we are all part of multiple 'groups' (club, family, race, religion, etc etc). People suffer because they are on the edges of society, not because of their class. |
 | the economy  | because wealth can not be created, someone who becomes wealthier becomes so because somebody else becomes poorer.                                                                                                                                       | Mixed economy — capitalism can create wealth but unregulated causes suffering.          | Free market economy with minimal nationalisation and low regulations, low taxes, and restrictions on trade unions in order to encourage wealth creation.                                               |
+
 ### Tenets of Socialism
 - collectivism - *to cover how collective human effort is both of greater practical value to the economy and moral value to society than the effort of individuals*
 - common humanity - *to cover the nature of humans as social creatures with a tendency to co-operation, sociability and rationality, and how the individual cannot be understood without reference to society, as human behaviour is socially determined*
 - equality - *is a fundamental value of socialism – to cover the disagreements among socialists about the nature of equality and how it is critical to the state, society, the economy and human nature*
 - social class - *a group of people in society who have the same socioeconomic status – to cover the extent to which class impacts on socialists’ views of society, the state and the economy*
 - worker's control - *to cover the importance and the extent of control over the economy and/or state and how it is to be achieved*
+
+
+|                  | Revolutionary socialism                                                                                               | Social Democracy                                                                | Third way                                                                     |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Collectivism     | 'From each according to ability, to each according to need.'                                                          | Nationalise the 'commanding heights' of the economy.                            | Socialism can be adapted and delibered via the current capitalist system      |
+| Common humanity  | Humans are naturally sociable, identifying themselves as part of a group, but their behaviour is socially determined. | Human nature has a predisposition for a fair and just society.                  | Humans balance their wish for a fair and just society against individual need |
+| Equality         | Absolute equality.                                                                                                    | Greater social and economic equality                                            | Social justice/equality of opportunity                                        |
+| Social class     | Class conflict is at the core of society                                                                              | Break down the barriers between classes to minimize distinctions                | Class is no longer relevant in modern society                                 |
+| Workers' control | Means of production are placed in the hands of the workers.                                                           | more important to focus on control and regulation of capitalism than ownership. | ownership should remain as it is. State should not seek to own.               |
+
+
 
 ### Thinkers
 **Karl Marx (1818–83) and Friedrich Engels (1820–95)**
