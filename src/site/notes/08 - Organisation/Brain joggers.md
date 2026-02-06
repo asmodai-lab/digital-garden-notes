@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-organisation/brain-joggers/","tags":["brainjogger","resources","summary"],"updated":"2026-01-29T11:52:22.429+00:00"}
+{"dg-publish":true,"permalink":"/08-organisation/brain-joggers/","tags":["brainjogger","resources","summary"],"updated":"2026-02-04T13:25:39.662+00:00"}
 ---
 
 #resources 
@@ -38,3 +38,7 @@
 |       | Gender and society                    | 5          |
 |       | The challenge of Secularism           | ?          |
 |       | Liberation theology                   | 6          |
+
+## Politics
+
+[[02 - Politics/04 - Ideologies/Liberalism/Liberalism brain jogger\|Liberalism brain jogger]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/classical-liberalism/","tags":["lessonminor"],"updated":"2025-12-17T12:07:07.053+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/classical-liberalism/","tags":["lessonminor"],"updated":"2026-02-04T13:28:04.677+00:00"}
 ---
 
 **Table of Contents**

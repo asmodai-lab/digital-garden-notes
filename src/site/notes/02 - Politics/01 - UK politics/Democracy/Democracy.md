@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/democracy/","tags":["homepage"],"updated":"2026-02-06T10:47:02.632+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/democracy/","tags":["homepage"],"updated":"2026-02-06T10:47:04.851+00:00"}
 ---
 
 ## Introduction
@@ -12,7 +12,7 @@
 [[02 - Politics/01 - UK politics/Democracy/Pressure groups, Lobbyists and think tanks\|Pressure groups, Lobbyists and think tanks]]
 [[Protection of rights\|Protection of rights]]
 
-[[02 - Politics/01 - UK politics/Democracy/Switzerland and direct democracy\|Switzerland and direct democracy]] (case study, from an interview done by me)
+[[02 - Politics/01 - UK politics/Democracy/Switzerland and direct democracy\|Switzerland and direct democracy]] (case study, from an interview done by me.)
 
 ### Major debates:
 1. Evaluate the view that the UK is suffering from a participation crisis

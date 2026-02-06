@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/individualism/","tags":["lessonminor"],"updated":"2026-01-21T12:33:36.379+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/individualism/","tags":["lessonminor"],"updated":"2026-02-04T12:21:07.887+00:00"}
 ---
 
 > [!note] This can be included in a discussion of the liberal view of society, human nature, and the economy.
@@ -34,7 +34,7 @@ This is best summed up by J.S. Mill:
 This is similar to Kant's idea of respecting people as ends in themselves, not a means to an end. 
 
 ### Egoistic and individualistic individualism
-
+~~ there's nothing here yet~~
 
 ### Scholars
 Mary Wollstonecraft argued that tolerance out to be extended to women, in order to allow them to play a fuller role in society — particularly on having the right to vote.
