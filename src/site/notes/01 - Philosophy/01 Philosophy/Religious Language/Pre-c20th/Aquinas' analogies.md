@@ -1,7 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/pre-c20th/aquinas-analogies/","tags":["lessonmajor"],"updated":"2026-01-22T09:00:33.027+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/pre-c20th/aquinas-analogies/","tags":["lessonmajor"],"updated":"2026-02-09T09:58:04.986+00:00"}
 ---
 
+**Table of Contents**
+
+- [[#Aquinas' criticisms of the cataphatic way|Aquinas' criticisms of the cataphatic way]]
+- [[#His solution — the secret third way|His solution — the secret third way]]
+	- [[#His solution — the secret third way#Analogy of attribution|Analogy of attribution]]
+		- [[#Analogy of attribution#Is this analogy strong?|Is this analogy strong?]]
+			- [[#Is this analogy strong?#Karl Barth's critique|Karl Barth's critique]]
+	- [[#His solution — the secret third way#Analogy of proportion|Analogy of proportion]]
+		- [[#Analogy of proportion#The way I like to understand it|The way I like to understand it]]
+		- [[#Analogy of proportion#Brummer's critique|Brummer's critique]]
 
 
 ## Aquinas' criticisms of the cataphatic way

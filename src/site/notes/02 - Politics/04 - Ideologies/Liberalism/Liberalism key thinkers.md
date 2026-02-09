@@ -1,8 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism-key-thinkers/","tags":["lessonminor"],"updated":"2026-02-04T12:04:06.746+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism-key-thinkers/","tags":["lessonminor"],"updated":"2026-02-09T09:08:58.965+00:00"}
 ---
 
 Non-spec key thinkers: Jeremy Bentham, Adam Smith, Immanuel Kant.
+
+**Table of Contents**
+
+- [[#John Locke (1632-1704)|John Locke (1632-1704)]]
+	- [[#John Locke (1632-1704)#Rights|Rights]]
+	- [[#John Locke (1632-1704)#Social contract|Social contract]]
+	- [[#John Locke (1632-1704)#Limited and legitimate governments|Limited and legitimate governments]]
+	- [[#John Locke (1632-1704)#Toleration|Toleration]]
+- [[#Mary Wollstonecraft (1759-97)|Mary Wollstonecraft (1759-97)]]
+	- [[#Mary Wollstonecraft (1759-97)#Reason|Reason]]
+	- [[#Mary Wollstonecraft (1759-97)#Independence|Independence]]
+	- [[#Mary Wollstonecraft (1759-97)#Education|Education]]
+- [[#John Stuart Mill (1806-73)|John Stuart Mill (1806-73)]]
+	- [[#John Stuart Mill (1806-73)#Harm Principle|Harm Principle]]
+	- [[#John Stuart Mill (1806-73)#Individuality|Individuality]]
+- [[#John Rawls (1921-2002)|John Rawls (1921-2002)]]
+	- [[#John Rawls (1921-2002)#Justice as fairness|Justice as fairness]]
+	- [[#John Rawls (1921-2002)#The original position, veil of ignorance and the difference principle|The original position, veil of ignorance and the difference principle]]
+- [[#Betty Friedan|Betty Friedan]]
+	- [[#Betty Friedan#Problem with no name|Problem with no name]]
 
 
 ## John Locke (1632-1704)

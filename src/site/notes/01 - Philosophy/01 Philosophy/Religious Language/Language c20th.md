@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/language-c20th/","tags":["homepage"],"updated":"2026-01-29T09:04:49.671+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/language-c20th/","tags":["homepage"],"updated":"2026-02-06T11:57:55.891+00:00"}
 ---
 
 ## Specification
@@ -23,11 +23,15 @@
 ## Notes
 
 [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Logical positivism and the verification principle\|Logical positivism and the verification principle]]
-- [[01 - Philosophy/01 Philosophy/Religious Language/Criticisms of verification\|Criticisms of verification]]
+- [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Criticisms of verification\|Criticisms of verification]]
 
-[[01 - Philosophy/01 Philosophy/Religious Language/Falsification\|Falsification]]
+[[01 - Philosophy/01 Philosophy/Religious Language/c20th/Falsification\|Falsification]]
 
-[[01 - Philosophy/01 Philosophy/Religious Language/Wittgenstein and language games\|Wittgenstein and language games]]
+[[01 - Philosophy/01 Philosophy/Religious Language/c20th/Wittgenstein and language games\|Wittgenstein and language games]]
+
+### Worksheets
+[[Wittgenstein longer sheet\|Wittgenstein longer sheet]]
+[[01 - Philosophy/01 Philosophy/Religious Language/c20th/Language games question sheet\|Language games question sheet]]
 
 ## Resources
 **Readings from the Specification**

@@ -161,7 +161,7 @@ Religious faith is nonsense, religious experience is nonsense. All discussion on
 
 ## Criticisms
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-philosophy/01-philosophy/religious-language/criticisms-of-verification/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-philosophy/01-philosophy/religious-language/c20th/criticisms-of-verification/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -171,19 +171,19 @@ Religious faith is nonsense, religious experience is nonsense. All discussion on
 
 **Table of Contents**
 
-- [[01 - Philosophy/01 Philosophy/Religious Language/Criticisms of verification#Narrow view of meaning\|Narrow view of meaning]]
-	- [[01 - Philosophy/01 Philosophy/Religious Language/Criticisms of verification#Narrow view of meaning\|Assumes only science can tell us about the world]]
-	- [[01 - Philosophy/01 Philosophy/Religious Language/Criticisms of verification#Narrow view of meaning\|Religious sentences are not in the same category as scientific sentences]]
-	- [[01 - Philosophy/01 Philosophy/Religious Language/Criticisms of verification#Narrow view of meaning\|'Toys in the Cupboard' (Swinburne)]]
-	- [[01 - Philosophy/01 Philosophy/Religious Language/Criticisms of verification#Narrow view of meaning\|Brummer]]
-- [[01 - Philosophy/01 Philosophy/Religious Language/Criticisms of verification#Science v Theology\|Science v Theology]]
-	- [[01 - Philosophy/01 Philosophy/Religious Language/Criticisms of verification#Science v Theology\|Emmet]]
-- [[01 - Philosophy/01 Philosophy/Religious Language/Criticisms of verification#Fails it's own test\|Fails it's own test]]
-	- [[01 - Philosophy/01 Philosophy/Religious Language/Criticisms of verification#Fails it's own test\|Practicality problems]]
-	- [[01 - Philosophy/01 Philosophy/Religious Language/Criticisms of verification#Fails it's own test\|Ayer and Popper's response]]
-- [[01 - Philosophy/01 Philosophy/Religious Language/Criticisms of verification#Eschatologically verifiable\|Eschatologically verifiable]]
-	- [[01 - Philosophy/01 Philosophy/Religious Language/Criticisms of verification#Eschatologically verifiable\|The Celestial city]]
-		- [[01 - Philosophy/01 Philosophy/Religious Language/Criticisms of verification#The Celestial city\|Hick's claim]]
+- [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Criticisms of verification#Narrow view of meaning\|Narrow view of meaning]]
+	- [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Criticisms of verification#Narrow view of meaning\|Assumes only science can tell us about the world]]
+	- [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Criticisms of verification#Narrow view of meaning\|Religious sentences are not in the same category as scientific sentences]]
+	- [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Criticisms of verification#Narrow view of meaning\|'Toys in the Cupboard' (Swinburne)]]
+	- [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Criticisms of verification#Narrow view of meaning\|Brummer]]
+- [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Criticisms of verification#Science v Theology\|Science v Theology]]
+	- [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Criticisms of verification#Science v Theology\|Emmet]]
+- [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Criticisms of verification#Fails it's own test\|Fails it's own test]]
+	- [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Criticisms of verification#Fails it's own test\|Practicality problems]]
+	- [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Criticisms of verification#Fails it's own test\|Ayer and Popper's response]]
+- [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Criticisms of verification#Eschatologically verifiable\|Eschatologically verifiable]]
+	- [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Criticisms of verification#Eschatologically verifiable\|The Celestial city]]
+		- [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Criticisms of verification#The Celestial city\|Hick's claim]]
 
 
 ## Narrow view of meaning
