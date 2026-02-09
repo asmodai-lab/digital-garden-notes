@@ -1,10 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/switzerland-and-direct-democracy/","tags":["casestudy"],"updated":"2026-02-06T10:45:27.787+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/switzerland-and-direct-democracy/","tags":["casestudy"],"updated":"2026-02-09T10:49:00.471+00:00"}
 ---
 
 > [!note] 
 > Please note that this was created via interview with a Swiss person (my pseudo-aunt), and so is only a (quite possibly inaccurate) snapshot of Swiss politics.
 > - Also, since this was found through an interview, these notes are messy and unorganised, and are also somewhat informal. 
+>   
+>   if you want better info, here is the official government website: https://www.parlament.ch/en/%c3%bcber-das-parlament/how-does-the-swiss-parliament-work 
+
+
 
 
 ## How does the Swiss system work?
@@ -43,10 +47,10 @@ Switzerland is (probably) the only direct democracy in the world. What does this
 
 There isn't a two party system. There are ~7 popular parties. They use proportional representation, and were the (probably) the first country in the world to use it in elections.
 
-At the top, there is the 'federal council' — 7 people who act as the 'presidency'. The one that is the 'president' (which is more of a head of state-type role, they don't have any specific powers, it's more a 'face of the country/meeting foreign diplomats' deal), changes each year. 
+At the top, there is the 'federal council' (the 'bundesrat') — 7 people who act as the 'presidency'. The one that is the 'president' (which is more of a head of state-type role, they don't have any specific powers, it's more a 'face of the country/meeting foreign diplomats' deal), changes each year. 
 - the makeup of parties is proportional to the elections — so there are generally 2 of each main party plus a floater. Which specific people these are, are elected by the party membership.
 
-The highest parliament is the 'Bundestag'. It's elected by proportional representation, and mostly proposes policy.
+The highest parliament is the federal assembly. It's elected by proportional representation, and mostly proposes policy.
 
 Then Switzerland is split up into the aforementioned 26 cantons. Each works similarly to a US state, having their own powers, parliament, and regulations.
 
@@ -63,6 +67,12 @@ It's further split into council-type parliaments for towns/cities/etc.
 
 **Do they have a constitution?**
 - eh. It is both a 'yes and no' answer, same as the UK, but it's not similar to the UK constitution aside from that. From what I've grasped, because everyone can vote on everything, the 'constitution' is just the same as the law — there are some principles abided by the governments, but they seem to be more convention than official law.
+
+> [!note] note from further research
+> The above was the answer from my aunt. From further research, they do have a constitution — but it's barely similar to the US constitution.
+> First, it can be amended by simple majority in all the cantons and by all voters. According to the official website, it is amended regularly. This last happened just before 2000
+> Second, it isn't sovereign. The federal courts cannot strike down a law on the basis of unconstitutionality, except in cases of conflict between federal law and international law.
+> It's only power is in that it is sovereign above all lower legislation (i.e. in cantons)
 
 ### Swiss political culture
 **How can they do this?**
