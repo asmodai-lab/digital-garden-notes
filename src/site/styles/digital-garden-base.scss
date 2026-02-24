@@ -10,7 +10,7 @@ body {
     ***/
 
     /* Layout Variables */
-    --dg-content-max-width: 700px;
+    --dg-content-max-width: 800px;
     --dg-content-padding-top: 90px;
     --dg-content-padding-top-mobile: 75px;
     --dg-content-font-size: 18px;
@@ -20,7 +20,7 @@ body {
     --dg-sidebar-top: 75px;
     --dg-sidebar-gap: 80px;
     --dg-sidebar-min-width: 25px;
-    --dg-sidebar-max-width: 350px;
+    --dg-sidebar-max-width: 250px;
     --dg-sidebar-container-padding: 20px;
     --dg-sidebar-container-height: 87%;
 
@@ -33,11 +33,11 @@ body {
     --dg-graph-fullscreen-height: 600px;
 
     /* Filetree (Left Sidebar) Variables */
-    --dg-filetree-width: 250px;
-    --dg-filetree-min-width: 250px;
+    --dg-filetree-width: 200px;
+    --dg-filetree-min-width: 200px;
     --dg-filetree-padding: 10px 20px;
-    --dg-filetree-gap: 80px;
-    --dg-filetree-title-size: 32px;
+    --dg-filetree-gap: 70px;
+    --dg-filetree-title-size: 20px;
 
     /* TOC (Table of Contents) Variables */
     --dg-toc-padding: 5px;
@@ -69,8 +69,8 @@ body {
     --dg-search-link-size: 1.1rem;
 
     /* Search Layout Variables */
-    --dg-search-preview-width: 55%;
-    --dg-search-results-width: 45%;
+    --dg-search-preview-width: 65%;
+    --dg-search-results-width: 55%;
     --dg-search-divider-color: var(--background-modifier-border, rgba(255, 255, 255, 0.1));
     --dg-search-highlight-bg: rgba(255, 208, 0, 0.25);
     --dg-search-highlight-color: inherit;
@@ -84,10 +84,10 @@ body {
     --dg-search-btn-icon-size: 14px;
 
     /* Navbar Variables */
-    --dg-navbar-height: 60px;
+    --dg-navbar-height: 40px;
     --dg-navbar-title-size-mobile: 18px;
     --dg-navbar-search-margin: 20px;
-    --dg-navbar-search-min-width: 36px;
+    --dg-navbar-search-min-width: 30px;
     --dg-logo-height: 40px;
     --dg-logo-height-mobile: 32px;
     --dg-logo-margin: 10px 15px;
@@ -364,10 +364,10 @@ ul.task-list {
 // Sidebar floats over canvas with card-like appearance
 body:has(.content.canvas-page) .sidebar {
     left: auto;
-    right: 20px;
-    top: calc(var(--dg-navbar-height) + 20px);
+    right: 15px;
+    top: calc(var(--dg-navbar-height) + 10px);
     height: auto;
-    max-height: calc(100vh - var(--dg-navbar-height) - 40px);
+    max-height: calc(80vh - var(--dg-navbar-height) - 30px);
     background: var(--background-primary);
     padding: 12px;
     border-radius: 8px;
