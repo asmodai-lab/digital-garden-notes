@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2026-02-24T13:06:35.234+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2026-02-24T13:08:04.062+00:00"}
 ---
 
 # Resources
@@ -11,7 +11,7 @@
 
 [[08 - Organisation/Topic tracker\|Topic tracker]] — has this topic got notes/essay plans on it yet?
 
-[[01 - Philosophy/01 Philosophy/Nature and attributes of God/test.canvas\|test.canvas]] is this going to work? no, really
+[[01 - Philosophy/01 Philosophy/Nature and attributes of God/test.canvas\|test.canvas]] is this going to work? no, really?
 
 # Politics
 
@@ -86,7 +86,7 @@ What are you using to do this?
 > I use Obsidian to make notes — it's a free note-taking app. To make the website, I used the Digital Garden plugin. All of this was entirely free and relatively easy.
 
 How do I do this?
-> Here is my [[09 - Bear hunt/Basic obsidian tutorial\|Basic obsidian tutorial]]. Enjoy.
+> Here is the [tutorial for making a notes website](https://dg-docs.ole.dev/) and a [tutorial for using Obsidian](https://obsidian.rocks/getting-started-with-obsidian-a-beginners-guide/)
 
 Why is {insert topic} not here?
 > Because I haven't made the notes for it yet. This was started halfway through my A-Levels, I still haven't finished transferring my notes yet. 
