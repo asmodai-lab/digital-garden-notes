@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2026-02-10T11:18:28.792+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2026-02-24T12:59:14.210+00:00"}
 ---
 
 # Resources
@@ -11,6 +11,7 @@
 
 [[08 - Organisation/Topic tracker\|Topic tracker]] — has this topic got notes/essay plans on it yet?
 
+[[01 - Philosophy/01 Philosophy/Nature and attributes of God/test.canvas\|test.canvas]] is this going to work?
 
 # Politics
 
@@ -47,6 +48,7 @@
 | [[01 - Philosophy/03 DCT/Pluralism\|Pluralism]]                                                                      | February 24, 2026 |
 | [[01 - Philosophy/03 DCT/Exclusivism\|Exclusivism]]                                                                  | February 24, 2026 |
 | [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism\|Classical Liberalism]]                              | February 24, 2026 |
+| [[Home\|Home]]                                                                                                       | February 24, 2026 |
 | [[01 - Philosophy/03 DCT/Introduction to pluralism\|Introduction to pluralism]]                                      | February 23, 2026 |
 | [[01 - Philosophy/03 DCT/Paper 3\|Paper 3]]                                                                          | February 23, 2026 |
 | [[02 - Politics/04 - Ideologies/Anarchism\|Anarchism]]                                                               | February 23, 2026 |
@@ -61,7 +63,6 @@
 | [[02 - Politics/01 - UK politics/Parties/The conservatives\|The conservatives]]                                      | February 10, 2026 |
 | [[02 - Politics/01 - UK politics/Parties/The lib-dems\|The lib-dems]]                                                | February 10, 2026 |
 | [[02 - Politics/01 - UK politics/Democracy/Democracy\|Democracy]]                                                    | February 10, 2026 |
-| [[02 - Politics/01 - UK politics/Democracy/Participation crisis\|Participation crisis]]                              | February 10, 2026 |
 
 { .block-language-dataview}
 
