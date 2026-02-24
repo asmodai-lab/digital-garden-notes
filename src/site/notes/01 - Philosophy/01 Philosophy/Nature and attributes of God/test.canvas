@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/nature-and-attributes-of-god/test.canvas/","contentClasses":"canvas-page","updated":"2026-02-24T12:59:00.456+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/nature-and-attributes-of-god/test.canvas/","contentClasses":"canvas-page","updated":"2026-02-24T13:04:04.796+00:00"}
 ---
 
 <div id="testcanvas" class="canvas-wrapper hide">
@@ -21,10 +21,17 @@
 			</feMerge>
 		</filter></defs>
 		</svg>
-		<div class="canvas-node canvas-node-text " data-node-id="87359c84276ebe50" style="transform: translate(-100px, -140px); width: 260px; height: 60px; ">
+		<div class="canvas-node canvas-node-text " data-node-id="87359c84276ebe50" style="transform: translate(-240px, -360px); width: 260px; height: 60px; ">
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
 			<div class="canvas-node-text-content" data-markdown="aXMgdGhpcyBnb2luZyB0byB3b3JrPw=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="3c1f309ac1d2ab56" style="transform: translate(-100px, -220px); width: 260px; height: 60px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="bm8/IHJlYWxseT8="></div>
 		</div>
 	</div>
 </div>
