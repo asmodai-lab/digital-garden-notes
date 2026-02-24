@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2026-02-24T12:59:14.210+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2026-02-24T13:06:35.234+00:00"}
 ---
 
 # Resources
@@ -11,7 +11,7 @@
 
 [[08 - Organisation/Topic tracker\|Topic tracker]] — has this topic got notes/essay plans on it yet?
 
-[[01 - Philosophy/01 Philosophy/Nature and attributes of God/test.canvas\|test.canvas]] is this going to work?
+[[01 - Philosophy/01 Philosophy/Nature and attributes of God/test.canvas\|test.canvas]] is this going to work? no, really
 
 # Politics
 
