@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/classical-liberalism/","tags":["lessonminor"],"updated":"2026-02-04T13:28:04.677+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/classical-liberalism/","tags":["lessonminor","notes","liberalism"],"updated":"2026-02-24T09:30:40.548+00:00"}
 ---
 
 **Table of Contents**
@@ -17,25 +17,30 @@
 		- [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism#Philosophical influences\|Social Darwinism]]
 - [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism#Terminology\|Terminology]]
 
-
+---
 ## Origins of classical liberalism
 - began developing during the Enlightenment, as society shifted from feudalism to capitalism
 - reached its highest level of support in the nineteenth-century
 - began in the UK, as we were the first country to industrialize
 - they don't like divine right of kings
 
+---
 ### Ideas behind classical liberalism
 
+---
 #### Egoistic Individualism
 - classical liberals believe that humans are rational. If we weren't, we'd be driven simply by impulse like animals.
 - if we are rational, then we have interest in ourselves and are self-reliant
 - society is therefore 'atomistic' — made up of many people who are all self-sufficient. As such, society is a result of human nature
 
+
+---
 #### Negative freedom
 - freedom is when you have the choice to do something or not
 - if people tell you to do things, you aren't free
 	- if your life is interfered with, or your coerced into doing stuff, you're less free
 
+---
 #### State is a 'necessary evil'
 - without a state, bad things will happen
 	- BUT if a state is too big, bad things will also happen
@@ -43,11 +48,13 @@
 - therefore, the state should exist but be as small as it can be
 	- this is called a **'nightwatchman state'**
 
+---
 #### Civil society
 - bodies that represent people's interests are good
 - people who join these voluntarily are exercising their freedom
 - the state should not be involved in things unless it has to be — people should be free to organise themselves
 
+---
 #### Natural rights
 - people are rational individuals who are self-sufficient. Therefore, we should be treated well
 - it therefore follows we will have some rights that should not ever be infringed — they are inalienable
@@ -55,11 +62,14 @@
 - Locke: life, liberty, property. Jefferson: life, liberty and the pursuit of happiness
 - the government should not infringe these rights ever, for any reason. If they do, rebellion should follow
 
+---
 ### Philosophical influences
 
+---
 #### Utilitarianism
 I have notes on utilitarianism. Fetch.
 
+---
 #### Economic Liberalism
 - people are motivated by self-interest
 	- 'benevolence of the butcher' (Smith)
@@ -70,6 +80,7 @@ I have notes on utilitarianism. Fetch.
 
 Adam Smith thought that the market will do what is best for society because that is the most profitable. This is the 'invisible hand of the market.'
 
+---
 #### Social Darwinism
 - people are free and rational, so therefore they can make free choices
 - we should be responsible for the choices that we make, since we could have chosen not to make them
@@ -78,7 +89,7 @@ Adam Smith thought that the market will do what is best for society because that
 - people who make good choices will live more/procreate more. They deserve this. You don't need to help people that are lazy and incompetent
 >[!TIP] Not my monkeys, not my circus
 
-
+---
 ## Terminology
 
 | Thing                       | Explanation                                                                                                           | Area         |

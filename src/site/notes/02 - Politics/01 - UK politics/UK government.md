@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/uk-government/","tags":["homepage"],"updated":"2026-01-13T15:14:32.953+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/uk-government/","tags":["homepage"],"updated":"2026-02-10T10:56:17.656+00:00"}
 ---
 
 

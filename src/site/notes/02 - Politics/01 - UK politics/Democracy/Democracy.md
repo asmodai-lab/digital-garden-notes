@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/democracy/","tags":["homepage"],"updated":"2026-02-06T10:47:04.851+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/democracy/","tags":["homepage"],"updated":"2026-02-10T10:56:19.352+00:00"}
 ---
 
 ## Introduction

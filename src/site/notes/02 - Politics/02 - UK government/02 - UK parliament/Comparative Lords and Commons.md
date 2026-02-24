@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/02-uk-government/02-uk-parliament/comparative-lords-and-commons/","tags":["lessonminor"],"updated":"2025-11-28T10:50:54.045+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/02-uk-government/02-uk-parliament/comparative-lords-and-commons/","tags":["lessonminor","notes","UKgovernment"],"updated":"2026-02-10T11:01:07.715+00:00"}
 ---
 
 ---

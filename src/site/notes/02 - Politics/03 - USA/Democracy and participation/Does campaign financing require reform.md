@@ -1,18 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/does-campaign-financing-require-reform/","updated":"2025-11-18T10:35:26.993+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/does-campaign-financing-require-reform/","tags":["USA","messy","lessonminor","notes"],"updated":"2026-02-10T11:05:36.825+00:00"}
 ---
 
-#lessonminor 
 
-
-# Exercise
-## PrimeChoice Packers LLC 
+## Exercise
+### PrimeChoice Packers LLC 
 
 They don't want Deborah to go full on with 'better treatment for farm animals' because it would cost them a lot more if Nowhere, Ohio had California-style animal rights laws. 
 
 If she takes money from them, she doesn't have to be publicly pro-industry, but she can't make any changes to the status quo. 
 
-# Terms
+## Terms
 **527 s**- Tax-exempt organisations created to influence electoral outcomes but that cannot call for the election or defeat of a specific candidate. They can raise unlimited amounts. 
 - But also, they still do political things, but more subtly. 
 
@@ -25,7 +23,7 @@ If she takes money from them, she doesn't have to be publicly pro-industry, but 
 
 **Hard Money** — donations specifically towards a specific political candidate's campaign. This is subject to strict limits. But also you could just donate soft money closer to the election to make sure it gets spent on the candidate without going through the limits. 
 
-# Cases on party funding
+## Cases on party funding
 
 | Year | Case                                                     |
 | ---- | -------------------------------------------------------- |

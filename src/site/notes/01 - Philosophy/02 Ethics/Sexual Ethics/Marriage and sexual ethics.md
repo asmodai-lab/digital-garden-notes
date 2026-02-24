@@ -4,12 +4,12 @@
 
 **Table of Contents**
 
-- [[#Texts|Texts]]
-	- [[#Texts#Anglican Marriage vows|Anglican Marriage vows]]
-	- [[#Texts#Theology of the body|Theology of the body]]
-		- [[#Theology of the body#Why This Matters for Ethics|Why This Matters for Ethics]]
-	- [[#Texts#Humanae Vitae|Humanae Vitae]]
-- [[#Analysis on all of this - linking it together|Analysis on all of this - linking it together]]
+- [[01 - Philosophy/02 Ethics/Sexual Ethics/Marriage and sexual ethics#Texts\|Texts]]
+	- [[01 - Philosophy/02 Ethics/Sexual Ethics/Marriage and sexual ethics#Texts\|Anglican Marriage vows]]
+	- [[01 - Philosophy/02 Ethics/Sexual Ethics/Marriage and sexual ethics#Texts\|Theology of the body]]
+		- [[01 - Philosophy/02 Ethics/Sexual Ethics/Marriage and sexual ethics#Theology of the body\|Why This Matters for Ethics]]
+	- [[01 - Philosophy/02 Ethics/Sexual Ethics/Marriage and sexual ethics#Texts\|Humanae Vitae]]
+- [[01 - Philosophy/02 Ethics/Sexual Ethics/Marriage and sexual ethics#Analysis on all of this - linking it together\|Analysis on all of this - linking it together]]
 
 ----
 

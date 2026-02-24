@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/presidential-process/tv-debates/","updated":"2025-11-18T10:35:46.596+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/presidential-process/tv-debates/","tags":["notes","USA"],"updated":"2026-02-10T11:12:12.336+00:00"}
 ---
 
 Do US TV debates matter to US elections?

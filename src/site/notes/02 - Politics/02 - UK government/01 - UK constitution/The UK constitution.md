@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/02-uk-government/01-uk-constitution/the-uk-constitution/","tags":["homepage"],"updated":"2025-12-20T09:33:37.971+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/02-uk-government/01-uk-constitution/the-uk-constitution/","tags":["homepage"],"updated":"2026-02-10T10:56:13.487+00:00"}
 ---
 
 

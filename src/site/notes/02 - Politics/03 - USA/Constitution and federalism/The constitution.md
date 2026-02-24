@@ -5,14 +5,14 @@
 
 **Table of contents**
 
-- [[#What is the context of the US constitution?|What is the context of the US constitution?]]
-	- [[#What is the context of the US constitution?#Vague history|Vague history]]
-	- [[#What is the context of the US constitution?#Messy notes|Messy notes]]
-- [[#Amendments|Amendments]]
-	- [[#Amendments#How is the constitution amended?|How is the constitution amended?]]
-		- [[#How is the constitution amended?#Pros and cons of this system|Pros and cons of this system]]
-- [[#Checks and balances|Checks and balances]]
-	- [[#Checks and balances#Examples of checks and balances being used|Examples of checks and balances being used]]
+- [[02 - Politics/03 - USA/Constitution and federalism/The constitution#What is the context of the US constitution?\|What is the context of the US constitution?]]
+	- [[02 - Politics/03 - USA/Constitution and federalism/The constitution#What is the context of the US constitution?\|Vague history]]
+	- [[02 - Politics/03 - USA/Constitution and federalism/The constitution#What is the context of the US constitution?\|Messy notes]]
+- [[02 - Politics/03 - USA/Constitution and federalism/The constitution#Amendments\|Amendments]]
+	- [[02 - Politics/03 - USA/Constitution and federalism/The constitution#Amendments\|How is the constitution amended?]]
+		- [[02 - Politics/03 - USA/Constitution and federalism/The constitution#How is the constitution amended?\|Pros and cons of this system]]
+- [[02 - Politics/03 - USA/Constitution and federalism/The constitution#Checks and balances\|Checks and balances]]
+	- [[02 - Politics/03 - USA/Constitution and federalism/The constitution#Checks and balances\|Examples of checks and balances being used]]
 ------
 
 ## What is the context of the US constitution?

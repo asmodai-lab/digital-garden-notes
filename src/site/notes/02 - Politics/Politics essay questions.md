@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/politics-essay-questions/","tags":["questions"],"updated":"2025-12-23T13:00:36.167+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/politics-essay-questions/","tags":["questions"],"updated":"2026-02-10T10:51:18.961+00:00"}
 ---
 
 [[06 - PDFs and articles/Politics Essay Questions Bank -  UK & USA Perspectives (PAPER 1-3)\|Question bank copied over from the internet]]

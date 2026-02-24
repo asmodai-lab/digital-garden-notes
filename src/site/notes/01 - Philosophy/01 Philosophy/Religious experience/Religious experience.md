@@ -5,7 +5,7 @@
 
 ## Specification
 
-![Rel lang spec.png](/img/user/05%20-%20Images/Images/Rel%20lang%20spec.png)
+![Rel lang spec.png](/img/user/05%20-%20Images/1.1/Rel%20lang%20spec.png)
 
 ## Notes
 [[Experiences\|Experiences]]

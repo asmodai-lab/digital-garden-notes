@@ -4,6 +4,6 @@
 
 #homepage #lessonmajor 
 
-[[Divine Election.canvas|Divine Election]]
+[[01 - Philosophy/03 DCT/Death and the afterlife/Divine Election.canvas\|Divine Election]]
 
 [[07 - Excalidraw/Augustine and human nature -- summary.excalidraw\|Notes mind map]]

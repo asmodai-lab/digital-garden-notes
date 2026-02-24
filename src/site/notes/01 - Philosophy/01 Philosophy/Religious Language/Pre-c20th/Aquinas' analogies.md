@@ -4,14 +4,14 @@
 
 **Table of Contents**
 
-- [[#Aquinas' criticisms of the cataphatic way|Aquinas' criticisms of the cataphatic way]]
-- [[#His solution — the secret third way|His solution — the secret third way]]
-	- [[#His solution — the secret third way#Analogy of attribution|Analogy of attribution]]
-		- [[#Analogy of attribution#Is this analogy strong?|Is this analogy strong?]]
-			- [[#Is this analogy strong?#Karl Barth's critique|Karl Barth's critique]]
-	- [[#His solution — the secret third way#Analogy of proportion|Analogy of proportion]]
-		- [[#Analogy of proportion#The way I like to understand it|The way I like to understand it]]
-		- [[#Analogy of proportion#Brummer's critique|Brummer's critique]]
+- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Aquinas' analogies#Aquinas' criticisms of the cataphatic way\|Aquinas' criticisms of the cataphatic way]]
+- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Aquinas' analogies#His solution — the secret third way\|His solution — the secret third way]]
+	- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Aquinas' analogies#His solution — the secret third way\|Analogy of attribution]]
+		- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Aquinas' analogies#Analogy of attribution\|Is this analogy strong?]]
+			- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Aquinas' analogies#Is this analogy strong?\|Karl Barth's critique]]
+	- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Aquinas' analogies#His solution — the secret third way\|Analogy of proportion]]
+		- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Aquinas' analogies#Analogy of proportion\|The way I like to understand it]]
+		- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Aquinas' analogies#Analogy of proportion\|Brummer's critique]]
 
 
 ## Aquinas' criticisms of the cataphatic way
@@ -88,12 +88,12 @@ The word is our **'model'**. The multiplier is the **'qualifier'**.
 #### The way I like to understand it
 First, watch 7:56 - 9:00 on this video:
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/05-images/media-lib-1/dimensionsexplanation/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/05-images/media-lib/media-lib-1/dimensionsexplanation/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-![Dimensions explanation](https://www.youtube.com/watch?v=dr2sIoD7eeU)
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/dr2sIoD7eeU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 </div></div>

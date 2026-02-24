@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/civil-rights-and-civil-liberties/","updated":"2025-12-02T16:38:23.426+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/civil-rights-and-civil-liberties/","tags":["notes","USArights"],"updated":"2026-02-10T10:59:40.931+00:00"}
 ---
 
 #lessonmajor
 
 **Table of Contents**
 
-- [[#Civil rights|Civil rights]]
-- [[#Race and rights|Race and rights]]
+- [[02 - Politics/03 - USA/The supreme court/Civil rights and civil liberties#Civil rights\|Civil rights]]
+- [[02 - Politics/03 - USA/The supreme court/Civil rights and civil liberties#Race and rights\|Race and rights]]
 
 ---
 ## Civil rights
 **Table of Contents**
 
-- [[#How does a case get to the Supreme Court?|How does a case get to the Supreme Court?]]
-- [[#Supreme Court rulings on public policy|Supreme Court rulings on public policy]]
-- [[#Civil Liberties and rights and recent rulings|Civil Liberties and rights and recent rulings]]
+- [[02 - Politics/03 - USA/The supreme court/Civil rights and civil liberties#How does a case get to the Supreme Court?\|How does a case get to the Supreme Court?]]
+- [[02 - Politics/03 - USA/The supreme court/Civil rights and civil liberties#Supreme Court rulings on public policy\|Supreme Court rulings on public policy]]
+- [[02 - Politics/03 - USA/The supreme court/Civil rights and civil liberties#Civil Liberties and rights and recent rulings\|Civil Liberties and rights and recent rulings]]
 
 ### How does a case get to the Supreme Court?
 
@@ -78,9 +78,9 @@ This is a long and expensive process. The average case lasts around 6 months -> 
 ## Race and rights
 **Table of Contents**
 
-- [[#Multiculturalism|Multiculturalism]]
-	- [[#Multiculturalism#How do you create equality between different groups?|How do you create equality between different groups?]]
-- [[#How successfully has racial equality been achieved in the US?|How successfully has racial equality been achieved in the US?]]
+- [[02 - Politics/03 - USA/The supreme court/Civil rights and civil liberties#Multiculturalism\|Multiculturalism]]
+	- [[02 - Politics/03 - USA/The supreme court/Civil rights and civil liberties#Multiculturalism\|How do you create equality between different groups?]]
+- [[02 - Politics/03 - USA/The supreme court/Civil rights and civil liberties#How successfully has racial equality been achieved in the US?\|How successfully has racial equality been achieved in the US?]]
 
 [[02 - Politics/03 - USA/The supreme court/History of USA immigration\|What is the history of immigration to the USA?]] 
 ### Multiculturalism

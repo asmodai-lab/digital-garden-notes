@@ -1,11 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/presidential-process/electoral-college/","updated":"2025-11-18T10:35:38.615+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/presidential-process/electoral-college/","tags":["notes","USA"],"updated":"2026-02-10T11:05:40.992+00:00"}
 ---
 
 #lessonmajor 
 
-```table-of-contents
-```
+**Table of Contents**
+
+- [[02 - Politics/03 - USA/Democracy and participation/Presidential process/Electoral College#Recap Questions\|Recap Questions]]
+- [[02 - Politics/03 - USA/Democracy and participation/Presidential process/Electoral College#Is the electoral college fit for purpose?\|Is the electoral college fit for purpose?]]
+	- [[02 - Politics/03 - USA/Democracy and participation/Presidential process/Electoral College#Is the electoral college fit for purpose?\|How are electoral college votes allocated to the states?]]
+		- [[02 - Politics/03 - USA/Democracy and participation/Presidential process/Electoral College#How are electoral college votes allocated to the states?\|How the EC system works]]
+	- [[02 - Politics/03 - USA/Democracy and participation/Presidential process/Electoral College#Is the electoral college fit for purpose?\|The process]]
+	- [[02 - Politics/03 - USA/Democracy and participation/Presidential process/Electoral College#Is the electoral college fit for purpose?\|The role of Delegates.]]
+- [[02 - Politics/03 - USA/Democracy and participation/Presidential process/Electoral College#Bush v Gore: case study\|Bush v Gore: case study]]
+
 # Recap Questions
 
 1. <span style="color:rgb(146, 208, 80)">The first presidential debate was between Nixon and Kennedy</span>

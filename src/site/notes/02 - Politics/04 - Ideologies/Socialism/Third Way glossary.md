@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/third-way-glossary/","tags":["table","glossary"],"updated":"2025-12-11T15:28:48.708+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/third-way-glossary/","tags":["table","glossary"],"updated":"2026-02-10T10:51:10.801+00:00"}
 ---
 
 

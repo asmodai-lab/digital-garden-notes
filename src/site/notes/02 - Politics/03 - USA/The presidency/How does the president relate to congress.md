@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-presidency/how-does-the-president-relate-to-congress/","updated":"2025-11-18T10:36:05.861+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-presidency/how-does-the-president-relate-to-congress/","tags":["USA","notes"],"updated":"2026-02-10T11:08:26.127+00:00"}
 ---
 
 #lessonmajor 

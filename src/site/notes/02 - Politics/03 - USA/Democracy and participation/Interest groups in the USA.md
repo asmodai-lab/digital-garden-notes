@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/interest-groups-in-the-usa/","updated":"2025-11-18T10:35:32.146+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/interest-groups-in-the-usa/","updated":"2026-02-10T11:10:04.332+00:00"}
 ---
 
-#lessonmajor 
+
 
 ##### What are the five kinds of democracy?
 
@@ -14,7 +14,7 @@
 -----------------
 #### How do pressure groups try to influence politicians? 
 ###### Terminology for US pressure groups
-- **Mandate:** when a mandatory regulation is introduced, forcing a product to fulfill a certain criteria (usually safety) (i.e. the state decides what a good product is)
+- **Mandate:** when a mandatory regulation is introduced, forcing a product to fulfil a certain criteria (usually safety) (i.e. the state decides what a good product is)
 - **Bailout**- when a company (often a bank) has it's debts covered by public funds prevented from going bankrupt
 - **Boondoggle**- a government program that may been seen as inefficient. For example, using public funds to create jobs or build infrastructure that the market will not do because it is loss-making, but it makes the business that does it a shitton of money
 - **K street**- a major street in Washington DC known for having numerous pressure group HQs

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/rights-in-context/","tags":["lessonmajor"],"updated":"2025-12-05T10:06:03.441+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/rights-in-context/","tags":["lessonmajor"],"updated":"2026-02-10T10:56:31.284+00:00"}
 ---
 
 **Rights in context — specification**

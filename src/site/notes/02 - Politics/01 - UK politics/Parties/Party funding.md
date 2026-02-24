@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/party-funding/","tags":["lessonminor"],"updated":"2025-11-19T10:05:06.204+00:00"}
 ---
 
-- [[#How do parties fund election and campaign expenses?|How do parties fund election and campaign expenses?]]
-	- [[#How do parties fund election and campaign expenses?#2021-2022 short money allocation|2021-2022 short money allocation]]
-		- [[#2021-2022 short money allocation#Short money 2025/26|Short money 2025/26]]
-	- [[#How do parties fund election and campaign expenses?#Donations to political parties during the 6 weeks of the 2019 general election|Donations to political parties during the 6 weeks of the 2019 general election]]
-- [[#Conclusion and debate|Conclusion and debate]]
+- [[02 - Politics/01 - UK politics/Parties/Party funding#How do parties fund election and campaign expenses?\|How do parties fund election and campaign expenses?]]
+	- [[02 - Politics/01 - UK politics/Parties/Party funding#How do parties fund election and campaign expenses?\|2021-2022 short money allocation]]
+		- [[02 - Politics/01 - UK politics/Parties/Party funding#2021-2022 short money allocation\|Short money 2025/26]]
+	- [[02 - Politics/01 - UK politics/Parties/Party funding#How do parties fund election and campaign expenses?\|Donations to political parties during the 6 weeks of the 2019 general election]]
+- [[02 - Politics/01 - UK politics/Parties/Party funding#Conclusion and debate\|Conclusion and debate]]
 
 ## How do parties fund election and campaign expenses?
 

@@ -28,14 +28,14 @@
 
 [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Tillich's view on symbolism\|Tillich's view on symbolism]]
 
-[[05 - Images/media-lib 1/url-ef526jmq\|language c20th]] (video)
+[[05 - Images/media-lib/media-lib 1/url-ef526jmq\|language c20th]] (video)
 
 
 ### Dumping yard for notes
 [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Via Negativa\|Via Negativa]]
 [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Analogy\|Analogy]]
->[[Analogy.canvas|Analogy canvas]]
-[[Symbol.canvas|Symbol]] (these two file types are unviewable on the website.)
+>[[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Analogy.canvas\|Analogy canvas]]
+[[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Symbol.canvas\|Symbol]] (these two file types are unviewable on the website.)
 
 
 

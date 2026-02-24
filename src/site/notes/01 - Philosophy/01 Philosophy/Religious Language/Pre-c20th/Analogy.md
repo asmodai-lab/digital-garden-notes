@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/pre-c20th/analogy/","updated":"2025-11-18T09:30:00.690+00:00"}
 ---
 
-[[Analogy.canvas|Analogy]]
+[[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Analogy.canvas\|Analogy]]
 
 # Worksheet questions
 

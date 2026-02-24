@@ -1,21 +1,45 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism/","tags":["homepage"],"updated":"2026-02-04T13:30:55.311+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism/","tags":["homepage"],"updated":"2026-02-10T10:56:24.803+00:00"}
 ---
 
 [[02 - Politics/04 - Ideologies/Liberalism/Core tenets\|Core tenets]]
 
-[[02 - Politics/04 - Ideologies/Liberalism/Liberalism lesson notes\|Liberalism lesson notes]] (messy)
+[[02 - Politics/04 - Ideologies/Liberalism/junk/Liberalism lesson notes\|Liberalism lesson notes]] (messy)
 
 [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers\|Liberalism key thinkers]]
 
 [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism\|Classical Liberalism]]
-[[02 - Politics/04 - Ideologies/Liberalism/Modern Liberalism\|Modern Liberalism]]
+[[02 - Politics/04 - Ideologies/Liberalism/junk/Modern Liberalism\|Modern Liberalism]]
 
-[[02 - Politics/04 - Ideologies/Liberalism/Liberalism tenet questions\|Liberalism tenet questions]]
-> [[02 - Politics/04 - Ideologies/Liberalism/Worked liberalism tenet questions\|Worked liberalism tenet questions]]
+[[02 - Politics/04 - Ideologies/Liberalism/junk/Liberalism tenet questions\|Liberalism tenet questions]]
+> [[02 - Politics/04 - Ideologies/Liberalism/junk/Worked liberalism tenet questions\|Worked liberalism tenet questions]]
 
 [[02 - Politics/04 - Ideologies/Liberalism/Liberalism brain jogger\|Liberalism brain jogger]]
 
+| File                                                                                                                       | file.mday         | file.tags                                                              |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------------------- |
+| [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism\|Classical Liberalism]]                                 | February 24, 2026 | <ul><li>#lessonminor</li><li>#notes</li><li>#liberalism</li></ul>      |
+| [[02 - Politics/04 - Ideologies/Liberalism/Equality & social justice\|Equality & social justice]]                       | February 10, 2026 | <ul><li>#lessonminor</li><li>#liberalism</li></ul>                     |
+| [[02 - Politics/04 - Ideologies/Liberalism/Core tenets\|Core tenets]]                                                   | February 10, 2026 | <ul><li>#lessonmajor</li><li>#liberalism</li></ul>                     |
+| [[02 - Politics/04 - Ideologies/Liberalism/Individualism\|Individualism]]                                               | February 10, 2026 | <ul><li>#lessonminor</li><li>#liberalism</li></ul>                     |
+| [[02 - Politics/04 - Ideologies/Liberalism/junk/Classical liberalism summary\|Classical liberalism summary]]            | February 10, 2026 | <ul><li>#excalidraw</li><li>#brainjogger</li><li>#liberalism</li></ul> |
+| [[02 - Politics/04 - Ideologies/Liberalism/junk/John Locke\|John Locke]]                                                | February 10, 2026 | <ul><li>#excalidraw</li></ul>                                          |
+| [[02 - Politics/04 - Ideologies/Liberalism/junk/Liberalism Summary\|Liberalism Summary]]                                | February 10, 2026 | <ul><li>#excalidraw</li></ul>                                          |
+| [[02 - Politics/04 - Ideologies/Liberalism/junk/Liberalism tenet questions\|Liberalism tenet questions]]                | February 10, 2026 | <ul><li>#resources</li></ul>                                           |
+| [[02 - Politics/04 - Ideologies/Liberalism/junk/Liberalism lesson notes\|Liberalism lesson notes]]                      | January 21, 2026  | <ul><li>#duringlessons</li><li>#messy</li></ul>                        |
+| [[02 - Politics/04 - Ideologies/Liberalism/junk/Modern Liberalism\|Modern Liberalism]]                                  | February 05, 2026 | <ul><li>#lessonminor</li></ul>                                         |
+| [[02 - Politics/04 - Ideologies/Liberalism/junk/Worked liberalism tenet questions\|Worked liberalism tenet questions]]  | February 04, 2026 | <ul></ul>                                                              |
+| [[02 - Politics/04 - Ideologies/Liberalism/Liberalism brain jogger\|Liberalism brain jogger]]                           | February 10, 2026 | <ul><li>#brainjogger</li></ul>                                         |
+| [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers\|Liberalism key thinkers]]                           | February 10, 2026 | <ul><li>#lessonminor</li></ul>                                         |
+| [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers brain jogger\|Liberalism key thinkers brain jogger]] | February 10, 2026 | <ul><li>#brainjogger</li><li>#resources</li></ul>                      |
+| [[02 - Politics/04 - Ideologies/Liberalism/Liberalism\|Liberalism]]                                                     | February 10, 2026 | <ul><li>#homepage</li></ul>                                            |
+| [[02 - Politics/04 - Ideologies/Liberalism/Modern liberal consolidation\|Modern liberal consolidation]]                 | February 10, 2026 | <ul><li>#excalidraw</li></ul>                                          |
+| [[02 - Politics/04 - Ideologies/Liberalism/Liberal Democracy\|Liberal Democracy]]                                       | January 21, 2026  | <ul><li>#lessonminor</li></ul>                                         |
+| [[02 - Politics/04 - Ideologies/Liberalism/Rationalism\|Rationalism]]                                                   | January 21, 2026  | <ul><li>#lessonminor</li></ul>                                         |
+| [[02 - Politics/04 - Ideologies/Liberalism/The state\|The state]]                                                       | January 21, 2026  | <ul><li>#lessonminor</li></ul>                                         |
+| [[02 - Politics/04 - Ideologies/Liberalism/Liberty\|Liberty]]                                                           | January 21, 2026  | <ul><li>#lessonminor</li></ul>                                         |
+
+{ .block-language-dataview}
 
 ## Summaries
 ### Difference between the two
@@ -30,7 +54,7 @@
 | Equality          | Believe individuals are born into a society with equality of opportunity                                                  | Believe the state should play a role in creating equality of opportunity                                                                    |
 | Liberal democracy | Suspicious of growing democracy                                                                                           | Values the protective benefits of democracy                                                                                                 |
 
-![Screenshot 2026-01-21 at 11.39.29.png](/img/user/Images/Screenshot%202026-01-21%20at%2011.39.29.png)
+![Screenshot 2026-01-21 at 11.39.29.png](/img/user/05%20-%20Images/1.2/Screenshot%202026-01-21%20at%2011.39.29.png)
 
 
 Or, if you'd like, my VERY complicated mind-map

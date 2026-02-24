@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/constitution-and-federalism/federalism/","tags":["lessonmajor"],"updated":"2025-12-04T12:03:18.261+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/constitution-and-federalism/federalism/","tags":["lessonmajor","USA","notes"],"updated":"2026-02-10T11:06:39.176+00:00"}
 ---
 
 **Table of contents**
 
-- [[#Why is america federal?|Why is america federal?]]
-	- [[#Why is america federal?#How has federalism changed over time?|How has federalism changed over time?]]
-		- [[#How has federalism changed over time?#2000s federalism onwards|2000s federalism onwards]]
-- [[#Is the USA federal today?|Is the USA federal today?]]
+- [[02 - Politics/03 - USA/Constitution and federalism/Federalism#Why is america federal?\|Why is america federal?]]
+	- [[02 - Politics/03 - USA/Constitution and federalism/Federalism#Why is america federal?\|How has federalism changed over time?]]
+		- [[02 - Politics/03 - USA/Constitution and federalism/Federalism#How has federalism changed over time?\|2000s federalism onwards]]
+- [[02 - Politics/03 - USA/Constitution and federalism/Federalism#Is the USA federal today?\|Is the USA federal today?]]
 
 ---
 
@@ -47,7 +47,6 @@ Everyone -starting with Bush- has changed it the fuck around.
 
 #### 2000s federalism onwards
 
-
 | **president**    | **Development of state power**                                                                                                                                                                                                                                                                                                                                                                                                 | **Development of federal power**                                                                                                                                                                                                                    |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **George Bush**  | _>Gonzales v Oregon (2006)-_ effectively allowed state-sponsored euthanasia<br>>Medicaid waiver given to Massachusetts to allow Governor Romney to introduce a new universal health programme.                                                                                                                                                                                                                                 | >USA PATRIOT act 2001- allowed federal government to detail people and collect information about them<br>>homeland security- whole new cabinet department<br>>No child left behind act 2002- allowed for uniform school testing                     |
@@ -57,9 +56,6 @@ Everyone -starting with Bush- has changed it the fuck around.
 | **Donald Trump** | Idk voting 'rights'?<br>> OMG his trying to rescind SNAP payments!                                                                                                                                                                                                                                                                                                                                                             | >the executive order on tariffs and birthright citizenship                                                                                                                                                                                          |
 
 ## Is the USA federal today?
-
-
-
 
 | Yes                                                                                                                                                                             | No                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

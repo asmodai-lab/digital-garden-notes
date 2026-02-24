@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/uk-politics-home/","tags":["homepage"],"updated":"2026-02-04T11:06:25.275+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/uk-politics-home/","tags":["homepage"],"updated":"2026-02-10T10:56:17.075+00:00"}
 ---
 
 [[02 - Politics/01 - UK politics/Democracy/Democracy\|Democracy]]

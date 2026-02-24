@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism-brain-jogger/","tags":["brainjogger"],"updated":"2026-02-04T13:24:44.552+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism-brain-jogger/","tags":["brainjogger"],"updated":"2026-02-10T10:53:47.742+00:00"}
 ---
 
 ## Strands

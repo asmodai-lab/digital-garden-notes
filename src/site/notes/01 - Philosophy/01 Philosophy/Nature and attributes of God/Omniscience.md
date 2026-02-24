@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/nature-and-attributes-of-god/omniscience/","updated":"2025-11-18T09:29:14.330+00:00"}
 ---
 
-[[Omniscience LoA.canvas|Omniscience LoA]]
+[[01 - Philosophy/01 Philosophy/Nature and attributes of God/Omniscience LoA.canvas\|Omniscience LoA]]
 
 ### Problem of free will
 - if God knew you were going to eat cornflakes tomorrow morning, could you be free to choose differently?

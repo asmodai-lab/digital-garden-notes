@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/to-what-extent-are-socialists-united-in-their-views-on-society/","tags":["debates"],"updated":"2025-12-12T13:26:18.165+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/to-what-extent-are-socialists-united-in-their-views-on-society/","tags":["debates"],"updated":"2026-02-10T10:54:24.155+00:00"}
 ---
 
 ## Planning

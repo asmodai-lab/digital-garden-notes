@@ -1,28 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism-key-thinkers/","tags":["lessonminor"],"updated":"2026-02-09T09:08:58.965+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism-key-thinkers/","tags":["lessonminor"],"updated":"2026-02-10T09:29:50.646+00:00"}
 ---
 
 Non-spec key thinkers: Jeremy Bentham, Adam Smith, Immanuel Kant.
 
+[[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers brain jogger\|brain jogger on this topic]]
+
 **Table of Contents**
 
-- [[#John Locke (1632-1704)|John Locke (1632-1704)]]
-	- [[#John Locke (1632-1704)#Rights|Rights]]
-	- [[#John Locke (1632-1704)#Social contract|Social contract]]
-	- [[#John Locke (1632-1704)#Limited and legitimate governments|Limited and legitimate governments]]
-	- [[#John Locke (1632-1704)#Toleration|Toleration]]
-- [[#Mary Wollstonecraft (1759-97)|Mary Wollstonecraft (1759-97)]]
-	- [[#Mary Wollstonecraft (1759-97)#Reason|Reason]]
-	- [[#Mary Wollstonecraft (1759-97)#Independence|Independence]]
-	- [[#Mary Wollstonecraft (1759-97)#Education|Education]]
-- [[#John Stuart Mill (1806-73)|John Stuart Mill (1806-73)]]
-	- [[#John Stuart Mill (1806-73)#Harm Principle|Harm Principle]]
-	- [[#John Stuart Mill (1806-73)#Individuality|Individuality]]
-- [[#John Rawls (1921-2002)|John Rawls (1921-2002)]]
-	- [[#John Rawls (1921-2002)#Justice as fairness|Justice as fairness]]
-	- [[#John Rawls (1921-2002)#The original position, veil of ignorance and the difference principle|The original position, veil of ignorance and the difference principle]]
-- [[#Betty Friedan|Betty Friedan]]
-	- [[#Betty Friedan#Problem with no name|Problem with no name]]
+- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#John Locke (1632-1704)\|John Locke (1632-1704)]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#John Locke (1632-1704)\|Rights]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#John Locke (1632-1704)\|Social contract]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#John Locke (1632-1704)\|Limited and legitimate governments]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#John Locke (1632-1704)\|Toleration]]
+- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#Mary Wollstonecraft (1759-97)\|Mary Wollstonecraft (1759-97)]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#Mary Wollstonecraft (1759-97)\|Reason]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#Mary Wollstonecraft (1759-97)\|Independence]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#Mary Wollstonecraft (1759-97)\|Education]]
+- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#John Stuart Mill (1806-73)\|John Stuart Mill (1806-73)]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#John Stuart Mill (1806-73)\|Harm Principle]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#John Stuart Mill (1806-73)\|Individuality]]
+- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#John Rawls (1921-2002)\|John Rawls (1921-2002)]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#John Rawls (1921-2002)\|Justice as fairness]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#John Rawls (1921-2002)\|The original position, veil of ignorance and the difference principle]]
+- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#Betty Friedan\|Betty Friedan]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers#Betty Friedan\|Problem with no name]]
 
 
 ## John Locke (1632-1704)

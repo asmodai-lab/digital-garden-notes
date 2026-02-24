@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/conservatism/conservatism/","tags":["homepage"],"updated":"2026-01-29T15:01:36.161+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/conservatism/conservatism/","tags":["homepage","conservatism"],"updated":"2026-02-10T11:02:04.456+00:00"}
 ---
 
 

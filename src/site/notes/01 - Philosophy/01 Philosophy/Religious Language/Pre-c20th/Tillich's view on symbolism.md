@@ -4,15 +4,15 @@
 
 **Table of Contents**
 
-- [[#Tillich's symbolism|Tillich's symbolism]]
-	- [[#Tillich's symbolism#God (the being, not the exclamation)|God (the being, not the exclamation)]]
-		- [[#God (the being, not the exclamation)#What do it do|What do it do]]
-	- [[#Tillich's symbolism#Differences between Tillich and Analogy & Via Negativa|Differences between Tillich and Analogy & Via Negativa]]
-	- [[#Tillich's symbolism#My thoughts|My thoughts]]
-- [[#Criticisms of Symbolism|Criticisms of Symbolism]]
-	- [[#Criticisms of Symbolism#'Factual necessities'|'Factual necessities']]
-		- [[#'Factual necessities'#Subjectivity and vagueness|Subjectivity and vagueness]]
-	- [[#Criticisms of Symbolism#Randall! Help!|Randall! Help!]]
+- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Tillich's view on symbolism#Tillich's symbolism\|Tillich's symbolism]]
+	- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Tillich's view on symbolism#Tillich's symbolism\|God (the being, not the exclamation)]]
+		- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Tillich's view on symbolism#God (the being, not the exclamation)\|What do it do]]
+	- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Tillich's view on symbolism#Tillich's symbolism\|Differences between Tillich and Analogy & Via Negativa]]
+	- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Tillich's view on symbolism#Tillich's symbolism\|My thoughts]]
+- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Tillich's view on symbolism#Criticisms of Symbolism\|Criticisms of Symbolism]]
+	- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Tillich's view on symbolism#Criticisms of Symbolism\|'Factual necessities']]
+		- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Tillich's view on symbolism#'Factual necessities'\|Subjectivity and vagueness]]
+	- [[01 - Philosophy/01 Philosophy/Religious Language/Pre-c20th/Tillich's view on symbolism#Criticisms of Symbolism\|Randall! Help!]]
 
 Tillich has a belief of all time. And my God, it really is a belief of all time.
 

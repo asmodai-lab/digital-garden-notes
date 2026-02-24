@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-essay-plans/politics-essay-plans/do-parties-help-or-hurt-democracy/","updated":"2025-11-18T10:39:45.749+00:00"}
+{"dg-publish":true,"permalink":"/03-essay-plans/politics-essay-plans/do-parties-help-or-hurt-democracy/","tags":["debates","UKpolitics","UKgovernment","UK"],"updated":"2026-02-10T11:04:25.179+00:00"}
 ---
 
 #debates 

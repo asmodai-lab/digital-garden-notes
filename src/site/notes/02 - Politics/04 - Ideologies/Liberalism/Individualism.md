@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/individualism/","tags":["lessonminor"],"updated":"2026-02-04T12:21:07.887+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/individualism/","tags":["lessonminor","liberalism"],"updated":"2026-02-10T11:08:38.397+00:00"}
 ---
 
 > [!note] This can be included in a discussion of the liberal view of society, human nature, and the economy.

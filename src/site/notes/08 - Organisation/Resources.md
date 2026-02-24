@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-organisation/resources/","tags":["resources","homepage"],"updated":"2026-01-21T10:39:19.366+00:00"}
+{"dg-publish":true,"permalink":"/08-organisation/resources/","tags":["resources","homepage"],"updated":"2026-02-10T08:51:09.396+00:00"}
 ---
 
 # Philosophy resources
@@ -20,7 +20,7 @@ A [list of PDFs](https://andrewmbailey.com/money/readings/) of unorganised readi
 | [Plato Stanford --vReligious language](https://plato.stanford.edu/entries/religious-language/#toc)                                   | Article (LONG)                                           | 1     | Religious Language                |        |                                                                                                                                                                       | 40-70 minutes |
 | [Religious language](https://iep.utm.edu/rel-lang/)                                                                                  | Article                                                  | 1     | Religious Language                |        |                                                                                                                                                                       | 30-50 minutes |
 | [3QuarksDaily](https://3quarksdaily.com/)                                                                                            | Website/collection                                       |       |                                   |        | Good for short reading                                                                                                                                                |               |
-| [[05 - Images/media-lib 1/url-ef526jmq\|Religious language c20th]]                                                                                           | Video                                                    | 1     | Religious language                | 6      |                                                                                                                                                                       | 40 minutes    |
+| [[05 - Images/media-lib/media-lib 1/url-ef526jmq\|Religious language c20th]]                                                                                           | Video                                                    | 1     | Religious language                | 6      |                                                                                                                                                                       | 40 minutes    |
 | [Misquoting Jesus — YouTube podcast (playlist)](https://www.youtube.com/watch?v=uObu6PCipG0&list=PLmutpnyeVQcrRNOzPWdEothXcCVo2Npfv) | Video                                                    | 2 & 3 | Person of Jesus Christ and others |        |                                                                                                                                                                       |               |
 | [[01 - Philosophy/02 Ethics/Sexual Ethics/Queer identity\|Queer identity]]                                                                                                                   | Article                                                  | 2     | Sexual ethics                     | 9      | Great summary of queer ideas.                                                                                                                                         | ~20 minutes   |
 | [Internet Encyclopedia of Philosophy](https://iep.utm.edu/)                                                                          | Website/collection                                       |       |                                   | 10     | note that this isn't like Wikipedia: the explanations are quite long. Still absolutely brilliant if you want to thoroughly understand any term, idea, or philosopher. |               |
@@ -105,4 +105,6 @@ Some guy on the internet has quite a few interesting articles, such as (but not 
 [Politics spec ](https://qualifications.pearson.com/content/dam/pdf/A%20Level/Politics/2017/Specification%20and%20sample%20assessments/A-level-Politics-Specification.pdf)
 
 [[02 - Politics/The news\|The news]]
+
+[[08 - Organisation/Case studies\|Case studies]]
 

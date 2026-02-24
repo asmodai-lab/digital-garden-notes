@@ -28,7 +28,7 @@ To be verifiable, we must be able to know under what conditions will something b
 
 ## The context
 ### Hegel
-![Pasted image 20260120123132.png](/img/user/Images/Pasted%20image%2020260120123132.png)
+![Pasted image 20260120123132.png](/img/user/05%20-%20Images/1.2/Pasted%20image%2020260120123132.png)
 Hegel is a German philosopher who is incredibly fucking important to philosophy. His ideas have dominated European philosophy since he was there.
 - he argued that<span style="color:rgb(255, 192, 0)"> all reality is one</span>: a universe in which everything ultimately forms <span style="color:rgb(255, 192, 0)">part of a spiritual reality</span> — the Absolute
 - he emphasises the idea of progress and believes that the<span style="color:rgb(255, 192, 0)"> universe is in a continual state of improvement</span> (aka the Hegelian Dialect — see below.)

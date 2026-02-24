@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/history-of-usa-immigration/","updated":"2025-12-02T09:57:38.149+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/history-of-usa-immigration/","tags":["notes","USA"],"updated":"2026-02-10T11:07:44.184+00:00"}
 ---
 
 #lessonminor #unfinished 

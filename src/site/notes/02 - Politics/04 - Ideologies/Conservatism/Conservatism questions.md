@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/conservatism/conservatism-questions/","tags":["resources"],"updated":"2026-01-30T12:56:46.084+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/conservatism/conservatism-questions/","tags":["resources","conservatism"],"updated":"2026-02-10T11:02:07.532+00:00"}
 ---
 
 ## One nation conservatism questions

@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/labour/","tags":["lessonmajor"],"updated":"2025-12-11T07:18:31.521+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/labour/","tags":["lessonmajor","parties"],"updated":"2026-02-10T10:57:01.246+00:00"}
 ---
 
 
 
-- [[#Old Labour|Old Labour]]
-	- [[#Old Labour#The first Labour government|The first Labour government]]
-	- [[#Old Labour#The Wilson Ministry|The Wilson Ministry]]
-- [[#The third way|The third way]]
+- [[02 - Politics/01 - UK politics/Parties/Labour#Old Labour\|Old Labour]]
+	- [[02 - Politics/01 - UK politics/Parties/Labour#Old Labour\|The first Labour government]]
+	- [[02 - Politics/01 - UK politics/Parties/Labour#Old Labour\|The Wilson Ministry]]
+- [[02 - Politics/01 - UK politics/Parties/Labour#The third way\|The third way]]
 
 # History of Labour policy
 

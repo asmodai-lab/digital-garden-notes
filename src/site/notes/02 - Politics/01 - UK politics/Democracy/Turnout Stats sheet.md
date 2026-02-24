@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/turnout-stats-sheet/","updated":"2025-11-18T10:30:17.855+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/turnout-stats-sheet/","tags":["resources"],"updated":"2026-02-10T11:12:17.686+00:00"}
 ---
 
 [[03 - Essay plans/Politics Essay Plans/Compulsory voting- debate\|Compulsory voting- debate]], [[03 - Essay plans/Politics Essay Plans/Older essay plans/Should 16 year-olds have voting rights- debate\|Should 16 year-olds have voting rights- debate]] 

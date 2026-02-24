@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/switzerland-and-direct-democracy/","tags":["casestudy"],"updated":"2026-02-09T10:49:00.471+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/switzerland-and-direct-democracy/","tags":["casestudy"],"updated":"2026-02-10T10:53:41.844+00:00"}
 ---
 
 > [!note] 

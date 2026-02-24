@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/general-info/","updated":"2025-11-18T10:29:47.193+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/general-info/","tags":["UK","lessonminor","notes"],"updated":"2026-02-10T11:07:21.734+00:00"}
 ---
 
 #lessonmajor [[03 - Essay plans/Politics Essay Plans/Do parties help or hurt democracy\|Do political parties help or hinder representative democracy?]]

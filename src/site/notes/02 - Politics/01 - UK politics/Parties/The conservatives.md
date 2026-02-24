@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/the-conservatives/","tags":["lessonmajor"],"updated":"2025-11-26T20:17:33.126+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/the-conservatives/","tags":["lessonmajor"],"updated":"2026-02-10T10:56:34.106+00:00"}
 ---
 
-- [[#History of conservative ideas|History of conservative ideas]]
-	- [[#History of conservative ideas#Traditional conservatism|Traditional conservatism]]
-	- [[#History of conservative ideas#One-nation conservatism|One-nation conservatism]]
-	- [[#History of conservative ideas#The new right|The new right]]
-- [[#Modern Conservative policy|Modern Conservative policy]]
-	- [[#Modern Conservative policy#The economy (one-nation/Thatcherite)|The economy (one-nation/Thatcherite)]]
-	- [[#Modern Conservative policy#Welfare (one-nation/Thatcherite)|Welfare (one-nation/Thatcherite)]]
-	- [[#Modern Conservative policy#Law and order (Thatcherite)|Law and order (Thatcherite)]]
-	- [[#Modern Conservative policy#Foreign policy (Thatcherite)|Foreign policy (Thatcherite)]]
-- [[#Kemi Badenoch|Kemi Badenoch]]
+- [[02 - Politics/01 - UK politics/Parties/The conservatives#History of conservative ideas\|History of conservative ideas]]
+	- [[02 - Politics/01 - UK politics/Parties/The conservatives#History of conservative ideas\|Traditional conservatism]]
+	- [[02 - Politics/01 - UK politics/Parties/The conservatives#History of conservative ideas\|One-nation conservatism]]
+	- [[02 - Politics/01 - UK politics/Parties/The conservatives#History of conservative ideas\|The new right]]
+- [[02 - Politics/01 - UK politics/Parties/The conservatives#Modern Conservative policy\|Modern Conservative policy]]
+	- [[02 - Politics/01 - UK politics/Parties/The conservatives#Modern Conservative policy\|The economy (one-nation/Thatcherite)]]
+	- [[02 - Politics/01 - UK politics/Parties/The conservatives#Modern Conservative policy\|Welfare (one-nation/Thatcherite)]]
+	- [[02 - Politics/01 - UK politics/Parties/The conservatives#Modern Conservative policy\|Law and order (Thatcherite)]]
+	- [[02 - Politics/01 - UK politics/Parties/The conservatives#Modern Conservative policy\|Foreign policy (Thatcherite)]]
+- [[02 - Politics/01 - UK politics/Parties/The conservatives#Kemi Badenoch\|Kemi Badenoch]]
 
 
 ## History of conservative ideas

@@ -1,14 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/pluralism/","tags":["homepage"],"updated":"2026-02-23T15:39:05.266+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/pluralism/","tags":["homepage"],"updated":"2026-02-24T11:41:32.011+00:00"}
 ---
 
 
 Clearly, Christianity is not the only religion. This raises the issue of how Christians should regard people of other religions. The *theological* question is about which teaching is the correct interpretation of Christianity. However, there are also questions about how these teachings fit within *wider society*, given that modern societies often contain a mix of people of different faiths that contradict Christianity.
 
+**Table of Contents**
+
+- [[01 - Philosophy/03 DCT/Pluralism#And Theology\|And Theology]]
+	- [[01 - Philosophy/03 DCT/Pluralism#And Theology\|Notes]]
+	- [[01 - Philosophy/03 DCT/Pluralism#And Theology\|Specification]]
+		- [[01 - Philosophy/03 DCT/Pluralism#Specification\|Major debates]]
+		- [[01 - Philosophy/03 DCT/Pluralism#Specification\|Extra reading]]
+- [[01 - Philosophy/03 DCT/Pluralism#And society\|And society]]
+	- [[01 - Philosophy/03 DCT/Pluralism#And society\|Specification]]
+		- [[01 - Philosophy/03 DCT/Pluralism#Specification\|Major debates]]
+		- [[01 - Philosophy/03 DCT/Pluralism#Specification\|Extra reading]]
+	- [[01 - Philosophy/03 DCT/Pluralism#And society\|Notes]]
+
+
 ## And Theology
 ### Notes
 [[01 - Philosophy/03 DCT/Introduction to pluralism\|Introduction to pluralism]]
-
+[[01 - Philosophy/03 DCT/Exclusivism\|Exclusivism]]
 ### Specification
 ![Pasted image 20260223150307.png](/img/user/Images/Pasted%20image%2020260223150307.png)
 
@@ -36,3 +50,5 @@ Clearly, Christianity is not the only religion. This raises the issue of how Chr
 - The Doctrine Commission of the Church of England (1995) The Mystery of Salvation Church House Publishing, Chapter 7
 - Ford, D. (2011) The Future of Christian Theology, Wiley-Blackwell, Chapter 7 
 - Pope Paul VI (1965) Nostra Aetate; Declaration on the relation of the Church to non-Christian religions
+
+### Notes

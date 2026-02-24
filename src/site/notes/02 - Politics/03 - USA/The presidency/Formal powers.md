@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-presidency/formal-powers/","tags":["lessonmajor","unfinished"],"updated":"2025-11-27T22:54:14.787+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-presidency/formal-powers/","tags":["lessonmajor","notes","USA"],"updated":"2026-02-10T11:07:03.969+00:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 
 
 
-![Trump](https://www.youtube.com/watch?v=hybL-GJov7M&list=FLYX_4_6a-zi7NCDs8qP3t7A)
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/hybL-GJov7M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 

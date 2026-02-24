@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/conservatism/how-similar-is-one-nation-conservatism-to-traditional-conservatism/","tags":["lessonminor"],"updated":"2026-01-30T12:53:52.073+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/conservatism/how-similar-is-one-nation-conservatism-to-traditional-conservatism/","tags":["lessonminor","conservatism"],"updated":"2026-02-10T11:08:41.367+00:00"}
 ---
 
 ## Traditional conservative quick fire beliefs

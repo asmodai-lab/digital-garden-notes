@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/03-essay-plans/politics-essay-plans/checks-and-balances-on-the-sc/","updated":"2025-11-18T10:39:36.390+00:00"}
+{"dg-publish":true,"permalink":"/03-essay-plans/politics-essay-plans/checks-and-balances-on-the-sc/","tags":["Supremecourt","debates","USArights","USA"],"updated":"2026-02-10T11:01:37.401+00:00"}
 ---
 
-#debates 
+ 
 The extent and effectiveness of checks and balances both on and from the Supreme court.
 
 This can be broken down into several question areas:
