@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/02-politics/exam/test-paragraph/","tags":["exams","essays"],"noteIcon":"","updated":"2026-02-25T09:21:54.752+00:00"}
+---
+
+'Conscience is more dangerous than helpful in modern society'
+
+A weaker point is that Aquinas' idea of conscience is more helpful than dangerous in modern society because it takes one's knowledge of a situation into account. Aquinas proposes two types of ignorance — vincible and invincible —  of which allows for us to take into account a person's knowledge of a situation in a nuanced manner, which is objectively helpful for evaluating moral decision making. A stronger point is that Aquinas' idea of conscience is inherently flawed because of it's connection to God. Aquinas' idea of conscience is that it has been gifted by God. This fundamentally means that it is always good — and no matter what Aquinas argues (that it can make mistakes), only 'ignorance' cannot explain all evil actions. This demonstrates that 'conscience' is a neutral mechanism which can be used for good or evil, which is irreversibly in juxtaposition with the idea that it has been 'gifted by God'. Overall, it's clear that Aquinas' idea of conscience is more dangerous than helpful in modern society, because 'ignorance' cannot explain away the evil actions that can be done in accordance with one's conscience, and the connection to God further endangers it by disconnecting it from human flaws and morals, and putting the onus on God. 
