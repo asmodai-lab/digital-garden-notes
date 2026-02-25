@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-02-24T13:28:15.049+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-02-25T09:22:22.099+00:00"}
 ---
 
 # Resources
@@ -11,7 +11,7 @@
 
 [[08 - Organisation/Topic tracker\|Topic tracker]] — has this topic got notes/essay plans on it yet?
 
-[[01 - Philosophy/01 Philosophy/Nature and attributes of God/test.canvas\|test.canvas]] is this going to work? no, really? please website i am begging i am begging 
+[
 
 # Politics
 
@@ -41,28 +41,28 @@
 
 # Recent files
 
-| File                                                                                                                           | file.mday         |
-| ------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Falsification\|Falsification]]                                     | February 24, 2026 |
-| [[01 - Philosophy/01 Philosophy/Religious Language/Language c20th\|Language c20th]]                                         | February 24, 2026 |
-| [[01 - Philosophy/03 DCT/Exclusivism\|Exclusivism]]                                                                         | February 24, 2026 |
-| [[01 - Philosophy/03 DCT/Pluralism\|Pluralism]]                                                                             | February 24, 2026 |
-| [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism\|Classical Liberalism]]                                     | February 24, 2026 |
-| [[Home\|Home]]                                                                                                              | February 24, 2026 |
-| [[01 - Philosophy/03 DCT/Introduction to pluralism\|Introduction to pluralism]]                                             | February 23, 2026 |
-| [[01 - Philosophy/03 DCT/Paper 3\|Paper 3]]                                                                                 | February 23, 2026 |
-| [[02 - Politics/04 - Ideologies/Anarchism\|Anarchism]]                                                                      | February 23, 2026 |
-| [[01 - Philosophy/02 Ethics/Conscience\|Conscience]]                                                                        | February 12, 2026 |
-| [[01 - Philosophy/02 Ethics/Paper 2\|Paper 2]]                                                                              | February 11, 2026 |
-| [[02 - Politics/01 - UK politics/Democracy/Democracy\|Democracy]]                                                           | February 10, 2026 |
-| [[02 - Politics/01 - UK politics/Democracy/Participation crisis\|Participation crisis]]                                     | February 10, 2026 |
-| [[02 - Politics/01 - UK politics/Democracy/Representative versus Direct democracy\|Representative versus Direct democracy]] | February 10, 2026 |
-| [[02 - Politics/01 - UK politics/Democracy/Rights in context\|Rights in context]]                                           | February 10, 2026 |
-| [[02 - Politics/01 - UK politics/Democracy/Switzerland and direct democracy\|Switzerland and direct democracy]]             | February 10, 2026 |
-| [[02 - Politics/01 - UK politics/Democracy/Turnout Stats sheet\|Turnout Stats sheet]]                                       | February 10, 2026 |
-| [[02 - Politics/01 - UK politics/Voting Behaviour/Case studies of elections\|Case studies of elections]]                    | February 10, 2026 |
-| [[02 - Politics/01 - UK politics/Voting Behaviour/Voting Behaviour\|Voting Behaviour]]                                      | February 10, 2026 |
-| [[02 - Politics/01 - UK politics/UK government\|UK government]]                                                             | February 10, 2026 |
+| File                                                                                                                                                                 | file.mday         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[02 - Politics/Exam/Test Paragraph\|Test Paragraph]]                                                                                                             | February 25, 2026 |
+| [[01 - Philosophy/02 Ethics/Conscience/Conscience is more dangerous than helpful in modern society\|Conscience is more dangerous than helpful in modern society]] | February 25, 2026 |
+| [[01 - Philosophy/02 Ethics/Conscience/Aquinas and Freud conscience\|Aquinas and Freud conscience]]                                                               | February 25, 2026 |
+| [[Home\|Home]]                                                                                                                                                    | February 25, 2026 |
+| [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism\|Classical Liberalism]]                                                                           | February 24, 2026 |
+| [[01 - Philosophy/01 Philosophy/Religious Language/Language c20th\|Language c20th]]                                                                               | February 24, 2026 |
+| [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Falsification\|Falsification]]                                                                           | February 24, 2026 |
+| [[01 - Philosophy/03 DCT/Exclusivism\|Exclusivism]]                                                                                                               | February 24, 2026 |
+| [[01 - Philosophy/03 DCT/Pluralism\|Pluralism]]                                                                                                                   | February 24, 2026 |
+| [[02 - Politics/04 - Ideologies/Anarchism\|Anarchism]]                                                                                                            | February 23, 2026 |
+| [[01 - Philosophy/03 DCT/Introduction to pluralism\|Introduction to pluralism]]                                                                                   | February 23, 2026 |
+| [[01 - Philosophy/03 DCT/Paper 3\|Paper 3]]                                                                                                                       | February 23, 2026 |
+| [[01 - Philosophy/02 Ethics/Conscience/Conscience\|Conscience]]                                                                                                   | February 12, 2026 |
+| [[01 - Philosophy/02 Ethics/Paper 2\|Paper 2]]                                                                                                                    | February 11, 2026 |
+| [[02 - Politics/01 - UK politics/UK government\|UK government]]                                                                                                   | February 10, 2026 |
+| [[02 - Politics/01 - UK politics/UK politics home\|UK politics home]]                                                                                             | February 10, 2026 |
+| [[02 - Politics/01 - UK politics/Parties/General Info\|General Info]]                                                                                             | February 10, 2026 |
+| [[02 - Politics/01 - UK politics/Parties/Labour\|Labour]]                                                                                                         | February 10, 2026 |
+| [[02 - Politics/01 - UK politics/Parties/The conservatives\|The conservatives]]                                                                                   | February 10, 2026 |
+| [[02 - Politics/01 - UK politics/Parties/The lib-dems\|The lib-dems]]                                                                                             | February 10, 2026 |
 
 { .block-language-dataview}
 
