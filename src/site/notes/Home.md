@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-02-25T09:22:22.099+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-02-25T09:22:24.513+00:00"}
 ---
 
 # Resources
@@ -10,8 +10,6 @@
 [[08 - Organisation/Brain joggers\|I have an exam in 10 minutes and I need a QUICK summary — aka Brain Joggers]]
 
 [[08 - Organisation/Topic tracker\|Topic tracker]] — has this topic got notes/essay plans on it yet?
-
-[
 
 # Politics
 
