@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/aquinas-and-freud-conscience/","noteIcon":"","updated":"2026-02-25T09:10:15.630+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/aquinas-and-freud-conscience/","tags":["lessonmajor"],"noteIcon":"","updated":"2026-02-25T09:10:49.130+00:00"}
 ---
 
 **Table of Contents**
