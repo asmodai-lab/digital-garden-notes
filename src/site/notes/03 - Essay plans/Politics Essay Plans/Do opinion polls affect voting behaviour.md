@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-essay-plans/politics-essay-plans/do-opinion-polls-affect-voting-behaviour/","tags":["debates","votingbehaviour"],"updated":"2026-02-10T11:03:49.659+00:00"}
+{"dg-publish":true,"permalink":"/03-essay-plans/politics-essay-plans/do-opinion-polls-affect-voting-behaviour/","tags":["debates","votingbehaviour"],"noteIcon":"","updated":"2026-02-10T11:03:49.659+00:00"}
 ---
 
 

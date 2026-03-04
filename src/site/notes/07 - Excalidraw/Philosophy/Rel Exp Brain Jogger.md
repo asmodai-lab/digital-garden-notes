@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-excalidraw/philosophy/rel-exp-brain-jogger/","tags":["excalidraw","summary","brainjogger"],"updated":"2026-01-06T10:26:45.861+00:00"}
+{"dg-publish":true,"permalink":"/07-excalidraw/philosophy/rel-exp-brain-jogger/","tags":["excalidraw","summary","brainjogger"],"noteIcon":"","updated":"2026-01-06T10:26:45.861+00:00"}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'

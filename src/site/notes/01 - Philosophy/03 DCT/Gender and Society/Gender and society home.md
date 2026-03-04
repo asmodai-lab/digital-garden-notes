@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/gender-and-society/gender-and-society-home/","tags":["homepage"],"updated":"2025-11-18T09:32:44.012+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/gender-and-society/gender-and-society-home/","tags":["homepage"],"noteIcon":"","updated":"2025-11-18T09:32:44.012+00:00"}
 ---
 
 [[01 - Philosophy/03 DCT/Gender and Society/Feminism\|Feminism]]

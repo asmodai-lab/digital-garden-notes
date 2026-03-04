@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/arguments-about-god/the-ontological-argument/","tags":["lessonmajor"],"updated":"2026-01-06T10:35:26.749+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/arguments-about-god/the-ontological-argument/","tags":["lessonmajor"],"noteIcon":"","updated":"2026-01-06T10:35:26.749+00:00"}
 ---
 
 **Table of Contents**

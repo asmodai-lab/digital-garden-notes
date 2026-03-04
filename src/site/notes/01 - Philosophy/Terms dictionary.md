@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/terms-dictionary/","updated":"2025-12-17T11:39:19.917+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/terms-dictionary/","noteIcon":"","updated":"2025-12-17T11:39:19.917+00:00"}
 ---
 
 

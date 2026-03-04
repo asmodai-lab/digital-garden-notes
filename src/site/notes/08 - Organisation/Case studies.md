@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-organisation/case-studies/","tags":["resources","homepage"],"updated":"2026-02-10T09:07:51.569+00:00"}
+{"dg-publish":true,"permalink":"/08-organisation/case-studies/","tags":["resources","homepage"],"noteIcon":"","updated":"2026-02-10T09:07:51.569+00:00"}
 ---
 
 [[The suffragettes' work to extend the franchise\|The suffragettes' work to extend the franchise]]

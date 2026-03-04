@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/party-funding/","tags":["lessonminor"],"updated":"2025-11-19T10:05:06.204+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/party-funding/","tags":["lessonminor"],"noteIcon":"","updated":"2025-11-19T10:05:06.204+00:00"}
 ---
 
 - [[02 - Politics/01 - UK politics/Parties/Party funding#How do parties fund election and campaign expenses?\|How do parties fund election and campaign expenses?]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/liberation-theology/general-notes/","updated":"2025-11-18T09:33:21.008+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/liberation-theology/general-notes/","noteIcon":"","updated":"2025-11-18T09:33:21.008+00:00"}
 ---
 
 #lessonminor 

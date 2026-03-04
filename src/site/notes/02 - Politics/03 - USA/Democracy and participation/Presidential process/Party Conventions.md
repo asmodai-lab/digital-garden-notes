@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/presidential-process/party-conventions/","updated":"2025-11-18T10:35:43.450+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/presidential-process/party-conventions/","noteIcon":"","updated":"2025-11-18T10:35:43.450+00:00"}
 ---
 
 #lessonminor 

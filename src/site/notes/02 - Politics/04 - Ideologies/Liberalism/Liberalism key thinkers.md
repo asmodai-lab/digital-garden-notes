@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism-key-thinkers/","tags":["lessonminor"],"updated":"2026-02-10T09:29:50.646+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberalism-key-thinkers/","tags":["lessonminor"],"noteIcon":"","updated":"2026-02-10T09:29:50.646+00:00"}
 ---
 
 Non-spec key thinkers: Jeremy Bentham, Adam Smith, Immanuel Kant.

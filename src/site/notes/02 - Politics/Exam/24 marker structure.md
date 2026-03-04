@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/exam/24-marker-structure/","tags":["exams"],"updated":"2026-02-10T10:57:36.870+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/exam/24-marker-structure/","tags":["exams"],"noteIcon":"","updated":"2026-02-10T10:57:36.870+00:00"}
 ---
 
 

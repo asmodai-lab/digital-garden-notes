@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/sexual-ethics/marriage-and-sexual-ethics/","tags":["lessonminor","philosophy"],"updated":"2025-12-03T10:05:13.265+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/sexual-ethics/marriage-and-sexual-ethics/","tags":["lessonminor","philosophy"],"noteIcon":"","updated":"2025-12-03T10:05:13.265+00:00"}
 ---
 
 **Table of Contents**

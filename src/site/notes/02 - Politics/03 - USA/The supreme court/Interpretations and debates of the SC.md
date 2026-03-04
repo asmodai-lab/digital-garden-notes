@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/interpretations-and-debates-of-the-sc/","updated":"2026-01-16T00:16:28.674+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/interpretations-and-debates-of-the-sc/","noteIcon":"","updated":"2026-01-16T00:16:28.674+00:00"}
 ---
 
 #homepage 

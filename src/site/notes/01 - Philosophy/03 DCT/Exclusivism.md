@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/exclusivism/","tags":["lessonminor"],"updated":"2026-02-24T12:42:11.980+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/exclusivism/","tags":["lessonminor"],"noteIcon":"","updated":"2026-03-02T15:13:04.086+00:00"}
 ---
 
 
@@ -21,6 +21,14 @@ Only faith in Jesus Christ and the Christian God can lead to salvation and etern
 | Extra ecclesiam nulla sullas         | no salvation outside the church                                                                    |
 | Fides ex auditu                      | hearing the word of God, the gospel                                                                |
 | Dominus Jesus                        | catholic declaration on the truth of Catholicism and Christ.                                       |
+
+#### The controlling beliefs
+Gavin D'Costa refers to the 'controlling beliefs' of Christianity. These are:
+- **Sola Christus**: belief that God's grace is only possible through Christ
+- **Fides Ex Auditu**: the belief that true faith is only possible through hearing the Gospel as witnessed in the Bible and preached by the Church
+- **Extra ecclesiam nulla sullas**: the belief that Salvation is not possible outside the Church, and the Church is the continuing mediator of Christ's presence on earth
+- **Sin and election**: the belief that humans are fallen and incapable of knowing God fully by themselves; God calls or elects some to salvation and some to damnation
+> Obviously, the particulars will depend of the denomination — e.g. Calvinism is very strict on the conditions to get into heaven, whereas Catholics do not think the Fall has made humans incapable of knowing God.
 
 #### Narrow v Broad
 
@@ -66,3 +74,37 @@ Only faith in Jesus Christ and the Christian God can lead to salvation and etern
 - <span style="color:rgb(255, 77, 77)"><b>Dominus Jesus (2000)</b></span> — declares that the Catholic Church is the one true Church of Christ,<span style="color:rgb(255, 77, 77)"> unicity conveys the oneness of Christ in Catholicism</span> and the fullness of salvation; while <span style="color:rgb(255, 77, 77)">Protestant churches</span> have not been "deprived of significance and importance in the mystery of salvation, they do<span style="color:rgb(255, 77, 77)"> "suffer from defects."</span>
 - other religions <span style="color:rgb(255, 77, 77)">may satisfy some necessary conditions but they cannot fulfil them all</span> — seen as inclusive in a sense
 - since the 1960s they have acknowledged that other religions hold aspects of the truth, <span style="color:rgb(255, 77, 77)">but full truth can only be found in Catholicism</span> 
+
+### Universal Access Exclusivism
+- others believe Jesus' sacrifice redeemed the whole of humanity, and therefore place emphasis on God wishing to save everyone, not just those exposed to Jesus or the Gospel
+- for those who live moral yet non-religious lives, there will be salvation available at the moment of death, giving the opportunity for everyone to become a Christian
+	- "God our saviour... wants all people to be saved and to come to a knowledge of the truth." (Timothy)
+
+## Evaluation of exclusivism
+1) Theological problems
+> **Loving**: RAE presents an unjust and unloving God because of his treatment of people who are not Christian (through no fault of their own)
+> 
+> UAE lacks consistency — Vatican argues that non Christian religions may have 'rays of truth' which are sufficient for salvation, but Dominus Jesus argues extra ecclesiam nulla sullas: without being a member of the Church, the rays are deficient
+> 
+> **Unknowable**: Barth's emphasis on the ultimate unknowable mystery of God leads to theological agnosticism and incoherency; seems paradoxical to argue RAE offers the truth when it is based on a belief that humans are fallen, thus cannot reach the full understanding of God anyway
+> 
+> **Trinity**: D'Costa makes the point that exclusivism ignores the idea of the Trinity. To say that God can only be known through Jesus is binatarian because it ignores the role of the Trinity
+
+
+2) Logical problems
+> Christian exclusivism is, it can be argued, **internally coherent**. If Jesus is God incarnate, then it would make sense to claim that Christianity has the truth about God. However, this is based on a rather large assumption — that Jesus was genuinely the Son of God.
+> 
+> John Hick argues that Jesus never claimed to be the Son of God and the title was used in an honorific sense to make the point that Jesus acted in a God-like way.
+> 
+> David Hume argued that miracles can never be good evidence for God because how ever unlikely the event appears a rational explanation will always be more plausible than the idea that a miracle actually happened. By the same token, however much evidence there appears to be for Jesus' divinity, it will always be more likely that there is a rational explanation for things like the virgin birth and the resurrection.
+
+3) Biblical problems
+> The Bible suggests that people are judged on their actions (Parable of the Sheep and the Goats) and not their beliefs — why can a moral non-Christian not receive salvation if they are unknowingly practicing Christian teachings?
+> 	 (*the response to this critique is the Anonymous Christian*)
+> 
+> Exclusivists wrongly judge universalism and undermining Christian controlling beliefs — Universalism's eschatological emphasis recognises God's love for all his creation and that all humans have the ability to enter the beatific vision
+
+4) Practical problems
+> RAE has been the cause of Christian imperialism, religious conflict and suffering — people have been persecuted for not believing the Christian version of the 'truth'.
+> 
+> Makes constructive interfaith dialogue impossible

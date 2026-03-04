@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/introduction-to-pluralism/","tags":["lessonmajor","summary"],"updated":"2026-02-23T15:38:46.555+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/introduction-to-pluralism/","tags":["lessonmajor","summary"],"noteIcon":"","updated":"2026-02-23T15:38:46.555+00:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/philosophy-questions/","updated":"2025-11-18T09:30:32.971+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/philosophy-questions/","noteIcon":"","updated":"2025-11-18T09:30:32.971+00:00"}
 ---
 
 

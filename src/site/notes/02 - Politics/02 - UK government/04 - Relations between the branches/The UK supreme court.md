@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/02-uk-government/04-relations-between-the-branches/the-uk-supreme-court/","tags":["lessonmajor"],"updated":"2025-12-10T13:22:13.003+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/02-uk-government/04-relations-between-the-branches/the-uk-supreme-court/","tags":["lessonmajor"],"noteIcon":"","updated":"2025-12-10T13:22:13.003+00:00"}
 ---
 
 **Table of Contents**

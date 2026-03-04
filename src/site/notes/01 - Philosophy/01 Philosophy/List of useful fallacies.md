@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/list-of-useful-fallacies/","tags":["resources"],"updated":"2025-12-28T18:00:35.162+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/list-of-useful-fallacies/","tags":["resources"],"noteIcon":"","updated":"2025-12-28T18:00:35.162+00:00"}
 ---
 
 ## Useful terminology

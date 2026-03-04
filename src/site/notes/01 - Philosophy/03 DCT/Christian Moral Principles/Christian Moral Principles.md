@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/christian-moral-principles/christian-moral-principles/","tags":["lessonmajor"],"updated":"2025-11-27T21:17:12.100+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/christian-moral-principles/christian-moral-principles/","tags":["lessonmajor"],"noteIcon":"","updated":"2025-11-27T21:17:12.100+00:00"}
 ---
 
 ## Terminology

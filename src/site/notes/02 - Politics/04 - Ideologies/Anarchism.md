@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/anarchism/","tags":["homepage","anarchy"],"updated":"2026-02-23T13:30:37.058+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/anarchism/","tags":["homepage","anarchy"],"noteIcon":"","updated":"2026-02-25T12:19:34.485+00:00"}
 ---
 
 ## Notes
+[[02 - Politics/04 - Ideologies/Leftist anarchists\|Leftist anarchists]]
+
 ## Specification information
 ### Core ideas and principles
 

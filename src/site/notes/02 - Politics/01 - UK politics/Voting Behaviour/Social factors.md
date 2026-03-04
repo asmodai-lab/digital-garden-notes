@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/voting-behaviour/social-factors/","tags":["lessonmajor","unfinished"],"updated":"2025-12-11T11:46:51.256+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/voting-behaviour/social-factors/","tags":["lessonmajor","unfinished"],"noteIcon":"","updated":"2025-12-11T11:46:51.256+00:00"}
 ---
 
 **Table of Contents**

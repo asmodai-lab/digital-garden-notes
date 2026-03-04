@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-pd-fs-and-articles/politics-essay-questions-bank-uk-and-usa-perspectives-paper-1-3/","updated":"2026-02-09T08:44:26.846+00:00"}
+{"dg-publish":true,"permalink":"/06-pd-fs-and-articles/politics-essay-questions-bank-uk-and-usa-perspectives-paper-1-3/","noteIcon":"","updated":"2026-02-09T08:44:26.846+00:00"}
 ---
 
 

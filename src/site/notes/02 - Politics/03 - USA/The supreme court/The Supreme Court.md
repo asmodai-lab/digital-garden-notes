@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/the-supreme-court/","tags":["homepage"],"updated":"2026-02-10T10:56:05.085+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/the-supreme-court/","tags":["homepage"],"noteIcon":"","updated":"2026-02-10T10:56:05.085+00:00"}
 ---
 
 [[02 - Politics/03 - USA/The supreme court/Interpretations and debates of the SC\|Interpretations and debates of the SC]]

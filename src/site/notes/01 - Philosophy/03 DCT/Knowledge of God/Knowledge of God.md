@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/knowledge-of-god/knowledge-of-god/","tags":["homepage"],"updated":"2025-12-18T20:13:26.431+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/knowledge-of-god/knowledge-of-god/","tags":["homepage"],"noteIcon":"","updated":"2025-12-18T20:13:26.431+00:00"}
 ---
 
 

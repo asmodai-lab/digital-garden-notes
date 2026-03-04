@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/04-essays-home/development-of-christian-thought-essay-questions/","tags":["questions"],"updated":"2025-11-18T22:48:44.857+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/04-essays-home/development-of-christian-thought-essay-questions/","tags":["questions"],"noteIcon":"","updated":"2025-11-18T22:48:44.857+00:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-pd-fs-and-articles/trump-officials-accused-of-defying-1-in-3-judges-who-ruled-against-him/","tags":["articles"],"updated":"2025-12-18T20:13:09.912+00:00"}
+{"dg-publish":true,"permalink":"/06-pd-fs-and-articles/trump-officials-accused-of-defying-1-in-3-judges-who-ruled-against-him/","tags":["articles"],"noteIcon":"","updated":"2025-12-18T20:13:09.912+00:00"}
 ---
 
 

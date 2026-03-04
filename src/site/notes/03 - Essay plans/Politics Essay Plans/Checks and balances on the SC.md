@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-essay-plans/politics-essay-plans/checks-and-balances-on-the-sc/","tags":["Supremecourt","debates","USArights","USA"],"updated":"2026-02-10T11:01:37.401+00:00"}
+{"dg-publish":true,"permalink":"/03-essay-plans/politics-essay-plans/checks-and-balances-on-the-sc/","tags":["Supremecourt","debates","USArights","USA"],"noteIcon":"","updated":"2026-02-10T11:01:37.401+00:00"}
 ---
 
  

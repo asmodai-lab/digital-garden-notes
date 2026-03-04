@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/living-constitution-v-originalism/","updated":"2025-11-19T10:04:35.772+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/living-constitution-v-originalism/","noteIcon":"","updated":"2025-11-19T10:04:35.772+00:00"}
 ---
 
 #debates 

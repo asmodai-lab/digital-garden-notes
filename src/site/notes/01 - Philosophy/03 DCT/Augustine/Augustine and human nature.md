@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/augustine/augustine-and-human-nature/","updated":"2025-11-23T13:21:17.342+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/augustine/augustine-and-human-nature/","noteIcon":"","updated":"2025-11-23T13:21:17.342+00:00"}
 ---
 
 #homepage #lessonmajor 

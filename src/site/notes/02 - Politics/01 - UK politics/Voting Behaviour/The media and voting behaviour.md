@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/voting-behaviour/the-media-and-voting-behaviour/","updated":"2025-11-24T14:17:01.419+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/voting-behaviour/the-media-and-voting-behaviour/","noteIcon":"","updated":"2025-11-24T14:17:01.419+00:00"}
 ---
 
 - [[02 - Politics/01 - UK politics/Voting Behaviour/The media and voting behaviour#Introduction\|Introduction]]

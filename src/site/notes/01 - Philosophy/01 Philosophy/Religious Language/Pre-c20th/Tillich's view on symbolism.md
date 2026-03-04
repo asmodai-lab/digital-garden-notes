@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/pre-c20th/tillich-s-view-on-symbolism/","tags":["lessonminor"],"updated":"2026-02-09T09:57:52.422+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/pre-c20th/tillich-s-view-on-symbolism/","tags":["lessonminor"],"noteIcon":"","updated":"2026-02-09T09:57:52.422+00:00"}
 ---
 
 **Table of Contents**

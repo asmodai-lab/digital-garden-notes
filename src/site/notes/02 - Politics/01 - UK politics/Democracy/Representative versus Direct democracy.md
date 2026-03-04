@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/representative-versus-direct-democracy/","tags":["debates","lessonmajor"],"updated":"2026-02-10T10:54:45.869+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/representative-versus-direct-democracy/","tags":["debates","lessonmajor"],"noteIcon":"","updated":"2026-02-10T10:54:45.869+00:00"}
 ---
 
 **Table of Contents**

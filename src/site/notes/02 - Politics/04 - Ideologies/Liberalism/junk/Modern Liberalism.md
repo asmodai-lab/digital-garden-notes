@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/junk/modern-liberalism/","tags":["lessonminor"],"updated":"2026-02-05T09:38:01.757+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/junk/modern-liberalism/","tags":["lessonminor"],"noteIcon":"","updated":"2026-02-05T09:38:01.757+00:00"}
 ---
 
 

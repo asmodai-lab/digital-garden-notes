@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/sexual-ethics/sex-ethics/","tags":["homepage"],"updated":"2025-12-11T09:24:37.771+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/sexual-ethics/sex-ethics/","tags":["homepage"],"noteIcon":"","updated":"2025-12-11T09:24:37.771+00:00"}
 ---
 
 ## Spec on sexual ethics

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/the-franchise/","updated":"2025-11-18T10:30:15.155+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/democracy/the-franchise/","noteIcon":"","updated":"2025-11-18T10:30:15.155+00:00"}
 ---
 
 [[02 - Politics/01 - UK politics/Democracy/Democracy\|Democracy]]

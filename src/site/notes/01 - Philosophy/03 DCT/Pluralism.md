@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/pluralism/","tags":["homepage"],"updated":"2026-02-24T11:41:32.011+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/pluralism/","tags":["homepage"],"noteIcon":"","updated":"2026-03-02T15:13:54.598+00:00"}
 ---
 
 
@@ -23,6 +23,7 @@ Clearly, Christianity is not the only religion. This raises the issue of how Chr
 ### Notes
 [[01 - Philosophy/03 DCT/Introduction to pluralism\|Introduction to pluralism]]
 [[01 - Philosophy/03 DCT/Exclusivism\|Exclusivism]]
+[[01 - Philosophy/03 DCT/Inclusivism\|Inclusivism]]
 ### Specification
 ![Pasted image 20260223150307.png](/img/user/Images/Pasted%20image%2020260223150307.png)
 

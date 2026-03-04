@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/comparative-notes/comparative-usa-and-uk/","tags":["homepage"],"updated":"2026-02-10T10:56:12.738+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/comparative-notes/comparative-usa-and-uk/","tags":["homepage"],"noteIcon":"","updated":"2026-02-10T10:56:12.738+00:00"}
 ---
 
 - [[03 - Essay plans/Politics Essay Plans/Older essay plans/Differences between UK and US Cabinet\|Differences between UK and US Cabinet]]

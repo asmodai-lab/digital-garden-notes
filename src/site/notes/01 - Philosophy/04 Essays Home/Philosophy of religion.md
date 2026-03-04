@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/04-essays-home/philosophy-of-religion/","tags":["questions"],"updated":"2025-11-18T22:42:21.195+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/04-essays-home/philosophy-of-religion/","tags":["questions"],"noteIcon":"","updated":"2026-02-27T10:06:53.748+00:00"}
 ---
 
 ## Aristotle and Plato
@@ -44,6 +44,8 @@
 8. Discuss critically the view that God limits his own powers for the good of humanity
 
 # Religious Language
+[[01 - Philosophy/04 Essays Home/Religious language essay plans\|Religious language essay plans]]
+
 1. Critically compare symbol and analogy as approaches to religious language. 
 2. The Via Negativa is an unhelpful way of approaching religious language. Discuss. 
 3. Meaningful theological discussion depends on the Cataphatic approach to language; it is impossible through the Apophatic way. Critically assess this claim. 
@@ -52,5 +54,22 @@
 6. Critically assess the claim that Religious Language is necessarily non-cognitive. 
 7. To what extent can Scripture mean anything if religious language is understood to be non-cognitive? 
 8. How far is Aquinas’ analogical view of theological language valuable in the philosophy of religion? 
+
+- Critically assess AJ Ayer’s approach to religious language. [40]
+- Religious language is meaningless. Discuss [40]
+- “Both strong and weak versions of the verification principle render religious language as meaningless.” Discuss. [40]
+- Critically assess the claim that Religious Language is necessarily non-cognitive. [40]
+- The meaning of claims comes from usage, not from reference. Discuss the implications of this claim with reference to religious language. [40]
+- To what extent can Scripture mean anything if religious language is understood to be non-cognitive? [40]
+- How far is Aquinas’ analogical view of theological language valuable in the philosophy of religion? [40]
+- “Religious language can be both meaningful and non-cognitive” Do you agree? [40]
+- “Flew was right: Religious claims have no factual quality, given the fact that they are unfalsifiable.” Discuss [40]
+- Critically compare the views of Flew, Hare and Mitchell on the factual quality of religious claims. [40]
+- Hare’s parable of the lunatic does little to establish the meaningfulness of religious language. Do you agree? [40]
+- “No participant in the falsification symposium presented a convincing approach to the understanding of religious language.” Discuss [40]
+- “How far does Aquinas’ analogical view of theological language remain valuable in the philosophy of religion today?” [40]
+- Assess the influence of non-cognitive approaches on the interpretation of religious texts. [40]
+- Critically compare the ideas of Aquinas and Wittgenstein on religious language. [40]
+- A cognitive approach is a better approach to making sense of religious language than a non-cognitive approach.” Discuss with reference to Aquinas and Wittgenstein. [40
 
 #debates

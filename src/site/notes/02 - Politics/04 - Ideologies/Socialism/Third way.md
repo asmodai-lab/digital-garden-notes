@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/third-way/","tags":["lessonmajor"],"updated":"2025-12-04T15:38:03.852+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/third-way/","tags":["lessonmajor"],"noteIcon":"","updated":"2025-12-04T15:38:03.852+00:00"}
 ---
 
 

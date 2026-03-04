@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/voting-systems/referendums/","tags":["lessonmajor"],"updated":"2026-01-07T22:47:19.200+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/voting-systems/referendums/","tags":["lessonmajor"],"noteIcon":"","updated":"2026-01-07T22:47:19.200+00:00"}
 ---
 
 ## Notes

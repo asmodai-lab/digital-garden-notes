@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/junk/liberalism-tenet-questions/","tags":["resources"],"updated":"2026-02-10T10:51:14.585+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/junk/liberalism-tenet-questions/","tags":["resources"],"noteIcon":"","updated":"2026-02-10T10:51:14.585+00:00"}
 ---
 
 Use the JJT and Heywood textbooks to answer these questions. Develop your notes further by adding extra ideas, keywords and thinkers with their ideas. All questions are based directly on the spec points. 

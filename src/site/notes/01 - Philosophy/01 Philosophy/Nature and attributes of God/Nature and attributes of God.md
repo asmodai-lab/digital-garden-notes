@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/nature-and-attributes-of-god/nature-and-attributes-of-god/","updated":"2026-01-21T10:38:54.378+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/nature-and-attributes-of-god/nature-and-attributes-of-god/","noteIcon":"","updated":"2026-01-21T10:38:54.378+00:00"}
 ---
 
 [[01 - Philosophy/01 Philosophy/Nature and attributes of God/Introduction\|Introduction]] #homepage 

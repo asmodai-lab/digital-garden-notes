@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-pd-fs-and-articles/criminalisation-and-consent-r-v-brown/","tags":["resources","articles","casestudy"],"updated":"2026-02-10T11:15:07.594+00:00"}
+{"dg-publish":true,"permalink":"/06-pd-fs-and-articles/criminalisation-and-consent-r-v-brown/","tags":["resources","articles","casestudy"],"noteIcon":"","updated":"2026-02-10T11:15:07.594+00:00"}
 ---
 
 [Link](https://trinitycollegelawreview.org/criminalisation-and-consent-sadomasochism-in-r-v-brown/)

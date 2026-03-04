@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-organisation/brain-joggers/","tags":["brainjogger","resources","summary"],"updated":"2026-02-04T13:25:39.662+00:00"}
+{"dg-publish":true,"permalink":"/08-organisation/brain-joggers/","tags":["brainjogger","resources","summary"],"noteIcon":"","updated":"2026-02-04T13:25:39.662+00:00"}
 ---
 
 #resources 

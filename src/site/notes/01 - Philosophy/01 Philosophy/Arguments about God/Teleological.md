@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/arguments-about-god/teleological/","tags":["lessonmajor"],"updated":"2026-01-05T15:39:14.901+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/arguments-about-god/teleological/","tags":["lessonmajor"],"noteIcon":"","updated":"2026-01-05T15:39:14.901+00:00"}
 ---
 
 

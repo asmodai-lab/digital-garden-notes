@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/mind-body-soul/dualism/","tags":["lessonmajor"],"updated":"2025-11-28T12:31:04.380+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/mind-body-soul/dualism/","tags":["lessonmajor"],"noteIcon":"","updated":"2025-11-28T12:31:04.380+00:00"}
 ---
 
 **Table of Contents**

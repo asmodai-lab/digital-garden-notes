@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/socialism-help/","tags":["resources","essays","exams"],"updated":"2025-12-12T12:47:35.423+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/socialism-help/","tags":["resources","essays","exams"],"noteIcon":"","updated":"2025-12-12T12:47:35.423+00:00"}
 ---
 
 Ask yourself these questions as you read material from revision guides, textbooks and your own notes. Try to answer as many as you can.

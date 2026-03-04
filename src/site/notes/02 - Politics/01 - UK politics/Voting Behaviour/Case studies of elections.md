@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/voting-behaviour/case-studies-of-elections/","tags":["resources","casestudy","votingbehaviour","democracy","UKgovernment","UKpolitics"],"updated":"2026-02-10T11:01:22.720+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/voting-behaviour/case-studies-of-elections/","tags":["resources","casestudy","votingbehaviour","democracy","UKgovernment","UKpolitics"],"noteIcon":"","updated":"2026-02-10T11:01:22.720+00:00"}
 ---
 
 **Table of Contents**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/ethics-questions/","tags":["questions"],"updated":"2025-11-18T09:31:58.304+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/ethics-questions/","tags":["questions"],"noteIcon":"","updated":"2025-11-18T09:31:58.304+00:00"}
 ---
 
 

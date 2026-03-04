@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/liberation-theology/liberation-philosophers/","updated":"2025-11-26T20:01:50.115+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/liberation-theology/liberation-philosophers/","noteIcon":"","updated":"2025-11-26T20:01:50.115+00:00"}
 ---
 
 #lessonmajor 

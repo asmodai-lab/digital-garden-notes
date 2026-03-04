@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/presidential-process/what-are-primaries-and-caucuses/","updated":"2025-11-18T10:35:49.601+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/presidential-process/what-are-primaries-and-caucuses/","noteIcon":"","updated":"2025-11-18T10:35:49.601+00:00"}
 ---
 
 #lessonmajor 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-presidency/informal-powers/","tags":["lessonmajor","messy"],"updated":"2025-11-27T22:56:54.936+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-presidency/informal-powers/","tags":["lessonmajor","messy"],"noteIcon":"","updated":"2025-11-27T22:56:54.936+00:00"}
 ---
 
 The executive office of the presidency. (This is why it's called the presiden*cy*: because there is many people in it.)

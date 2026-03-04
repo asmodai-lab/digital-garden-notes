@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/c20th/criticisms-of-verification/","tags":["lessonmajor","lessonminor"],"updated":"2026-01-29T11:48:34.188+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/c20th/criticisms-of-verification/","tags":["lessonmajor","lessonminor"],"noteIcon":"","updated":"2026-01-29T11:48:34.188+00:00"}
 ---
 
 > [!info] The verification principle

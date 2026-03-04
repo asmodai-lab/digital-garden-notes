@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-excalidraw/politics/should-the-state-fund-political-parties/","tags":["excalidraw","debates"],"updated":"2026-02-10T10:55:38.070+00:00"}
+{"dg-publish":true,"permalink":"/07-excalidraw/politics/should-the-state-fund-political-parties/","tags":["excalidraw","debates"],"noteIcon":"","updated":"2026-02-10T10:55:38.070+00:00"}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'

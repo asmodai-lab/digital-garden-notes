@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/socialism/","tags":["lessonmajor"],"updated":"2026-02-03T12:02:18.397+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/socialism/","tags":["lessonmajor"],"noteIcon":"","updated":"2026-02-03T12:02:18.397+00:00"}
 ---
 
 

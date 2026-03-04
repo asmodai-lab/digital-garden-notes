@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/how-can-pressure-groups-enhance-and-degrade-democracy/","tags":["debates","USA","notes"],"updated":"2026-02-10T11:09:35.317+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/how-can-pressure-groups-enhance-and-degrade-democracy/","tags":["debates","USA","notes"],"noteIcon":"","updated":"2026-02-10T11:09:35.317+00:00"}
 ---
 
 [[02 - Politics/03 - USA/Democracy and participation/Interest groups in the USA\|Interest groups in the USA]]

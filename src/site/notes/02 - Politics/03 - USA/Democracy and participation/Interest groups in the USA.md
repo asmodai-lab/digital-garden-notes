@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/interest-groups-in-the-usa/","updated":"2026-02-10T11:10:04.332+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/democracy-and-participation/interest-groups-in-the-usa/","noteIcon":"","updated":"2026-02-10T11:10:04.332+00:00"}
 ---
 
 

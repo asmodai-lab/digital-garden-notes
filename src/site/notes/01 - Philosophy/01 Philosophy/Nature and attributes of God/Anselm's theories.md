@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/nature-and-attributes-of-god/anselm-s-theories/","updated":"2025-11-18T10:28:50.634+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/nature-and-attributes-of-god/anselm-s-theories/","noteIcon":"","updated":"2025-11-18T10:28:50.634+00:00"}
 ---
 
 (ew) #lessonminor 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/death-and-the-afterlife/death-and-the-afterlife/","tags":["homepage","lessonmajor"],"updated":"2025-12-18T20:13:41.615+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/death-and-the-afterlife/death-and-the-afterlife/","tags":["homepage","lessonmajor"],"noteIcon":"","updated":"2025-12-18T20:13:41.615+00:00"}
 ---
 
 > This topic is related to [[01 - Philosophy/03 DCT/Death and the afterlife/Divine Election.canvas\|Divine Election]] (notes you can't open, sorry)

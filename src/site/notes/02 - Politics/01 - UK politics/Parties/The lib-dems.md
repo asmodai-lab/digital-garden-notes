@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/the-lib-dems/","updated":"2026-02-10T10:41:01.731+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/the-lib-dems/","noteIcon":"","updated":"2026-02-10T10:41:01.731+00:00"}
 ---
 
 

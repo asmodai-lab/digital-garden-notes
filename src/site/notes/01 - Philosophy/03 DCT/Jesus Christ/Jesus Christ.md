@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/jesus-christ/jesus-christ/","tags":["homepage"],"updated":"2026-01-22T12:09:27.423+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/jesus-christ/jesus-christ/","tags":["homepage"],"noteIcon":"","updated":"2026-01-22T12:09:27.423+00:00"}
 ---
 
 ## Specification

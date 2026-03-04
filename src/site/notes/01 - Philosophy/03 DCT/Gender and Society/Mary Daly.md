@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/gender-and-society/mary-daly/","updated":"2025-11-18T10:28:04.245+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/gender-and-society/mary-daly/","noteIcon":"","updated":"2025-11-18T10:28:04.245+00:00"}
 ---
 
 #lessonmajor #unfinished 

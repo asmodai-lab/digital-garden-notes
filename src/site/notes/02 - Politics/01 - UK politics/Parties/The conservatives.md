@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/the-conservatives/","tags":["lessonmajor"],"updated":"2026-02-10T10:56:34.106+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/the-conservatives/","tags":["lessonmajor"],"noteIcon":"","updated":"2026-02-10T10:56:34.106+00:00"}
 ---
 
 - [[02 - Politics/01 - UK politics/Parties/The conservatives#History of conservative ideas\|History of conservative ideas]]

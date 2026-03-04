@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-presidency/the-presidency/","updated":"2025-11-27T22:55:53.332+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-presidency/the-presidency/","noteIcon":"","updated":"2025-11-27T22:55:53.332+00:00"}
 ---
 
 [[02 - Politics/03 - USA/The presidency/Informal powers\|Informal powers]] 

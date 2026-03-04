@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/gender-and-society/simone-de-beauvoir/","updated":"2025-11-18T10:28:10.130+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/gender-and-society/simone-de-beauvoir/","noteIcon":"","updated":"2025-11-18T10:28:10.130+00:00"}
 ---
 
 #lessonminor 

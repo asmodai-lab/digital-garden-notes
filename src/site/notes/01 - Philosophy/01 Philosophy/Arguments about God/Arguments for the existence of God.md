@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/arguments-about-god/arguments-for-the-existence-of-god/","tags":["homepage"],"updated":"2026-01-05T15:19:56.277+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/arguments-about-god/arguments-for-the-existence-of-god/","tags":["homepage"],"noteIcon":"","updated":"2026-01-05T15:19:56.277+00:00"}
 ---
 
 ## Specification

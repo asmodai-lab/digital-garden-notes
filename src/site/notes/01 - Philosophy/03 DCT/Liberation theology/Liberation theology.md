@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/liberation-theology/liberation-theology/","tags":["homepage"],"updated":"2025-11-18T10:42:36.703+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/liberation-theology/liberation-theology/","tags":["homepage"],"noteIcon":"","updated":"2025-11-18T10:42:36.703+00:00"}
 ---
 
 

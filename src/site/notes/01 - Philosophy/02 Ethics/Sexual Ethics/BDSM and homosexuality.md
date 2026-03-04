@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/sexual-ethics/bdsm-and-homosexuality/","tags":["lessonmajor"],"updated":"2025-11-27T10:00:12.159+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/sexual-ethics/bdsm-and-homosexuality/","tags":["lessonmajor"],"noteIcon":"","updated":"2025-11-27T10:00:12.159+00:00"}
 ---
 
 Table of contents

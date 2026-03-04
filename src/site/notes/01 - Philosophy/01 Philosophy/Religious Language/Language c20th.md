@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/language-c20th/","tags":["homepage"],"updated":"2026-02-24T10:42:59.126+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/language-c20th/","tags":["homepage"],"noteIcon":"","updated":"2026-02-27T10:07:23.794+00:00"}
 ---
 
 ## Specification
@@ -34,6 +34,8 @@
 
 [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Wittgenstein and language games\|Wittgenstein and language games]]
 
+[[01 - Philosophy/04 Essays Home/Religious language essay plans\|Religious language essay plans]]
+
 ### Worksheets
 [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Wittgenstein longer sheet\|Wittgenstein longer sheet]]
 [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Language games question sheet\|Language games question sheet]]
@@ -61,3 +63,22 @@
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **For**     | Ayer dismisses as 'meaningless' because it does not meet the criteria for verification.<br><br>Religious discussion is therefore 'meaningless' — result is that religion is not taken seriously as a worldview. | It is dismissed as 'meaningless' because religious believers will not falsify their beliefs, instead they move the goalposts (i.e. 'qualify').<br><br>This leads to 'death of God by a thousand qualifications' (Flew) | Religious language is meaningful for those who belong to a religious form of life and 'play' a religious language game.<br><br>The meaningfulness of language must be understood in context. |
 | **Against** | Hick's Eschatological verification seeks to show that religious language can be verified.                                                                                                                       | Hare's bliks show that religious language is deeply meaningful for those who have a religious blik.                                                                                                                    | However, this leads to religious anti-realism, and suggests that religious statements only have meaning for those who use them, but they're more than that.                                  |
+
+## Question bank
+
+- Critically assess AJ Ayer’s approach to religious language. [40]
+- Religious language is meaningless. Discuss [40]
+- “Both strong and weak versions of the verification principle render religious language as meaningless.” Discuss. [40]
+- Critically assess the claim that Religious Language is necessarily non-cognitive. [40]
+- The meaning of claims comes from usage, not from reference. Discuss the implications of this claim with reference to religious language. [40]
+- To what extent can Scripture mean anything if religious language is understood to be non-cognitive? [40]
+- How far is Aquinas’ analogical view of theological language valuable in the philosophy of religion? [40]
+- “Religious language can be both meaningful and non-cognitive” Do you agree? [40]
+- “Flew was right: Religious claims have no factual quality, given the fact that they are unfalsifiable.” Discuss [40]
+- Critically compare the views of Flew, Hare and Mitchell on the factual quality of religious claims. [40]
+- Hare’s parable of the lunatic does little to establish the meaningfulness of religious language. Do you agree? [40]
+- “No participant in the falsification symposium presented a convincing approach to the understanding of religious language.” Discuss [40]
+- “How far does Aquinas’ analogical view of theological language remain valuable in the philosophy of religion today?” [40]
+- Assess the influence of non-cognitive approaches on the interpretation of religious texts. [40]
+- Critically compare the ideas of Aquinas and Wittgenstein on religious language. [40]
+- A cognitive approach is a better approach to making sense of religious language than a non-cognitive approach.” Discuss with reference to Aquinas and Wittgenstein. [40]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/ethical-systems/situation-ethics/situation-ethics/","tags":["lessonmajor"],"updated":"2026-01-29T11:46:55.725+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/ethical-systems/situation-ethics/situation-ethics/","tags":["lessonmajor"],"noteIcon":"","updated":"2026-01-29T11:46:55.725+00:00"}
 ---
 
 - [[01 - Philosophy/02 Ethics/Ethical systems/Situation ethics/Situation ethics#ituation ethics\|Principles]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/plato-and-aristotle/plato-and-aristotle/","tags":["lessonmajor"],"updated":"2025-12-18T20:12:46.099+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/plato-and-aristotle/plato-and-aristotle/","tags":["lessonmajor"],"noteIcon":"","updated":"2025-12-18T20:12:46.099+00:00"}
 ---
 
 [Plato summary Doc](https://whsat.sharepoint.com/:w:/r/sites/Section_27011/_layouts/15/Doc.aspx?sourcedoc=%7BB9E53F2D-3E2D-408D-8141-F453D722A14B%7D&file=Philosophy-topic-1---Plato.docx&action=default&mobileredirect=true)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberty/","tags":["lessonminor"],"updated":"2026-01-21T12:31:38.150+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/liberty/","tags":["lessonminor"],"noteIcon":"","updated":"2026-01-21T12:31:38.150+00:00"}
 ---
 
 > [!info] This can be included in a discussion on the liberal view of society, human nature, and the economy.

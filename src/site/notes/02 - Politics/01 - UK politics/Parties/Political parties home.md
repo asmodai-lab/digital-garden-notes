@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/political-parties-home/","updated":"2025-11-25T10:29:14.723+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/political-parties-home/","noteIcon":"","updated":"2025-11-25T10:29:14.723+00:00"}
 ---
 
  #homepage 

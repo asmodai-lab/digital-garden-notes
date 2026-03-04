@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/c20th/logical-positivism-and-the-verification-principle/","tags":["lessonmajor"],"updated":"2026-01-29T09:42:34.907+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/c20th/logical-positivism-and-the-verification-principle/","tags":["lessonmajor"],"noteIcon":"","updated":"2026-01-29T09:42:34.907+00:00"}
 ---
 
 > [!info] For a statement to be meaningful, it must be verifiable

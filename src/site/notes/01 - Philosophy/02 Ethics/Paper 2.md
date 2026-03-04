@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/paper-2/","updated":"2026-02-11T09:11:28.476+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/paper-2/","noteIcon":"","updated":"2026-02-26T10:29:45.638+00:00"}
 ---
 
 ## Ethical systems
@@ -18,7 +18,9 @@
 
 [[01 - Philosophy/02 Ethics/Sexual Ethics/Sex ethics\|Sex ethics]]
 
-[[01 - Philosophy/02 Ethics/Conscience\|Conscience]]
+[[01 - Philosophy/02 Ethics/Conscience/Conscience\|Conscience]]
+
+[[01 - Philosophy/02 Ethics/meta-ethics/Meta-ethical theories\|Meta-ethical theories]]
 
 [[01 - Philosophy/04 Essays Home/Ethics essay questions\|Ethics essay questions]]
 

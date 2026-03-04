@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-essay-plans/essay-plans-home/","tags":["homepage"],"updated":"2025-11-20T23:32:11.031+00:00"}
+{"dg-publish":true,"permalink":"/03-essay-plans/essay-plans-home/","tags":["homepage"],"noteIcon":"","updated":"2025-11-20T23:32:11.031+00:00"}
 ---
 
 ##   Philosophy

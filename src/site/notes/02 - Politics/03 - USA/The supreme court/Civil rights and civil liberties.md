@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/civil-rights-and-civil-liberties/","tags":["notes","USArights"],"updated":"2026-02-10T10:59:40.931+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/civil-rights-and-civil-liberties/","tags":["notes","USArights"],"noteIcon":"","updated":"2026-02-10T10:59:40.931+00:00"}
 ---
 
 #lessonmajor

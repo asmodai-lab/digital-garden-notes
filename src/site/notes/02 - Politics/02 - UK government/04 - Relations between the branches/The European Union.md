@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/02-uk-government/04-relations-between-the-branches/the-european-union/","tags":["lessonmajor"],"updated":"2025-11-30T22:05:38.305+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/02-uk-government/04-relations-between-the-branches/the-european-union/","tags":["lessonmajor"],"noteIcon":"","updated":"2025-11-30T22:05:38.305+00:00"}
 ---
 
 

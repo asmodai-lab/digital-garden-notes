@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/social-democracy/","tags":["lessonminor"],"updated":"2025-12-04T14:58:44.474+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/socialism/social-democracy/","tags":["lessonminor"],"noteIcon":"","updated":"2025-12-04T14:58:44.474+00:00"}
 ---
 
 ```mermaid

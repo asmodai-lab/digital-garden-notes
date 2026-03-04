@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/liberation-theology/kingdom-theology/","tags":["lessonmajor"],"updated":"2025-11-26T19:56:14.743+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/liberation-theology/kingdom-theology/","tags":["lessonmajor"],"noteIcon":"","updated":"2025-11-26T19:56:14.743+00:00"}
 ---
 
  - [[01 - Philosophy/03 DCT/Liberation theology/Kingdom Theology#Augustine's opinions\|Augustine's opinions]]

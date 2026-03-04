@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/core-tenets/","tags":["lessonmajor","liberalism"],"updated":"2026-02-10T11:02:40.253+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/core-tenets/","tags":["lessonmajor","liberalism"],"noteIcon":"","updated":"2026-02-10T11:02:40.253+00:00"}
 ---
 
 ## Tenets

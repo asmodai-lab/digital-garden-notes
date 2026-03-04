@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/gender-and-society/rosemary-radford-reuther/","updated":"2025-11-26T10:27:58.525+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/gender-and-society/rosemary-radford-reuther/","noteIcon":"","updated":"2025-11-26T10:27:58.525+00:00"}
 ---
 
 #lessonmajor 

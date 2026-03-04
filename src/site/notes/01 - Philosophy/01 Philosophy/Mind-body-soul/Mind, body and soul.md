@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/mind-body-soul/mind-body-and-soul/","tags":["homepage"],"updated":"2025-11-28T12:31:18.742+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/mind-body-soul/mind-body-and-soul/","tags":["homepage"],"noteIcon":"","updated":"2025-11-28T12:31:18.742+00:00"}
 ---
 
 

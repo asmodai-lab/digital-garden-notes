@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/comparative-notes/supreme-court-and-rights-comparative/","tags":["comparative"],"updated":"2026-02-10T10:54:06.880+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/comparative-notes/supreme-court-and-rights-comparative/","tags":["comparative"],"noteIcon":"","updated":"2026-02-10T10:54:06.880+00:00"}
 ---
 
 

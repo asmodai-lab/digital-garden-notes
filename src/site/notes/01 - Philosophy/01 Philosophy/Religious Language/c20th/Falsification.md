@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/c20th/falsification/","tags":["lessonmajor"],"updated":"2026-02-24T10:50:35.677+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/c20th/falsification/","tags":["lessonmajor"],"noteIcon":"","updated":"2026-02-24T10:50:35.677+00:00"}
 ---
 
 **Table of Contents**

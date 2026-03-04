@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/race-rights-success/","tags":["debates"],"updated":"2026-02-10T10:54:23.540+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/03-usa/the-supreme-court/race-rights-success/","tags":["debates"],"noteIcon":"","updated":"2026-02-10T10:54:23.540+00:00"}
 ---
 
 

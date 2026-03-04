@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-experience/religious-experience/","updated":"2026-01-22T08:57:01.283+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-experience/religious-experience/","noteIcon":"","updated":"2026-01-22T08:57:01.283+00:00"}
 ---
 
 

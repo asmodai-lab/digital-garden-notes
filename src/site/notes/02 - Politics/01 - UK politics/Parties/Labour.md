@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/labour/","tags":["lessonmajor","parties"],"updated":"2026-02-10T10:57:01.246+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/01-uk-politics/parties/labour/","tags":["lessonmajor","parties"],"noteIcon":"","updated":"2026-02-10T10:57:01.246+00:00"}
 ---
 
 
