@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/conservatism/conservatism/","tags":["homepage","conservatism"],"updated":"2026-02-10T11:02:04.456+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/conservatism/conservatism/","tags":["homepage","conservatism"],"noteIcon":"","updated":"2026-03-04T12:03:46.930+00:00"}
 ---
 
 
-[[02 - Politics/04 - Ideologies/Conservatism/How similar is one nation conservatism to traditional conservatism\|How similar is one nation conservatism to traditional conservatism]]
+- [[02 - Politics/04 - Ideologies/Conservatism/How similar is one nation conservatism to traditional conservatism\|How similar is one nation conservatism to traditional conservatism]]
+- [[02 - Politics/04 - Ideologies/Conservatism/The New Right\|The New Right]]
+
+- [[02 - Politics/04 - Ideologies/Conservatism/How similar are conservatives about their principles.canvas\|How similar are conservatives about their principles.canvas]]
+- [[02 - Politics/04 - Ideologies/Conservatism/Conservative principles\|Conservative principles]]
+- [[02 - Politics/04 - Ideologies/Conservatism/Conservatism similarities and differences\|Conservatism similarities and differences]]
+
 ## Introduction
 
 Conservatism is the least 'ideology' of ideologies. It isn't defined by universal principles like socialism and liberalism, rather by reactionary ideas. This means that it varies a lot when from different time periods.
