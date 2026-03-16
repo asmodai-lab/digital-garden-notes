@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/politics-essay-questions/","tags":["questions"],"noteIcon":"","updated":"2026-02-10T10:51:18.961+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/politics-essay-questions/","tags":["questions"],"noteIcon":"","updated":"2026-03-16T09:53:02.297+00:00"}
 ---
 
 [[06 - PDFs and articles/Politics Essay Questions Bank -  UK & USA Perspectives (PAPER 1-3)\|Question bank copied over from the internet]]
@@ -9,7 +9,7 @@
 ## UK politics
 ### Democracy
 1. To what extent is representative democracy superior to direct democracy?
-2. Is the UK experiencing a democratic deficit?
+2. [[02 - Politics/Is the UK experiencing a democratic deficit\|Is the UK experiencing a democratic deficit]]?
 3. Is the UK experiencing a participation crisis?
 4. [[03 - Essay plans/Politics Essay Plans/Compulsory voting- debate\|Should voting be made compulsory?]]
 5. [[03 - Essay plans/Politics Essay Plans/Older essay plans/Should 16 year-olds have voting rights- debate\|Should the voting age be lowered to 16?]]
