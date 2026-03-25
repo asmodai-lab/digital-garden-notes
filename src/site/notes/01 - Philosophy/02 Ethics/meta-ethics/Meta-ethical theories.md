@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/meta-ethics/meta-ethical-theories/","tags":["homepage"],"noteIcon":"","updated":"2026-03-05T09:59:46.589+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/meta-ethics/meta-ethical-theories/","tags":["homepage"],"noteIcon":"","updated":"2026-03-05T10:03:56.766+00:00"}
 ---
 
-
+[[01 - Philosophy/02 Ethics/meta-ethics/Metaethics brainjogger\|Metaethics brainjogger]]
 
 |                 | Moral realism                    | Moral-anti-realism                             |
 | --------------- | -------------------------------- | ---------------------------------------------- |
