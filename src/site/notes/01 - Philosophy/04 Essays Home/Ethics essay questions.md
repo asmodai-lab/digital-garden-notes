@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/04-essays-home/ethics-essay-questions/","tags":["questions"],"noteIcon":"","updated":"2025-12-10T09:55:13.587+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/04-essays-home/ethics-essay-questions/","tags":["questions"],"noteIcon":"","updated":"2026-03-11T09:19:41.923+00:00"}
 ---
 
 
@@ -34,3 +34,30 @@
 	3. Situation ethics
 	4. Utilitarianism
 		1. [[01 - Philosophy/02 Ethics/Sexual Ethics/Secular normative theories on sex ethics\|Secular normative theories on sex ethics]]
+
+
+## Meta-ethics
+- Critically evaluate ethical intuitionism as a basis for knowing what is right and what is wrong.
+- To what extent is ethical naturalism a credible basis for ethics in the 21st century? 
+- Emotivism is better understood as a critique of normative ethics than as a practical approach to decision-making. Discuss. 
+- Is “what does “good” mean?” the most important question for the 21st Century Moral Philosopher? 
+- Saying that an action is “wrong” is meaningless! Discuss. 
+- Ethical terms such as good, bad, right and wrong have an objective factual basis that makes them true or false in describing something. Do you agree? 
+- “Right” and “Wrong” reflect only what is in the mind of the person using such terms. Evaluate this claim. 
+- “From a common sense approach, people just know within themselves what is good, bad, right and wrong” Discuss 
+
+- Assess whether ethical terms such as good and bad have an objective factual basis that makes them true or false in describing something.  
+- Do ‘good’ and ‘bad’ reflect only what is in the mind of the speaker?  
+- Is the word ‘good’ meaningless?  
+- ‘Ethical naturalism is true’ – Discuss.  
+- Assess intuitionism  
+- Assess emotivism  
+- Does common sense suggest that people just know within themselves what is good and bad?  
+- “Values can be defined in terms of some natural property in the world” – Discuss.  
+- “Basic moral truths are self-evident” – Discuss.  
+- Can the word “good” be defined?  
+- “Ethical terms evince approval or disapproval” – Discuss.
+- “What is meant by the word ‘good’ is the defining question in the study of ethics” – Discuss.
+- Critically compare relativism with absolutism  
+- How fully can emotivism be applied to relativism?  
+- Is meta-ethics the most important topic in ethics?

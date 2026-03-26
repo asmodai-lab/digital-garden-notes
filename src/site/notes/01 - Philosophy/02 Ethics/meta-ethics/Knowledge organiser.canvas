@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/meta-ethics/knowledge-organiser.canvas/","contentClasses":"canvas-page","tags":["homepage","lessonmajor","summary"],"noteIcon":"","updated":"2026-03-04T09:05:04.920+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/meta-ethics/knowledge-organiser.canvas/","contentClasses":"canvas-page","tags":["homepage","lessonmajor","summary"],"noteIcon":"","updated":"2026-03-05T08:56:31.323+00:00"}
 ---
 
 <div id="Knowledge_organisercanvas" class="canvas-wrapper hide">
@@ -26,8 +26,9 @@
 			</feMerge>
 		</filter></defs><path d="M -380 -100 C -380 139.09830614205532, 190 -159.09830614205532, 190 80" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="774129e5077943fd"  marker-end="url(#arrow-vartextmuted)" /><text x="-95" y="-10" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">emotivism</text>
 <path d="M 190 140 C 190 328.04254837669055, 291.95745162330945 510, 480 510" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="a003780b5dc2f3b0"  marker-end="url(#arrow-vartextmuted)" />
-<path d="M 40 110 C -22.225396744416187 110, -70 157.77460325558383, -70 220" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="c66629ab3e28e89a"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 40 110 C -96.82105101189657 110, -290 63.17894898810343, -290 200" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="c66629ab3e28e89a"  marker-end="url(#arrow-vartextmuted)" />
 <path d="M -380 -160 C -380 -708.9772308575284, 920 -51.02276914247159, 920 -600" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="19219738ce1b3e38"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 40 110 C -473.26406459053806 110, -1240 -313.26406459053806, -1240 200" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="112cca9a4b9e1839"  marker-end="url(#arrow-vartextmuted)" />
 		</svg>
 		<div class="canvas-node canvas-node-group " data-node-id="39a1403fda3dbb8a" style="transform: translate(-520px, -2400px); width: 2880px; height: 1800px;  ">
 	<div class="canvas-node-label">various resources</div>
@@ -54,13 +55,6 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-text " data-node-id="e2665603342abe61" style="transform: translate(-220px, 220px); width: 300px; height: 140px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
-			<div class="canvas-node-text-content" data-markdown="RW1vdGl2aXNtIGlzIGEgbm9uLWNvZ25pdGl2aXN0LCBhbnRpLXJlYWxpc3QgbWV0YS1ldGhpY2FsIHRoZW9yeS4KCkFLQSBub24tZmFjdHVhbCwgbm9uLXJlYWwu"></div>
-		</div>
-	</div>
-</div>
 <div class="canvas-node canvas-node-link " data-node-id="6e1cfa9e57cb69c4" style="transform: translate(-460px, -1340px); width: 740px; height: 540px; ">
 	<div class="canvas-node-label">human.libretexts.org</div>
 	<div class="canvas-node-container">
@@ -74,6 +68,20 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content">
 			<iframe src="https://whsat-my.sharepoint.com/personal/dkennedy_whs_bucks_sch_uk/Documents/Year%2013/Metaethics/Summary%20Book%20Revise.pdf?CT=1772102188449&amp;OR=ItemsView" class="canvas-link-iframe" loading="lazy" sandbox="allow-scripts allow-same-origin"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="f02edfff84a7c99a" style="transform: translate(-1920px, 200px); width: 1360px; height: 5056px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/01%20-%20Philosophy/02%20Ethics/meta-ethics/Emotivism%20and%20prescriptivism.svg" alt="Emotivism and prescriptivism.svg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="e2665603342abe61" style="transform: translate(-440px, 200px); width: 300px; height: 140px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="RW1vdGl2aXNtIGlzIGEgbm9uLWNvZ25pdGl2aXN0LCBhbnRpLXJlYWxpc3QgbWV0YS1ldGhpY2FsIHRoZW9yeS4KCkFLQSBub24tZmFjdHVhbCwgbm9uLXJlYWwu"></div>
 		</div>
 	</div>
 </div>

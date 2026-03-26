@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/meta-ethics/naturalism/","tags":["excalidraw","summary","lessonmajor"],"noteIcon":"","updated":"2026-03-05T09:58:43.379+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/meta-ethics/naturalism/","tags":["excalidraw","summary","lessonmajor"],"noteIcon":"","updated":"2026-03-05T10:19:15.488+00:00"}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'

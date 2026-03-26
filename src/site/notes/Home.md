@@ -39,28 +39,28 @@
 
 # Recent files
 
-| File                                                                                                                                                                 | file.mday         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[02 - Politics/04 - Ideologies/Conservatism/Conservatism\|Conservatism]]                                                                                         | March 04, 2026    |
-| [[02 - Politics/04 - Ideologies/Conservatism/Conservatism similarities and differences\|Conservatism similarities and differences]]                               | March 04, 2026    |
-| [[02 - Politics/Exam/Conscience requires God to have authority\|Conscience requires God to have authority]]                                                       | March 04, 2026    |
-| [[01 - Philosophy/02 Ethics/meta-ethics/Emotivism\|Emotivism]]                                                                                                    | March 04, 2026    |
-| [[02 - Politics/04 - Ideologies/Conservatism/Conservative principles\|Conservative principles]]                                                                   | March 02, 2026    |
-| [[02 - Politics/04 - Ideologies/Conservatism/The New Right\|The New Right]]                                                                                       | March 02, 2026    |
-| [[01 - Philosophy/03 DCT/Exclusivism\|Exclusivism]]                                                                                                               | March 02, 2026    |
-| [[01 - Philosophy/03 DCT/Pluralism\|Pluralism]]                                                                                                                   | March 02, 2026    |
-| [[01 - Philosophy/01 Philosophy/Religious Language/Language c20th\|Language c20th]]                                                                               | February 27, 2026 |
-| [[01 - Philosophy/04 Essays Home/Philosophy of religion\|Philosophy of religion]]                                                                                 | February 27, 2026 |
-| [[01 - Philosophy/04 Essays Home/Religious language essay plans\|Religious language essay plans]]                                                                 | February 27, 2026 |
-| [[01 - Philosophy/02 Ethics/Paper 2\|Paper 2]]                                                                                                                    | February 26, 2026 |
-| [[02 - Politics/04 - Ideologies/Anarchism\|Anarchism]]                                                                                                            | February 25, 2026 |
-| [[01 - Philosophy/02 Ethics/Conscience/Aquinas and Freud conscience\|Aquinas and Freud conscience]]                                                               | February 25, 2026 |
-| [[01 - Philosophy/02 Ethics/Conscience/Conscience is more dangerous than helpful in modern society\|Conscience is more dangerous than helpful in modern society]] | February 25, 2026 |
-| [[Home\|Home]]                                                                                                                                                    | February 25, 2026 |
-| [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism\|Classical Liberalism]]                                                                           | February 24, 2026 |
-| [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Falsification\|Falsification]]                                                                           | February 24, 2026 |
-| [[01 - Philosophy/03 DCT/Introduction to pluralism\|Introduction to pluralism]]                                                                                   | February 23, 2026 |
-| [[01 - Philosophy/03 DCT/Paper 3\|Paper 3]]                                                                                                                       | February 23, 2026 |
+| File                                                                                                                    | file.mday      |
+| ----------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [[02 - Politics/04 - Ideologies/Anarchism/Anarchism\|Anarchism]]                                                     | March 25, 2026 |
+| [[02 - Politics/04 - Ideologies/Anarchism/Anarchist thinkers\|Anarchist thinkers]]                                   | March 25, 2026 |
+| [[01 - Philosophy/03 DCT/Pluralism/Pluralism and society\|Pluralism and society]]                                    | March 24, 2026 |
+| [[01 - Philosophy/03 DCT/Pluralism/Pluralism\|Pluralism]]                                                            | March 24, 2026 |
+| [[02 - Politics/02 - UK government/01 - UK constitution/Devolution\|Devolution]]                                     | March 23, 2026 |
+| [[01 - Philosophy/02 Ethics/Ethical systems/Utilitarianism\|Utilitarianism]]                                         | March 23, 2026 |
+| [[03 - Essay plans/Essay plans home\|Essay plans home]]                                                              | March 23, 2026 |
+| [[02 - Politics/04 - Ideologies/Liberalism/Liberalism\|Liberalism]]                                                  | March 20, 2026 |
+| [[02 - Politics/04 - Ideologies/Anarchism/Core Anarchist principles\|Core Anarchist principles]]                     | March 18, 2026 |
+| [[01 - Philosophy/01 Philosophy/Arguments about God/Cosmological\|Cosmological]]                                     | March 17, 2026 |
+| [[01 - Philosophy/01 Philosophy/Arguments about God/Teleological\|Teleological]]                                     | March 17, 2026 |
+| [[01 - Philosophy/03 DCT/Gender and Society/Gender\|Gender]]                                                         | March 17, 2026 |
+| [[01 - Philosophy/03 DCT/Paper 3\|Paper 3]]                                                                          | March 17, 2026 |
+| [[02 - Politics/Politics essay questions\|Politics essay questions]]                                                 | March 16, 2026 |
+| [[02 - Politics/Is the UK experiencing a democratic deficit\|Is the UK experiencing a democratic deficit]]           | March 16, 2026 |
+| [[02 - Politics/04 - Ideologies/Anarchism/Historical context of anarchism\|Historical context of anarchism]]         | March 13, 2026 |
+| [[01 - Philosophy/03 DCT/Pluralism/and theology/inclusivism pluralism essay plan\|inclusivism pluralism essay plan]] | March 13, 2026 |
+| [[01 - Philosophy/03 DCT/Pluralism/Inter-faith dialogue\|Inter-faith dialogue]]                                      | March 13, 2026 |
+| [[02 - Politics/04 - Ideologies/Conservatism/Conservatism\|Conservatism]]                                            | March 12, 2026 |
+| [[01 - Philosophy/04 Essays Home/Ethics essay questions\|Ethics essay questions]]                                    | March 11, 2026 |
 
 { .block-language-dataview}
 

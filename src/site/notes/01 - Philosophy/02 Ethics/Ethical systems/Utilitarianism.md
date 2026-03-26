@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/ethical-systems/utilitarianism/","tags":["lessonmajor"],"noteIcon":"","updated":"2025-11-27T21:37:11.492+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/ethical-systems/utilitarianism/","tags":["lessonmajor"],"noteIcon":"","updated":"2026-03-23T12:51:40.340+00:00"}
 ---
 
 **Table of contents**
@@ -15,8 +15,6 @@
 		- [[01 - Philosophy/02 Ethics/Ethical systems/Utilitarianism#Higher and lower pleasures\|Rules]]
 	- [[01 - Philosophy/02 Ethics/Ethical systems/Utilitarianism#Rule utilitarianism\|Strengths and weaknesses of Rule]]
 - [[01 - Philosophy/02 Ethics/Ethical systems/Utilitarianism#Overall strengths and weaknesses\|Overall strengths and weaknesses]]
-
-
 
 > [!info] Principle of utility
 > "The greatest good for the greatest number."

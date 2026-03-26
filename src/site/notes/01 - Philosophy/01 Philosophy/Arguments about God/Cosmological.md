@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/arguments-about-god/cosmological/","tags":["lessonmajor","notes"],"noteIcon":"","updated":"2026-01-06T10:43:21.911+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/arguments-about-god/cosmological/","tags":["lessonmajor","notes"],"noteIcon":"","updated":"2026-03-17T09:46:54.669+00:00"}
 ---
 
 The cosmological argument is very similar to the teleological argument, but — again — you do need to remember the differences. 
@@ -94,7 +94,7 @@ Aka his 'argument from motion' — outlined in the *Summa Theologica*.
 
 For Aquinas, motion doesn't just mean physical location change, but any kind of change - like wood becoming hot when set on fire. Before the fire, the wood is potentially hot, and after the fire it is actually hot. Motion is the transition from potential to actual.
 
-So, with this in mind, here is Aquinas' first way:
+So, with this in mind, here is **Aquinas' first way:**
 > P₁ : things in the world are in motion
 > P₂ : anything in motion must have been moved by something else
 > C₁: if the chain goes on forever, there's no first mover
@@ -136,7 +136,7 @@ All of these things are happening at the same time. They're part of a vertical c
 You may be thinking that this argument kind of sucks. And you'd be correct. Logically, it makes no sense to differentiate horizontal and vertical causes, they just come from the same thing. It's just stating things with no backup.
 > Although if you agree with Aquinas, then yes — an infinite universe where God exists is technically possible. As long as you ignore the argument that the universe itself has a cause. 
 
-FYI, the second way is just the same argument as motion but replacing motion with 'cause.'
+FYI, the **second way** is just the same argument as motion but replacing motion with 'cause.'
 - The world is full of causes and effects
 - Nothing can cause itself
 - Every cause needs a prior cause
@@ -162,7 +162,7 @@ Even if you accept that there must be a first cause, there is no reason for it t
 You could just argue that the first cause is something else: like some fundamental law of physics, or brute fact, or something more similar to the Prime Mover.
 > Maybe, if you trace the chain of causes far enough, you just hit a point where the laws of reality _just are_ – that you reach a foundational level of explanation at which point there is no further reason. For example, science may say that eventually you reach a base-level quantum field or some other impersonal thing and that the story stops there.
 
-Even if we accept that everything has a cause, and then accept the conclusion that the universe has a cause, it is a non-sequitur to assume that this cause is God.
+Even if we accept that everything has a cause, and then accept the conclusion that the universe has a cause, it is a non-sequitur to assume that this cause is God. Why should we conclude that the designer is a single, monotheistic being?
 > at best, these arguments prove a first cause or first mover: nothing in them even remotely proves God.
 
 
@@ -426,7 +426,7 @@ Even if you accept that there must be a first cause, there is no reason for it t
 You could just argue that the first cause is something else: like some fundamental law of physics, or brute fact, or something more similar to the Prime Mover.
 > Maybe, if you trace the chain of causes far enough, you just hit a point where the laws of reality _just are_ – that you reach a foundational level of explanation at which point there is no further reason. For example, science may say that eventually you reach a base-level quantum field or some other impersonal thing and that the story stops there.
 
-Even if we accept that everything has a cause, and then accept the conclusion that the universe has a cause, it is a non-sequitur to assume that this cause is God.
+Even if we accept that everything has a cause, and then accept the conclusion that the universe has a cause, it is a non-sequitur to assume that this cause is God. Why should we conclude that the designer is a single, monotheistic being?
 > at best, these arguments prove a first cause or first mover: nothing in them even remotely proves God.
 
 ### Hume's objections to the causal principle

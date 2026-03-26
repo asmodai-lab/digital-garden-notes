@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/paper-2/","noteIcon":"","updated":"2026-02-26T10:29:45.638+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/paper-2/","tags":["homepage"],"noteIcon":"","updated":"2026-03-05T10:01:58.313+00:00"}
 ---
 
 ## Ethical systems

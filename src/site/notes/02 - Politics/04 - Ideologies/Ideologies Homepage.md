@@ -9,7 +9,7 @@
 
 [[02 - Politics/04 - Ideologies/Conservatism/Conservatism\|Conservatism]]
 
-[[02 - Politics/04 - Ideologies/Anarchism\|Anarchism]]
+[[02 - Politics/04 - Ideologies/Anarchism/Anarchism\|Anarchism]]
 
 ## Introduction
 

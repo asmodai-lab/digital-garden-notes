@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/02-uk-government/01-uk-constitution/devolution/","tags":["lessonmajor","UKgovernment"],"noteIcon":"","updated":"2026-02-10T11:03:20.512+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/02-uk-government/01-uk-constitution/devolution/","tags":["lessonmajor","UKgovernment"],"noteIcon":"","updated":"2026-03-23T12:48:36.515+00:00"}
 ---
 
 

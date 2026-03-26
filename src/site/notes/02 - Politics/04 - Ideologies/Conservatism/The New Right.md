@@ -1,16 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/conservatism/the-new-right/","tags":["conservatism","lessonmajor"],"noteIcon":"","updated":"2026-03-02T13:33:26.510+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/conservatism/the-new-right/","tags":["conservatism","lessonmajor"],"noteIcon":"","updated":"2026-03-09T13:03:35.105+00:00"}
 ---
-
-[[02 - Politics/04 - Ideologies/Conservatism/New Right logic line\|New Right logic line]]
 
 
 ## Neo-liberalism
 ### Historical context
-
-
-
-
+~~
 
 ## Neo-conservatism
 

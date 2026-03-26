@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/paper-3/","tags":["homepage"],"noteIcon":"","updated":"2026-02-23T15:00:10.167+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/paper-3/","tags":["homepage"],"noteIcon":"","updated":"2026-03-17T12:52:43.262+00:00"}
 ---
 
-[[01 - Philosophy/03 DCT/Gender and Society/Gender and society home\|Gender and society home]]
+[[01 - Philosophy/03 DCT/Gender and Society/Gender\|Gender]]
 
-[[01 - Philosophy/03 DCT/Pluralism\|Pluralism]]
+[[01 - Philosophy/03 DCT/Pluralism/Pluralism\|Pluralism]]
 
 [[01 - Philosophy/03 DCT/Liberation theology/Liberation theology\|Liberation theology]]
 
