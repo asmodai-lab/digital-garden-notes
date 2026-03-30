@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/junk/john-locke/","tags":["excalidraw"],"noteIcon":"","updated":"2026-02-10T10:54:54.038+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/junk/john-locke/","tags":["excalidraw"],"noteIcon":"","updated":"2026-03-30T11:11:32.959+01:00"}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'

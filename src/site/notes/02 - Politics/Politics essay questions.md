@@ -9,7 +9,7 @@
 ## UK politics
 ### Democracy
 1. To what extent is representative democracy superior to direct democracy?
-2. [[02 - Politics/Is the UK experiencing a democratic deficit\|Is the UK experiencing a democratic deficit]]?
+2. [[02 - Politics/01 - UK politics/Democracy/Is the UK experiencing a democratic deficit\|Is the UK experiencing a democratic deficit]]?
 3. Is the UK experiencing a participation crisis?
 4. [[03 - Essay plans/Politics Essay Plans/Compulsory voting- debate\|Should voting be made compulsory?]]
 5. [[03 - Essay plans/Politics Essay Plans/Older essay plans/Should 16 year-olds have voting rights- debate\|Should the voting age be lowered to 16?]]

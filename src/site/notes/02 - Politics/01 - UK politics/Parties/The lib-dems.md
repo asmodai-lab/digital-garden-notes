@@ -42,7 +42,7 @@ The Lib Dems have a range of ideological traditions that they draw on because of
 
 Although they are most clearly associated with liberalism, this encompasses both the [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism\|classical liberal]] belief in a minimal state and the free market — reminiscent of economic Thatcherism —  and a [[02 - Politics/04 - Ideologies/Liberalism/Modern liberal consolidation\|modern liberal]] belief in social and economic intervention in order to deliver the [[02 - Politics/04 - Ideologies/Liberalism/junk/Modern Liberalism#Positive freedom\|freedom]] that is needed for individuals to grow and flourish.
 
-Both traditions are united in their belief in [[02 - Politics/04 - Ideologies/Liberalism/Individualism\|Individualism]] and [[02 - Politics/04 - Ideologies/Liberalism/Liberty\|Liberty]], favouring equal rights and equality of opportunity, a tolerant society that celebrates diversity, and limited government, where the relationship between people and state is defined in a constitution.
+Both traditions are united in their belief in [[Individualism\|Individualism]] and [[Liberty\|Liberty]], favouring equal rights and equality of opportunity, a tolerant society that celebrates diversity, and limited government, where the relationship between people and state is defined in a constitution.
 
 In foreign policy, the Lib Dems come together around a liberal internationalist approach that places working through global institutions (such as the UN) to tackle global issues like climate change and human rights abuses.
 

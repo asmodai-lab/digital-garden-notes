@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/pluralism/pluralism-and-society/","tags":["summary"],"noteIcon":"","updated":"2026-03-24T12:34:15.099+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/pluralism/pluralism-and-society/","tags":["summary"],"noteIcon":"","updated":"2026-03-26T15:13:38.223+00:00"}
 ---
 
+**Table of Contents**
+
+1. [[01 - Philosophy/03 DCT/Pluralism/Pluralism and society#Multi-faith societies\|Multi-faith societies]]
+	1. [[01 - Philosophy/03 DCT/Pluralism/Pluralism and society#Multi-faith societies\|Inter-faith dialogue]]
+	2. [[01 - Philosophy/03 DCT/Pluralism/Pluralism and society#Multi-faith societies\|Advantages and disadvantages of multi-faith societies]]
+		1. [[01 - Philosophy/03 DCT/Pluralism/Inter-faith dialogue#"Sharing the Gospel of salvation"\|Sharing the Gospel of Salvation]]
+		2. [[01 - Philosophy/03 DCT/Pluralism/Pluralism and society#Advantages and disadvantages of multi-faith societies\|*Redemptoris Missio*]]
+2. [[01 - Philosophy/03 DCT/Pluralism/Pluralism and society#Scriptural reasoning movement\|Scriptural reasoning movement]]
+	1. [[01 - Philosophy/03 DCT/Pluralism/Pluralism and society#Scriptural reasoning movement\|Methods]]
+	2. [[01 - Philosophy/03 DCT/Pluralism/Pluralism and society#Scriptural reasoning movement\|Aims]]
+	3. [[01 - Philosophy/03 DCT/Pluralism/Pluralism and society#Scriptural reasoning movement\|Evaluation]]
+3. [[01 - Philosophy/03 DCT/Pluralism/Pluralism and society#What is the value of inter-faith dialogue?\|What is the value of inter-faith dialogue?]]
+	1. [[01 - Philosophy/03 DCT/Pluralism/Pluralism and society#What is the value of inter-faith dialogue?\|Different approaches]]
 
 
 ## Multi-faith societies

@@ -1,6 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/junk/modern-liberalism/","tags":["lessonminor"],"noteIcon":"","updated":"2026-02-05T09:38:01.757+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/junk/modern-liberalism/","tags":["lessonminor"],"noteIcon":"","updated":"2026-03-30T11:14:44.385+01:00"}
 ---
+
+
+**Table of Contents**
+
+- [[02 - Politics/04 - Ideologies/Liberalism/junk/Modern Liberalism#Origins of modern Liberalism\|Origins of modern Liberalism]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/junk/Modern Liberalism#Origins of modern Liberalism\|The problems]]
+		- [[02 - Politics/04 - Ideologies/Liberalism/junk/Modern Liberalism#The problems\|What do liberals think about this?]]
+- [[02 - Politics/04 - Ideologies/Liberalism/junk/Modern Liberalism#Ideas\|Ideas]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/junk/Modern Liberalism#Ideas\|Developmental individualism]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/junk/Modern Liberalism#Ideas\|Positive freedom]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/junk/Modern Liberalism#Ideas\|Enabling state]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/junk/Modern Liberalism#Ideas\|Social liberalism]]
+	- [[02 - Politics/04 - Ideologies/Liberalism/junk/Modern Liberalism#Ideas\|Keynesian economics]]
 
 
 ## Origins of modern Liberalism

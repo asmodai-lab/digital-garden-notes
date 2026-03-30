@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/conservatism/conservatism/","tags":["homepage","conservatism"],"noteIcon":"","updated":"2026-03-12T15:29:03.898+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/conservatism/conservatism/","tags":["homepage","conservatism"],"noteIcon":"","updated":"2026-03-30T11:07:21.453+01:00"}
 ---
 
 
@@ -9,6 +9,7 @@
 - [[02 - Politics/04 - Ideologies/Conservatism/How similar are conservatives about their principles.canvas\|How similar are conservatives about their principles.canvas]]
 - [[02 - Politics/04 - Ideologies/Conservatism/Conservative principles\|Conservative principles]]
 - [[02 - Politics/04 - Ideologies/Conservatism/Conservatism similarities and differences\|Conservatism similarities and differences]]
+- [[02 - Politics/04 - Ideologies/Conservatism/Conservative thinkers\|Conservative thinkers]]
 
 ## Introduction
 
