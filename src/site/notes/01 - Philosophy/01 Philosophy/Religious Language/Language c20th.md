@@ -1,6 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/language-c20th/","tags":["homepage"],"noteIcon":"","updated":"2026-02-27T10:07:23.794+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/01-philosophy/religious-language/language-c20th/","tags":["homepage"],"noteIcon":"","updated":"2026-04-13T09:54:35.991+01:00"}
 ---
+
+**Table of Contents**
+
+1. [Specification](#specification)
+	1. [Key terms](#key-terms)
+2. [Notes](#notes)
+	1. [Worksheets](#worksheets)
+3. [Resources](#resources)
+4. [Summary](#summary)
+	1. [Implications on religious language](#implications-on-religious-language)
+5. [Question bank](#question-bank)
 
 ## Specification
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/politics-essay-questions/","tags":["questions"],"noteIcon":"","updated":"2026-03-16T09:53:02.297+00:00"}
+{"dg-publish":true,"permalink":"/02-politics/politics-essay-questions/","tags":["questions"],"noteIcon":"","updated":"2026-04-17T13:25:08.413+01:00"}
 ---
 
 [[06 - PDFs and articles/Politics Essay Questions Bank -  UK & USA Perspectives (PAPER 1-3)\|Question bank copied over from the internet]]
@@ -137,3 +137,6 @@ Extra questions:
 ## Socialism
 1. To what extent to socialists agree on the state
 2. [[02 - Politics/04 - Ideologies/Socialism/to what extent are socialists united in their views on society\|to what extent are socialists united in their views on society]]
+
+## Conservatism
+1. [[02 - Politics/To what extent to Conservatives agree on the economy\|To what extent to Conservatives agree on the economy]]

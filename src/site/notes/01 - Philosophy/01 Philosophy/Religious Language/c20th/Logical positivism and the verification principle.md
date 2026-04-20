@@ -188,13 +188,13 @@ Religious faith is nonsense, religious experience is nonsense. All discussion on
 
 ## Narrow view of meaning
 ### Assumes only science can tell us about the world
-Art and poetry reveal valuable things about human nature, but are neither cognitive or scientifically verifiable. Logical positivism, by reducing all significant language to two categories, leaves no place for non verifiable contributions to human knowledge.
+<span style="color:rgb(255, 77, 77)">Art and poetry</span> reveal valuable things about human nature, but are <span style="color:rgb(255, 77, 77)">neither cognitive or scientifically verifiable</span>. Logical positivism, by reducing all significant language to two categories, leaves <span style="color:rgb(255, 77, 77)">no place for non verifiable contributions to human knowledge.</span>
 
 ### Religious sentences are not in the same category as scientific sentences
-To reduce sentences to two classes — meaningful and meaningless — misrepresents the fulness of either the: range of possible sentences, or of meaning.
+To reduce sentences to two classes — <span style="color:rgb(255, 77, 77)">meaningful and meaningless</span> — misrepresents the fulness of either the: range of possible sentences, or of meaning.
 
 ### 'Toys in the Cupboard' (Swinburne)
-In 'Coherence of Theism', Swinburne argues against logical positivism by claiming that there are sentences that obviously have meaning, but are not verifiable in any way, e.g. toys coming out of the cupboard at night and dancing around -> religious and ethical claims are still of meaning and importance even if they cannot be verified.
+In <span style="color:rgb(0, 176, 240)">'Coherence of Theism'</span>, Swinburne argues against logical positivism by claiming that there are <span style="color:rgb(255, 77, 77)">sentences that obviously have meaning</span>, but are<span style="color:rgb(255, 77, 77)"> not verifiable</span> in any way, e.g.<span style="color:rgb(0, 176, 240)"> toys coming out of the cupboard at night and dancing around</span> -> r<span style="color:rgb(255, 77, 77)">eligious and ethical claims are still of meaning and importance even if they cannot be verified.</span>
 
 > [!warning] Is Swinburne misinterpreting Ayer?
 > Ayer does not deny the emotional value of religious statements; what he denies is their verifiability.
@@ -205,16 +205,16 @@ In 'Coherence of Theism', Swinburne argues against logical positivism by claimin
 
 ### Brummer
 **To dismiss the very possibility of God seems to necessitate a particular world-view.** 
-- to suggest things are only significant **if** open to scientific investigation is based on it's own metaphysical viewpoint: that the reality of the world is merely based on science.
+- to suggest things are only significant **if** open to scientific investigation is<span style="color:rgb(255, 77, 77)"> based on it's own metaphysical viewpoint</span>: that the reality of the world is merely based on science.
 
 ## Science v Theology
 ### Emmet
-**Theological statements are not as straightforward as scientific ones.** Error of Enlightenment thought to treat natural theology and it's claim univocally — that is, as scientific propositions which are equivalent to those of conventional science. 
+**Theological statements are not as straightforward as scientific ones.** Error of Enlightenment thought to<span style="color:rgb(255, 77, 77)"> treat natural theology and it's claim univocally</span> — that is, as scientific propositions which are equivalent to those of conventional science. 
 
-Logical positivisms want to look for complete explanations provided by science, when meaning can also come from w=faith, which is not something that can be verified/falsified.
+Logical positivisms want to look for <span style="color:rgb(255, 77, 77)">complete explanations</span> provided by science,<span style="color:rgb(255, 77, 77)"> when meaning can also come from faith,</span> which is<span style="color:rgb(255, 77, 77)"> not </span>something that can be verified/falsified.
 
 ## Fails it's own test
-The claim that statements are only meaningful is verifiable is, in itself, an unverifiable claim: it cannot be verified by sense experience. So, ironically, it is self-disproving.
+The claim that statements are only meaningful is verifiable is, in itself, an unverifiable claim: it cannot be verified by sense experience. So, ironically,<span style="color:rgb(255, 77, 77)"> it is self-disproving.</span>
 
 ---
 Since we can't test the verification principle via sense experience, it isn't synthetic.
@@ -222,21 +222,21 @@ Since we can't test the verification principle via sense experience, it isn't sy
 If it is analytical, then the problem is that logical positivists have given a new meaning to the word 'meaningful'.
 
 ### Practicality problems
-- scientifically, not all claims will be verifiable. 
-	- like with the existence of black holes
-- historical statements are completely non-verifiable. 
-	- we can read an account from someone, but that only means that we can decide that the writings are meaningful, not what they are actually describing
-- how can we meaningfully describe our thoughts?
+- <span style="color:rgb(0, 176, 240)">scientifically,</span> not all claims will be verifiable. 
+	- like with the existence of<span style="color:rgb(0, 176, 240)"> black holes</span>
+- <span style="color:rgb(0, 176, 240)">historical statement</span>s are completely non-verifiable. 
+	- we can read an <span style="color:rgb(0, 176, 240)">account from someone</span>, but that only means that we can decide that the writings are meaningful, not what they are actually describing
+- how can we meaningfully describe our<span style="color:rgb(0, 176, 240)"> thoughts</span>?
 	- what about 'I had a weird dream last night' or 'I'm not looking forward to my exams'
-- what about poetry, art, music, literature, etc
-	- they can describe aspects of human experience, and open up new ways of seeing the world. But, they aren't verifiable.
-- even economics, political science, and actual science can fall short of the verification principle.
+- what about <span style="color:rgb(0, 176, 240)">poetry, art, music, literature, etc</span>
+	- they can describe aspects of human experience, and open up new ways of seeing the world. <span style="color:rgb(0, 176, 240)">But, they aren't verifiable.</span>
+- even <span style="color:rgb(0, 176, 240)">economics, political science, and actual science</span> can fall short of the verification principle.
 *Judgements and hypotheses are not proven in the way needed with the principle, but still have meaning.*
 
 ### Ayer and Popper's response
-**Ayer** responded by claiming that verificationism was a theory, not a statement, so did not need to pass the test.
+**Ayer** responded by claiming that <span style="color:rgb(146, 208, 80)">verificationism was a theory</span>, not a statement, so did not need to pass the test.
 
-**Karl Popper** argued that we cannot scientifically verify everything — it's an illogical test of meaning.
+**Karl Popper** argued that <span style="color:rgb(146, 208, 80)">we cannot scientifically verify everything</span> — it's an illogical test of meaning.
 
 ## Eschatologically verifiable
 
@@ -251,7 +251,7 @@ So, how can this story help to answer the problem of whether religious language 
 #### Hick's claim
 Hick tried to suggest that it is possible to verify religious language **after death**, using the Celestial City as an example of this.
 - of course, this is difficult to test with our human senses — as the verification principle demands — since we will be different 'beings' after death.
-- however, Hick;s point does raise the issue of whether **future statements can be meaningful.**
+- however, Hick's point does raise the issue of whether **future statements can be meaningful.**
 
 
 

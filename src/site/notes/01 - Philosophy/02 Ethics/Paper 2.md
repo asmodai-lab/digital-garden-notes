@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/paper-2/","tags":["homepage"],"noteIcon":"","updated":"2026-03-05T10:01:58.313+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/paper-2/","tags":["homepage"],"noteIcon":"","updated":"2026-04-16T10:32:17.885+01:00"}
 ---
 
 ## Ethical systems
@@ -17,6 +17,8 @@
 [[01 - Philosophy/02 Ethics/Business ethics/Business ethics.excalidraw\|Business ethics]]
 
 [[01 - Philosophy/02 Ethics/Sexual Ethics/Sex ethics\|Sex ethics]]
+
+[[01 - Philosophy/02 Ethics/Euthanasia\|Euthanasia]]
 
 [[01 - Philosophy/02 Ethics/Conscience/Conscience\|Conscience]]
 

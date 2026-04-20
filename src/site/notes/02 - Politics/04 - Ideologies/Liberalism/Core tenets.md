@@ -1,11 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/core-tenets/","tags":["lessonmajor","liberalism"],"noteIcon":"","updated":"2026-03-30T11:10:35.314+01:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/liberalism/core-tenets/","tags":["lessonmajor","liberalism"],"noteIcon":"","updated":"2026-04-10T17:07:29.323+01:00"}
 ---
-
-
-[[Individualism\|Individualism]]
-
-[[Liberty\|Liberty]]
 
 [[The state\|The state]]
 
@@ -32,15 +27,6 @@ A belief in the supreme importance of the individual -> commitment to individual
 
 ## Individualism
 > [!note] This can be included in a discussion of the liberal view of society, human nature, and the economy.
-
-****Table of Contents**
-
-- [[Individualism#Summary\|Summary]]
-- [[Individualism#What is it?\|What is it?]]
-- [[Individualism#Differences between branches\|Differences between branches]]
-	- [[Individualism#Differences between branches\|Classical liberal views]]
-	- [[Individualism#Differences between branches\|Modern liberal views]]
-	- [[Individualism#Differences between branches\|Agreement and disagreement]]
 
 ### Summary
 - Liberals believe in the power and capacity of individuals to transform their own lives
@@ -86,6 +72,7 @@ Betty Friedan continued this campaign, arguing for full equality for women beyon
 
 #### Modern liberal views
 Also values it, but recognises that **individuals are shaped by social and economic circumstances**. While individuals are autonomous and deserving of rights, they argue that <span style="color:rgb(255, 192, 0)">genuine freedom requires</span> the <span style="color:rgb(255, 192, 0)">capacity</span> to <span style="color:rgb(255, 192, 0)">act on choices.</span>
+
 >[!tip] This is also known as positive freedom.
 
 In which the <span style="color:rgb(255, 192, 0)">state plays an active role</span> in **enabling** individuals to **reach their potential**. Government intervention through:
@@ -106,6 +93,38 @@ Individualism is **compatible with collective action**, as reducing inequality h
 | **Primacy of the individual**: the individual is the <span style="color:rgb(146, 208, 80)">fundamental unit</span> of society. Laws and government actions are<span style="color:rgb(146, 208, 80)"> only justified</span> insofar as they<span style="color:rgb(146, 208, 80)"> protect individual rights & the flourishing of personal autonomy.</span>                                                                                                             | **Self-reliance v. social context**: Classical liberals emphasis<span style="color:rgb(240, 40, 40)"> self-help</span> and<span style="color:rgb(240, 40, 40)"> personal responsibility</span>, whereas modern liberals recognise the <span style="color:rgb(240, 40, 40)">impact of social and economic circumstances</span> upon the individual that can<span style="color:rgb(240, 40, 40)"> restrict autonomy.</span>              |
 | **Moral worth of individuals**: individuals possess<span style="color:rgb(146, 208, 80)"> inherent value and dignity.</span> This means: support for<span style="color:rgb(146, 208, 80)"> universal rights</span> and equal treatment, &<span style="color:rgb(146, 208, 80)">rejecting systems</span> that<span style="color:rgb(146, 208, 80)"> prioritise </span>the state, class or collective <span style="color:rgb(146, 208, 80)">over the individual.</span> | **Role of the state**: classical liberals see <span style="color:rgb(240, 40, 40)">state support</span> as<span style="color:rgb(240, 40, 40)"> weakening individual independence,</span> while modern liberals argue that state intervention can<span style="color:rgb(240, 40, 40)"> empower individuals</span> by expanding opportunity and<span style="color:rgb(240, 40, 40)"> reducing dependency caused by disadvantage.</span> |
 | **Opposition to collectivism**: rejection of collectivism (such as <span style="color:rgb(146, 208, 80)">socialism</span> or authoritarianism) that <span style="color:rgb(146, 208, 80)">subordinate individuals to collective goals.</span>                                                                                                                                                                                                                         | **Economic inequality**: classical liberals<span style="color:rgb(240, 40, 40)"> accept inequality</span> as a natural outcome of free choice, while modern liberals argue <span style="color:rgb(240, 40, 40)">extreme inequality undermines individualism</span> by limiting real freedom for the disadvantaged.                                                                                                                     |
+
+
+
+## Liberal democracy
+### Historical context
+When Locke was writing, most governments in Europe were monarchies and authoritarian. Locke's ideas were a reaction to what he perceived to be an illegitimate government, enforced upon people.
+
+
+### Social contract theory
+The concept of liberal democracy is underpinned by Locke's **Social Contract Theory**— wherein the government only holds power insofar as people consent to it, argued in his book: *Two Treatises of Government*. Locke argued that this consent is the only legitimate basis for authority.
+
+#### Thinkers and their thoughts
+Liberal democracy was initially representative democracy, which was very limited; especially in the early years of the USA, wherein only male property owners were allowed to vote.
+
+##### Edmund Burke
+Burke is a Conservative thinker, although some claim he was as much a liberal thinker. He argued for the importance of representative democracy, arguing that a voter elected a representative to make decisions based on his own judgement, and not that of the electorate — aka the **Burkean Principle**.
+
+##### J. S. Mill
+Mill, like the US founding fathers, feared the dominance of the working class if they were given the right to vote. In his work, *Considerations on representative government*, he argued for plural votes for the educated and the wealthy, in order to prevent his own class from being swept aside by the proletariat.
+
+Mill, like Locke and Wollstonecraft, has therefore been categorised as supporting elite democracy, whereby the Establishment exercises the real power and has significantly more influence than the ordinary voter.
+
+### Key points
+
+| Idea                                                             | Explanation                                                                                                                                                                                                                                                                                                                             |
+| ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Supremacy of the people                                          | - Whilst classical liberals accept this as a broad concept of the social contract, this does not equal full democratic representation<br>- Modern Liberals insist that supremacy of the people means that every adult should have the vote<br>- however, the US Electoral College remains as a filter against 'tyranny of the majority' |
+| The consent of the governed as the basis for legitimacy          | - a concept that unites both strands of liberalism — elections provide frequent opportunities for the governed to register their consent                                                                                                                                                                                                |
+| Rule of law and peaceful methods of conflict resolution          | - the rule of law forms part of the social contract between the governed and the governors                                                                                                                                                                                                                                              |
+| The existence of a common good or public interest                | - Classical liberalism struggles with such concepts, as it views society as atomistic and therefore any collective will is difficult for them to support<br>- the developmental individualism of Mill and T.H. Green and the social justice of Rawls base their version of society on more collective aims, such as a welfare state.    |
+| The value of the individual as a rational, moral, active citizen | - both strands accept this definition                                                                                                                                                                                                                                                                                                   |
+| Political equality and equal civil rights for all individuals    | - Friedan championed the rights of women in both respects, while Rawl's theory of justice argued that not only were such rights a necessity, this was also a rational choice for individuals to make when attempting to ascertain the principles of a society                                                                           |
 
 
 

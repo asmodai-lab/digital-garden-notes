@@ -1,0 +1,76 @@
+---
+{"dg-publish":true,"permalink":"/03-essay-plans/philosophy-essay-plans/applied-ethics-essay-plans.canvas/","contentClasses":"canvas-page","tags":["essays","debates"],"noteIcon":"","updated":"2026-04-16T10:38:44.902+01:00"}
+---
+
+<div id="Applied_ethics_essay_planscanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Applied_ethics_essay_planscanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Applied_ethics_essay_planscanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><marker id="arrow-vartextmuted" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-vartextmuted-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs><path d="M -3 -322 C -3 -265.47106935382556, -67 -252.52893064617444, -67 -196" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="2db5cd185874f044"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -217 -166 C -298.52938120702254 -166, 14.529381207022539 -28, -67 -28" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="edb71fc8da11e5ae"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -217 2 C -217 56.9516150809055, -334 19.048384919094502, -334 74" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="594cc236413e86ba"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 83 -166 C 176.2308961664533 -166, 46.76910383354668 60, 140 60" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="bfedb33d555f70bf"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 290 140 C 290 190, 230 170, 230 220" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="9d799fc6f3e3ade0"  marker-end="url(#arrow-vartextmuted)" />
+		</svg>
+		<div class="canvas-node canvas-node-text " data-node-id="ec89f00cc060324f" style="transform: translate(-184px, -422px); width: 362px; height: 100px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="IyBDcml0aWNhbGx5IGNvbXBhcmUgTk1MIGFuZCBTaXR1YXRpb24gZXRoaWNzIGluIHJlZmVyZW5jZSB0byBjb21wdWxzb3J5LCBwYXNzaXZlIGV1dGhhbmFzaWE="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="66eb5cc4c31770b9" style="transform: translate(-217px, -196px); width: 300px; height: 60px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="V2Ugc2hvdWxkbid0IGtpbGwgc29tZW9uZSBiZWNhdXNlIHdlIGFyZSBtYWRlICppbWFnbyBkZWkqIC0gaW4gdGhlIGltYWdlIG9mIEdvZA=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="ee90fb21fa94c919" style="transform: translate(-367px, -58px); width: 300px; height: 60px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="T25lIG9mIHRoZSBwcmltYXJ5IHByZWNlcHRzIGlzICd0aG91IHNoYWx0IG5vdCBraWxsJw=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="e81084607b16bec2" style="transform: translate(-484px, 74px); width: 300px; height: 240px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="QXF1aW5hcycgTk1MIGlzIGJhc2VkIG9uIEFyaXN0b3RsZSdzIHZpcnR1ZSBldGhpY3MgLSBhbmQgc28gaW5jbHVkZXMgdGhlIGlkZWEgdGhhdCBodW1hbiBwdXJwb3NlIGlzIHRvIHVzZSByZWFzb24uICgqUGFyYW91c2lhKikKClRoaXMgbWVhbnMgdGhhdCBpZiBzb21lb25lIGlzIG5vdCBjYXBhYmxlIG9mIHVzaW5nIHJlYXNvbiAoaS5lLiBiZWluZyBpbiBhIGNvbWEsIG9yIGJlaW5nIGEgYmFieSksIHRoaXMgbWVhbnMgdGhhdCB0aGVpciBsaWZlIGlzIG5vdCBhbiBhcHBhcmVudCBnb29kLg=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="a1f377728dee8080" style="transform: translate(140px, -20px); width: 300px; height: 160px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="dGhhdCBpc24ndCB0aGUgcG9pbnQgb2YgbGlmZSBhcyBiZWluZyBjcmVhdGVkIGJ5IEdvZDogaXQncyB0byBmbG91cmlzaCBhbmQgYmUga2luZCAoKmFnYXBlKikgLSBzbyBzdXJlbHkgdGhlIHByaW5jaXBsZSBvZiB3aGV0aGVyIGV1dGhhbmFzaWEgY2FuIGJlIG9rYXkgaW4gYW55IGNhc2Ugc2hvdWxkIGJlIGJhc2VkIG9uIHdoYXQgaXMgdGhlIG1vc3QgbG92aW5nIHRoaW5nLCBub3Qgd2hhdCBpcyB0aGUgbGF3cyBzZXQgYnkgR29k"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="7e0d3f626f052898" style="transform: translate(80px, 220px); width: 300px; height: 60px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="VGhlIHNhYmJhdGggd2FzIG1hZGUgZm9yIG1hbiwgbm90IG1hbiBmb3IgdGhlIHNhYmJhdGg="></div>
+		</div>
+	</div>
+</div>
+	</div>
+</div>

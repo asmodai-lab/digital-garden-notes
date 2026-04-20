@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/04-essays-home/philosophy-of-religion/","tags":["questions"],"noteIcon":"","updated":"2026-02-27T10:06:53.748+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/04-essays-home/philosophy-of-religion/","tags":["questions","debates"],"noteIcon":"","updated":"2026-04-13T09:17:31.364+01:00"}
 ---
 
 ## Aristotle and Plato
-1. Critically compare Plato’s Form of the Good and Aristotle’s Prime Mover.
+1. [[01 - Philosophy/04 Essays Home/Plato & Aristotle essay plans\|Critically compare Plato's form of the good with Aristotle's Prime Mover]]
 2. To what extent is Aristotle’s use of the senses to make sense of reality more convincing than Plato’s reliance on reason? 
 
 ## Mind, body and soul
@@ -72,4 +72,6 @@
 - Critically compare the ideas of Aquinas and Wittgenstein on religious language. [40]
 - A cognitive approach is a better approach to making sense of religious language than a non-cognitive approach.” Discuss with reference to Aquinas and Wittgenstein. [40
 
-#debates
+
+
+

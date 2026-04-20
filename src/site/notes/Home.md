@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-02-25T09:22:24.513+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-04-20T10:01:59.571+01:00"}
 ---
 
 # Resources
@@ -39,28 +39,28 @@
 
 # Recent files
 
-| File                                                                                                                                     | file.mday      |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| [[02 - Politics/04 - Ideologies/Liberalism/Core tenets\|Core tenets]]                                                                 | March 30, 2026 |
-| [[02 - Politics/04 - Ideologies/Liberalism/junk/John Locke\|John Locke]]                                                              | March 30, 2026 |
-| [[02 - Politics/04 - Ideologies/Liberalism/junk/Modern Liberalism\|Modern Liberalism]]                                                | March 30, 2026 |
-| [[02 - Politics/04 - Ideologies/Liberalism/Liberalism brain jogger\|Liberalism brain jogger]]                                         | March 30, 2026 |
-| [[02 - Politics/04 - Ideologies/Liberalism/Liberalism\|Liberalism]]                                                                   | March 30, 2026 |
-| [[02 - Politics/04 - Ideologies/Conservatism/Conservatism\|Conservatism]]                                                             | March 30, 2026 |
-| [[01 - Philosophy/03 DCT/Pluralism/Pluralism and society\|Pluralism and society]]                                                     | March 26, 2026 |
-| [[03 - Essay plans/Guided 30 marker\|Guided 30 marker]]                                                                               | March 26, 2026 |
-| [[02 - Politics/04 - Ideologies/Anarchism/Anarchism\|Anarchism]]                                                                      | March 25, 2026 |
-| [[02 - Politics/04 - Ideologies/Anarchism/Anarchist thinkers\|Anarchist thinkers]]                                                    | March 25, 2026 |
-| [[01 - Philosophy/03 DCT/Pluralism/Pluralism\|Pluralism]]                                                                             | March 24, 2026 |
-| [[01 - Philosophy/02 Ethics/Ethical systems/Utilitarianism\|Utilitarianism]]                                                          | March 23, 2026 |
-| [[02 - Politics/02 - UK government/01 - UK constitution/Devolution\|Devolution]]                                                      | March 23, 2026 |
-| [[03 - Essay plans/Essay plans home\|Essay plans home]]                                                                               | March 23, 2026 |
-| [[02 - Politics/04 - Ideologies/Anarchism/Core Anarchist principles\|Core Anarchist principles]]                                      | March 18, 2026 |
-| [[01 - Philosophy/03 DCT/Gender and Society/Gender\|Gender]]                                                                          | March 17, 2026 |
-| [[01 - Philosophy/03 DCT/Paper 3\|Paper 3]]                                                                                           | March 17, 2026 |
-| [[01 - Philosophy/01 Philosophy/Arguments about God/Teleological\|Teleological]]                                                      | March 17, 2026 |
-| [[01 - Philosophy/01 Philosophy/Arguments about God/Cosmological\|Cosmological]]                                                      | March 17, 2026 |
-| [[02 - Politics/01 - UK politics/Democracy/Is the UK experiencing a democratic deficit\|Is the UK experiencing a democratic deficit]] | March 16, 2026 |
+| File                                                                                                                            | file.mday      |
+| ------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [[01 - Philosophy/02 Ethics/meta-ethics/Meta-ethical theories\|Meta-ethical theories]]                                       | April 20, 2026 |
+| [[01 - Philosophy/02 Ethics/meta-ethics/Meta-ethics essay\|Meta-ethics essay]]                                               | April 20, 2026 |
+| [[02 - Politics/04 - Ideologies/Anarchism/Anarchism\|Anarchism]]                                                             | April 20, 2026 |
+| [[02 - Politics/04 - Ideologies/Anarchism/a-economy essay\|a-economy essay]]                                                 | April 20, 2026 |
+| [[Home\|Home]]                                                                                                               | April 20, 2026 |
+| [[02 - Politics/Politics essay questions\|Politics essay questions]]                                                         | April 17, 2026 |
+| [[02 - Politics/To what extent to Conservatives agree on the economy\|To what extent to Conservatives agree on the economy]] | April 17, 2026 |
+| [[08 - Organisation/Philosophy Revision\|Philosophy Revision]]                                                               | April 17, 2026 |
+| [[08 - Organisation/Politics revision\|Politics revision]]                                                                   | April 17, 2026 |
+| [[09 - Bear hunt/2026/2026-W16\|2026-W16]]                                                                                   | April 17, 2026 |
+| [[01 - Philosophy/02 Ethics/Euthanasia\|Euthanasia]]                                                                         | April 16, 2026 |
+| [[01 - Philosophy/02 Ethics/Paper 2\|Paper 2]]                                                                               | April 16, 2026 |
+| [[07 - Excalidraw/Philosophy/Rel Exp Brain Jogger\|Rel Exp Brain Jogger]]                                                    | April 15, 2026 |
+| [[01 - Philosophy/01 Philosophy/Religious Language/Language c20th\|Language c20th]]                                          | April 13, 2026 |
+| [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Criticisms of verification\|Criticisms of verification]]            | April 13, 2026 |
+| [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Wittgenstein and language games\|Wittgenstein and language games]]  | April 13, 2026 |
+| [[01 - Philosophy/04 Essays Home/Philosophy of religion\|Philosophy of religion]]                                            | April 13, 2026 |
+| [[03 - Essay plans/Essay plans home\|Essay plans home]]                                                                      | April 13, 2026 |
+| [[03 - Essay plans/Philosophy essay questions\|Philosophy essay questions]]                                                  | April 13, 2026 |
+| [[09 - Bear hunt/Templater/Brainjogger\|Brainjogger]]                                                                        | April 13, 2026 |
 
 { .block-language-dataview}
 
