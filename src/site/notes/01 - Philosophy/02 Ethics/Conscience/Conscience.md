@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/conscience/conscience/","tags":["homepage","lessonmajor"],"noteIcon":"","updated":"2026-02-12T10:03:22.295+00:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/02-ethics/conscience/conscience/","tags":["homepage","lessonmajor"],"noteIcon":"","updated":"2026-04-21T12:51:24.224+01:00"}
 ---
 
 
@@ -16,5 +16,7 @@
 
 
 ## Notes
+
+[[01 - Philosophy/02 Ethics/Conscience/Conscience.canvas\|Conscience.canvas]]
 [[01 - Philosophy/02 Ethics/Conscience/Aquinas and Freud conscience\|Aquinas and Freud conscience]]
 [[01 - Philosophy/02 Ethics/Conscience/Conscience is more dangerous than helpful in modern society\|Conscience is more dangerous than helpful in modern society]]

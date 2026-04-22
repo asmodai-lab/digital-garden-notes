@@ -41,10 +41,17 @@
 
 | File                                                                                                                            | file.mday      |
 | ------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| [[01 - Philosophy/02 Ethics/meta-ethics/Meta-ethical theories\|Meta-ethical theories]]                                       | April 20, 2026 |
-| [[01 - Philosophy/02 Ethics/meta-ethics/Meta-ethics essay\|Meta-ethics essay]]                                               | April 20, 2026 |
-| [[02 - Politics/04 - Ideologies/Anarchism/Anarchism\|Anarchism]]                                                             | April 20, 2026 |
+| [[01 - Philosophy/02 Ethics/meta-ethics/Intuitionism\|Intuitionism]]                                                         | April 22, 2026 |
+| [[01 - Philosophy/02 Ethics/meta-ethics/Meta-ethical theories\|Meta-ethical theories]]                                       | April 22, 2026 |
+| [[01 - Philosophy/03 DCT/Gender and Society/Women in the Bible\|Women in the Bible]]                                         | April 22, 2026 |
+| [[08 - Organisation/Brain joggers\|Brain joggers]]                                                                           | April 22, 2026 |
+| [[01 - Philosophy/02 Ethics/Conscience/Conscience\|Conscience]]                                                              | April 21, 2026 |
+| [[01 - Philosophy/02 Ethics/Paper 2\|Paper 2]]                                                                               | April 21, 2026 |
+| [[07 - Excalidraw/Diagrams.excalidraw\|Diagrams.excalidraw]]                                                                 | April 21, 2026 |
 | [[02 - Politics/04 - Ideologies/Anarchism/a-economy essay\|a-economy essay]]                                                 | April 20, 2026 |
+| [[02 - Politics/04 - Ideologies/Anarchism/Anarchism\|Anarchism]]                                                             | April 20, 2026 |
+| [[02 - Politics/04 - Ideologies/Liberalism/Modern liberal consolidation\|Modern liberal consolidation]]                      | April 20, 2026 |
+| [[01 - Philosophy/02 Ethics/meta-ethics/Meta-ethics essay\|Meta-ethics essay]]                                               | April 20, 2026 |
 | [[Home\|Home]]                                                                                                               | April 20, 2026 |
 | [[02 - Politics/Politics essay questions\|Politics essay questions]]                                                         | April 17, 2026 |
 | [[02 - Politics/To what extent to Conservatives agree on the economy\|To what extent to Conservatives agree on the economy]] | April 17, 2026 |
@@ -52,15 +59,8 @@
 | [[08 - Organisation/Politics revision\|Politics revision]]                                                                   | April 17, 2026 |
 | [[09 - Bear hunt/2026/2026-W16\|2026-W16]]                                                                                   | April 17, 2026 |
 | [[01 - Philosophy/02 Ethics/Euthanasia\|Euthanasia]]                                                                         | April 16, 2026 |
-| [[01 - Philosophy/02 Ethics/Paper 2\|Paper 2]]                                                                               | April 16, 2026 |
 | [[07 - Excalidraw/Philosophy/Rel Exp Brain Jogger\|Rel Exp Brain Jogger]]                                                    | April 15, 2026 |
-| [[01 - Philosophy/01 Philosophy/Religious Language/Language c20th\|Language c20th]]                                          | April 13, 2026 |
-| [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Criticisms of verification\|Criticisms of verification]]            | April 13, 2026 |
-| [[01 - Philosophy/01 Philosophy/Religious Language/c20th/Wittgenstein and language games\|Wittgenstein and language games]]  | April 13, 2026 |
-| [[01 - Philosophy/04 Essays Home/Philosophy of religion\|Philosophy of religion]]                                            | April 13, 2026 |
 | [[03 - Essay plans/Essay plans home\|Essay plans home]]                                                                      | April 13, 2026 |
-| [[03 - Essay plans/Philosophy essay questions\|Philosophy essay questions]]                                                  | April 13, 2026 |
-| [[09 - Bear hunt/Templater/Brainjogger\|Brainjogger]]                                                                        | April 13, 2026 |
 
 { .block-language-dataview}
 

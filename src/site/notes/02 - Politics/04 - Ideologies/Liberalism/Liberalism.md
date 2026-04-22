@@ -17,20 +17,20 @@
 
 | File                                                                                                                       | file.mday         | file.tags                                                              |
 | -------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------------------- |
+| [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism\|Classical Liberalism]]                                 | February 24, 2026 | <ul><li>#lessonminor</li><li>#notes</li><li>#liberalism</li></ul>      |
 | [[02 - Politics/04 - Ideologies/Liberalism/junk/John Locke\|John Locke]]                                                | March 30, 2026    | <ul><li>#excalidraw</li></ul>                                          |
 | [[02 - Politics/04 - Ideologies/Liberalism/junk/Classical liberalism summary\|Classical liberalism summary]]            | February 10, 2026 | <ul><li>#excalidraw</li><li>#brainjogger</li><li>#liberalism</li></ul> |
 | [[02 - Politics/04 - Ideologies/Liberalism/junk/Liberalism lesson notes\|Liberalism lesson notes]]                      | January 21, 2026  | <ul><li>#duringlessons</li><li>#messy</li></ul>                        |
 | [[02 - Politics/04 - Ideologies/Liberalism/junk/Liberalism Summary\|Liberalism Summary]]                                | February 10, 2026 | <ul><li>#excalidraw</li></ul>                                          |
-| [[02 - Politics/04 - Ideologies/Liberalism/junk/Liberalism tenet questions\|Liberalism tenet questions]]                | February 10, 2026 | <ul><li>#resources</li></ul>                                           |
 | [[02 - Politics/04 - Ideologies/Liberalism/junk/Modern Liberalism\|Modern Liberalism]]                                  | March 30, 2026    | <ul><li>#lessonminor</li></ul>                                         |
+| [[02 - Politics/04 - Ideologies/Liberalism/junk/Liberalism tenet questions\|Liberalism tenet questions]]                | February 10, 2026 | <ul><li>#resources</li></ul>                                           |
 | [[02 - Politics/04 - Ideologies/Liberalism/junk/Worked liberalism tenet questions\|Worked liberalism tenet questions]]  | February 04, 2026 | <ul></ul>                                                              |
-| [[02 - Politics/04 - Ideologies/Liberalism/Core tenets\|Core tenets]]                                                   | April 10, 2026    | <ul><li>#lessonmajor</li><li>#liberalism</li></ul>                     |
 | [[02 - Politics/04 - Ideologies/Liberalism/Liberalism brain jogger\|Liberalism brain jogger]]                           | March 30, 2026    | <ul><li>#brainjogger</li></ul>                                         |
-| [[02 - Politics/04 - Ideologies/Liberalism/Classical Liberalism\|Classical Liberalism]]                                 | February 24, 2026 | <ul><li>#lessonminor</li><li>#notes</li><li>#liberalism</li></ul>      |
+| [[02 - Politics/04 - Ideologies/Liberalism/Core tenets\|Core tenets]]                                                   | April 10, 2026    | <ul><li>#lessonmajor</li><li>#liberalism</li></ul>                     |
 | [[02 - Politics/04 - Ideologies/Liberalism/Liberalism\|Liberalism]]                                                     | March 30, 2026    | <ul><li>#homepage</li></ul>                                            |
-| [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers brain jogger\|Liberalism key thinkers brain jogger]] | February 10, 2026 | <ul><li>#brainjogger</li><li>#resources</li></ul>                      |
-| [[02 - Politics/04 - Ideologies/Liberalism/Modern liberal consolidation\|Modern liberal consolidation]]                 | February 10, 2026 | <ul><li>#excalidraw</li></ul>                                          |
 | [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers\|Liberalism key thinkers]]                           | February 10, 2026 | <ul><li>#lessonminor</li></ul>                                         |
+| [[02 - Politics/04 - Ideologies/Liberalism/Liberalism key thinkers brain jogger\|Liberalism key thinkers brain jogger]] | February 10, 2026 | <ul><li>#brainjogger</li><li>#resources</li></ul>                      |
+| [[02 - Politics/04 - Ideologies/Liberalism/Modern liberal consolidation\|Modern liberal consolidation]]                 | April 20, 2026    | <ul><li>#excalidraw</li></ul>                                          |
 
 { .block-language-dataview}
 

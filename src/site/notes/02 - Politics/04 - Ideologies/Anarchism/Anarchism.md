@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-politics/04-ideologies/anarchism/anarchism/","tags":["homepage","anarchy"],"noteIcon":"","updated":"2026-04-20T09:59:10.185+01:00"}
+{"dg-publish":true,"permalink":"/02-politics/04-ideologies/anarchism/anarchism/","tags":["homepage","anarchy"],"noteIcon":"","updated":"2026-04-20T10:05:09.042+01:00"}
 ---
 
 ## Notes
@@ -8,6 +8,8 @@
 [[02 - Politics/04 - Ideologies/Anarchism/Historical context of anarchism\|Historical context of anarchism]]
 [[02 - Politics/04 - Ideologies/Anarchism/Core Anarchist principles\|Core Anarchist principles]]
 [[02 - Politics/04 - Ideologies/Anarchism/Anarchist thinkers\|Anarchist thinkers]]
+
+[[02 - Politics/04 - Ideologies/Anarchism/Anarchism essay plans.canvas\|Anarchism essay plans.canvas]]
 
 [[02 - Politics/04 - Ideologies/Anarchism/a-economy essay\|a-economy essay]]
 ## Specification information
