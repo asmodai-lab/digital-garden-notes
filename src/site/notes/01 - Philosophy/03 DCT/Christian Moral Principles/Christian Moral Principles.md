@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-philosophy/03-dct/christian-moral-principles/christian-moral-principles/","tags":["lessonmajor"],"noteIcon":"","updated":"2026-04-23T09:56:48.594+01:00"}
+{"dg-publish":true,"permalink":"/01-philosophy/03-dct/christian-moral-principles/christian-moral-principles/","tags":["lessonmajor"],"noteIcon":"","updated":"2026-04-23T09:56:50.637+01:00"}
 ---
 
 ## Terminology
@@ -31,7 +31,7 @@
 
 
 ## Mind-map notes
-[[christian\|christian]]
+[[01 - Philosophy/03 DCT/Christian Moral Principles/Christian Moral Principles.canvas\|Christian Moral Principles.canvas]]
 [[01 - Philosophy/03 DCT/Christian Moral Principles/Christian moral principles.excalidraw\|Christian moral principles.excalidraw]]
 
 ### Theonomous ethics
